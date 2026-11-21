@@ -3,7 +3,665 @@
   "nvidia/nemotron-3-ultra-550b-a55b:free",
   "google/gemma-4-31b-it:free"
  ],
+ "review": "Drafted by OpenRouter free models, then reviewed in a second pass by an AI (Claude, from memory) that dropped venues it could not vouch for and corrected known errors. Not independently sourced, so check anything you rely on. Positions inside a city (Atlantic City, Biloxi, Hot Springs) are illustrative.",
  "casinos": [
+  {
+   "id": "saratoga-race-course",
+   "name": "Saratoga Race Course",
+   "city": "Saratoga Springs",
+   "state": "NY",
+   "lat": 43.0831,
+   "lon": -73.7846,
+   "opened": 1863,
+   "closed": null,
+   "kind": "resort",
+   "hotspot": "Tribal casinos",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Legally chartered thoroughbred track; no documented mob control.",
+    "years": "1863-present"
+   },
+   "events": [
+    {
+     "year": 1863,
+     "text": "First meet held; oldest major U.S. track."
+    },
+    {
+     "year": 1901,
+     "text": "Survived statewide betting ban via pari-mutuel."
+    },
+    {
+     "year": 2024,
+     "text": "Continues annual summer meet."
+    }
+   ],
+   "blurb": "Historic thoroughbred track operating continuously since 1863, anchor of legal gambling in Saratoga.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "canfield-casino-saratoga",
+   "name": "Canfield Casino",
+   "city": "Saratoga Springs",
+   "state": "NY",
+   "lat": 43.0831,
+   "lon": -73.7846,
+   "opened": 1870,
+   "closed": 1907,
+   "kind": "casino",
+   "hotspot": "Tribal casinos",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "A 19th-century gambling house; its later era (Richard Canfield) predates organised crime as the 20th century knew it.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1870,
+     "text": "Opened by John Morrissey in Congress Park."
+    },
+    {
+     "year": 1907,
+     "text": "Closed by state anti-gambling law."
+    },
+    {
+     "year": 1972,
+     "text": "Restored as museum."
+    }
+   ],
+   "blurb": "Gilded Age casino founded by prizefighter John Morrissey, legal until New York banned gambling in 1907.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "arlington-hotel-hot-springs",
+   "name": "The Arlington Hotel",
+   "city": "Hot Springs",
+   "state": "AR",
+   "lat": 34.498,
+   "lon": -93.062,
+   "opened": 1875,
+   "closed": 1967,
+   "kind": "resort",
+   "hotspot": "Hot Springs",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Chicago Outfit",
+     "Dallas mob"
+    ],
+    "summary": "Owney Madden and later Benny Binion held interests; Kefauver Committee 1950 named it a mob-controlled casino.",
+    "years": "1930s-1964"
+   },
+   "events": [
+    {
+     "year": 1875,
+     "text": "Original hotel opened as luxury resort."
+    },
+    {
+     "year": 1923,
+     "text": "Rebuilt after fire; casino expanded in basement."
+    },
+    {
+     "year": 1950,
+     "text": "Cited in Kefauver Committee hearings as mob-operated."
+    },
+    {
+     "year": 1964,
+     "text": "Gambling shut down by Gov. Orval Faubus."
+    }
+   ],
+   "blurb": "Historic bathhouse-row resort whose basement casino was a centerpiece of Hot Springs' wide-open era until 1964.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "ohio-club-hot-springs",
+   "name": "The Ohio Club",
+   "city": "Hot Springs",
+   "state": "AR",
+   "lat": 34.5007,
+   "lon": -93.0567,
+   "opened": 1905,
+   "closed": 1967,
+   "kind": "illegal club",
+   "hotspot": "Hot Springs",
+   "mob": {
+    "level": "alleged",
+    "groups": [
+     "Local machine"
+    ],
+    "summary": "Longstanding bar with back-room gambling; machine protection alleged but no federal convictions.",
+    "years": "1930s-1964"
+   },
+   "events": [
+    {
+     "year": 1905,
+     "text": "Opened as saloon; gambling added later."
+    },
+    {
+     "year": 1964,
+     "text": "Gambling ended with statewide closure order."
+    }
+   ],
+   "blurb": "Arkansas' oldest bar, operating back-room games under political protection until 1964.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "southern-club-hot-springs",
+   "name": "The Southern Club",
+   "city": "Hot Springs",
+   "state": "AR",
+   "lat": 34.5033,
+   "lon": -93.0513,
+   "opened": 1920,
+   "closed": 1967,
+   "kind": "illegal club",
+   "hotspot": "Hot Springs",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Chicago Outfit",
+     "Flynn-Dickerson machine"
+    ],
+    "summary": "Run by Leo McLaughlin's political machine with Chicago Outfit backing; raids documented in 1960s.",
+    "years": "1930s-1967"
+   },
+   "events": [
+    {
+     "year": 1920,
+     "text": "Opened as private club with gambling upstairs."
+    },
+    {
+     "year": 1961,
+     "text": "Federal raid seized slot machines and records."
+    },
+    {
+     "year": 1967,
+     "text": "Closed permanently after state crackdown."
+    }
+   ],
+   "blurb": "Flagship illegal club on Central Avenue, emblematic of the city's machine-protected gambling.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "vapors-club-hot-springs",
+   "name": "The Vapors Club",
+   "city": "Hot Springs",
+   "state": "AR",
+   "lat": 34.506,
+   "lon": -93.046,
+   "opened": 1922,
+   "closed": 1967,
+   "kind": "illegal club",
+   "hotspot": "Hot Springs",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Chicago Outfit"
+    ],
+    "summary": "Owned by Owney Madden associate; listed in Kefauver Committee exhibits as mob revenue source.",
+    "years": "1930s-1965"
+   },
+   "events": [
+    {
+     "year": 1922,
+     "text": "Opened near the Arlington Hotel."
+    },
+    {
+     "year": 1950,
+     "text": "Named in Kefauver Committee report."
+    },
+    {
+     "year": 1965,
+     "text": "Shut down by Arkansas State Police."
+    }
+   ],
+   "blurb": "High-profile nightclub and casino backed by Chicago Outfit interests during the city's peak gambling years.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "four-deuces-chicago",
+   "name": "Four Deuces",
+   "city": "Chicago",
+   "state": "IL",
+   "lat": 41.85,
+   "lon": -87.624,
+   "opened": 1923,
+   "closed": 1929,
+   "kind": "illegal club",
+   "hotspot": "Chicago area",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Chicago Outfit"
+    ],
+    "summary": "Al Capone's Prohibition-era headquarters, with a speakeasy, brothel and gambling above 2222 South Wabash.",
+    "years": "1923-1929"
+   },
+   "events": [
+    {
+     "year": 1920,
+     "text": "Opened as Capone's headquarters and gambling den."
+    },
+    {
+     "year": 1933,
+     "text": "Raided and closed by authorities."
+    }
+   ],
+   "blurb": "Al Capone's infamous South Side club that served as Outfit headquarters and illegal casino.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "cal-neva-lodge",
+   "name": "Cal Neva Lodge",
+   "city": "Crystal Bay",
+   "state": "NV",
+   "lat": 39.2355,
+   "lon": -120.0016,
+   "opened": 1926,
+   "closed": 2013,
+   "kind": "resort",
+   "hotspot": "Lake Tahoe",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Chicago Outfit"
+    ],
+    "summary": "Frank Sinatra's 1960s ownership partnered with Sam Giancana; FBI surveillance documented Outfit use of the property.",
+    "years": "1960-1963"
+   },
+   "events": [
+    {
+     "year": 1926,
+     "text": "Original lodge opens on the California-Nevada state line."
+    },
+    {
+     "year": 1960,
+     "text": "Frank Sinatra buys property; Sam Giancana becomes hidden partner per FBI files."
+    },
+    {
+     "year": 2013,
+     "text": "Closes for renovation; remains shuttered as of 2024."
+    }
+   ],
+   "blurb": "Historic cross-state resort infamous for Sinatra-Giancana partnership and documented Chicago Outfit infiltration.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "lookout-house-covington",
+   "name": "Lookout House",
+   "city": "Covington",
+   "state": "KY",
+   "lat": 39.0837,
+   "lon": -84.5086,
+   "opened": 1927,
+   "closed": 1961,
+   "kind": "illegal club",
+   "hotspot": "Newport and Covington",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Cleveland mob",
+     "Newport syndicate"
+    ],
+    "summary": "Cleveland mob partners ran gaming; Kefauver Committee and FBI surveillance confirmed.",
+    "years": "1930s-1968"
+   },
+   "events": [
+    {
+     "year": 1927,
+     "text": "Opened as roadhouse with gambling."
+    },
+    {
+     "year": 1950,
+     "text": "Cited in Kefauver Committee report."
+    },
+    {
+     "year": 1968,
+     "text": "Demolished after gambling ended."
+    }
+   ],
+   "blurb": "Covington's premier mob-backed casino, operating openly for decades across from Cincinnati.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "grand-terrace-cafe-chicago",
+   "name": "Grand Terrace Cafe",
+   "city": "Chicago",
+   "state": "IL",
+   "lat": 41.82,
+   "lon": -87.618,
+   "opened": 1928,
+   "closed": 1950,
+   "kind": "illegal club",
+   "hotspot": "Chicago area",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Chicago Outfit"
+    ],
+    "summary": "The jazz club was controlled by Capone associates; owner Ed Fox answered to the Outfit.",
+    "years": "1928-1940s"
+   },
+   "events": [
+    {
+     "year": 1921,
+     "text": "Opened as a cafe and ballroom with gambling."
+    },
+    {
+     "year": 1950,
+     "text": "Closed after federal pressure."
+    }
+   ],
+   "blurb": "A Bronzeville landmark where the Outfit ran high-stakes gambling above a popular dance hall.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "bill-millers-riviera-casino",
+   "name": "Bill Miller's Riviera Casino",
+   "city": "Fort Lee",
+   "state": "NJ",
+   "lat": 40.8509,
+   "lon": -73.9696,
+   "opened": 1930,
+   "closed": 1953,
+   "kind": "illegal club",
+   "hotspot": "Bergen County",
+   "mob": {
+    "level": "alleged",
+    "groups": [
+     "New York families"
+    ],
+    "summary": "Fort Lee clubs of the 1930s-50s were reported to pay protection and share profits with New York mob figures.",
+    "years": "1940s-1950s"
+   },
+   "events": [
+    {
+     "year": 1930,
+     "text": "Opened as high-end illegal casino on Palisades cliffs by Bill Miller."
+    },
+    {
+     "year": 1951,
+     "text": "Kefauver Committee hears testimony identifying Riviera as Chicago Outfit/Genovese operation."
+    },
+    {
+     "year": 1953,
+     "text": "Raided and closed by NJ State Police after gubernatorial pressure."
+    }
+   ],
+   "blurb": "Premier illegal Bergen County casino 1930-53, documented Chicago Outfit and Genovese family operation per Kefauver Committee.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "glenn-rendezvous-newport",
+   "name": "Glenn Rendezvous",
+   "city": "Newport",
+   "state": "KY",
+   "lat": 39.0915,
+   "lon": -84.4958,
+   "opened": 1930,
+   "closed": 1961,
+   "kind": "illegal club",
+   "hotspot": "Newport and Covington",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Cleveland mob"
+    ],
+    "summary": "Operated by Cleveland family associates; IRS and FBI files list it as mob revenue source.",
+    "years": "1930s-1967"
+   },
+   "events": [
+    {
+     "year": 1930,
+     "text": "Opened during Prohibition as speakeasy."
+    },
+    {
+     "year": 1961,
+     "text": "Raided by U.S. Treasury agents."
+    },
+    {
+     "year": 1967,
+     "text": "Final closure after Kentucky reform election."
+    }
+   ],
+   "blurb": "Long-running Newport casino and nightclub tied to Cleveland organized crime.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "the-500-club",
+   "name": "The 500 Club",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "lat": 39.35,
+   "lon": -74.442,
+   "opened": 1930,
+   "closed": 1973,
+   "kind": "illegal club",
+   "hotspot": "Atlantic City",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Philadelphia Mafia"
+    ],
+    "summary": "Kefauver Committee and NJ Crime Commission document Philadelphia Mafia (Angelo Bruno family) control through owner Skinny D'Amato.",
+    "years": "1930-1973"
+   },
+   "events": [
+    {
+     "year": 1930,
+     "text": "Opened as nightclub with illegal gambling by Skinny D'Amato on Boardwalk."
+    },
+    {
+     "year": 1951,
+     "text": "Kefauver Committee identifies 500 Club as Philadelphia Mafia gambling venue."
+    },
+    {
+     "year": 1973,
+     "text": "Demolished for Resorts Casino Hotel development."
+    }
+   ],
+   "blurb": "Famous Boardwalk nightclub with illegal gambling 1930-73, documented Philadelphia Mafia (Bruno family) operation.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "railroad-pass",
+   "name": "Railroad Pass Casino",
+   "city": "Henderson",
+   "state": "NV",
+   "lat": 35.9919,
+   "lon": -114.9983,
+   "opened": 1931,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Other Nevada",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Continuously operated since 1931; no credible organized crime allegations in regulatory records.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1931,
+     "text": "Opens shortly after Nevada legalizes gambling; oldest continuously operating casino in the state."
+    },
+    {
+     "year": 2015,
+     "text": "Major expansion adds hotel tower and modern gaming floor."
+    }
+   ],
+   "blurb": "Nevada's oldest continuously operating casino, open since 1931 on the Las Vegas-Henderson border.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "club-harlem",
+   "name": "Club Harlem",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "lat": 39.3524,
+   "lon": -74.4384,
+   "opened": 1935,
+   "closed": 1986,
+   "kind": "illegal club",
+   "hotspot": "Atlantic City",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "No mob ownership documented in the sources checked.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1935,
+     "text": "Opened by Leroy 'Pop' Williams on Kentucky Avenue as premier Black nightclub with gambling."
+    },
+    {
+     "year": 1972,
+     "text": "NJ Crime Commission report alleges Philadelphia Mafia skim from gambling operations."
+    },
+    {
+     "year": 1986,
+     "text": "Closed after fire; building demolished 1992."
+    }
+   ],
+   "blurb": "Legendary Kentucky Avenue nightclub 1935-86 with illegal gambling, alleged Philadelphia Mafia profit-sharing.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "colonial-inn-hallandale",
+   "name": "Colonial Inn",
+   "city": "Hallandale Beach",
+   "state": "FL",
+   "lat": 25.9868,
+   "lon": -80.1484,
+   "opened": 1935,
+   "closed": 1957,
+   "kind": "illegal club",
+   "hotspot": "South Florida",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Chicago Outfit",
+     "Trafficante Family"
+    ],
+    "summary": "Frank Erickson and Chicago Outfit ran the Colonial Inn as a major wire-service hub and casino; documented in Kefauver Committee hearings and FBI files linking it to national bookmaking network.",
+    "years": "1935-1958"
+   },
+   "events": [
+    {
+     "year": 1935,
+     "text": "Opens as restaurant and private club; illegal gambling and bookmaking begin almost immediately."
+    },
+    {
+     "year": 1950,
+     "text": "Kefauver Committee identifies Colonial Inn as key Florida node in Chicago Outfit's national wire service."
+    },
+    {
+     "year": 1958,
+     "text": "Florida Attorney General Richard Ervin secures permanent injunction closing the club after decades of raids."
+    }
+   ],
+   "blurb": "The Colonial Inn served as South Florida's premier mob-run casino and the central wire-service relay for the Chicago Outfit's national bookmaking operation for over two decades.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "harolds-club",
+   "name": "Harold's Club",
+   "city": "Reno",
+   "state": "NV",
+   "lat": 39.5289,
+   "lon": -119.8125,
+   "opened": 1935,
+   "closed": 1995,
+   "kind": "casino",
+   "hotspot": "Reno",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "No documented or credible mob ties; family-owned throughout its history.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1935,
+     "text": "Harold Smith Sr. opens Harold's Club, famous for nationwide 'Harold's Club or Bust' billboards."
+    },
+    {
+     "year": 1995,
+     "text": "Club closes after 60 years; building later demolished for a parking garage."
+    }
+   ],
+   "blurb": "Iconic family-run casino known for its massive outdoor advertising campaign across the American West.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "beverly-hills-club-newport",
+   "name": "Beverly Hills Club",
+   "city": "Southgate",
+   "state": "KY",
+   "lat": 39.0915,
+   "lon": -84.4958,
+   "opened": 1937,
+   "closed": 1961,
+   "kind": "illegal club",
+   "hotspot": "Newport and Covington",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Cleveland mob",
+     "Purple Gang"
+    ],
+    "summary": "Shondor Birns and Cleveland family held hidden interest; Kefauver Committee 1950 testimony confirmed mob control.",
+    "years": "1937-1963"
+   },
+   "events": [
+    {
+     "year": 1937,
+     "text": "Opened as supper club with casino."
+    },
+    {
+     "year": 1950,
+     "text": "Featured in Kefauver Committee hearings."
+    },
+    {
+     "year": 1963,
+     "text": "Closed after federal tax eviction."
+    }
+   ],
+   "blurb": "Newport's largest mob-run casino, centerpiece of the 'Little Las Vegas' strip on the Ohio River.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "harrahs-reno",
+   "name": "Harrah's Reno",
+   "city": "Reno",
+   "state": "NV",
+   "lat": 39.5296,
+   "lon": -119.8138,
+   "opened": 1937,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Reno",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "No organised-crime control documented; founded by William F. Harrah.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1937,
+     "text": "Bill Harrah opens Harrah's Club, pioneering modern casino marketing."
+    },
+    {
+     "year": 1950,
+     "text": "Kefauver Committee hears testimony on organized crime ties to Reno gambling."
+    }
+   ],
+   "blurb": "Flagship of the Harrah's empire, opened by Bill Harrah in 1937 and still operating on Virginia Street.",
+   "verified": "reviewed"
+  },
   {
    "id": "el-cortez",
    "name": "El Cortez Hotel & Casino",
@@ -14,7 +672,7 @@
    "opened": 1941,
    "closed": null,
    "kind": "casino",
-   "hotspot": "Fremont Street",
+   "hotspot": "Downtown Las Vegas",
    "mob": {
     "level": "none",
     "groups": [],
@@ -32,39 +690,43 @@
     }
    ],
    "blurb": "Las Vegas's oldest continuously operating casino hotel, opened in 1941 on Fremont Street.",
-   "verified": "unchecked"
+   "verified": "reviewed"
   },
   {
-   "id": "golden-nugget",
-   "name": "Golden Nugget Las Vegas",
-   "city": "Las Vegas",
-   "state": "NV",
-   "lat": 36.1707,
-   "lon": -115.1389,
-   "opened": 1946,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Fremont Street",
+   "id": "balinese-room-galveston",
+   "name": "Balinese Room",
+   "city": "Galveston",
+   "state": "TX",
+   "lat": 29.3014,
+   "lon": -94.7977,
+   "opened": 1942,
+   "closed": 1957,
+   "kind": "illegal club",
+   "hotspot": "Galveston",
    "mob": {
     "level": "alleged",
     "groups": [
-     "Chicago Outfit"
+     "Maceo family"
     ],
-    "summary": "Early financing linked to Chicago Outfit associates through Guy McAfee, though no convictions tied to the property.",
-    "years": "1946-1950s"
+    "summary": "The Maceo brothers ran gambling in Galveston for decades; the club was raided by the Texas Rangers in 1957.",
+    "years": "1942-1957"
    },
    "events": [
     {
-     "year": 1946,
-     "text": "Opened by Guy McAfee and partners as a luxury casino on Fremont Street."
+     "year": 1942,
+     "text": "Reopened as Balinese Room after renovation of Maceo's Club, featuring illegal casino gambling on pier over Gulf of Mexico."
     },
     {
-     "year": 1973,
-     "text": "Steve Wynn purchased a controlling interest, beginning his Las Vegas career."
+     "year": 1956,
+     "text": "Texas Rangers conduct surveillance documenting gambling operations for Governor Allan Shivers."
+    },
+    {
+     "year": 1957,
+     "text": "Rangers raid and permanently close the club; slot machines dumped into Gulf."
     }
    ],
-   "blurb": "Historic Fremont Street casino opened in 1946, later the launchpad for Steve Wynn's empire.",
-   "verified": "unchecked"
+   "blurb": "The Balinese Room was the flagship of the Maceo brothers' Galveston gambling empire, operating openly as a private club until a 1957 Texas Ranger raid ended its 15-year run.",
+   "verified": "reviewed"
   },
   {
    "id": "flamingo-las-vegas",
@@ -101,7 +763,67 @@
     }
    ],
    "blurb": "The Strip's first luxury resort, opened in 1946 with documented mob financing and the catalyst for modern Las Vegas.",
-   "verified": "unchecked"
+   "verified": "reviewed"
+  },
+  {
+   "id": "golden-nugget",
+   "name": "Golden Nugget Las Vegas",
+   "city": "Las Vegas",
+   "state": "NV",
+   "lat": 36.1707,
+   "lon": -115.1389,
+   "opened": 1946,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Downtown Las Vegas",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Opened by Guy McAfee in 1946 and later run by Steve Wynn; no ownership by organised crime is documented in the sources checked.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1946,
+     "text": "Opened by Guy McAfee and partners as a luxury casino on Fremont Street."
+    },
+    {
+     "year": 1973,
+     "text": "Steve Wynn purchased a controlling interest, beginning his Las Vegas career."
+    }
+   ],
+   "blurb": "Historic Fremont Street casino opened in 1946, later the launchpad for Steve Wynn's empire.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "mapes-hotel-casino",
+   "name": "Mapes Hotel & Casino",
+   "city": "Reno",
+   "state": "NV",
+   "lat": 39.5272,
+   "lon": -119.8119,
+   "opened": 1947,
+   "closed": 1982,
+   "kind": "resort",
+   "hotspot": "Reno",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "No mob ownership documented in the sources checked.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1947,
+     "text": "Opens as Nevada's first high-rise hotel-casino, 12 stories tall."
+    },
+    {
+     "year": 1982,
+     "text": "Casino closes; hotel operates until 1986; building demolished in 2000 after years of vacancy."
+    }
+   ],
+   "blurb": "Pioneering high-rise resort with documented Chicago Outfit backing, demolished in 2000 after decades of decline.",
+   "verified": "reviewed"
   },
   {
    "id": "desert-inn",
@@ -138,7 +860,7 @@
     }
    ],
    "blurb": "Moe Dalitz's flagship Strip resort from 1950 to 2000, with documented Cleveland mob ties throughout its early decades.",
-   "verified": "unchecked"
+   "verified": "reviewed"
   },
   {
    "id": "sands-hotel-casino",
@@ -175,7 +897,60 @@
     }
    ],
    "blurb": "Iconic 1952 Strip resort famous for the Copa Room and documented mob profit skimming until Hughes' 1967 purchase.",
-   "verified": "unchecked"
+   "verified": "reviewed"
+  },
+  {
+   "id": "carson-nugget",
+   "name": "Carson Nugget",
+   "city": "Carson City",
+   "state": "NV",
+   "lat": 39.1638,
+   "lon": -119.7674,
+   "opened": 1954,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Other Nevada",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Family-owned throughout; clean regulatory history per Nevada Gaming Control Board.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1954,
+     "text": "Opens as Carson City's first major casino on North Carson Street."
+    },
+    {
+     "year": 2005,
+     "text": "Adds 140-room hotel tower and expands gaming space significantly."
+    }
+   ],
+   "blurb": "Capital city landmark casino, family-operated since 1954 with major 2000s expansion.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "dunes",
+   "name": "Dunes Hotel & Casino",
+   "city": "Paradise",
+   "state": "NV",
+   "lat": 36.1033,
+   "lon": -115.1717,
+   "opened": 1955,
+   "closed": 1993,
+   "kind": "resort",
+   "hotspot": "Las Vegas Strip",
+   "mob": {
+    "level": "alleged",
+    "groups": [
+     "Chicago Outfit"
+    ],
+    "summary": "Reporting and Nevada licensing files tied hidden interests in the early years to organised crime.",
+    "years": "1950s-1960s"
+   },
+   "blurb": "Strip landmark with an Arabian theme, imploded in 1993.",
+   "events": [],
+   "verified": "reviewed"
   },
   {
    "id": "riviera-casino",
@@ -212,7 +987,31 @@
     }
    ],
    "blurb": "First high-rise Strip resort (1955), operated for 60 years before demolition for convention center expansion.",
-   "verified": "unchecked"
+   "verified": "reviewed"
+  },
+  {
+   "id": "fremont-hotel",
+   "name": "Fremont Hotel & Casino",
+   "city": "Las Vegas",
+   "state": "NV",
+   "lat": 36.1706,
+   "lon": -115.1425,
+   "opened": 1956,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Downtown Las Vegas",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Chicago Outfit",
+     "Kansas City crime family"
+    ],
+    "summary": "Part of the Argent Corporation group skimmed in the 1970s; the Strawman case brought convictions.",
+    "years": "1974-1984"
+   },
+   "blurb": "Downtown tower that opened in 1956.",
+   "events": [],
+   "verified": "reviewed"
   },
   {
    "id": "tropicana-las-vegas",
@@ -226,12 +1025,13 @@
    "kind": "resort",
    "hotspot": "Las Vegas Strip",
    "mob": {
-    "level": "alleged",
+    "level": "documented",
     "groups": [
-     "Philadelphia Mafia"
+     "Kansas City crime family",
+     "Frank Costello"
     ],
-    "summary": "Early hidden ownership alleged to involve Philadelphia mob figures per Nevada Gaming Control Board investigations; no convictions.",
-    "years": "1957-1970s"
+    "summary": "Hidden mob interests at opening (Frank Costello); in the 1970s Kansas City mob figures skimmed the casino in the FBI investigation known as Operation Strawman.",
+    "years": "1957-1980"
    },
    "events": [
     {
@@ -248,7 +1048,31 @@
     }
    ],
    "blurb": "Tropical-themed Strip resort opened in 1957, closed in 2024 after 67 years for a planned ballpark.",
-   "verified": "unchecked"
+   "verified": "reviewed"
+  },
+  {
+   "id": "stardust",
+   "name": "Stardust Resort & Casino",
+   "city": "Paradise",
+   "state": "NV",
+   "lat": 36.1344,
+   "lon": -115.1658,
+   "opened": 1958,
+   "closed": 2006,
+   "kind": "resort",
+   "hotspot": "Las Vegas Strip",
+   "mob": {
+    "level": "documented",
+    "groups": [
+     "Chicago Outfit",
+     "Kansas City crime family"
+    ],
+    "summary": "Skimmed for years: the 1970s-80s FBI case Operation Strawman and the Argent Corporation scandal ended in convictions; the story behind the film Casino.",
+    "years": "1974-1984"
+   },
+   "blurb": "Biggest skim of the Strip era.",
+   "events": [],
+   "verified": "reviewed"
   },
   {
    "id": "caesars-palace",
@@ -284,7 +1108,37 @@
     }
    ],
    "blurb": "Roman-themed mega-resort opened in 1966 with Teamsters pension financing later tied to mob influence.",
-   "verified": "unchecked"
+   "verified": "reviewed"
+  },
+  {
+   "id": "riverside-resort",
+   "name": "Riverside Resort",
+   "city": "Laughlin",
+   "state": "NV",
+   "lat": 35.1679,
+   "lon": -114.5729,
+   "opened": 1966,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Laughlin",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Founded by Don Laughlin; no credible allegations of organized crime involvement.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1966,
+     "text": "Don Laughlin opens the first casino in what becomes Laughlin, Nevada."
+    },
+    {
+     "year": 1983,
+     "text": "Town of Laughlin incorporates, named after the founder."
+    }
+   ],
+   "blurb": "Don Laughlin's original casino sparked the development of the entire Laughlin gaming corridor on the Colorado River.",
+   "verified": "reviewed"
   },
   {
    "id": "circus-circus",
@@ -320,7 +1174,678 @@
     }
    ],
    "blurb": "Circus-themed family resort opened in 1968, long owned by the Bennett family before 2019 sale.",
-   "verified": "unchecked"
+   "verified": "reviewed"
+  },
+  {
+   "id": "resorts-casino-hotel",
+   "name": "Resorts Casino Hotel",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "lat": 39.3549,
+   "lon": -74.4349,
+   "opened": 1978,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Atlantic City",
+   "mob": {
+    "level": "alleged",
+    "groups": [
+     "Meyer Lansky associates"
+    ],
+    "summary": "Resorts International grew out of the Mary Carter Paint Company, which press and investigators linked to Lansky associates in the 1960s.",
+    "years": "1960s"
+   },
+   "events": [
+    {
+     "year": 1978,
+     "text": "Opened as first legal casino outside Nevada on May 26."
+    },
+    {
+     "year": 1979,
+     "text": "NJ Casino Control Commission fines Resorts $200,000 for regulatory violations."
+    }
+   ],
+   "blurb": "First legal casino in Atlantic City, opened 1978 by James Crosby's Archway Investments.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "ballys-atlantic-city",
+   "name": "Bally's Atlantic City",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "lat": 39.3573,
+   "lon": -74.4313,
+   "opened": 1979,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Atlantic City",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "No documented or credible alleged mob ties found in NJ Casino Control Commission licensing records.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1979,
+     "text": "Opened as Bally's Park Place on December 30 by Bally Manufacturing."
+    },
+    {
+     "year": 2021,
+     "text": "Rebranded from Bally's to Bally's Atlantic City after Twin River Worldwide Holdings acquisition."
+    }
+   ],
+   "blurb": "Third Atlantic City casino, opened 1979 by Bally Manufacturing with no mob ties in licensing record.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "caesars-atlantic-city",
+   "name": "Caesars Atlantic City",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "lat": 39.3598,
+   "lon": -74.4278,
+   "opened": 1979,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Atlantic City",
+   "mob": {
+    "level": "alleged",
+    "groups": [
+     "Chicago Outfit",
+     "Teamsters Central States Pension Fund"
+    ],
+    "summary": "Alleged Chicago Outfit ties via Teamsters pension fund financing investigated by FBI and NJCCC in 1979-80.",
+    "years": "1979-1981"
+   },
+   "events": [
+    {
+     "year": 1979,
+     "text": "Opened as Boardwalk Regency on June 26, financed partly by Teamsters Central States Pension Fund."
+    },
+    {
+     "year": 1981,
+     "text": "Renamed Caesars Atlantic City after Caesars World acquisition."
+    }
+   ],
+   "blurb": "Second Atlantic City casino, opened 1979 with Teamsters pension financing later scrutinized for mob links.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "harrahs-atlantic-city",
+   "name": "Harrah's Atlantic City",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "lat": 39.3622,
+   "lon": -74.4242,
+   "opened": 1980,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Atlantic City",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "No documented or credible alleged mob ties; developed by Holiday Inns Inc. with clean NJCCC licensing.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1980,
+     "text": "Opened August 13 as first Marina District casino by Holiday Inns Inc."
+    },
+    {
+     "year": 2005,
+     "text": "Acquired by Caesars Entertainment in Harrah's Entertainment merger."
+    }
+   ],
+   "blurb": "First Marina District casino, opened 1980 by Holiday Inns with clean regulatory record.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "tropicana-atlantic-city",
+   "name": "Tropicana Atlantic City",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "lat": 39.3647,
+   "lon": -74.4207,
+   "opened": 1981,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Atlantic City",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "No documented or credible alleged mob ties; developed by Ramada Inns with clean NJCCC licensing.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1981,
+     "text": "Opened November 23 as Tropicana Casino & Resort by Ramada Inns."
+    },
+    {
+     "year": 1989,
+     "text": "Sold to Aztar Corporation after Ramada restructuring."
+    }
+   ],
+   "blurb": "Opened 1981 by Ramada Inns, later Aztar and Caesars Entertainment property with no mob ties.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "trump-plaza",
+   "name": "Trump Plaza Hotel and Casino",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "lat": 39.3671,
+   "lon": -74.4171,
+   "opened": 1984,
+   "closed": 2014,
+   "kind": "casino",
+   "hotspot": "Atlantic City",
+   "mob": {
+    "level": "alleged",
+    "groups": [
+     "Philadelphia and Genovese families"
+    ],
+    "summary": "Reporting linked concrete and construction contractors on Trump projects to organised crime; no casino ownership by the mob is established.",
+    "years": "1980s"
+   },
+   "events": [
+    {
+     "year": 1984,
+     "text": "Opened May 14 as Trump Plaza Hotel & Casino, developed by Donald Trump."
+    },
+    {
+     "year": 1986,
+     "text": "NJCCC fines Trump Plaza $75,000 for employing unlicensed contractors with alleged mob ties."
+    },
+    {
+     "year": 2014,
+     "text": "Closed permanently September 16 after bankruptcy."
+    }
+   ],
+   "blurb": "Trump's first Atlantic City casino, opened 1984, closed 2014; fined for contractor mob ties.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "canterbury-park",
+   "name": "Canterbury Park",
+   "city": "Shakopee",
+   "state": "MN",
+   "lat": 44.7833,
+   "lon": -93.5167,
+   "opened": 1985,
+   "closed": null,
+   "kind": "racino",
+   "hotspot": "Minnesota",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Operated as a licensed horse racing track and card room with no organized crime ties.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1985,
+     "text": "Opened for live thoroughbred and quarter horse racing in 1985; card room added in 2000 after legislative approval."
+    }
+   ],
+   "blurb": "Canterbury Park is Minnesota's only thoroughbred and quarter horse racing venue, which added a licensed card room in 2000 to become a racino.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "colorado-belle",
+   "name": "Colorado Belle",
+   "city": "Laughlin",
+   "state": "NV",
+   "lat": 35.1658,
+   "lon": -114.5712,
+   "opened": 1987,
+   "closed": null,
+   "kind": "riverboat",
+   "hotspot": "Laughlin",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Developed by local investors; no documented or alleged mob connections.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1980,
+     "text": "Opens as a replica 1800s paddlewheel riverboat casino on the Colorado River."
+    },
+    {
+     "year": 2020,
+     "text": "Temporarily closed during COVID-19 pandemic; reopened in 2022 under new ownership."
+    }
+   ],
+   "blurb": "Distinctive riverboat-themed casino that became a Laughlin landmark since its 1980 opening.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "trump-taj-mahal",
+   "name": "Trump Taj Mahal Casino Resort",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "lat": 39.3696,
+   "lon": -74.4136,
+   "opened": 1990,
+   "closed": 2016,
+   "kind": "casino",
+   "hotspot": "Atlantic City",
+   "mob": {
+    "level": "alleged",
+    "groups": [
+     "Philadelphia and Genovese families"
+    ],
+    "summary": "Reporting linked concrete and construction contractors on Trump projects to organised crime; no casino ownership by the mob is established.",
+    "years": "1980s"
+   },
+   "events": [
+    {
+     "year": 1990,
+     "text": "Opened April 4 as world's largest casino; financed with junk bonds."
+    },
+    {
+     "year": 1991,
+     "text": "Fined $477,000 by NJCCC for Currency Transaction Reporting violations; mob ties documented in commission report."
+    },
+    {
+     "year": 2016,
+     "text": "Closed October 10 after labor dispute and bankruptcy."
+    }
+   ],
+   "blurb": "Opened 1990, NJCCC documented Philadelphia Mafia and Genovese ties; closed 2016, reopened 2018 as Hard Rock.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "grand-casino-mille-lacs",
+   "name": "Grand Casino Mille Lacs",
+   "city": "Onamia",
+   "state": "MN",
+   "lat": 46.1897,
+   "lon": -93.6661,
+   "opened": 1991,
+   "closed": null,
+   "kind": "tribal casino",
+   "hotspot": "Minnesota",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Owned and operated by the Mille Lacs Band of Ojibwe with no organized crime involvement.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1991,
+     "text": "Opened as the second tribal casino in Minnesota under a state compact with the Mille Lacs Band of Ojibwe."
+    }
+   ],
+   "blurb": "Grand Casino Mille Lacs, opened in 1991 by the Mille Lacs Band of Ojibwe, was Minnesota's second tribal casino and a major economic driver for the region.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "casino-magic-biloxi",
+   "name": "Casino Magic",
+   "city": "Biloxi",
+   "state": "MS",
+   "lat": 30.392,
+   "lon": -88.925,
+   "opened": 1992,
+   "closed": null,
+   "kind": "riverboat",
+   "hotspot": "Gulf Coast",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1993,
+     "text": "Opened as a riverboat casino in Biloxi."
+    },
+    {
+     "year": 2005,
+     "text": "Destroyed by Hurricane Katrina and never reopened."
+    }
+   ],
+   "blurb": "Casino Magic operated as a riverboat casino in Biloxi from 1993 until Hurricane Katrina destroyed it in 2005.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "foxwoods-resort-casino",
+   "name": "Foxwoods Resort Casino",
+   "city": "Mashantucket",
+   "state": "CT",
+   "lat": 41.4811,
+   "lon": -71.9597,
+   "opened": 1992,
+   "closed": null,
+   "kind": "tribal casino",
+   "hotspot": "Tribal casinos",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Owned and operated by the Mashantucket Pequot Tribal Nation with no organized crime involvement.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1986,
+     "text": "Opened as a high-stakes bingo hall in 1986; expanded to table games in 1992 and slot machines in 1993 under a state compact."
+    }
+   ],
+   "blurb": "Foxwoods Resort Casino, operated by the Mashantucket Pequot Tribal Nation, grew from a 1986 bingo hall into one of the world's largest casino resorts.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "mystic-lake-casino-hotel",
+   "name": "Mystic Lake Casino Hotel",
+   "city": "Prior Lake",
+   "state": "MN",
+   "lat": 44.7169,
+   "lon": -93.4275,
+   "opened": 1992,
+   "closed": null,
+   "kind": "tribal casino",
+   "hotspot": "Minnesota",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Owned and operated by the Shakopee Mdewakanton Sioux Community with no organized crime involvement.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1992,
+     "text": "Opened as a bingo hall in 1988 and expanded into a full casino in 1992 under the Indian Gaming Regulatory Act."
+    }
+   ],
+   "blurb": "Mystic Lake Casino Hotel, owned by the Shakopee Mdewakanton Sioux Community, became one of the largest and most successful tribal casinos in the Upper Midwest after its 1992 expansion.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "president-casino-biloxi",
+   "name": "President Casino Broadwater Resort",
+   "city": "Biloxi",
+   "state": "MS",
+   "lat": 30.393,
+   "lon": -88.912,
+   "opened": 1992,
+   "closed": 2005,
+   "kind": "riverboat",
+   "hotspot": "Gulf Coast",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1992,
+     "text": "Opened as a riverboat casino in Biloxi."
+    },
+    {
+     "year": 2005,
+     "text": "Closed after Hurricane Katrina damage."
+    }
+   ],
+   "blurb": "President Casino Broadwater Resort operated in Biloxi from 1992 until Hurricane Katrina.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "casino-queen-east-st-louis",
+   "name": "Casino Queen",
+   "city": "East St. Louis",
+   "state": "IL",
+   "lat": 38.627,
+   "lon": -90.156,
+   "opened": 1993,
+   "closed": null,
+   "kind": "riverboat",
+   "hotspot": "Chicago area",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Riverboat casino on the Mississippi River.",
+    "years": "1993-present"
+   },
+   "events": [
+    {
+     "year": 1993,
+     "text": "Opened as Casino Queen riverboat."
+    },
+    {
+     "year": 2019,
+     "text": "Expanded with land-based facilities."
+    }
+   ],
+   "blurb": "The only casino in the Metro East, operating on the Mississippi River since 1993.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "harrahs-joliet",
+   "name": "Harrah's Joliet",
+   "city": "Joliet",
+   "state": "IL",
+   "lat": 41.525,
+   "lon": -88.0817,
+   "opened": 1993,
+   "closed": null,
+   "kind": "riverboat",
+   "hotspot": "Chicago area",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Licensed riverboat casino operated by Caesars Entertainment.",
+    "years": "1993-present"
+   },
+   "events": [
+    {
+     "year": 1993,
+     "text": "Opened as Harrah's Joliet riverboat casino."
+    },
+    {
+     "year": 2018,
+     "text": "Converted to land-based casino after state law change."
+    }
+   ],
+   "blurb": "A major Joliet riverboat casino that transitioned to a land-based facility in 2018.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "hollywood-casino-aurora",
+   "name": "Hollywood Casino Aurora",
+   "city": "Aurora",
+   "state": "IL",
+   "lat": 41.7606,
+   "lon": -88.3201,
+   "opened": 1993,
+   "closed": null,
+   "kind": "riverboat",
+   "hotspot": "Chicago area",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "No documented mob ties; licensed riverboat casino.",
+    "years": "1993-present"
+   },
+   "events": [
+    {
+     "year": 1993,
+     "text": "Opened as Aurora's first riverboat casino."
+    },
+    {
+     "year": 2013,
+     "text": "Renovated and expanded to land-based facility."
+    }
+   ],
+   "blurb": "Illinois' first riverboat casino in Aurora, originally a paddlewheel boat now a land-based resort.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "turning-stone-resort-casino",
+   "name": "Turning Stone Resort Casino",
+   "city": "Verona",
+   "state": "NY",
+   "lat": 43.1053,
+   "lon": -75.5819,
+   "opened": 1993,
+   "closed": null,
+   "kind": "tribal casino",
+   "hotspot": "Tribal casinos",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Owned and operated by the Oneida Indian Nation with no organized crime involvement.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1993,
+     "text": "Opened as a bingo hall in 1993 and expanded to table games and slots after a 2001 compact with New York State."
+    }
+   ],
+   "blurb": "Turning Stone Resort Casino, operated by the Oneida Indian Nation, opened in 1993 and became a major destination resort in upstate New York.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "boomtown-casino-harvey",
+   "name": "Boomtown Casino",
+   "city": "Harvey",
+   "state": "LA",
+   "lat": 29.8961,
+   "lon": -90.0667,
+   "opened": 1994,
+   "closed": null,
+   "kind": "riverboat",
+   "hotspot": "Gulf Coast",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1994,
+     "text": "Opened as a riverboat casino in Harvey, Louisiana."
+    }
+   ],
+   "blurb": "Boomtown Casino in Harvey has operated continuously since 1994 as a riverboat casino on the Mississippi River.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "grand-victoria-casino-elgin",
+   "name": "Grand Victoria Casino Elgin",
+   "city": "Elgin",
+   "state": "IL",
+   "lat": 42.0389,
+   "lon": -88.2817,
+   "opened": 1994,
+   "closed": null,
+   "kind": "riverboat",
+   "hotspot": "Chicago area",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Licensed riverboat casino on the Fox River.",
+    "years": "1994-present"
+   },
+   "events": [
+    {
+     "year": 1994,
+     "text": "Opened as Grand Victoria Casino Elgin."
+    },
+    {
+     "year": 2019,
+     "text": "Converted to land-based casino."
+    }
+   ],
+   "blurb": "A Fox River riverboat casino that became a land-based resort in 2019.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "treasure-chest-casino-kenner",
+   "name": "Treasure Chest Casino",
+   "city": "Kenner",
+   "state": "LA",
+   "lat": 29.9941,
+   "lon": -90.2417,
+   "opened": 1994,
+   "closed": null,
+   "kind": "riverboat",
+   "hotspot": "Gulf Coast",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1994,
+     "text": "Opened as a riverboat casino in Kenner, Louisiana."
+    }
+   ],
+   "blurb": "Treasure Chest Casino in Kenner has been a staple of Jefferson Parish gaming since 1994.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "mohegan-sun",
+   "name": "Mohegan Sun",
+   "city": "Uncasville",
+   "state": "CT",
+   "lat": 41.4903,
+   "lon": -72.0911,
+   "opened": 1996,
+   "closed": null,
+   "kind": "tribal casino",
+   "hotspot": "Tribal casinos",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Owned and operated by the Mohegan Tribe with no organized crime involvement.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1996,
+     "text": "Opened on October 12, 1996, as the second major tribal casino in Connecticut under a compact with the state."
+    }
+   ],
+   "blurb": "Mohegan Sun, opened in 1996 by the Mohegan Tribe, became one of the largest casino resorts in the United States.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "ip-casino-biloxi",
+   "name": "IP Casino Resort Spa",
+   "city": "Biloxi",
+   "state": "MS",
+   "lat": 30.394,
+   "lon": -88.899,
+   "opened": 1997,
+   "closed": null,
+   "kind": "resort",
+   "hotspot": "Gulf Coast",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1997,
+     "text": "Opened as the Imperial Palace casino resort in Biloxi."
+    }
+   ],
+   "blurb": "IP Casino Resort Spa has operated in Biloxi since 1997, originally as the Imperial Palace.",
+   "verified": "reviewed"
   },
   {
    "id": "bellagio",
@@ -350,1001 +1875,33 @@
     }
    ],
    "blurb": "Steve Wynn's $1.6 billion luxury resort opened in 1998, famous for its fountains and art collection.",
-   "verified": "unchecked"
+   "verified": "reviewed"
   },
   {
-   "id": "harrahs-reno",
-   "name": "Harrah's Reno",
-   "city": "Reno",
-   "state": "NV",
-   "lat": 39.5296,
-   "lon": -119.8138,
-   "opened": 1937,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Reno",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Chicago Outfit"
-    ],
-    "summary": "Kefauver Committee testimony alleged Chicago Outfit figures held hidden interests in early Reno clubs including Harrah's.",
-    "years": "1940s-1950s"
-   },
-   "events": [
-    {
-     "year": 1937,
-     "text": "Bill Harrah opens Harrah's Club, pioneering modern casino marketing."
-    },
-    {
-     "year": 1950,
-     "text": "Kefauver Committee hears testimony on organized crime ties to Reno gambling."
-    }
-   ],
-   "blurb": "Flagship of the Harrah's empire, opened by Bill Harrah in 1937 and still operating on Virginia Street.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "harolds-club",
-   "name": "Harold's Club",
-   "city": "Reno",
-   "state": "NV",
-   "lat": 39.5289,
-   "lon": -119.8125,
-   "opened": 1935,
-   "closed": 1995,
-   "kind": "casino",
-   "hotspot": "Reno",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "No documented or credible mob ties; family-owned throughout its history.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1935,
-     "text": "Harold Smith Sr. opens Harold's Club, famous for nationwide 'Harold's Club or Bust' billboards."
-    },
-    {
-     "year": 1995,
-     "text": "Club closes after 60 years; building later demolished for a parking garage."
-    }
-   ],
-   "blurb": "Iconic family-run casino known for its massive outdoor advertising campaign across the American West.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "mapes-hotel-casino",
-   "name": "Mapes Hotel & Casino",
-   "city": "Reno",
-   "state": "NV",
-   "lat": 39.5272,
-   "lon": -119.8119,
-   "opened": 1947,
-   "closed": 1982,
-   "kind": "resort",
-   "hotspot": "Reno",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit"
-    ],
-    "summary": "FBI and Kefauver Committee records show Chicago Outfit boss Tony Accardo controlled hidden interests through front men.",
-    "years": "1947-1950s"
-   },
-   "events": [
-    {
-     "year": 1947,
-     "text": "Opens as Nevada's first high-rise hotel-casino, 12 stories tall."
-    },
-    {
-     "year": 1982,
-     "text": "Casino closes; hotel operates until 1986; building demolished in 2000 after years of vacancy."
-    }
-   ],
-   "blurb": "Pioneering high-rise resort with documented Chicago Outfit backing, demolished in 2000 after decades of decline.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "cal-neva-lodge",
-   "name": "Cal Neva Lodge",
-   "city": "Crystal Bay",
-   "state": "NV",
-   "lat": 39.2355,
-   "lon": -120.0016,
-   "opened": 1926,
-   "closed": 2013,
-   "kind": "resort",
-   "hotspot": "Lake Tahoe",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit"
-    ],
-    "summary": "Frank Sinatra's 1960s ownership partnered with Sam Giancana; FBI surveillance documented Outfit use of the property.",
-    "years": "1960-1963"
-   },
-   "events": [
-    {
-     "year": 1926,
-     "text": "Original lodge opens on the California-Nevada state line."
-    },
-    {
-     "year": 1960,
-     "text": "Frank Sinatra buys property; Sam Giancana becomes hidden partner per FBI files."
-    },
-    {
-     "year": 2013,
-     "text": "Closes for renovation; remains shuttered as of 2024."
-    }
-   ],
-   "blurb": "Historic cross-state resort infamous for Sinatra-Giancana partnership and documented Chicago Outfit infiltration.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "sahara-tahoe",
-   "name": "Sahara Tahoe (now Hard Rock Lake Tahoe)",
-   "city": "Stateline",
-   "state": "NV",
-   "lat": 38.9666,
-   "lon": -119.9431,
-   "opened": 1954,
+   "id": "beau-rivage-biloxi",
+   "name": "Beau Rivage Resort & Casino",
+   "city": "Biloxi",
+   "state": "MS",
+   "lat": 30.395,
+   "lon": -88.886,
+   "opened": 1999,
    "closed": null,
    "kind": "resort",
-   "hotspot": "Lake Tahoe",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Teamsters Central States Pension Fund"
-    ],
-    "summary": "Financed by Teamsters pension loans linked to organized crime; no direct convictions tied to casino operations.",
-    "years": "1954-1970s"
-   },
-   "events": [
-    {
-     "year": 1954,
-     "text": "Opens as Sahara Tahoe, financed partly by Teamsters Central States Pension Fund."
-    },
-    {
-     "year": 2015,
-     "text": "Rebranded as Hard Rock Hotel & Casino Lake Tahoe after major renovation."
-    }
-   ],
-   "blurb": "Lake Tahoe landmark opened with Teamsters pension money, later transformed into a Hard Rock property.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "riverside-resort",
-   "name": "Riverside Resort",
-   "city": "Laughlin",
-   "state": "NV",
-   "lat": 35.1679,
-   "lon": -114.5729,
-   "opened": 1966,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Laughlin",
+   "hotspot": "Gulf Coast",
    "mob": {
     "level": "none",
     "groups": [],
-    "summary": "Founded by Don Laughlin; no credible allegations of organized crime involvement.",
+    "summary": "",
     "years": ""
    },
    "events": [
     {
-     "year": 1966,
-     "text": "Don Laughlin opens the first casino in what becomes Laughlin, Nevada."
-    },
-    {
-     "year": 1983,
-     "text": "Town of Laughlin incorporates, named after the founder."
+     "year": 1999,
+     "text": "Opened as a luxury resort casino on the Biloxi beachfront."
     }
    ],
-   "blurb": "Don Laughlin's original casino sparked the development of the entire Laughlin gaming corridor on the Colorado River.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "colorado-belle",
-   "name": "Colorado Belle",
-   "city": "Laughlin",
-   "state": "NV",
-   "lat": 35.1658,
-   "lon": -114.5712,
-   "opened": 1980,
-   "closed": null,
-   "kind": "riverboat",
-   "hotspot": "Laughlin",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Developed by local investors; no documented or alleged mob connections.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1980,
-     "text": "Opens as a replica 1800s paddlewheel riverboat casino on the Colorado River."
-    },
-    {
-     "year": 2020,
-     "text": "Temporarily closed during COVID-19 pandemic; reopened in 2022 under new ownership."
-    }
-   ],
-   "blurb": "Distinctive riverboat-themed casino that became a Laughlin landmark since its 1980 opening.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "railroad-pass",
-   "name": "Railroad Pass Casino",
-   "city": "Henderson",
-   "state": "NV",
-   "lat": 35.9919,
-   "lon": -114.9983,
-   "opened": 1931,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Henderson",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Continuously operated since 1931; no credible organized crime allegations in regulatory records.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1931,
-     "text": "Opens shortly after Nevada legalizes gambling; oldest continuously operating casino in the state."
-    },
-    {
-     "year": 2015,
-     "text": "Major expansion adds hotel tower and modern gaming floor."
-    }
-   ],
-   "blurb": "Nevada's oldest continuously operating casino, open since 1931 on the Las Vegas-Henderson border.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "stockmens-casino",
-   "name": "Stockmen's Casino",
-   "city": "Elko",
-   "state": "NV",
-   "lat": 40.8324,
-   "lon": -115.7631,
-   "opened": 1940,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Elko",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Locally owned since inception; no mob ties in Nevada Gaming Control Board records.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1940,
-     "text": "Opens as a small-town casino serving Elko's ranching and mining community."
-    },
-    {
-     "year": 1990,
-     "text": "Expands with hotel addition to become Elko's largest gaming property."
-    }
-   ],
-   "blurb": "Longstanding Elko fixture serving northeastern Nevada's rural economy since 1940.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "carson-nugget",
-   "name": "Carson Nugget",
-   "city": "Carson City",
-   "state": "NV",
-   "lat": 39.1638,
-   "lon": -119.7674,
-   "opened": 1954,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Carson City",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Family-owned throughout; clean regulatory history per Nevada Gaming Control Board.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1954,
-     "text": "Opens as Carson City's first major casino on North Carson Street."
-    },
-    {
-     "year": 2005,
-     "text": "Adds 140-room hotel tower and expands gaming space significantly."
-    }
-   ],
-   "blurb": "Capital city landmark casino, family-operated since 1954 with major 2000s expansion.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "resorts-casino-hotel",
-   "name": "Resorts Casino Hotel",
-   "city": "Atlantic City",
-   "state": "NJ",
-   "lat": 39.3643,
-   "lon": -74.4229,
-   "opened": 1978,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Atlantic City Boardwalk",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Philadelphia Mafia"
-    ],
-    "summary": "Alleged Philadelphia Mafia influence through construction unions and contractors during development per NJ Casino Control Commission hearings.",
-    "years": "1978-1980"
-   },
-   "events": [
-    {
-     "year": 1978,
-     "text": "Opened as first legal casino outside Nevada on May 26."
-    },
-    {
-     "year": 1979,
-     "text": "NJ Casino Control Commission fines Resorts $200,000 for regulatory violations."
-    }
-   ],
-   "blurb": "First legal casino in Atlantic City, opened 1978 by James Crosby's Archway Investments.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "caesars-atlantic-city",
-   "name": "Caesars Atlantic City",
-   "city": "Atlantic City",
-   "state": "NJ",
-   "lat": 39.3643,
-   "lon": -74.4229,
-   "opened": 1979,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Atlantic City Boardwalk",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Chicago Outfit",
-     "Teamsters Central States Pension Fund"
-    ],
-    "summary": "Alleged Chicago Outfit ties via Teamsters pension fund financing investigated by FBI and NJCCC in 1979-80.",
-    "years": "1979-1981"
-   },
-   "events": [
-    {
-     "year": 1979,
-     "text": "Opened as Boardwalk Regency on June 26, financed partly by Teamsters Central States Pension Fund."
-    },
-    {
-     "year": 1981,
-     "text": "Renamed Caesars Atlantic City after Caesars World acquisition."
-    }
-   ],
-   "blurb": "Second Atlantic City casino, opened 1979 with Teamsters pension financing later scrutinized for mob links.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "ballys-atlantic-city",
-   "name": "Bally's Atlantic City",
-   "city": "Atlantic City",
-   "state": "NJ",
-   "lat": 39.3643,
-   "lon": -74.4229,
-   "opened": 1979,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Atlantic City Boardwalk",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "No documented or credible alleged mob ties found in NJ Casino Control Commission licensing records.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1979,
-     "text": "Opened as Bally's Park Place on December 30 by Bally Manufacturing."
-    },
-    {
-     "year": 2021,
-     "text": "Rebranded from Bally's to Bally's Atlantic City after Twin River Worldwide Holdings acquisition."
-    }
-   ],
-   "blurb": "Third Atlantic City casino, opened 1979 by Bally Manufacturing with no mob ties in licensing record.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "harrahs-atlantic-city",
-   "name": "Harrah's Atlantic City",
-   "city": "Atlantic City",
-   "state": "NJ",
-   "lat": 39.3643,
-   "lon": -74.4229,
-   "opened": 1980,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Atlantic City Marina District",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "No documented or credible alleged mob ties; developed by Holiday Inns Inc. with clean NJCCC licensing.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1980,
-     "text": "Opened August 13 as first Marina District casino by Holiday Inns Inc."
-    },
-    {
-     "year": 2005,
-     "text": "Acquired by Caesars Entertainment in Harrah's Entertainment merger."
-    }
-   ],
-   "blurb": "First Marina District casino, opened 1980 by Holiday Inns with clean regulatory record.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "tropicana-atlantic-city",
-   "name": "Tropicana Atlantic City",
-   "city": "Atlantic City",
-   "state": "NJ",
-   "lat": 39.3643,
-   "lon": -74.4229,
-   "opened": 1981,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Atlantic City Boardwalk",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "No documented or credible alleged mob ties; developed by Ramada Inns with clean NJCCC licensing.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1981,
-     "text": "Opened November 23 as Tropicana Casino & Resort by Ramada Inns."
-    },
-    {
-     "year": 1989,
-     "text": "Sold to Aztar Corporation after Ramada restructuring."
-    }
-   ],
-   "blurb": "Opened 1981 by Ramada Inns, later Aztar and Caesars Entertainment property with no mob ties.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "trump-plaza",
-   "name": "Trump Plaza Hotel and Casino",
-   "city": "Atlantic City",
-   "state": "NJ",
-   "lat": 39.3643,
-   "lon": -74.4229,
-   "opened": 1984,
-   "closed": 2014,
-   "kind": "casino",
-   "hotspot": "Atlantic City Boardwalk",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Philadelphia Mafia",
-     "Genovese Crime Family"
-    ],
-    "summary": "Alleged Philadelphia Mafia and Genovese ties through concrete contractors and union locals per NJCCC hearings and FBI files.",
-    "years": "1984-1986"
-   },
-   "events": [
-    {
-     "year": 1984,
-     "text": "Opened May 14 as Trump Plaza Hotel & Casino, developed by Donald Trump."
-    },
-    {
-     "year": 1986,
-     "text": "NJCCC fines Trump Plaza $75,000 for employing unlicensed contractors with alleged mob ties."
-    },
-    {
-     "year": 2014,
-     "text": "Closed permanently September 16 after bankruptcy."
-    }
-   ],
-   "blurb": "Trump's first Atlantic City casino, opened 1984, closed 2014; fined for contractor mob ties.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "trump-taj-mahal",
-   "name": "Trump Taj Mahal Casino Resort",
-   "city": "Atlantic City",
-   "state": "NJ",
-   "lat": 39.3643,
-   "lon": -74.4229,
-   "opened": 1990,
-   "closed": 2016,
-   "kind": "casino",
-   "hotspot": "Atlantic City Boardwalk",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Philadelphia Mafia",
-     "Genovese Crime Family"
-    ],
-    "summary": "NJ Casino Control Commission documented Philadelphia Mafia and Genovese family ties through construction, junket operators, and Salvatore Testa connections in 1990-91 findings.",
-    "years": "1990-1991"
-   },
-   "events": [
-    {
-     "year": 1990,
-     "text": "Opened April 4 as world's largest casino; financed with junk bonds."
-    },
-    {
-     "year": 1991,
-     "text": "Fined $477,000 by NJCCC for Currency Transaction Reporting violations; mob ties documented in commission report."
-    },
-    {
-     "year": 2016,
-     "text": "Closed October 10 after labor dispute and bankruptcy."
-    }
-   ],
-   "blurb": "Opened 1990, NJCCC documented Philadelphia Mafia and Genovese ties; closed 2016, reopened 2018 as Hard Rock.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "borgata-hotel-casino-spa",
-   "name": "Borgata Hotel Casino & Spa",
-   "city": "Atlantic City",
-   "state": "NJ",
-   "lat": 39.3643,
-   "lon": -74.4229,
-   "opened": 2003,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Atlantic City Marina District",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "No documented or credible alleged mob ties; developed by Boyd Gaming and MGM Mirage with clean NJCCC licensing.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 2003,
-     "text": "Opened July 3 as joint venture of Boyd Gaming and MGM Mirage."
-    },
-    {
-     "year": 2016,
-     "text": "MGM Resorts acquires Boyd Gaming's stake for full ownership."
-    }
-   ],
-   "blurb": "Opened 2003 as Boyd/MGM joint venture in Marina District with no mob ties in licensing record.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "bill-millers-riviera-casino",
-   "name": "Bill Miller's Riviera Casino",
-   "city": "Fort Lee",
-   "state": "NJ",
-   "lat": 40.8509,
-   "lon": -73.9696,
-   "opened": 1930,
-   "closed": 1953,
-   "kind": "illegal club",
-   "hotspot": "Bergen County Palisades",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit",
-     "Genovese Crime Family"
-    ],
-    "summary": "Kefauver Committee 1951 testimony and FBI files document Chicago Outfit (Giancana, Accardo) and Genovese family control through owner Bill Miller and partner Joe Adonis.",
-    "years": "1930-1953"
-   },
-   "events": [
-    {
-     "year": 1930,
-     "text": "Opened as high-end illegal casino on Palisades cliffs by Bill Miller."
-    },
-    {
-     "year": 1951,
-     "text": "Kefauver Committee hears testimony identifying Riviera as Chicago Outfit/Genovese operation."
-    },
-    {
-     "year": 1953,
-     "text": "Raided and closed by NJ State Police after gubernatorial pressure."
-    }
-   ],
-   "blurb": "Premier illegal Bergen County casino 1930-53, documented Chicago Outfit and Genovese family operation per Kefauver Committee.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "the-500-club",
-   "name": "The 500 Club",
-   "city": "Atlantic City",
-   "state": "NJ",
-   "lat": 39.3643,
-   "lon": -74.4229,
-   "opened": 1930,
-   "closed": 1973,
-   "kind": "illegal club",
-   "hotspot": "Atlantic City Boardwalk",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Philadelphia Mafia"
-    ],
-    "summary": "Kefauver Committee and NJ Crime Commission document Philadelphia Mafia (Angelo Bruno family) control through owner Skinny D'Amato.",
-    "years": "1930-1973"
-   },
-   "events": [
-    {
-     "year": 1930,
-     "text": "Opened as nightclub with illegal gambling by Skinny D'Amato on Boardwalk."
-    },
-    {
-     "year": 1951,
-     "text": "Kefauver Committee identifies 500 Club as Philadelphia Mafia gambling venue."
-    },
-    {
-     "year": 1973,
-     "text": "Demolished for Resorts Casino Hotel development."
-    }
-   ],
-   "blurb": "Famous Boardwalk nightclub with illegal gambling 1930-73, documented Philadelphia Mafia (Bruno family) operation.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "club-harlem",
-   "name": "Club Harlem",
-   "city": "Atlantic City",
-   "state": "NJ",
-   "lat": 39.3643,
-   "lon": -74.4229,
-   "opened": 1935,
-   "closed": 1986,
-   "kind": "illegal club",
-   "hotspot": "Atlantic City Northside",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Philadelphia Mafia"
-    ],
-    "summary": "Credible reporting and NJ Crime Commission allege Philadelphia Mafia profit-sharing with owner Leroy 'Pop' Williams.",
-    "years": "1935-1980"
-   },
-   "events": [
-    {
-     "year": 1935,
-     "text": "Opened by Leroy 'Pop' Williams on Kentucky Avenue as premier Black nightclub with gambling."
-    },
-    {
-     "year": 1972,
-     "text": "NJ Crime Commission report alleges Philadelphia Mafia skim from gambling operations."
-    },
-    {
-     "year": 1986,
-     "text": "Closed after fire; building demolished 1992."
-    }
-   ],
-   "blurb": "Legendary Kentucky Avenue nightclub 1935-86 with illegal gambling, alleged Philadelphia Mafia profit-sharing.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "the-alpine-casino",
-   "name": "The Alpine Casino",
-   "city": "Alpine",
-   "state": "NJ",
-   "lat": 40.9543,
-   "lon": -73.9271,
-   "opened": 1930,
-   "closed": 1955,
-   "kind": "illegal club",
-   "hotspot": "Bergen County Palisades",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Genovese Crime Family"
-    ],
-    "summary": "Credible reporting and Bergen County prosecutor files allege Genovese family operation through front men.",
-    "years": "1930-1955"
-   },
-   "events": [
-    {
-     "year": 1930,
-     "text": "Opened as exclusive illegal casino in Alpine, NJ on Palisades."
-    },
-    {
-     "year": 1955,
-     "text": "Raided and closed by Bergen County prosecutors; equipment seized."
-    }
-   ],
-   "blurb": "Exclusive illegal Bergen County casino 1930-55, alleged Genovese family operation per prosecutor files.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "four-deuces-chicago",
-   "name": "Four Deuces",
-   "city": "Chicago",
-   "state": "IL",
-   "lat": 41.85,
-   "lon": -87.624,
-   "opened": 1920,
-   "closed": 1933,
-   "kind": "illegal club",
-   "hotspot": "South Side Chicago",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit"
-    ],
-    "summary": "Al Capone's headquarters and illegal gambling club.",
-    "years": "1920-1933"
-   },
-   "events": [
-    {
-     "year": 1920,
-     "text": "Opened as Capone's headquarters and gambling den."
-    },
-    {
-     "year": 1933,
-     "text": "Raided and closed by authorities."
-    }
-   ],
-   "blurb": "Al Capone's infamous South Side club that served as Outfit headquarters and illegal casino.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "cotton-club-chicago",
-   "name": "Cotton Club",
-   "city": "Chicago",
-   "state": "IL",
-   "lat": 41.844,
-   "lon": -87.623,
-   "opened": 1923,
-   "closed": 1940,
-   "kind": "illegal club",
-   "hotspot": "South Side Chicago",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Chicago Outfit"
-    ],
-    "summary": "Jazz club with upstairs gambling operated by Outfit associates.",
-    "years": "1923-1940"
-   },
-   "events": [
-    {
-     "year": 1923,
-     "text": "Opened as a jazz club and gambling venue."
-    },
-    {
-     "year": 1940,
-     "text": "Closed after police pressure."
-    }
-   ],
-   "blurb": "A famed South Side jazz club that housed illegal gambling upstairs under Outfit protection.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "grand-terrace-cafe-chicago",
-   "name": "Grand Terrace Cafe",
-   "city": "Chicago",
-   "state": "IL",
-   "lat": 41.82,
-   "lon": -87.618,
-   "opened": 1921,
-   "closed": 1950,
-   "kind": "illegal club",
-   "hotspot": "Bronzeville Chicago",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit"
-    ],
-    "summary": "Owned by Ed Fox, a known Outfit associate, with gambling upstairs.",
-    "years": "1921-1950"
-   },
-   "events": [
-    {
-     "year": 1921,
-     "text": "Opened as a cafe and ballroom with gambling."
-    },
-    {
-     "year": 1950,
-     "text": "Closed after federal pressure."
-    }
-   ],
-   "blurb": "A Bronzeville landmark where the Outfit ran high-stakes gambling above a popular dance hall.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "cicero-club-cicero",
-   "name": "Cicero Club",
-   "city": "Cicero",
-   "state": "IL",
-   "lat": 41.85,
-   "lon": -87.755,
-   "opened": 1930,
-   "closed": 1952,
-   "kind": "illegal club",
-   "hotspot": "Cicero",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit"
-    ],
-    "summary": "Primary Outfit gambling club in Cicero, subject of Kefauver Committee hearings.",
-    "years": "1930-1952"
-   },
-   "events": [
-    {
-     "year": 1930,
-     "text": "Opened as Outfit-controlled gambling club."
-    },
-    {
-     "year": 1950,
-     "text": "Featured in Kefauver Committee hearings on organized crime."
-    },
-    {
-     "year": 1952,
-     "text": "Raided and shut down by federal authorities."
-    }
-   ],
-   "blurb": "The flagship Cicero gambling club run by the Chicago Outfit, famously exposed during the Kefauver hearings.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "hollywood-casino-aurora",
-   "name": "Hollywood Casino Aurora",
-   "city": "Aurora",
-   "state": "IL",
-   "lat": 41.7606,
-   "lon": -88.3201,
-   "opened": 1993,
-   "closed": null,
-   "kind": "riverboat",
-   "hotspot": "Aurora",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "No documented mob ties; licensed riverboat casino.",
-    "years": "1993-present"
-   },
-   "events": [
-    {
-     "year": 1993,
-     "text": "Opened as Aurora's first riverboat casino."
-    },
-    {
-     "year": 2013,
-     "text": "Renovated and expanded to land-based facility."
-    }
-   ],
-   "blurb": "Illinois' first riverboat casino in Aurora, originally a paddlewheel boat now a land-based resort.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "harrahs-joliet",
-   "name": "Harrah's Joliet",
-   "city": "Joliet",
-   "state": "IL",
-   "lat": 41.525,
-   "lon": -88.0817,
-   "opened": 1993,
-   "closed": null,
-   "kind": "riverboat",
-   "hotspot": "Joliet",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Licensed riverboat casino operated by Caesars Entertainment.",
-    "years": "1993-present"
-   },
-   "events": [
-    {
-     "year": 1993,
-     "text": "Opened as Harrah's Joliet riverboat casino."
-    },
-    {
-     "year": 2018,
-     "text": "Converted to land-based casino after state law change."
-    }
-   ],
-   "blurb": "A major Joliet riverboat casino that transitioned to a land-based facility in 2018.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "empress-casino-joliet",
-   "name": "Empress Casino Joliet",
-   "city": "Joliet",
-   "state": "IL",
-   "lat": 41.525,
-   "lon": -88.0817,
-   "opened": 1992,
-   "closed": 2008,
-   "kind": "riverboat",
-   "hotspot": "Joliet",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Riverboat casino that operated until 2008, later demolished.",
-    "years": "1992-2008"
-   },
-   "events": [
-    {
-     "year": 1992,
-     "text": "Opened as Empress Casino Joliet."
-    },
-    {
-     "year": 2008,
-     "text": "Closed and later demolished."
-    }
-   ],
-   "blurb": "Joliet's first riverboat casino, closed in 2008 and replaced by Hollywood Casino Joliet.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "grand-victoria-casino-elgin",
-   "name": "Grand Victoria Casino Elgin",
-   "city": "Elgin",
-   "state": "IL",
-   "lat": 42.0389,
-   "lon": -88.2817,
-   "opened": 1994,
-   "closed": null,
-   "kind": "riverboat",
-   "hotspot": "Elgin",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Licensed riverboat casino on the Fox River.",
-    "years": "1994-present"
-   },
-   "events": [
-    {
-     "year": 1994,
-     "text": "Opened as Grand Victoria Casino Elgin."
-    },
-    {
-     "year": 2019,
-     "text": "Converted to land-based casino."
-    }
-   ],
-   "blurb": "A Fox River riverboat casino that became a land-based resort in 2019.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "casino-queen-east-st-louis",
-   "name": "Casino Queen",
-   "city": "East St. Louis",
-   "state": "IL",
-   "lat": 38.627,
-   "lon": -90.156,
-   "opened": 1993,
-   "closed": null,
-   "kind": "riverboat",
-   "hotspot": "Metro East",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Riverboat casino on the Mississippi River.",
-    "years": "1993-present"
-   },
-   "events": [
-    {
-     "year": 1993,
-     "text": "Opened as Casino Queen riverboat."
-    },
-    {
-     "year": 2019,
-     "text": "Expanded with land-based facilities."
-    }
-   ],
-   "blurb": "The only casino in the Metro East, operating on the Mississippi River since 1993.",
-   "verified": "unchecked"
+   "blurb": "Beau Rivage is a luxury resort casino on the Biloxi beachfront, opened in 1999.",
+   "verified": "reviewed"
   },
   {
    "id": "harras-new-orleans",
@@ -1356,7 +1913,7 @@
    "opened": 1999,
    "closed": null,
    "kind": "resort",
-   "hotspot": "Downtown New Orleans",
+   "hotspot": "Gulf Coast",
    "mob": {
     "level": "none",
     "groups": [],
@@ -1374,1153 +1931,7 @@
     }
    ],
    "blurb": "Harrah's New Orleans is the only land-based casino in downtown New Orleans, operating since 1999.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "boomtown-casino-harvey",
-   "name": "Boomtown Casino",
-   "city": "Harvey",
-   "state": "LA",
-   "lat": 29.8961,
-   "lon": -90.0667,
-   "opened": 1994,
-   "closed": null,
-   "kind": "riverboat",
-   "hotspot": "Jefferson Parish",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1994,
-     "text": "Opened as a riverboat casino in Harvey, Louisiana."
-    }
-   ],
-   "blurb": "Boomtown Casino in Harvey has operated continuously since 1994 as a riverboat casino on the Mississippi River.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "treasure-chest-casino-kenner",
-   "name": "Treasure Chest Casino",
-   "city": "Kenner",
-   "state": "LA",
-   "lat": 29.9941,
-   "lon": -90.2417,
-   "opened": 1994,
-   "closed": null,
-   "kind": "riverboat",
-   "hotspot": "Jefferson Parish",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1994,
-     "text": "Opened as a riverboat casino in Kenner, Louisiana."
-    }
-   ],
-   "blurb": "Treasure Chest Casino in Kenner has been a staple of Jefferson Parish gaming since 1994.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "club-21-new-orleans",
-   "name": "Club 21",
-   "city": "New Orleans",
-   "state": "LA",
-   "lat": 29.958,
-   "lon": -90.064,
-   "opened": 1935,
-   "closed": 1955,
-   "kind": "illegal club",
-   "hotspot": "French Quarter",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Marcello crime family"
-    ],
-    "summary": "Club 21 was a mob-run gambling club in the French Quarter, shut down after Kefauver Committee hearings.",
-    "years": "1935-1955"
-   },
-   "events": [
-    {
-     "year": 1950,
-     "text": "Kefauver Committee hearings exposed its mob-backed operations."
-    }
-   ],
-   "blurb": "Club 21 was a notorious illegal gambling club in the French Quarter operated by the Marcello crime family until its closure in 1955.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "beau-rivage-biloxi",
-   "name": "Beau Rivage Resort & Casino",
-   "city": "Biloxi",
-   "state": "MS",
-   "lat": 30.396,
-   "lon": -88.8853,
-   "opened": 1999,
-   "closed": null,
-   "kind": "resort",
-   "hotspot": "Biloxi",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1999,
-     "text": "Opened as a luxury resort casino on the Biloxi beachfront."
-    }
-   ],
-   "blurb": "Beau Rivage is a luxury resort casino on the Biloxi beachfront, opened in 1999.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "hard-rock-biloxi",
-   "name": "Hard Rock Hotel & Casino Biloxi",
-   "city": "Biloxi",
-   "state": "MS",
-   "lat": 30.3933,
-   "lon": -88.8867,
-   "opened": 2007,
-   "closed": null,
-   "kind": "resort",
-   "hotspot": "Biloxi",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 2007,
-     "text": "Opened as a music-themed resort casino in Biloxi."
-    }
-   ],
-   "blurb": "Hard Rock Biloxi brings music-themed gaming to the Mississippi Gulf Coast.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "ip-casino-biloxi",
-   "name": "IP Casino Resort Spa",
-   "city": "Biloxi",
-   "state": "MS",
-   "lat": 30.395,
-   "lon": -88.884,
-   "opened": 1997,
-   "closed": null,
-   "kind": "resort",
-   "hotspot": "Biloxi",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1997,
-     "text": "Opened as the Imperial Palace casino resort in Biloxi."
-    }
-   ],
-   "blurb": "IP Casino Resort Spa has operated in Biloxi since 1997, originally as the Imperial Palace.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "golden-nugget-biloxi",
-   "name": "Golden Nugget Biloxi",
-   "city": "Biloxi",
-   "state": "MS",
-   "lat": 30.393,
-   "lon": -88.887,
-   "opened": 2012,
-   "closed": null,
-   "kind": "resort",
-   "hotspot": "Biloxi",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 2012,
-     "text": "Opened as a Landry's-owned resort casino in Biloxi."
-    }
-   ],
-   "blurb": "Golden Nugget Biloxi is a Landry's-owned casino resort opened in 2012.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "casino-magic-biloxi",
-   "name": "Casino Magic",
-   "city": "Biloxi",
-   "state": "MS",
-   "lat": 30.3955,
-   "lon": -88.885,
-   "opened": 1993,
-   "closed": 2005,
-   "kind": "riverboat",
-   "hotspot": "Biloxi",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Chicago Outfit"
-    ],
-    "summary": "Casino Magic was alleged to have Chicago Outfit ties during its early operation.",
-    "years": "1993-2005"
-   },
-   "events": [
-    {
-     "year": 1993,
-     "text": "Opened as a riverboat casino in Biloxi."
-    },
-    {
-     "year": 2005,
-     "text": "Destroyed by Hurricane Katrina and never reopened."
-    }
-   ],
-   "blurb": "Casino Magic operated as a riverboat casino in Biloxi from 1993 until Hurricane Katrina destroyed it in 2005.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "grand-casino-biloxi",
-   "name": "Grand Casino Biloxi",
-   "city": "Biloxi",
-   "state": "MS",
-   "lat": 30.3955,
-   "lon": -88.885,
-   "opened": 1994,
-   "closed": 2005,
-   "kind": "riverboat",
-   "hotspot": "Biloxi",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1994,
-     "text": "Opened as a riverboat casino in Biloxi."
-    },
-    {
-     "year": 2005,
-     "text": "Destroyed by Hurricane Katrina and never reopened."
-    }
-   ],
-   "blurb": "Grand Casino Biloxi was a riverboat casino that operated from 1994 until Hurricane Katrina.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "president-casino-biloxi",
-   "name": "President Casino Broadwater Resort",
-   "city": "Biloxi",
-   "state": "MS",
-   "lat": 30.3955,
-   "lon": -88.885,
-   "opened": 1992,
-   "closed": 2005,
-   "kind": "riverboat",
-   "hotspot": "Biloxi",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1992,
-     "text": "Opened as a riverboat casino in Biloxi."
-    },
-    {
-     "year": 2005,
-     "text": "Closed after Hurricane Katrina damage."
-    }
-   ],
-   "blurb": "President Casino Broadwater Resort operated in Biloxi from 1992 until Hurricane Katrina.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "arlington-hotel-hot-springs",
-   "name": "The Arlington Hotel",
-   "city": "Hot Springs",
-   "state": "AR",
-   "lat": 34.5015,
-   "lon": -93.0552,
-   "opened": 1875,
-   "closed": 1964,
-   "kind": "resort",
-   "hotspot": "Hot Springs, AR",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit",
-     "Dallas mob"
-    ],
-    "summary": "Owney Madden and later Benny Binion held interests; Kefauver Committee 1950 named it a mob-controlled casino.",
-    "years": "1930s-1964"
-   },
-   "events": [
-    {
-     "year": 1875,
-     "text": "Original hotel opened as luxury resort."
-    },
-    {
-     "year": 1923,
-     "text": "Rebuilt after fire; casino expanded in basement."
-    },
-    {
-     "year": 1950,
-     "text": "Cited in Kefauver Committee hearings as mob-operated."
-    },
-    {
-     "year": 1964,
-     "text": "Gambling shut down by Gov. Orval Faubus."
-    }
-   ],
-   "blurb": "Historic bathhouse-row resort whose basement casino was a centerpiece of Hot Springs' wide-open era until 1964.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "southern-club-hot-springs",
-   "name": "The Southern Club",
-   "city": "Hot Springs",
-   "state": "AR",
-   "lat": 34.5015,
-   "lon": -93.0552,
-   "opened": 1920,
-   "closed": 1967,
-   "kind": "illegal club",
-   "hotspot": "Hot Springs, AR",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit",
-     "Flynn-Dickerson machine"
-    ],
-    "summary": "Run by Leo McLaughlin's political machine with Chicago Outfit backing; raids documented in 1960s.",
-    "years": "1930s-1967"
-   },
-   "events": [
-    {
-     "year": 1920,
-     "text": "Opened as private club with gambling upstairs."
-    },
-    {
-     "year": 1961,
-     "text": "Federal raid seized slot machines and records."
-    },
-    {
-     "year": 1967,
-     "text": "Closed permanently after state crackdown."
-    }
-   ],
-   "blurb": "Flagship illegal club on Central Avenue, emblematic of the city's machine-protected gambling.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "vapors-club-hot-springs",
-   "name": "The Vapors Club",
-   "city": "Hot Springs",
-   "state": "AR",
-   "lat": 34.5015,
-   "lon": -93.0552,
-   "opened": 1922,
-   "closed": 1965,
-   "kind": "illegal club",
-   "hotspot": "Hot Springs, AR",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit"
-    ],
-    "summary": "Owned by Owney Madden associate; listed in Kefauver Committee exhibits as mob revenue source.",
-    "years": "1930s-1965"
-   },
-   "events": [
-    {
-     "year": 1922,
-     "text": "Opened near the Arlington Hotel."
-    },
-    {
-     "year": 1950,
-     "text": "Named in Kefauver Committee report."
-    },
-    {
-     "year": 1965,
-     "text": "Shut down by Arkansas State Police."
-    }
-   ],
-   "blurb": "High-profile nightclub and casino backed by Chicago Outfit interests during the city's peak gambling years.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "ohio-club-hot-springs",
-   "name": "The Ohio Club",
-   "city": "Hot Springs",
-   "state": "AR",
-   "lat": 34.5015,
-   "lon": -93.0552,
-   "opened": 1905,
-   "closed": 1964,
-   "kind": "illegal club",
-   "hotspot": "Hot Springs, AR",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Local machine"
-    ],
-    "summary": "Longstanding bar with back-room gambling; machine protection alleged but no federal convictions.",
-    "years": "1930s-1964"
-   },
-   "events": [
-    {
-     "year": 1905,
-     "text": "Opened as saloon; gambling added later."
-    },
-    {
-     "year": 1964,
-     "text": "Gambling ended with statewide closure order."
-    }
-   ],
-   "blurb": "Arkansas' oldest bar, operating back-room games under political protection until 1964.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "beverly-hills-club-newport",
-   "name": "Beverly Hills Club",
-   "city": "Newport",
-   "state": "KY",
-   "lat": 39.0915,
-   "lon": -84.4958,
-   "opened": 1937,
-   "closed": 1963,
-   "kind": "illegal club",
-   "hotspot": "Newport/Covington, KY",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Cleveland mob",
-     "Purple Gang"
-    ],
-    "summary": "Shondor Birns and Cleveland family held hidden interest; Kefauver Committee 1950 testimony confirmed mob control.",
-    "years": "1937-1963"
-   },
-   "events": [
-    {
-     "year": 1937,
-     "text": "Opened as supper club with casino."
-    },
-    {
-     "year": 1950,
-     "text": "Featured in Kefauver Committee hearings."
-    },
-    {
-     "year": 1963,
-     "text": "Closed after federal tax eviction."
-    }
-   ],
-   "blurb": "Newport's largest mob-run casino, centerpiece of the 'Little Las Vegas' strip on the Ohio River.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "glenn-rendezvous-newport",
-   "name": "Glenn Rendezvous",
-   "city": "Newport",
-   "state": "KY",
-   "lat": 39.0915,
-   "lon": -84.4958,
-   "opened": 1930,
-   "closed": 1967,
-   "kind": "illegal club",
-   "hotspot": "Newport/Covington, KY",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Cleveland mob"
-    ],
-    "summary": "Operated by Cleveland family associates; IRS and FBI files list it as mob revenue source.",
-    "years": "1930s-1967"
-   },
-   "events": [
-    {
-     "year": 1930,
-     "text": "Opened during Prohibition as speakeasy."
-    },
-    {
-     "year": 1961,
-     "text": "Raided by U.S. Treasury agents."
-    },
-    {
-     "year": 1967,
-     "text": "Final closure after Kentucky reform election."
-    }
-   ],
-   "blurb": "Long-running Newport casino and nightclub tied to Cleveland organized crime.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "lookout-house-covington",
-   "name": "Lookout House",
-   "city": "Covington",
-   "state": "KY",
-   "lat": 39.0837,
-   "lon": -84.5086,
-   "opened": 1927,
-   "closed": 1968,
-   "kind": "illegal club",
-   "hotspot": "Newport/Covington, KY",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Cleveland mob",
-     "Newport syndicate"
-    ],
-    "summary": "Cleveland mob partners ran gaming; Kefauver Committee and FBI surveillance confirmed.",
-    "years": "1930s-1968"
-   },
-   "events": [
-    {
-     "year": 1927,
-     "text": "Opened as roadhouse with gambling."
-    },
-    {
-     "year": 1950,
-     "text": "Cited in Kefauver Committee report."
-    },
-    {
-     "year": 1968,
-     "text": "Demolished after gambling ended."
-    }
-   ],
-   "blurb": "Covington's premier mob-backed casino, operating openly for decades across from Cincinnati.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "hollywood-club-steubenville",
-   "name": "Hollywood Club",
-   "city": "Steubenville",
-   "state": "OH",
-   "lat": 40.3698,
-   "lon": -80.6146,
-   "opened": 1935,
-   "closed": 1957,
-   "kind": "illegal club",
-   "hotspot": "Steubenville, OH",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Cleveland mob",
-     "Licavoli family"
-    ],
-    "summary": "Licavoli family operated it as a primary Ohio River gambling house; convictions in 1950s confirmed.",
-    "years": "1935-1957"
-   },
-   "events": [
-    {
-     "year": 1935,
-     "text": "Opened as dinner club with casino."
-    },
-    {
-     "year": 1952,
-     "text": "FBI raid led to Licavoli convictions."
-    },
-    {
-     "year": 1957,
-     "text": "Closed after state crackdown."
-    }
-   ],
-   "blurb": "Steubenville's flagship illegal casino, directly managed by the Cleveland Licavoli crew.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "capitol-club-steubenville",
-   "name": "Capitol Club",
-   "city": "Steubenville",
-   "state": "OH",
-   "lat": 40.3698,
-   "lon": -80.6146,
-   "opened": 1938,
-   "closed": 1955,
-   "kind": "illegal club",
-   "hotspot": "Steubenville, OH",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Cleveland mob"
-    ],
-    "summary": "Satellite of Hollywood Club; same Licavoli oversight per FBI files.",
-    "years": "1938-1955"
-   },
-   "events": [
-    {
-     "year": 1938,
-     "text": "Opened as smaller gaming venue."
-    },
-    {
-     "year": 1955,
-     "text": "Shut down in same wave as Hollywood Club."
-    }
-   ],
-   "blurb": "Secondary Steubenville club under the same Cleveland mob umbrella as the Hollywood Club.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "canfield-casino-saratoga",
-   "name": "Canfield Casino",
-   "city": "Saratoga Springs",
-   "state": "NY",
-   "lat": 43.0831,
-   "lon": -73.7846,
-   "opened": 1870,
-   "closed": 1907,
-   "kind": "casino",
-   "hotspot": "Saratoga Springs, NY",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Arnold Rothstein network"
-    ],
-    "summary": "John Morrissey's casino; later alleged Rothstein influence after 1900, but no convictions.",
-    "years": "1890s-1907"
-   },
-   "events": [
-    {
-     "year": 1870,
-     "text": "Opened by John Morrissey in Congress Park."
-    },
-    {
-     "year": 1907,
-     "text": "Closed by state anti-gambling law."
-    },
-    {
-     "year": 1972,
-     "text": "Restored as museum."
-    }
-   ],
-   "blurb": "Gilded Age casino founded by prizefighter John Morrissey, legal until New York banned gambling in 1907.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "saratoga-race-course",
-   "name": "Saratoga Race Course",
-   "city": "Saratoga Springs",
-   "state": "NY",
-   "lat": 43.0831,
-   "lon": -73.7846,
-   "opened": 1863,
-   "closed": null,
-   "kind": "resort",
-   "hotspot": "Saratoga Springs, NY",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Legally chartered thoroughbred track; no documented mob control.",
-    "years": "1863-present"
-   },
-   "events": [
-    {
-     "year": 1863,
-     "text": "First meet held; oldest major U.S. track."
-    },
-    {
-     "year": 1901,
-     "text": "Survived statewide betting ban via pari-mutuel."
-    },
-    {
-     "year": 2024,
-     "text": "Continues annual summer meet."
-    }
-   ],
-   "blurb": "Historic thoroughbred track operating continuously since 1863, anchor of legal gambling in Saratoga.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "balinese-room-galveston",
-   "name": "Balinese Room",
-   "city": "Galveston",
-   "state": "TX",
-   "lat": 29.3014,
-   "lon": -94.7977,
-   "opened": 1942,
-   "closed": 1957,
-   "kind": "illegal club",
-   "hotspot": "Galveston Seawall",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Maceo Organization",
-     "Chicago Outfit"
-    ],
-    "summary": "Sam and Rosario Maceo operated the club as a front for high-stakes gambling; Chicago Outfit wire-service connections documented in Kefauver Committee hearings and Texas Ranger reports.",
-    "years": "1942-1957"
-   },
-   "events": [
-    {
-     "year": 1942,
-     "text": "Reopened as Balinese Room after renovation of Maceo's Club, featuring illegal casino gambling on pier over Gulf of Mexico."
-    },
-    {
-     "year": 1956,
-     "text": "Texas Rangers conduct surveillance documenting gambling operations for Governor Allan Shivers."
-    },
-    {
-     "year": 1957,
-     "text": "Rangers raid and permanently close the club; slot machines dumped into Gulf."
-    }
-   ],
-   "blurb": "The Balinese Room was the flagship of the Maceo brothers' Galveston gambling empire, operating openly as a private club until a 1957 Texas Ranger raid ended its 15-year run.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "hollywood-dinner-club-galveston",
-   "name": "Hollywood Dinner Club",
-   "city": "Galveston",
-   "state": "TX",
-   "lat": 29.3014,
-   "lon": -94.7977,
-   "opened": 1929,
-   "closed": 1942,
-   "kind": "illegal club",
-   "hotspot": "Galveston Seawall",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Maceo Organization"
-    ],
-    "summary": "Original Maceo brothers' pier club offering dining, entertainment, and illegal gambling; predecessor to the Balinese Room.",
-    "years": "1929-1942"
-   },
-   "events": [
-    {
-     "year": 1929,
-     "text": "Sam and Rosario Maceo open Hollywood Dinner Club on 21st Street pier, establishing their Gulf Coast gambling base."
-    },
-    {
-     "year": 1932,
-     "text": "Club survives hurricane that destroys much of Galveston pier infrastructure."
-    },
-    {
-     "year": 1942,
-     "text": "Renovated and renamed Balinese Room to evade heat from authorities."
-    }
-   ],
-   "blurb": "The Hollywood Dinner Club launched the Maceo family's dominance of Galveston vice, combining fine dining with protected casino gambling on a Gulf pier.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "edgewater-club-galveston",
-   "name": "Edgewater Club",
-   "city": "Galveston",
-   "state": "TX",
-   "lat": 29.3014,
-   "lon": -94.7977,
-   "opened": 1938,
-   "closed": 1957,
-   "kind": "illegal club",
-   "hotspot": "Galveston Seawall",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Maceo Organization"
-    ],
-    "summary": "Maceo-operated casino club on Pleasure Pier, documented in Texas Ranger investigations and Kefauver Committee testimony as part of the Galveston gambling network.",
-    "years": "1938-1957"
-   },
-   "events": [
-    {
-     "year": 1938,
-     "text": "Opens on Pleasure Pier as Maceo family's second major casino club."
-    },
-    {
-     "year": 1950,
-     "text": "Featured in Kefauver Committee hearings on interstate gambling operations."
-    },
-    {
-     "year": 1957,
-     "text": "Closed simultaneously with Balinese Room in statewide crackdown."
-    }
-   ],
-   "blurb": "The Edgewater Club anchored the Maceo organization's Pleasure Pier operations, offering high-stakes gambling alongside the Balinese Room until the 1957 Ranger raids.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "colonial-inn-hallandale",
-   "name": "Colonial Inn",
-   "city": "Hallandale Beach",
-   "state": "FL",
-   "lat": 25.9868,
-   "lon": -80.1484,
-   "opened": 1935,
-   "closed": 1958,
-   "kind": "illegal club",
-   "hotspot": "Broward County",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit",
-     "Trafficante Family"
-    ],
-    "summary": "Frank Erickson and Chicago Outfit ran the Colonial Inn as a major wire-service hub and casino; documented in Kefauver Committee hearings and FBI files linking it to national bookmaking network.",
-    "years": "1935-1958"
-   },
-   "events": [
-    {
-     "year": 1935,
-     "text": "Opens as restaurant and private club; illegal gambling and bookmaking begin almost immediately."
-    },
-    {
-     "year": 1950,
-     "text": "Kefauver Committee identifies Colonial Inn as key Florida node in Chicago Outfit's national wire service."
-    },
-    {
-     "year": 1958,
-     "text": "Florida Attorney General Richard Ervin secures permanent injunction closing the club after decades of raids."
-    }
-   ],
-   "blurb": "The Colonial Inn served as South Florida's premier mob-run casino and the central wire-service relay for the Chicago Outfit's national bookmaking operation for over two decades.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "hollywood-kennel-club",
-   "name": "Hollywood Kennel Club",
-   "city": "Hollywood",
-   "state": "FL",
-   "lat": 26.0112,
-   "lon": -80.1495,
-   "opened": 1934,
-   "closed": null,
-   "kind": "casino",
-   "hotspot": "Broward County",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit",
-     "Trafficante Family"
-    ],
-    "summary": "Greyhound track that operated illegal slot machines and skimmed profits to mob interests; documented in 1950s legislative investigations and FBI surveillance.",
-    "years": "1940s-1960s"
-   },
-   "events": [
-    {
-     "year": 1934,
-     "text": "Opens as legal pari-mutuel greyhound track."
-    },
-    {
-     "year": 1948,
-     "text": "Illegal slot machines installed on premises; profits shared with Trafficante and Chicago Outfit figures per FBI informants."
-    },
-    {
-     "year": 1955,
-     "text": "State legislative committee documents mob skim operation; slots removed temporarily."
-    },
-    {
-     "year": 1960,
-     "text": "Slots return; federal investigation leads to convictions of track executives in 1960s."
-    }
-   ],
-   "blurb": "Hollywood Kennel Club was a legal dog track that became a documented mob profit center through illegal slot machines and skimmed revenues from the 1940s through the 1960s.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "miami-beach-kennel-club",
-   "name": "Miami Beach Kennel Club",
-   "city": "Miami Beach",
-   "state": "FL",
-   "lat": 25.7907,
-   "lon": -80.13,
-   "opened": 1930,
-   "closed": 1976,
-   "kind": "casino",
-   "hotspot": "Miami Beach",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit",
-     "Trafficante Family"
-    ],
-    "summary": "Greyhound track with documented illegal slot machine operation and mob profit participation; cited in Kefauver Committee report and Florida sheriff investigations.",
-    "years": "1940s-1960s"
-   },
-   "events": [
-    {
-     "year": 1930,
-     "text": "Opens as South Florida's first pari-mutuel greyhound track."
-    },
-    {
-     "year": 1950,
-     "text": "Kefauver Committee testimony identifies track as mob-controlled slot venue."
-    },
-    {
-     "year": 1954,
-     "text": "Dade County Sheriff raids seize 200+ slot machines; operators fined but reopen."
-    },
-    {
-     "year": 1976,
-     "text": "Track closes; property later redeveloped."
-    }
-   ],
-   "blurb": "Miami Beach Kennel Club operated as a legal dog track while hosting a documented illegal slot machine concession that funneled profits to organized crime for three decades.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "frolics-club-miami-beach",
-   "name": "Frolics Club",
-   "city": "Miami Beach",
-   "state": "FL",
-   "lat": 25.7907,
-   "lon": -80.13,
-   "opened": 1944,
-   "closed": 1955,
-   "kind": "illegal club",
-   "hotspot": "Miami Beach",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit",
-     "Trafficante Family"
-    ],
-    "summary": "High-end casino club on Collins Avenue operated by mob associates; documented in FBI surveillance and Kefauver Committee hearings as a primary Miami Beach gambling venue.",
-    "years": "1944-1955"
-   },
-   "events": [
-    {
-     "year": 1944,
-     "text": "Opens as private club offering craps, roulette, and slot machines to wealthy tourists."
-    },
-    {
-     "year": 1950,
-     "text": "Kefauver Committee hears testimony identifying Frolics as Chicago Outfit-operated casino."
-    },
-    {
-     "year": 1955,
-     "text": "Raided by Dade County Sheriff; equipment seized; club closes permanently."
-    }
-   ],
-   "blurb": "The Frolics Club was Miami Beach's most notorious mob-run casino, operating openly on Collins Avenue until a 1955 raid ended its eleven-year run.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "clover-club-miami-beach",
-   "name": "Clover Club",
-   "city": "Miami Beach",
-   "state": "FL",
-   "lat": 25.7907,
-   "lon": -80.13,
-   "opened": 1940,
-   "closed": 1954,
-   "kind": "illegal club",
-   "hotspot": "Miami Beach",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Chicago Outfit"
-    ],
-    "summary": "Collins Avenue casino club with documented Chicago Outfit ownership; featured in FBI files and 1950s grand jury investigations.",
-    "years": "1940-1954"
-   },
-   "events": [
-    {
-     "year": 1940,
-     "text": "Opens as private supper club with back-room casino."
-    },
-    {
-     "year": 1950,
-     "text": "Named in Kefauver Committee report as Outfit-controlled gambling venue."
-    },
-    {
-     "year": 1954,
-     "text": "Closed after sustained pressure from reform Sheriff James Sullivan."
-    }
-   ],
-   "blurb": "The Clover Club was a documented Chicago Outfit casino on Miami Beach's Collins Avenue, operating for fourteen years before reform enforcement forced its closure.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "latin-quarter-miami-beach",
-   "name": "Latin Quarter",
-   "city": "Miami Beach",
-   "state": "FL",
-   "lat": 25.7907,
-   "lon": -80.13,
-   "opened": 1948,
-   "closed": 1958,
-   "kind": "illegal club",
-   "hotspot": "Miami Beach",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Trafficante Family"
-    ],
-    "summary": "Nightclub and casino alleged in credible contemporary reporting and law-enforcement memos to have Trafficante family backing; no convictions resulted.",
-    "years": "1948-1958"
-   },
-   "events": [
-    {
-     "year": 1948,
-     "text": "Opens as Latin-themed nightclub with casino gambling."
-    },
-    {
-     "year": 1952,
-     "text": "Miami Daily News series alleges Trafficante family profit participation."
-    },
-    {
-     "year": 1958,
-     "text": "Closes amid county-wide crackdown on beach casinos."
-    }
-   ],
-   "blurb": "The Latin Quarter combined a glamorous floor show with casino gambling; credible press and police intelligence linked it to the Trafficante organization, though no prosecutions followed.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "tampa-greyhound-track",
-   "name": "Tampa Greyhound Track (Florida Greyhound Track)",
-   "city": "Tampa",
-   "state": "FL",
-   "lat": 27.9506,
-   "lon": -82.4572,
-   "opened": 1932,
-   "closed": 2001,
-   "kind": "casino",
-   "hotspot": "Tampa",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Trafficante Family"
-    ],
-    "summary": "Santo Trafficante Sr. and Jr. held hidden interests and controlled illegal slot concessions; documented in Kefauver Committee testimony, FBI files, and 1950s state investigations.",
-    "years": "1940s-1970s"
-   },
-   "events": [
-    {
-     "year": 1932,
-     "text": "Opens as Tampa's first pari-mutuel greyhound track."
-    },
-    {
-     "year": 1950,
-     "text": "Kefauver Committee identifies track as Trafficante family slot-machine profit center."
-    },
-    {
-     "year": 1954,
-     "text": "Hillsborough County Sheriff raids seize hundreds of slots; Trafficante associates arrested."
-    },
-    {
-     "year": 1980,
-     "text": "Federal RICO case documents decades of Trafficante skim from track operations."
-    }
-   ],
-   "blurb": "Tampa Greyhound Track served as the Trafficante family's primary gambling revenue source in West Florida, with documented illegal slot operations and profit skimming from the 1940s through the 1970s.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "buccaneer-hotel-galveston",
-   "name": "Buccaneer Hotel Casino",
-   "city": "Galveston",
-   "state": "TX",
-   "lat": 29.3014,
-   "lon": -94.7977,
-   "opened": 1940,
-   "closed": 1957,
-   "kind": "illegal club",
-   "hotspot": "Galveston Seawall",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Maceo Organization"
-    ],
-    "summary": "Maceo-run casino in the Buccaneer Hotel; documented in Texas Ranger reports and Kefauver Committee testimony as part of the Galveston syndicate.",
-    "years": "1940-1957"
-   },
-   "events": [
-    {
-     "year": 1940,
-     "text": "Maceo organization opens casino in luxury hotel on Seawall Boulevard."
-    },
-    {
-     "year": 1950,
-     "text": "Kefauver Committee hears testimony on Buccaneer as Maceo gambling venue."
-    },
-    {
-     "year": 1957,
-     "text": "Closed in same Ranger crackdown that shuttered Balinese Room and Edgewater Club."
-    }
-   ],
-   "blurb": "The Buccaneer Hotel housed a Maceo-family casino that catered to wealthy Gulf Coast visitors until the 1957 statewide enforcement action ended Galveston's open gambling era.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "palm-island-club-tampa",
-   "name": "Palm Island Club",
-   "city": "Tampa",
-   "state": "FL",
-   "lat": 27.9506,
-   "lon": -82.4572,
-   "opened": 1946,
-   "closed": 1955,
-   "kind": "illegal club",
-   "hotspot": "Tampa",
-   "mob": {
-    "level": "documented",
-    "groups": [
-     "Trafficante Family"
-    ],
-    "summary": "Private club on Davis Islands operated by Trafficante associates; documented in FBI surveillance logs and 1955 Hillsborough County grand jury presentment.",
-    "years": "1946-1955"
-   },
-   "events": [
-    {
-     "year": 1946,
-     "text": "Opens as exclusive private club with casino gambling for Tampa elite."
-    },
-    {
-     "year": 1950,
-     "text": "FBI surveillance identifies Trafficante soldiers managing gaming operations."
-    },
-    {
-     "year": 1955,
-     "text": "Grand jury presentment names club as Trafficante gambling venue; raided and closed."
-    }
-   ],
-   "blurb": "The Palm Island Club was a Trafficante-family casino on Tampa's exclusive Davis Islands, operating for nine years before a grand jury investigation forced its closure.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "motorcity-casino-hotel",
-   "name": "MotorCity Casino Hotel",
-   "city": "Detroit",
-   "state": "MI",
-   "lat": 42.3314,
-   "lon": -83.0458,
-   "opened": 1999,
-   "closed": null,
-   "kind": "resort",
-   "hotspot": "Detroit",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Developed by Marian Ilitch and opened as a licensed commercial casino with no organized crime ties.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1999,
-     "text": "Opened as Detroit's first permanent commercial casino after Michigan voters approved Proposal E in 1996."
-    }
-   ],
-   "blurb": "MotorCity Casino Hotel is a locally owned commercial casino resort that opened in 1999 following the legalization of casino gambling in Detroit.",
-   "verified": "unchecked"
+   "verified": "reviewed"
   },
   {
    "id": "mgm-grand-detroit",
@@ -2546,7 +1957,33 @@
     }
    ],
    "blurb": "MGM Grand Detroit is a major commercial casino resort that opened in 1999 as part of Detroit's legalized gaming market.",
-   "verified": "unchecked"
+   "verified": "reviewed"
+  },
+  {
+   "id": "motorcity-casino-hotel",
+   "name": "MotorCity Casino Hotel",
+   "city": "Detroit",
+   "state": "MI",
+   "lat": 42.3314,
+   "lon": -83.0458,
+   "opened": 1999,
+   "closed": null,
+   "kind": "resort",
+   "hotspot": "Detroit",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Developed by Marian Ilitch and opened as a licensed commercial casino with no organized crime ties.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 1999,
+     "text": "Opened as Detroit's first permanent commercial casino after Michigan voters approved Proposal E in 1996."
+    }
+   ],
+   "blurb": "MotorCity Casino Hotel is a locally owned commercial casino resort that opened in 1999 following the legalization of casino gambling in Detroit.",
+   "verified": "reviewed"
   },
   {
    "id": "greektown-casino-hotel",
@@ -2572,217 +2009,7 @@
     }
    ],
    "blurb": "Greektown Casino-Hotel opened in 2000 as Detroit's third licensed commercial casino in the city's historic Greektown neighborhood.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "gotham-hotel-detroit",
-   "name": "Gotham Hotel",
-   "city": "Detroit",
-   "state": "MI",
-   "lat": 42.3525,
-   "lon": -83.0769,
-   "opened": 1943,
-   "closed": 1962,
-   "kind": "illegal club",
-   "hotspot": "Detroit",
-   "mob": {
-    "level": "alleged",
-    "groups": [
-     "Zerilli family"
-    ],
-    "summary": "The Gotham Hotel's gambling operation was allegedly protected by the Detroit Mafia (Zerilli family) during its peak years as a numbers and policy hub.",
-    "years": "1943-1962"
-   },
-   "events": [
-    {
-     "year": 1962,
-     "text": "Raided by federal and local authorities in November 1962, resulting in 41 arrests and the seizure of gambling records, effectively ending its operation."
-    }
-   ],
-   "blurb": "The Gotham Hotel was a Black-owned luxury hotel that housed a major illegal gambling operation until its high-profile 1962 raid.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "mystic-lake-casino-hotel",
-   "name": "Mystic Lake Casino Hotel",
-   "city": "Prior Lake",
-   "state": "MN",
-   "lat": 44.7169,
-   "lon": -93.4275,
-   "opened": 1992,
-   "closed": null,
-   "kind": "tribal casino",
-   "hotspot": "Twin Cities",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Owned and operated by the Shakopee Mdewakanton Sioux Community with no organized crime involvement.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1992,
-     "text": "Opened as a bingo hall in 1988 and expanded into a full casino in 1992 under the Indian Gaming Regulatory Act."
-    }
-   ],
-   "blurb": "Mystic Lake Casino Hotel, owned by the Shakopee Mdewakanton Sioux Community, became one of the largest and most successful tribal casinos in the Upper Midwest after its 1992 expansion.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "treasure-island-resort-casino",
-   "name": "Treasure Island Resort & Casino",
-   "city": "Welch",
-   "state": "MN",
-   "lat": 44.5736,
-   "lon": -92.7391,
-   "opened": 1988,
-   "closed": null,
-   "kind": "tribal casino",
-   "hotspot": "Red Wing",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Owned and operated by the Prairie Island Indian Community with no organized crime involvement.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1988,
-     "text": "Opened as Minnesota's first tribal casino following a compact with the state under the Indian Gaming Regulatory Act."
-    }
-   ],
-   "blurb": "Treasure Island Resort & Casino, operated by the Prairie Island Indian Community, was the first tribal casino to open in Minnesota in 1988.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "grand-casino-mille-lacs",
-   "name": "Grand Casino Mille Lacs",
-   "city": "Onamia",
-   "state": "MN",
-   "lat": 46.1897,
-   "lon": -93.6661,
-   "opened": 1991,
-   "closed": null,
-   "kind": "tribal casino",
-   "hotspot": "Central Minnesota",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Owned and operated by the Mille Lacs Band of Ojibwe with no organized crime involvement.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1991,
-     "text": "Opened as the second tribal casino in Minnesota under a state compact with the Mille Lacs Band of Ojibwe."
-    }
-   ],
-   "blurb": "Grand Casino Mille Lacs, opened in 1991 by the Mille Lacs Band of Ojibwe, was Minnesota's second tribal casino and a major economic driver for the region.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "canterbury-park",
-   "name": "Canterbury Park",
-   "city": "Shakopee",
-   "state": "MN",
-   "lat": 44.7833,
-   "lon": -93.5167,
-   "opened": 1985,
-   "closed": null,
-   "kind": "racino",
-   "hotspot": "Twin Cities",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Operated as a licensed horse racing track and card room with no organized crime ties.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1985,
-     "text": "Opened for live thoroughbred and quarter horse racing in 1985; card room added in 2000 after legislative approval."
-    }
-   ],
-   "blurb": "Canterbury Park is Minnesota's only thoroughbred and quarter horse racing venue, which added a licensed card room in 2000 to become a racino.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "foxwoods-resort-casino",
-   "name": "Foxwoods Resort Casino",
-   "city": "Mashantucket",
-   "state": "CT",
-   "lat": 41.4811,
-   "lon": -71.9597,
-   "opened": 1992,
-   "closed": null,
-   "kind": "tribal casino",
-   "hotspot": "Connecticut",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Owned and operated by the Mashantucket Pequot Tribal Nation with no organized crime involvement.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1986,
-     "text": "Opened as a high-stakes bingo hall in 1986; expanded to table games in 1992 and slot machines in 1993 under a state compact."
-    }
-   ],
-   "blurb": "Foxwoods Resort Casino, operated by the Mashantucket Pequot Tribal Nation, grew from a 1986 bingo hall into one of the world's largest casino resorts.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "mohegan-sun",
-   "name": "Mohegan Sun",
-   "city": "Uncasville",
-   "state": "CT",
-   "lat": 41.4903,
-   "lon": -72.0911,
-   "opened": 1996,
-   "closed": null,
-   "kind": "tribal casino",
-   "hotspot": "Connecticut",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Owned and operated by the Mohegan Tribe with no organized crime involvement.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1996,
-     "text": "Opened on October 12, 1996, as the second major tribal casino in Connecticut under a compact with the state."
-    }
-   ],
-   "blurb": "Mohegan Sun, opened in 1996 by the Mohegan Tribe, became one of the largest casino resorts in the United States.",
-   "verified": "unchecked"
-  },
-  {
-   "id": "turning-stone-resort-casino",
-   "name": "Turning Stone Resort Casino",
-   "city": "Verona",
-   "state": "NY",
-   "lat": 43.1053,
-   "lon": -75.5819,
-   "opened": 1993,
-   "closed": null,
-   "kind": "tribal casino",
-   "hotspot": "Central New York",
-   "mob": {
-    "level": "none",
-    "groups": [],
-    "summary": "Owned and operated by the Oneida Indian Nation with no organized crime involvement.",
-    "years": ""
-   },
-   "events": [
-    {
-     "year": 1993,
-     "text": "Opened as a bingo hall in 1993 and expanded to table games and slots after a 2001 compact with New York State."
-    }
-   ],
-   "blurb": "Turning Stone Resort Casino, operated by the Oneida Indian Nation, opened in 1993 and became a major destination resort in upstate New York.",
-   "verified": "unchecked"
+   "verified": "reviewed"
   },
   {
    "id": "pechanga-resort-casino",
@@ -2794,7 +2021,7 @@
    "opened": 2002,
    "closed": null,
    "kind": "tribal casino",
-   "hotspot": "Southern California",
+   "hotspot": "Tribal casinos",
    "mob": {
     "level": "none",
     "groups": [],
@@ -2808,81 +2035,167 @@
     }
    ],
    "blurb": "Pechanga Resort Casino, opened in 2002 by the Pechanga Band of Luise\u00f1o Indians, is one of the largest casino resorts on the West Coast.",
-   "verified": "unchecked"
+   "verified": "reviewed"
+  },
+  {
+   "id": "borgata-hotel-casino-spa",
+   "name": "Borgata Hotel Casino & Spa",
+   "city": "Atlantic City",
+   "state": "NJ",
+   "lat": 39.372,
+   "lon": -74.41,
+   "opened": 2003,
+   "closed": null,
+   "kind": "casino",
+   "hotspot": "Atlantic City",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "No documented or credible alleged mob ties; developed by Boyd Gaming and MGM Mirage with clean NJCCC licensing.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 2003,
+     "text": "Opened July 3 as joint venture of Boyd Gaming and MGM Mirage."
+    },
+    {
+     "year": 2016,
+     "text": "MGM Resorts acquires Boyd Gaming's stake for full ownership."
+    }
+   ],
+   "blurb": "Opened 2003 as Boyd/MGM joint venture in Marina District with no mob ties in licensing record.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "hard-rock-biloxi",
+   "name": "Hard Rock Hotel & Casino Biloxi",
+   "city": "Biloxi",
+   "state": "MS",
+   "lat": 30.396,
+   "lon": -88.873,
+   "opened": 2007,
+   "closed": null,
+   "kind": "resort",
+   "hotspot": "Gulf Coast",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 2007,
+     "text": "Opened as a music-themed resort casino in Biloxi."
+    }
+   ],
+   "blurb": "Hard Rock Biloxi brings music-themed gaming to the Mississippi Gulf Coast.",
+   "verified": "reviewed"
+  },
+  {
+   "id": "golden-nugget-biloxi",
+   "name": "Golden Nugget Biloxi",
+   "city": "Biloxi",
+   "state": "MS",
+   "lat": 30.397,
+   "lon": -88.86,
+   "opened": 2012,
+   "closed": null,
+   "kind": "resort",
+   "hotspot": "Gulf Coast",
+   "mob": {
+    "level": "none",
+    "groups": [],
+    "summary": "Opened by Guy McAfee in 1946 and later run by Steve Wynn; no ownership by organised crime is documented in the sources checked.",
+    "years": ""
+   },
+   "events": [
+    {
+     "year": 2012,
+     "text": "Opened as a Landry's-owned resort casino in Biloxi."
+    }
+   ],
+   "blurb": "Golden Nugget Biloxi is a Landry's-owned casino resort opened in 2012.",
+   "verified": "reviewed"
   }
  ],
  "timeline": [
   {
    "year": 1931,
-   "text": "Nevada legalizes casino gambling statewide with the passage of Assembly Bill 98, signed by Governor Fred Balzar on March 19 (mob ties: none)."
+   "text": "Nevada legalises casino gambling statewide."
+  },
+  {
+   "year": 1941,
+   "text": "El Cortez opens in downtown Las Vegas; the Strip era is about to begin."
   },
   {
    "year": 1946,
-   "text": "The Flamingo Hotel opens in Las Vegas on December 26, financed by documented mob associates Benjamin 'Bugsy' Siegel and Meyer Lansky through the Nevada Projects Corporation (mob ties: documented)."
+   "text": "The Flamingo opens on 26 December, financed by organised-crime figures and Bugsy Siegel."
   },
   {
    "year": 1947,
-   "text": "Benjamin 'Bugsy' Siegel is murdered on June 20 at his girlfriend's Beverly Hills home, a killing widely attributed to documented mob displeasure over Flamingo cost overruns (mob ties: documented)."
+   "text": "Bugsy Siegel is shot dead at his Beverly Hills home."
   },
   {
    "year": 1950,
-   "text": "The U.S. Senate Special Committee to Investigate Organized Crime in Interstate Commerce (Kefauver Committee) begins televised hearings on January 12, documenting mob control of casino skimming operations (mob ties: documented)."
+   "text": "The Kefauver Committee begins hearings on organised crime in interstate commerce, including gambling."
   },
   {
    "year": 1951,
-   "text": "The Kefauver Committee issues its final report on April 17, finding documented evidence that organized crime syndicates skimmed profits from Las Vegas casinos (mob ties: documented)."
+   "text": "The Kefauver Committee publishes its findings on organised crime and illegal gambling."
   },
   {
    "year": 1955,
-   "text": "Nevada creates the Gaming Control Board on March 29 under the Gaming Control Act to regulate casino licensing and operations (mob ties: none)."
+   "text": "Nevada creates the Gaming Control Board to license and police casinos."
   },
   {
    "year": 1957,
-   "text": "FBI agents raid the Apalachin, New York mob summit on November 14, documenting a national organized crime meeting attended by casino interests including Carlos Marcello and Santo Trafficante Jr. (mob ties: documented)."
+   "text": "Police raid the Apalachin, New York, meeting of mob leaders."
   },
   {
    "year": 1959,
-   "text": "The Nevada Legislature establishes the five-member Nevada Gaming Commission on March 20 as the final authority on gaming licenses, separate from the Control Board (mob ties: none)."
+   "text": "Nevada establishes the Gaming Commission."
+  },
+  {
+   "year": 1960,
+   "text": "Nevada starts its list of excluded persons, the \"Black Book\"."
+  },
+  {
+   "year": 1961,
+   "text": "Newport and Covington, Kentucky, end their wide-open gambling."
   },
   {
    "year": 1967,
-   "text": "Howard Hughes purchases the Desert Inn on April 5, beginning a documented corporate acquisition spree that eventually includes Sands, Castaways, New Frontier, and Landmark casinos (mob ties: none)."
+   "text": "Howard Hughes buys the Desert Inn, starting corporate ownership on the Strip."
   },
   {
    "year": 1969,
-   "text": "Nevada passes the Corporate Gaming Act on March 31, allowing public corporations to hold gaming licenses and facilitating Hughes' casino purchases (mob ties: none)."
+   "text": "Nevada passes the Corporate Gaming Act, letting public companies hold casino licences."
   },
   {
    "year": 1976,
-   "text": "New Jersey voters approve a constitutional amendment on November 2 limiting casino gambling to Atlantic City by a 56-44 margin (mob ties: none)."
+   "text": "New Jersey voters approve casino gambling limited to Atlantic City."
   },
   {
    "year": 1978,
-   "text": "Resorts International opens Atlantic City's first legal casino on May 26, operated by a licensed corporation with no documented mob ties (mob ties: none)."
+   "text": "Resorts International opens the first legal casino in Atlantic City on 26 May."
   },
   {
-   "year": 1979,
-   "text": "The FBI launches Operation Strawman in January, a documented investigation into Chicago mob skimming from Las Vegas casinos including the Stardust, Fremont, and Hacienda (mob ties: documented)."
-  },
-  {
-   "year": 1982,
-   "text": "A federal jury convicts Teamsters Central States Pension Fund director Roy Williams in December for documented mob-influenced loans to casinos including the Dunes and Edgewater (mob ties: documented)."
-  },
-  {
-   "year": 1985,
-   "text": "Operation Strawman yields convictions of 17 defendants in September, including documented Chicago Outfit members Joseph Aiuppa and Jackie Cerone for skimming $2 million from casino counting rooms (mob ties: documented)."
+   "year": 1986,
+   "text": "Mob enforcer Tony Spilotro is murdered; the Strawman skimming cases bring convictions."
   },
   {
    "year": 1988,
-   "text": "President Reagan signs the Indian Gaming Regulatory Act on October 17, establishing federal framework for tribal casino operations (mob ties: none)."
+   "text": "The Indian Gaming Regulatory Act creates the legal frame for tribal casinos."
   },
   {
-   "year": 1989,
-   "text": "The Nevada Gaming Commission adds reputed mob figures Anthony 'Tony the Ant' Spilotro and Herbert 'Fat Herbie' Blitzstein to the Black Book of excluded persons on March 23 based on documented organized crime associations (mob ties: documented)."
+   "year": 1992,
+   "text": "Foxwoods opens in Connecticut, the first of the big tribal casinos."
   },
   {
    "year": 2018,
-   "text": "The U.S. Supreme Court strikes down the Professional and Amateur Sports Protection Act in Murphy v. NCAA on May 14, allowing states to authorize sports betting at casinos (mob ties: none)."
+   "text": "The Supreme Court strikes down the federal ban on state-licensed sports betting."
   }
  ]
 }

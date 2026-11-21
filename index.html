@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>American Casinos: Map and Timeline</title>
+<meta name="description" content="Where American casinos opened and closed, year by year, and which ones had documented or alleged organised-crime ties.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230d0b0a'/%3E%3Ccircle cx='16' cy='16' r='9' fill='%23d8402a'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0d0b0a;--panel:#171311;--ink:#f1e6cf;--mute:#a99d86;--line:#3a312a;--red:#d8402a;--amber:#e8a33a;--teal:#3fb6a8;--font:"Oswald","Arial Narrow","Helvetica Neue",Arial,sans-serif;--body:Georgia,"Times New Roman",serif}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);overflow-x:hidden}
+body{background:radial-gradient(1200px 600px at 70% -10%,#241812 0,transparent 60%),var(--bg)}
+.wrap{max-width:1240px;margin:0 auto;padding:0 16px 48px}
+header{padding:28px 0 12px;border-bottom:3px solid var(--red);display:flex;flex-wrap:wrap;gap:12px 32px;align-items:flex-end;justify-content:space-between}
+.brand{font:600 12px var(--font);letter-spacing:.32em;text-transform:uppercase;color:var(--mute)}
+h1{font:700 clamp(34px,7vw,84px)/.92 var(--font);text-transform:uppercase;letter-spacing:.01em;margin:6px 0 0}
+h1 span{color:var(--red)}
+.lede{max-width:46ch;color:var(--mute);font-size:15px;line-height:1.45;margin:0}
+.bar{display:flex;flex-wrap:wrap;gap:14px 28px;align-items:center;padding:16px 0}
+.year{font:700 clamp(54px,9vw,110px)/.85 var(--font);color:var(--red);min-width:2.6ch}
+.count{font:400 16px var(--font);letter-spacing:.06em;text-transform:uppercase;color:var(--mute)}
+.count b{color:var(--ink);font-weight:700}
+.slider{flex:1 1 320px;display:flex;align-items:center;gap:12px}
+input[type=range]{flex:1;accent-color:var(--red);height:36px}
+button,label.chip{font:600 13px var(--font);letter-spacing:.14em;text-transform:uppercase;border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:9px 14px;cursor:pointer}
+button:hover,label.chip:hover{border-color:var(--red)}
+button.on{background:var(--red);border-color:var(--red)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+label.chip{display:flex;align-items:center;gap:8px;user-select:none}
+label.chip input{accent-color:var(--red);margin:0}
+.dot{width:11px;height:11px;border-radius:50%;display:inline-block}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:16px}
+.card{background:var(--panel);border:1px solid var(--line)}
+#mapbox{position:relative;padding:6px}
+svg{display:block;width:100%;height:auto}
+.state{fill:#1c1612;stroke:#4a3d33;stroke-width:.7}
+.ring{fill:rgba(216,64,42,.10);stroke:rgba(216,64,42,.55);stroke-width:1;stroke-dasharray:3 3;pointer-events:none}
+.rlabel{font:600 11px var(--font);letter-spacing:.12em;text-transform:uppercase;fill:var(--ink);paint-order:stroke;stroke:#0d0b0a;stroke-width:3;pointer-events:none}
+.v{cursor:pointer;stroke:#0d0b0a;stroke-width:1.2;transition:r .25s}
+.v:hover,.v.sel{stroke:var(--ink);stroke-width:2}
+#panel{padding:18px;min-height:240px}
+#panel h2{font:700 26px/1 var(--font);text-transform:uppercase;margin:0 0 4px}
+.meta{font:400 13px var(--font);letter-spacing:.1em;text-transform:uppercase;color:var(--mute);margin-bottom:12px}
+.tag{display:inline-block;font:600 11px var(--font);letter-spacing:.14em;text-transform:uppercase;padding:3px 8px;margin-right:6px;color:#0d0b0a}
+.tag.documented{background:var(--red)}.tag.alleged{background:var(--amber)}.tag.none{background:var(--teal)}
+.tag.ver{background:transparent;color:var(--mute);border:1px solid var(--line)}
+#panel p{font-size:15px;line-height:1.5;margin:10px 0}
+#panel ul{padding-left:18px;margin:8px 0;color:var(--mute);font-size:14px;line-height:1.45}
+.hint{color:var(--mute);font-size:14px;line-height:1.5}
+h3{font:600 14px var(--font);letter-spacing:.2em;text-transform:uppercase;color:var(--mute);margin:26px 0 10px}
+#chart{padding:10px 10px 4px;cursor:crosshair}
+.axis{font:400 11px var(--font);fill:var(--mute)}
+#tl{display:flex;gap:0;overflow-x:auto;padding:6px 0 12px;scrollbar-width:thin}
+.ev{flex:0 0 190px;border-left:2px solid var(--line);padding:2px 12px 10px;cursor:pointer;background:none;text-align:left;color:var(--ink);border-top:0;border-right:0;border-bottom:0;letter-spacing:0;text-transform:none;font:400 13px/1.4 var(--body)}
+.ev b{display:block;font:700 22px var(--font);color:var(--mute)}
+.ev.past b{color:var(--ink)}.ev.now{border-left-color:var(--red)}.ev.now b{color:var(--red)}
+#spots{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px}
+.spot{padding:10px 12px;border:1px solid var(--line);background:var(--panel);cursor:pointer;color:var(--ink);text-align:left;text-transform:none;letter-spacing:0}
+.spot b{font:700 20px var(--font);display:block}.spot span{font:400 12px var(--font);letter-spacing:.1em;color:var(--mute);text-transform:uppercase}
+.bars{height:5px;display:flex;margin-top:6px}
+footer{margin-top:34px;border-top:1px solid var(--line);padding-top:16px;color:var(--mute);font-size:13px;line-height:1.55;max-width:90ch}
+@media(max-width:900px){.grid{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.v{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div><div class="brand">Solutions as Service</div><h1>The house<br><span>always</span> wins</h1></div>
+  <p class="lede">A hundred years of American casinos on one map. Drag the year, see what was open, and which houses had documented or alleged organised-crime ties.</p>
+</header>
+
+<div class="bar">
+  <div class="year" id="year" aria-live="polite">1960</div>
+  <div class="count" id="count"></div>
+  <div class="slider"><button id="play" aria-label="Play or pause">Play</button><input id="range" type="range" min="1900" max="2025" value="1960" step="1" aria-label="Year"></div>
+</div>
+
+<div class="filters" id="filters">
+  <label class="chip"><input type="checkbox" data-l="documented" checked><i class="dot" style="background:var(--red)"></i>Documented ties</label>
+  <label class="chip"><input type="checkbox" data-l="alleged" checked><i class="dot" style="background:var(--amber)"></i>Alleged ties</label>
+  <label class="chip"><input type="checkbox" data-l="none" checked><i class="dot" style="background:var(--teal)"></i>No ties found</label>
+</div>
+
+<div class="grid">
+  <div class="card" id="mapbox"><svg id="map" viewBox="0 0 975 610" role="img" aria-label="Map of the United States with casinos"></svg></div>
+  <div class="card" id="panel"><div class="hint">Pick a circle on the map to read its story. Red circles had documented organised-crime ties (court records, convictions or congressional findings), amber circles alleged ties (credible reporting only), teal circles none that we found. Dashed rings mark hotspots.</div></div>
+</div>
+
+<h3>Venues open, year by year (68 notable venues in this dataset, not every casino)</h3>
+<div class="card" id="chart"><svg id="graph" viewBox="0 0 1000 190" role="img" aria-label="Chart of venues open by year"></svg></div>
+
+<h3>Timeline</h3>
+<div id="tl"></div>
+
+<h3>Hotspots in the selected year</h3>
+<div id="spots"></div>
+
+<footer id="foot">Data is AI-drafted from public history, then reviewed in a second AI pass: not independently sourced, so check anything you rely on. "Documented" means court records, convictions or congressional findings; "alleged" means credible reporting only. Nothing here is a claim about any living person. Built by Solutions as Service. Positions inside a city are illustrative. Map: US Atlas (public domain).</footer>
+</div>
+
+<script src="vendor/d3-array.min.js"></script>
+<script src="vendor/d3-geo.min.js"></script>
+<script src="vendor/topojson-client.min.js"></script>
+<script>
+(function(){
+"use strict";
+var COL={documented:"#d8402a",alleged:"#e8a33a",none:"#3fb6a8"};
+var NS="http://www.w3.org/2000/svg";
+var W=975,H=610;
+var data=null,us=null,pos={},state={year:1960,sel:null,levels:{documented:true,alleged:true,none:true},timer:null};
+var $=function(i){return document.getElementById(i)};
+function el(n,a,p){var e=document.createElementNS(NS,n);for(var k in a)e.setAttribute(k,a[k]);if(p)p.appendChild(e);return e}
+function open(c,y){return c.opened<=y&&(c.closed==null||c.closed>y)}
+function status(c,y){return c.closed==null?"since "+c.opened:c.opened+" to "+c.closed}
+
+Promise.all([fetch("data/casinos.json").then(function(r){return r.json()}),fetch("vendor/states-10m.json").then(function(r){return r.json()})]).then(function(r){data=r[0];us=r[1];init()}).catch(function(e){var p=$("panel");p.textContent="Could not load the data: "+e}); 
+
+function init(){
+  var map=$("map");
+  var nation=topojson.feature(us,us.objects.nation);
+  var proj=d3.geoAlbersUsa().fitExtent([[8,8],[W-8,H-8]],nation);
+  var path=d3.geoPath(proj);
+  var gS=el("g",{},map);
+  topojson.feature(us,us.objects.states).features.forEach(function(f){var d=path(f);if(d)el("path",{d:d,class:"state"},gS)});
+  var gR=el("g",{id:"rings"},map),gV=el("g",{id:"venues"},map),gL=el("g",{id:"rlabels"},map);
+  var cs=data.casinos.filter(function(c){var p=proj([c.lon,c.lat]);if(p){pos[c.id]={x:p[0],y:p[1]};return true}return false});
+  data.casinos=cs;
+  relax(cs);
+  var circles={};
+  cs.forEach(function(c){
+    var e=el("circle",{class:"v",cx:pos[c.id].x,cy:pos[c.id].y,r:0,fill:COL[c.mob.level],tabindex:0,role:"button","aria-label":c.name+", "+c.city+", "+status(c)},gV);
+    e.addEventListener("click",function(){select(c)});
+    e.addEventListener("keydown",function(ev){if(ev.key==="Enter"||ev.key===" "){ev.preventDefault();select(c)}});
+    var t=el("title",{},e);t.textContent=c.name+" ("+status(c)+")";
+    circles[c.id]=e;
+  });
+  var groups={};cs.forEach(function(c){(groups[c.hotspot]=groups[c.hotspot]||[]).push(c)});
+  var hs=Object.keys(groups).map(function(k){var g=groups[k];var mx=0,my=0;g.forEach(function(c){mx+=pos[c.id].x;my+=pos[c.id].y});return{name:k,items:g,x:mx/g.length,y:my/g.length}});
+  var ringEls={};
+  hs.forEach(function(h){ringEls[h.name]={ring:el("circle",{class:"ring",cx:h.x,cy:h.y,r:0},gR),label:el("text",{class:"rlabel","text-anchor":"middle",x:h.x,y:h.y-0},gL)}});
+  var minY=1900,maxY=2025;
+  var graph=$("graph");
+  var counts=[];
+  for(var y=minY;y<=maxY;y++){var o={documented:0,alleged:0,none:0};cs.forEach(function(c){if(open(c,y))o[c.mob.level]++});counts.push(o)}
+  var maxC=d3.max(counts,function(o){return o.documented+o.alleged+o.none})||1;
+  function drawGraph(){
+    graph.textContent="";
+    var L=34,R=8,T=10,B=24,w=1000-L-R,h=190-T-B;
+    var xs=function(y){return L+(y-minY)/(maxY-minY)*w},ys=function(v){return T+h-v/maxC*h};
+    [0,Math.ceil(maxC/2),maxC].forEach(function(v){el("line",{x1:L,x2:L+w,y1:ys(v),y2:ys(v),stroke:"#3a312a","stroke-width":.6},graph);var t=el("text",{class:"axis",x:L-6,y:ys(v)+4,"text-anchor":"end"},graph);t.textContent=v});
+    for(var y=1900;y<=2020;y+=20){var t=el("text",{class:"axis",x:xs(y),y:190-6,"text-anchor":"middle"},graph);t.textContent=y}
+    ["documented","alleged","none"].forEach(function(lv,li){
+      var order=["documented","alleged","none"];
+      var top=[],bot=[];
+      for(var i=0;i<counts.length;i++){var lo=0;for(var j=0;j<li;j++)lo+=counts[i][order[j]];var hi=lo+counts[i][lv];bot.push([xs(minY+i),ys(lo)]);top.push([xs(minY+i),ys(hi)])}
+      var dd="M"+top.map(function(p){return p[0]+","+p[1]}).join("L")+"L"+bot.reverse().map(function(p){return p[0]+","+p[1]}).join("L")+"Z";
+      el("path",{d:dd,fill:COL[lv],"fill-opacity":.85},graph);
+    });
+    el("line",{id:"gline",x1:xs(state.year),x2:xs(state.year),y1:T,y2:T+h,stroke:"#f1e6cf","stroke-width":1.5},graph);
+  }
+  $("chart").addEventListener("click",function(e){var b=graph.getBoundingClientRect();var fx=(e.clientX-b.left)/b.width*1000;var y=Math.round(minY+(fx-34)/(1000-34-8)*(maxY-minY));setYear(Math.max(minY,Math.min(maxY,y)))});
+  var tl=$("tl");
+  data.timeline.forEach(function(ev){var b=document.createElement("button");b.className="ev";b.dataset.y=ev.year;var s=document.createElement("b");s.textContent=ev.year;var t=document.createElement("span");t.textContent=ev.text;b.appendChild(s);b.appendChild(t);b.addEventListener("click",function(){setYear(ev.year)});tl.appendChild(b)});
+
+  function visible(c){return open(c,state.year)&&state.levels[c.mob.level]}
+  function update(){
+    var y=state.year;$("year").textContent=y;$("range").value=y;
+    var n=0,dc=0,al=0;
+    cs.forEach(function(c){var v=visible(c);var e=circles[c.id];var r=v?(c.opened>=y-5?9:6.5):0;e.setAttribute("r",r);e.style.pointerEvents=v?"auto":"none";e.setAttribute("tabindex",v?0:-1);if(open(c,y)){n++;if(c.mob.level==="documented")dc++;if(c.mob.level==="alleged")al++}});
+    $("count").innerHTML="<b>"+n+"</b> venues open · <b>"+dc+"</b> documented · <b>"+al+"</b> alleged";
+    var sp=$("spots");sp.textContent="";
+    var lab=[];
+    hs.forEach(function(h){
+      var vis=h.items.filter(visible);var re=ringEls[h.name];
+      if(vis.length){var r=14+7*Math.sqrt(vis.length);re.ring.setAttribute("r",r);re.label.textContent=h.name+" · "+vis.length;var right=h.x<W*.72;re.label.setAttribute("text-anchor",right?"start":"end");lab.push({re:re,x:h.x+(right?r+6:-r-6),y:h.y+4})}else{re.ring.setAttribute("r",0);re.label.textContent=""}
+    });
+    lab.sort(function(a,b){return a.y-b.y});
+    for(var i=1;i<lab.length;i++){for(var j=0;j<i;j++){if(Math.abs(lab[i].x-lab[j].x)<150&&lab[i].y-lab[j].y<14)lab[i].y=lab[j].y+14}}
+    lab.forEach(function(l){l.re.label.setAttribute("x",l.x);l.re.label.setAttribute("y",l.y)});
+    hs.map(function(h){return{h:h,n:h.items.filter(function(c){return open(c,y)})}}).filter(function(o){return o.n.length}).sort(function(a,b){return b.n.length-a.n.length}).forEach(function(o){
+      var b=document.createElement("button");b.className="spot";var t=document.createElement("b");t.textContent=o.h.name;var s=document.createElement("span");var d=o.n.filter(function(c){return c.mob.level==="documented"}).length;s.textContent=o.n.length+" open · "+d+" with documented ties";var bars=document.createElement("div");bars.className="bars";["documented","alleged","none"].forEach(function(l){var k=o.n.filter(function(c){return c.mob.level===l}).length;if(k){var i=document.createElement("i");i.style.cssText="flex:"+k+";background:"+COL[l];bars.appendChild(i)}});b.appendChild(t);b.appendChild(s);b.appendChild(bars);b.addEventListener("click",function(){var f=o.n[0];select(f)});sp.appendChild(b)});
+    Array.prototype.forEach.call(tl.children,function(b){var ey=+b.dataset.y;b.classList.toggle("past",ey<=y);b.classList.toggle("now",ey<=y&&(!b.nextSibling||+b.nextSibling.dataset.y>y))});
+    var g=$("gline");if(g){var x=34+(y-minY)/(maxY-minY)*(1000-34-8);g.setAttribute("x1",x);g.setAttribute("x2",x)}
+    if(state.sel)showPanel(state.sel);
+  }
+  function select(c){state.sel=c;if(c.opened>state.year||(c.closed!=null&&c.closed<=state.year))setYear(c.opened);showPanel(c);Object.keys(circles).forEach(function(k){circles[k].classList.toggle("sel",k===c.id)})}
+  function showPanel(c){
+    var p=$("panel");p.textContent="";
+    var h=document.createElement("h2");h.textContent=c.name;p.appendChild(h);
+    var m=document.createElement("div");m.className="meta";m.textContent=c.city+", "+c.state+" · "+status(c)+" · "+c.kind;p.appendChild(m);
+    var t=document.createElement("span");t.className="tag "+c.mob.level;t.textContent=c.mob.level==="none"?"No ties found":c.mob.level+" ties";p.appendChild(t);
+    var v=document.createElement("span");v.className="tag ver";v.textContent="AI-reviewed, not sourced";p.appendChild(v);
+    if(c.blurb){var b=document.createElement("p");b.textContent=c.blurb;p.appendChild(b)}
+    if(c.mob.summary){var s=document.createElement("p");s.textContent=c.mob.summary+(c.mob.years?" ("+c.mob.years+")":"");p.appendChild(s)}
+    if(c.mob.groups&&c.mob.groups.length){var g=document.createElement("div");g.className="meta";g.textContent="Groups named: "+c.mob.groups.join(", ");p.appendChild(g)}
+    if(c.events&&c.events.length){var u=document.createElement("ul");c.events.slice(0,5).forEach(function(e){var li=document.createElement("li");li.textContent=e.year+": "+e.text;u.appendChild(li)});p.appendChild(u)}
+  }
+  function setYear(y){state.year=y;update()}
+  $("range").addEventListener("input",function(e){stop();setYear(+e.target.value)});
+  function stop(){if(state.timer){clearInterval(state.timer);state.timer=null;$("play").textContent="Play";$("play").classList.remove("on")}}
+  $("play").addEventListener("click",function(){if(state.timer){stop();return}$("play").textContent="Pause";$("play").classList.add("on");if(state.year>=2025)state.year=1900;state.timer=setInterval(function(){if(state.year>=2025){stop();return}setYear(state.year+1)},220)});
+  Array.prototype.forEach.call(document.querySelectorAll("#filters input"),function(i){i.addEventListener("change",function(){state.levels[i.dataset.l]=i.checked;update()})});
+  drawGraph();update();
+}
+function relax(cs){
+  var ids=cs.map(function(c){return c.id}),R=7.5;
+  for(var it=0;it<60;it++){for(var a=0;a<ids.length;a++)for(var b=a+1;b<ids.length;b++){var p=pos[ids[a]],q=pos[ids[b]];var dx=q.x-p.x,dy=q.y-p.y,d=Math.sqrt(dx*dx+dy*dy)||.01;if(d<R*2){var m=(R*2-d)/2,ux=dx/d,uy=dy/d;if(d<.02){ux=1;uy=0}p.x-=ux*m*.5;p.y-=uy*m*.5;q.x+=ux*m*.5;q.y+=uy*m*.5}}}
+  cs.forEach(function(c){c._x=pos[c.id].x;c._y=pos[c.id].y});
+}
+})();
+</script>
+</body>
+</html>
