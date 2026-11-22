@@ -1,0 +1,178 @@
+{
+ "brief": "detroit-minnesota-tribal",
+ "venues": [
+  {
+   "id": "saratoga-race-course",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "canfield-casino-saratoga",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "canterbury-park",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "grand-casino-mille-lacs",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "foxwoods-resort-casino",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "mystic-lake-casino-hotel",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "turning-stone-resort-casino",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "mohegan-sun",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "mgm-grand-detroit",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "motorcity-casino-hotel",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "greektown-casino-hotel",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "pechanga-resort-casino",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no public page could be opened in this session (network egress blocked), so the current label is unverified, not refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  }
+ ],
+ "gaps": [
+  "Network blocked: en.wikipedia.org, wikipedia.com, www.nyra.com, www.house.mn.gov, www.encyclopedia.com, www.mprnews.org, archive.org, startribune.com, courtlistener.com, michigan.gov, mohegansun.com, nytimes.com, drf.com all refused (proxy 403 or DNS failure). WebSearch returns snippets only, which are not sources.",
+  "No candidates written; no date, ownership chain or label for any of the 12 venues is verified.",
+  "Recalled, not fetched: none cited. Rerun after these hosts are allowed in the session network settings."
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "brief": "reno-tahoe",
+ "venues": [
+  {
+   "id": "cal-neva-lodge",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no page could be opened (all fetch hosts blocked), so the current label is neither confirmed nor refuted; this is a research gap, not a finding.",
+    "sources": []
+   },
+   "corrections": "UNVERIFIED LEAD (snippet only): search results say Nevada's Gaming Control Board moved against Sinatra's licence in 1963 over Giancana's presence at the Cal Neva. Needs a fetched primary or official source; the 'FBI surveillance' claim was not found in any snippet."
+  },
+  {
+   "id": "harolds-club",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no page could be opened (all fetch hosts blocked), so the current label is neither confirmed nor refuted; this is a research gap, not a finding.",
+    "sources": []
+   },
+   "corrections": "UNVERIFIED LEAD (snippet only): search results say the club closed 1995 and the building was demolished 1999; the Smiths sold to Howard Hughes' company in 1970, so 'family-owned throughout' may be wrong. Needs a fetched source."
+  },
+  {
+   "id": "harrahs-reno",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no page could be opened (all fetch hosts blocked), so the current label is neither confirmed nor refuted; this is a research gap, not a finding.",
+    "sources": []
+   },
+   "corrections": "UNVERIFIED LEAD (search snippet only, not a source): search results say Harrah's Reno closed in March 2020 and the property was later sold by Caesars, so closed:null may be wrong. Needs a fetched source."
+  },
+  {
+   "id": "mapes-hotel-casino",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "Not assessed: no page could be opened (all fetch hosts blocked), so the current label is neither confirmed nor refuted; this is a research gap, not a finding.",
+    "sources": []
+   },
+   "corrections": "UNVERIFIED LEAD (snippet only): search results say the hotel closed 17 Dec 1982 and was imploded 30 Jan 2000; the record's closed:1982 may be closure, not demolition. Needs a fetched source."
+  }
+ ],
+ "gaps": [
+  "All fetches failed: WebFetch gave ENOTFOUND for en.wikipedia.org, www.kunr.org, lasvegassun.com; curl via Bash got proxy 403 / no connection for en.wikipedia.org, archive.org, onlinenevada.org, special.library.unlv.edu, themobmuseum.org. Hosts must be allowed in the session network settings.",
+  "Zero candidates written because nothing could be opened.",
+  "Unfinished: all four venues (dates, lineage, mob-tie)."
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "brief": "las-vegas-strip",
+ "venues": [
+  {
+   "id": "flamingo-las-vegas",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "none",
+    "basis": "Not assessed: no source page could be opened in this session, so the current label (documented) is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "desert-inn",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "none",
+    "basis": "Not assessed: no source page could be opened in this session, so the current label (documented) is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "sands-hotel-casino",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "none",
+    "basis": "Not assessed: no source page could be opened in this session, so the current label (documented) is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "dunes",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "none",
+    "basis": "Not assessed: no source page could be opened in this session, so the current label (alleged) is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "riviera-casino",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "none",
+    "basis": "Not assessed: no source page could be opened in this session, so the current label (alleged) is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "tropicana-las-vegas",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "none",
+    "basis": "Not assessed: no source page could be opened in this session, so the current label (documented) is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "stardust",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "none",
+    "basis": "Not assessed: no source page could be opened in this session, so the current label (documented) is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "caesars-palace",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "none",
+    "basis": "Not assessed: no source page could be opened in this session, so the current label (documented) is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "circus-circus",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "none",
+    "basis": "Not assessed: no source page could be opened in this session, so the current label (alleged) is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "bellagio",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "none",
+    "basis": "Not assessed: no source page could be opened in this session, so the current label (none) is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  }
+ ],
+ "gaps": [
+  "NO SOURCE COULD BE OPENED: WebFetch failed with DNS error ENOTFOUND for en.wikipedia.org, www.wikipedia.com, archive.org, themobmuseum.org, www.britannica.com, www.smithsonianmag.com, www.nevadagaming.gov; Bash curl to en.wikipedia.org returned HTTP 000 (proxy). Those hosts must be allowed in the session network settings.",
+  "All 10 venues unfinished: dates, lineage and mob-tie label unverified for each.",
+  "WebSearch returned only snippets (e.g. History.com and Mob Museum pages on the Flamingo, 26 Dec 1946 opening, Kefauver Las Vegas hearing 15 Nov 1950); snippets are not sources and are not cited.",
+  "Recalled, not fetched: Kefauver Committee Part 10 Nevada hearings (1950-51); Nevada Gaming Control Board records; UNLV Special Collections; Operation Strawman / Argent court opinions."
+ ]
+}

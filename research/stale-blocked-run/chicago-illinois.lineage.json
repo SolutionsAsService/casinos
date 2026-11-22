@@ -1,0 +1,92 @@
+{
+ "brief": "chicago-illinois",
+ "venues": [
+  {
+   "id": "four-deuces-chicago",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source was opened in this session, so the current label could not be checked; this is not a finding about the venue.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "grand-terrace-cafe-chicago",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source was opened in this session, so the current label could not be checked; this is not a finding about the venue.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "casino-queen-east-st-louis",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source was opened in this session, so the current label could not be checked; this is not a finding about the venue.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "harrahs-joliet",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source was opened in this session, so the current label could not be checked; this is not a finding about the venue.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "hollywood-casino-aurora",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source was opened in this session, so the current label could not be checked; this is not a finding about the venue.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "grand-victoria-casino-elgin",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source was opened in this session, so the current label could not be checked; this is not a finding about the venue.",
+    "sources": []
+   },
+   "corrections": ""
+  }
+ ],
+ "gaps": [
+  "Not researched: no page could be opened (en.wikipedia.org, archive.org, themobmuseum.org, encyclopedia.chicagohistory.org, chicagocrimescenes.blogspot.com all refused by the session proxy; WebFetch gave ENOTFOUND, curl gave HTTP 403). All six venues are unfinished."
+ ]
+}

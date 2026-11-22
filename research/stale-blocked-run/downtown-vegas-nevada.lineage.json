@@ -1,0 +1,106 @@
+{
+ "brief": "downtown-vegas-nevada",
+ "venues": [
+  {
+   "id": "railroad-pass",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (egress blocked), so the current label is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "el-cortez",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (egress blocked), so the current label is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "golden-nugget",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (egress blocked), so the current label is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "carson-nugget",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (egress blocked), so the current label is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "fremont-hotel",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (egress blocked), so the current label is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "riverside-resort",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (egress blocked), so the current label is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "colorado-belle",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (egress blocked), so the current label is neither confirmed nor refuted.",
+    "sources": []
+   },
+   "corrections": ""
+  }
+ ],
+ "gaps": [
+  "All outbound hosts were refused by the session egress proxy (403 / ENOTFOUND): en.wikipedia.org, themobmuseum.org, pbs.org, onlinenevada.org, special.library.unlv.edu, archive.org, casino.org, reviewjournal.com, lasvegassun.com, courtlistener.com, justia.com, theclio.com, historiclasvegasproject.com, wikiwand.com. Only WebSearch answered, and search snippets are not sources. Zero venues were covered."
+ ]
+}

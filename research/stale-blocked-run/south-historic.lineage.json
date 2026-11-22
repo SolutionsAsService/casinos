@@ -1,0 +1,137 @@
+{
+ "brief": "south-historic",
+ "venues": [
+  {
+   "id": "arlington-hotel-hot-springs",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (network blocked), so the current label 'documented' is not supported by any fetched page.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "ohio-club-hot-springs",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (network blocked), so the current label 'alleged' is not supported by any fetched page.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "southern-club-hot-springs",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (network blocked), so the current label 'documented' is not supported by any fetched page.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "vapors-club-hot-springs",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (network blocked), so the current label 'documented' is not supported by any fetched page.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "lookout-house-covington",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (network blocked), so the current label 'documented' is not supported by any fetched page.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "glenn-rendezvous-newport",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (network blocked), so the current label 'documented' is not supported by any fetched page.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "colonial-inn-hallandale",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (network blocked), so the current label 'documented' is not supported by any fetched page.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "beverly-hills-club-newport",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (network blocked), so the current label 'documented' is not supported by any fetched page.",
+    "sources": []
+   },
+   "corrections": ""
+  },
+  {
+   "id": "balinese-room-galveston",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No source could be opened in this session (network blocked), so the current label 'alleged' is not supported by any fetched page.",
+    "sources": []
+   },
+   "corrections": ""
+  }
+ ],
+ "gaps": [
+  "All hosts failed in WebFetch and curl (en.wikipedia.org, archive.org, encyclopediaofarkansas.net, tshaonline.org, texasescapes.com, rosenberg-library-museum.org, time.com, pokernews.com, galvestonhistorycenter.org, wikiwand.com, nps.gov): the session network allowlist refused them (ENOTFOUND / proxy 403). Only WebSearch worked, and snippets are not sources.",
+  "Venues unfinished: all nine (arlington-hotel-hot-springs, ohio-club-hot-springs, southern-club-hot-springs, vapors-club-hot-springs, lookout-house-covington, glenn-rendezvous-newport, colonial-inn-hallandale, beverly-hills-club-newport, balinese-room-galveston).",
+  "Unfetched lead (search snippet only, not a candidate): sources disagree on the Balinese Room opening (Rosenberg Library snippet says 17 Jan 1942; another snippet says a Maceo club opened 1929 as Maceo's Grotto and was later renamed); closure about 30 May 1957; destroyed by Hurricane Ike Sept 2008. Needs fetching.",
+  "No search was run for the Hot Springs, Kentucky or Hallandale venues; the Colonial Inn is in Hallandale, not the South Florida cities named elsewhere, and Beverly Hills Club is in Southgate KY, so check venue ids/names against sources when access is granted."
+ ]
+}

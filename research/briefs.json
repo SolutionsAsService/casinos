@@ -1,0 +1,748 @@
+{
+ "briefs": [
+  {
+   "id": "las-vegas-strip",
+   "kind": "record",
+   "records": [
+    {
+     "id": "flamingo-las-vegas",
+     "name": "Flamingo Las Vegas",
+     "city": "Paradise",
+     "state": "NV",
+     "opened": 1946,
+     "closed": null,
+     "current_label": "documented",
+     "current_summary": "Built with mob financing; Bugsy Siegel skimmed construction funds, leading to his 1947 murder; Lansky held hidden interests per FBI and Kefauver Committee findings."
+    },
+    {
+     "id": "desert-inn",
+     "name": "Desert Inn",
+     "city": "Paradise",
+     "state": "NV",
+     "opened": 1950,
+     "closed": 2000,
+     "current_label": "documented",
+     "current_summary": "Moe Dalitz, a Cleveland mob figure, was the public face; Kefauver Committee and Nevada Gaming Control Board documented hidden mob profit participation."
+    },
+    {
+     "id": "sands-hotel-casino",
+     "name": "Sands Hotel and Casino",
+     "city": "Paradise",
+     "state": "NV",
+     "opened": 1952,
+     "closed": 1996,
+     "current_label": "documented",
+     "current_summary": "Kefauver Committee and FBI records confirm Chicago Outfit and Lansky hidden interests; skim operations documented in 1970s federal prosecutions."
+    },
+    {
+     "id": "dunes",
+     "name": "Dunes Hotel & Casino",
+     "city": "Paradise",
+     "state": "NV",
+     "opened": 1955,
+     "closed": 1993,
+     "current_label": "alleged",
+     "current_summary": "Reporting and Nevada licensing files tied hidden interests in the early years to organised crime."
+    },
+    {
+     "id": "riviera-casino",
+     "name": "Riviera Casino",
+     "city": "Winchester",
+     "state": "NV",
+     "opened": 1955,
+     "closed": 2015,
+     "current_label": "alleged",
+     "current_summary": "Credible reporting links early investors to Midwest mob figures, but no convictions tied directly to casino operations."
+    },
+    {
+     "id": "tropicana-las-vegas",
+     "name": "Tropicana Las Vegas",
+     "city": "Paradise",
+     "state": "NV",
+     "opened": 1957,
+     "closed": 2024,
+     "current_label": "documented",
+     "current_summary": "Hidden mob interests at opening (Frank Costello); in the 1970s Kansas City mob figures skimmed the casino in the FBI investigation known as Operation Strawman."
+    },
+    {
+     "id": "stardust",
+     "name": "Stardust Resort & Casino",
+     "city": "Paradise",
+     "state": "NV",
+     "opened": 1958,
+     "closed": 2006,
+     "current_label": "documented",
+     "current_summary": "Skimmed for years: the 1970s-80s FBI case Operation Strawman and the Argent Corporation scandal ended in convictions; the story behind the film Casino."
+    },
+    {
+     "id": "caesars-palace",
+     "name": "Caesars Palace",
+     "city": "Paradise",
+     "state": "NV",
+     "opened": 1966,
+     "closed": null,
+     "current_label": "documented",
+     "current_summary": "Construction financed by Teamsters pension fund under mob influence per federal convictions; no direct mob ownership after opening."
+    },
+    {
+     "id": "circus-circus",
+     "name": "Circus Circus Las Vegas",
+     "city": "Las Vegas",
+     "state": "NV",
+     "opened": 1968,
+     "closed": null,
+     "current_label": "alleged",
+     "current_summary": "Jay Sarno's financing connections raised regulatory scrutiny; no proven mob ownership after licensing."
+    },
+    {
+     "id": "bellagio",
+     "name": "Bellagio",
+     "city": "Paradise",
+     "state": "NV",
+     "opened": 1998,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Developed by Steve Wynn's Mirage Resorts with no mob ties; fully corporate financing."
+    }
+   ],
+   "asks": "For EACH venue in records: (1) confirm or correct the opening year and closing/demolition year; (2) build its lineage: every name the property has had and every owner/operator with dates (renamings, sales, mergers, successors on the same site), (3) find sources on organised-crime ties: court records, Kefauver Committee 1950-51 hearings, Nevada Gaming Control Board or state gaming commission actions, FBI/DOJ releases, reputable histories. Search for supporting AND sceptical/contradicting sources. If a label (documented/alleged/none) is not supported by sources, say so. Never accuse living people.",
+   "why": "The site 'Ledger of the House' labels each venue documented / alleged / none and shows ownership threads. Every label and every date must cite a fetched source."
+  },
+  {
+   "id": "downtown-vegas-nevada",
+   "kind": "record",
+   "records": [
+    {
+     "id": "railroad-pass",
+     "name": "Railroad Pass Casino",
+     "city": "Henderson",
+     "state": "NV",
+     "opened": 1931,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Continuously operated since 1931; no credible organized crime allegations in regulatory records."
+    },
+    {
+     "id": "el-cortez",
+     "name": "El Cortez Hotel & Casino",
+     "city": "Las Vegas",
+     "state": "NV",
+     "opened": 1941,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "No documented mob ownership; operated by legitimate local investors from opening."
+    },
+    {
+     "id": "golden-nugget",
+     "name": "Golden Nugget Las Vegas",
+     "city": "Las Vegas",
+     "state": "NV",
+     "opened": 1946,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Opened by Guy McAfee in 1946 and later run by Steve Wynn; no ownership by organised crime is documented in the sources checked."
+    },
+    {
+     "id": "carson-nugget",
+     "name": "Carson Nugget",
+     "city": "Carson City",
+     "state": "NV",
+     "opened": 1954,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Family-owned throughout; clean regulatory history per Nevada Gaming Control Board."
+    },
+    {
+     "id": "fremont-hotel",
+     "name": "Fremont Hotel & Casino",
+     "city": "Las Vegas",
+     "state": "NV",
+     "opened": 1956,
+     "closed": null,
+     "current_label": "documented",
+     "current_summary": "Part of the Argent Corporation group skimmed in the 1970s; the Strawman case brought convictions."
+    },
+    {
+     "id": "riverside-resort",
+     "name": "Riverside Resort",
+     "city": "Laughlin",
+     "state": "NV",
+     "opened": 1966,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Founded by Don Laughlin; no credible allegations of organized crime involvement."
+    },
+    {
+     "id": "colorado-belle",
+     "name": "Colorado Belle",
+     "city": "Laughlin",
+     "state": "NV",
+     "opened": 1987,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Developed by local investors; no documented or alleged mob connections."
+    }
+   ],
+   "asks": "For EACH venue in records: (1) confirm or correct the opening year and closing/demolition year; (2) build its lineage: every name the property has had and every owner/operator with dates (renamings, sales, mergers, successors on the same site), (3) find sources on organised-crime ties: court records, Kefauver Committee 1950-51 hearings, Nevada Gaming Control Board or state gaming commission actions, FBI/DOJ releases, reputable histories. Search for supporting AND sceptical/contradicting sources. If a label (documented/alleged/none) is not supported by sources, say so. Never accuse living people.",
+   "why": "The site 'Ledger of the House' labels each venue documented / alleged / none and shows ownership threads. Every label and every date must cite a fetched source."
+  },
+  {
+   "id": "reno-tahoe",
+   "kind": "record",
+   "records": [
+    {
+     "id": "cal-neva-lodge",
+     "name": "Cal Neva Lodge",
+     "city": "Crystal Bay",
+     "state": "NV",
+     "opened": 1926,
+     "closed": 2013,
+     "current_label": "documented",
+     "current_summary": "Frank Sinatra's 1960s ownership partnered with Sam Giancana; FBI surveillance documented Outfit use of the property."
+    },
+    {
+     "id": "harolds-club",
+     "name": "Harold's Club",
+     "city": "Reno",
+     "state": "NV",
+     "opened": 1935,
+     "closed": 1995,
+     "current_label": "none",
+     "current_summary": "No documented or credible mob ties; family-owned throughout its history."
+    },
+    {
+     "id": "harrahs-reno",
+     "name": "Harrah's Reno",
+     "city": "Reno",
+     "state": "NV",
+     "opened": 1937,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "No organised-crime control documented; founded by William F. Harrah."
+    },
+    {
+     "id": "mapes-hotel-casino",
+     "name": "Mapes Hotel & Casino",
+     "city": "Reno",
+     "state": "NV",
+     "opened": 1947,
+     "closed": 1982,
+     "current_label": "none",
+     "current_summary": "No mob ownership documented in the sources checked."
+    }
+   ],
+   "asks": "For EACH venue in records: (1) confirm or correct the opening year and closing/demolition year; (2) build its lineage: every name the property has had and every owner/operator with dates (renamings, sales, mergers, successors on the same site), (3) find sources on organised-crime ties: court records, Kefauver Committee 1950-51 hearings, Nevada Gaming Control Board or state gaming commission actions, FBI/DOJ releases, reputable histories. Search for supporting AND sceptical/contradicting sources. If a label (documented/alleged/none) is not supported by sources, say so. Never accuse living people.",
+   "why": "The site 'Ledger of the House' labels each venue documented / alleged / none and shows ownership threads. Every label and every date must cite a fetched source."
+  },
+  {
+   "id": "atlantic-city-nj",
+   "kind": "record",
+   "records": [
+    {
+     "id": "bill-millers-riviera-casino",
+     "name": "Bill Miller's Riviera Casino",
+     "city": "Fort Lee",
+     "state": "NJ",
+     "opened": 1930,
+     "closed": 1953,
+     "current_label": "alleged",
+     "current_summary": "Fort Lee clubs of the 1930s-50s were reported to pay protection and share profits with New York mob figures."
+    },
+    {
+     "id": "the-500-club",
+     "name": "The 500 Club",
+     "city": "Atlantic City",
+     "state": "NJ",
+     "opened": 1930,
+     "closed": 1973,
+     "current_label": "documented",
+     "current_summary": "Kefauver Committee and NJ Crime Commission document Philadelphia Mafia (Angelo Bruno family) control through owner Skinny D'Amato."
+    },
+    {
+     "id": "club-harlem",
+     "name": "Club Harlem",
+     "city": "Atlantic City",
+     "state": "NJ",
+     "opened": 1935,
+     "closed": 1986,
+     "current_label": "none",
+     "current_summary": "No mob ownership documented in the sources checked."
+    },
+    {
+     "id": "resorts-casino-hotel",
+     "name": "Resorts Casino Hotel",
+     "city": "Atlantic City",
+     "state": "NJ",
+     "opened": 1978,
+     "closed": null,
+     "current_label": "alleged",
+     "current_summary": "Resorts International grew out of the Mary Carter Paint Company, which press and investigators linked to Lansky associates in the 1960s."
+    },
+    {
+     "id": "ballys-atlantic-city",
+     "name": "Bally's Atlantic City",
+     "city": "Atlantic City",
+     "state": "NJ",
+     "opened": 1979,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "No documented or credible alleged mob ties found in NJ Casino Control Commission licensing records."
+    },
+    {
+     "id": "caesars-atlantic-city",
+     "name": "Caesars Atlantic City",
+     "city": "Atlantic City",
+     "state": "NJ",
+     "opened": 1979,
+     "closed": null,
+     "current_label": "alleged",
+     "current_summary": "Alleged Chicago Outfit ties via Teamsters pension fund financing investigated by FBI and NJCCC in 1979-80."
+    },
+    {
+     "id": "harrahs-atlantic-city",
+     "name": "Harrah's Atlantic City",
+     "city": "Atlantic City",
+     "state": "NJ",
+     "opened": 1980,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "No documented or credible alleged mob ties; developed by Holiday Inns Inc. with clean NJCCC licensing."
+    },
+    {
+     "id": "tropicana-atlantic-city",
+     "name": "Tropicana Atlantic City",
+     "city": "Atlantic City",
+     "state": "NJ",
+     "opened": 1981,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "No documented or credible alleged mob ties; developed by Ramada Inns with clean NJCCC licensing."
+    },
+    {
+     "id": "trump-plaza",
+     "name": "Trump Plaza Hotel and Casino",
+     "city": "Atlantic City",
+     "state": "NJ",
+     "opened": 1984,
+     "closed": 2014,
+     "current_label": "alleged",
+     "current_summary": "Reporting linked concrete and construction contractors on Trump projects to organised crime; no casino ownership by the mob is established."
+    },
+    {
+     "id": "trump-taj-mahal",
+     "name": "Trump Taj Mahal Casino Resort",
+     "city": "Atlantic City",
+     "state": "NJ",
+     "opened": 1990,
+     "closed": 2016,
+     "current_label": "alleged",
+     "current_summary": "Reporting linked concrete and construction contractors on Trump projects to organised crime; no casino ownership by the mob is established."
+    },
+    {
+     "id": "borgata-hotel-casino-spa",
+     "name": "Borgata Hotel Casino & Spa",
+     "city": "Atlantic City",
+     "state": "NJ",
+     "opened": 2003,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "No documented or credible alleged mob ties; developed by Boyd Gaming and MGM Mirage with clean NJCCC licensing."
+    }
+   ],
+   "asks": "For EACH venue in records: (1) confirm or correct the opening year and closing/demolition year; (2) build its lineage: every name the property has had and every owner/operator with dates (renamings, sales, mergers, successors on the same site), (3) find sources on organised-crime ties: court records, Kefauver Committee 1950-51 hearings, Nevada Gaming Control Board or state gaming commission actions, FBI/DOJ releases, reputable histories. Search for supporting AND sceptical/contradicting sources. If a label (documented/alleged/none) is not supported by sources, say so. Never accuse living people.",
+   "why": "The site 'Ledger of the House' labels each venue documented / alleged / none and shows ownership threads. Every label and every date must cite a fetched source."
+  },
+  {
+   "id": "chicago-illinois",
+   "kind": "record",
+   "records": [
+    {
+     "id": "four-deuces-chicago",
+     "name": "Four Deuces",
+     "city": "Chicago",
+     "state": "IL",
+     "opened": 1923,
+     "closed": 1929,
+     "current_label": "documented",
+     "current_summary": "Al Capone's Prohibition-era headquarters, with a speakeasy, brothel and gambling above 2222 South Wabash."
+    },
+    {
+     "id": "grand-terrace-cafe-chicago",
+     "name": "Grand Terrace Cafe",
+     "city": "Chicago",
+     "state": "IL",
+     "opened": 1928,
+     "closed": 1950,
+     "current_label": "documented",
+     "current_summary": "The jazz club was controlled by Capone associates; owner Ed Fox answered to the Outfit."
+    },
+    {
+     "id": "casino-queen-east-st-louis",
+     "name": "Casino Queen",
+     "city": "East St. Louis",
+     "state": "IL",
+     "opened": 1993,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Riverboat casino on the Mississippi River."
+    },
+    {
+     "id": "harrahs-joliet",
+     "name": "Harrah's Joliet",
+     "city": "Joliet",
+     "state": "IL",
+     "opened": 1993,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Licensed riverboat casino operated by Caesars Entertainment."
+    },
+    {
+     "id": "hollywood-casino-aurora",
+     "name": "Hollywood Casino Aurora",
+     "city": "Aurora",
+     "state": "IL",
+     "opened": 1993,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "No documented mob ties; licensed riverboat casino."
+    },
+    {
+     "id": "grand-victoria-casino-elgin",
+     "name": "Grand Victoria Casino Elgin",
+     "city": "Elgin",
+     "state": "IL",
+     "opened": 1994,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Licensed riverboat casino on the Fox River."
+    }
+   ],
+   "asks": "For EACH venue in records: (1) confirm or correct the opening year and closing/demolition year; (2) build its lineage: every name the property has had and every owner/operator with dates (renamings, sales, mergers, successors on the same site), (3) find sources on organised-crime ties: court records, Kefauver Committee 1950-51 hearings, Nevada Gaming Control Board or state gaming commission actions, FBI/DOJ releases, reputable histories. Search for supporting AND sceptical/contradicting sources. If a label (documented/alleged/none) is not supported by sources, say so. Never accuse living people.",
+   "why": "The site 'Ledger of the House' labels each venue documented / alleged / none and shows ownership threads. Every label and every date must cite a fetched source."
+  },
+  {
+   "id": "gulf-coast",
+   "kind": "record",
+   "records": [
+    {
+     "id": "casino-magic-biloxi",
+     "name": "Casino Magic",
+     "city": "Biloxi",
+     "state": "MS",
+     "opened": 1992,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": ""
+    },
+    {
+     "id": "president-casino-biloxi",
+     "name": "President Casino Broadwater Resort",
+     "city": "Biloxi",
+     "state": "MS",
+     "opened": 1992,
+     "closed": 2005,
+     "current_label": "none",
+     "current_summary": ""
+    },
+    {
+     "id": "boomtown-casino-harvey",
+     "name": "Boomtown Casino",
+     "city": "Harvey",
+     "state": "LA",
+     "opened": 1994,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": ""
+    },
+    {
+     "id": "treasure-chest-casino-kenner",
+     "name": "Treasure Chest Casino",
+     "city": "Kenner",
+     "state": "LA",
+     "opened": 1994,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": ""
+    },
+    {
+     "id": "ip-casino-biloxi",
+     "name": "IP Casino Resort Spa",
+     "city": "Biloxi",
+     "state": "MS",
+     "opened": 1997,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": ""
+    },
+    {
+     "id": "beau-rivage-biloxi",
+     "name": "Beau Rivage Resort & Casino",
+     "city": "Biloxi",
+     "state": "MS",
+     "opened": 1999,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": ""
+    },
+    {
+     "id": "harras-new-orleans",
+     "name": "Harrah's New Orleans",
+     "city": "New Orleans",
+     "state": "LA",
+     "opened": 1999,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": ""
+    },
+    {
+     "id": "hard-rock-biloxi",
+     "name": "Hard Rock Hotel & Casino Biloxi",
+     "city": "Biloxi",
+     "state": "MS",
+     "opened": 2007,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": ""
+    },
+    {
+     "id": "golden-nugget-biloxi",
+     "name": "Golden Nugget Biloxi",
+     "city": "Biloxi",
+     "state": "MS",
+     "opened": 2012,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Opened by Guy McAfee in 1946 and later run by Steve Wynn; no ownership by organised crime is documented in the sources checked."
+    }
+   ],
+   "asks": "For EACH venue in records: (1) confirm or correct the opening year and closing/demolition year; (2) build its lineage: every name the property has had and every owner/operator with dates (renamings, sales, mergers, successors on the same site), (3) find sources on organised-crime ties: court records, Kefauver Committee 1950-51 hearings, Nevada Gaming Control Board or state gaming commission actions, FBI/DOJ releases, reputable histories. Search for supporting AND sceptical/contradicting sources. If a label (documented/alleged/none) is not supported by sources, say so. Never accuse living people.",
+   "why": "The site 'Ledger of the House' labels each venue documented / alleged / none and shows ownership threads. Every label and every date must cite a fetched source."
+  },
+  {
+   "id": "south-historic",
+   "kind": "record",
+   "records": [
+    {
+     "id": "arlington-hotel-hot-springs",
+     "name": "The Arlington Hotel",
+     "city": "Hot Springs",
+     "state": "AR",
+     "opened": 1875,
+     "closed": 1967,
+     "current_label": "documented",
+     "current_summary": "Owney Madden and later Benny Binion held interests; Kefauver Committee 1950 named it a mob-controlled casino."
+    },
+    {
+     "id": "ohio-club-hot-springs",
+     "name": "The Ohio Club",
+     "city": "Hot Springs",
+     "state": "AR",
+     "opened": 1905,
+     "closed": 1967,
+     "current_label": "alleged",
+     "current_summary": "Longstanding bar with back-room gambling; machine protection alleged but no federal convictions."
+    },
+    {
+     "id": "southern-club-hot-springs",
+     "name": "The Southern Club",
+     "city": "Hot Springs",
+     "state": "AR",
+     "opened": 1920,
+     "closed": 1967,
+     "current_label": "documented",
+     "current_summary": "Run by Leo McLaughlin's political machine with Chicago Outfit backing; raids documented in 1960s."
+    },
+    {
+     "id": "vapors-club-hot-springs",
+     "name": "The Vapors Club",
+     "city": "Hot Springs",
+     "state": "AR",
+     "opened": 1922,
+     "closed": 1967,
+     "current_label": "documented",
+     "current_summary": "Owned by Owney Madden associate; listed in Kefauver Committee exhibits as mob revenue source."
+    },
+    {
+     "id": "lookout-house-covington",
+     "name": "Lookout House",
+     "city": "Covington",
+     "state": "KY",
+     "opened": 1927,
+     "closed": 1961,
+     "current_label": "documented",
+     "current_summary": "Cleveland mob partners ran gaming; Kefauver Committee and FBI surveillance confirmed."
+    },
+    {
+     "id": "glenn-rendezvous-newport",
+     "name": "Glenn Rendezvous",
+     "city": "Newport",
+     "state": "KY",
+     "opened": 1930,
+     "closed": 1961,
+     "current_label": "documented",
+     "current_summary": "Operated by Cleveland family associates; IRS and FBI files list it as mob revenue source."
+    },
+    {
+     "id": "colonial-inn-hallandale",
+     "name": "Colonial Inn",
+     "city": "Hallandale Beach",
+     "state": "FL",
+     "opened": 1935,
+     "closed": 1957,
+     "current_label": "documented",
+     "current_summary": "Frank Erickson and Chicago Outfit ran the Colonial Inn as a major wire-service hub and casino; documented in Kefauver Committee hearings and FBI files linking it to national bookmaking network."
+    },
+    {
+     "id": "beverly-hills-club-newport",
+     "name": "Beverly Hills Club",
+     "city": "Southgate",
+     "state": "KY",
+     "opened": 1937,
+     "closed": 1961,
+     "current_label": "documented",
+     "current_summary": "Shondor Birns and Cleveland family held hidden interest; Kefauver Committee 1950 testimony confirmed mob control."
+    },
+    {
+     "id": "balinese-room-galveston",
+     "name": "Balinese Room",
+     "city": "Galveston",
+     "state": "TX",
+     "opened": 1942,
+     "closed": 1957,
+     "current_label": "alleged",
+     "current_summary": "The Maceo brothers ran gambling in Galveston for decades; the club was raided by the Texas Rangers in 1957."
+    }
+   ],
+   "asks": "For EACH venue in records: (1) confirm or correct the opening year and closing/demolition year; (2) build its lineage: every name the property has had and every owner/operator with dates (renamings, sales, mergers, successors on the same site), (3) find sources on organised-crime ties: court records, Kefauver Committee 1950-51 hearings, Nevada Gaming Control Board or state gaming commission actions, FBI/DOJ releases, reputable histories. Search for supporting AND sceptical/contradicting sources. If a label (documented/alleged/none) is not supported by sources, say so. Never accuse living people.",
+   "why": "The site 'Ledger of the House' labels each venue documented / alleged / none and shows ownership threads. Every label and every date must cite a fetched source."
+  },
+  {
+   "id": "detroit-minnesota-tribal",
+   "kind": "record",
+   "records": [
+    {
+     "id": "saratoga-race-course",
+     "name": "Saratoga Race Course",
+     "city": "Saratoga Springs",
+     "state": "NY",
+     "opened": 1863,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Legally chartered thoroughbred track; no documented mob control."
+    },
+    {
+     "id": "canfield-casino-saratoga",
+     "name": "Canfield Casino",
+     "city": "Saratoga Springs",
+     "state": "NY",
+     "opened": 1870,
+     "closed": 1907,
+     "current_label": "none",
+     "current_summary": "A 19th-century gambling house; its later era (Richard Canfield) predates organised crime as the 20th century knew it."
+    },
+    {
+     "id": "canterbury-park",
+     "name": "Canterbury Park",
+     "city": "Shakopee",
+     "state": "MN",
+     "opened": 1985,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Operated as a licensed horse racing track and card room with no organized crime ties."
+    },
+    {
+     "id": "grand-casino-mille-lacs",
+     "name": "Grand Casino Mille Lacs",
+     "city": "Onamia",
+     "state": "MN",
+     "opened": 1991,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Owned and operated by the Mille Lacs Band of Ojibwe with no organized crime involvement."
+    },
+    {
+     "id": "foxwoods-resort-casino",
+     "name": "Foxwoods Resort Casino",
+     "city": "Mashantucket",
+     "state": "CT",
+     "opened": 1992,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Owned and operated by the Mashantucket Pequot Tribal Nation with no organized crime involvement."
+    },
+    {
+     "id": "mystic-lake-casino-hotel",
+     "name": "Mystic Lake Casino Hotel",
+     "city": "Prior Lake",
+     "state": "MN",
+     "opened": 1992,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Owned and operated by the Shakopee Mdewakanton Sioux Community with no organized crime involvement."
+    },
+    {
+     "id": "turning-stone-resort-casino",
+     "name": "Turning Stone Resort Casino",
+     "city": "Verona",
+     "state": "NY",
+     "opened": 1993,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Owned and operated by the Oneida Indian Nation with no organized crime involvement."
+    },
+    {
+     "id": "mohegan-sun",
+     "name": "Mohegan Sun",
+     "city": "Uncasville",
+     "state": "CT",
+     "opened": 1996,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Owned and operated by the Mohegan Tribe with no organized crime involvement."
+    },
+    {
+     "id": "mgm-grand-detroit",
+     "name": "MGM Grand Detroit",
+     "city": "Detroit",
+     "state": "MI",
+     "opened": 1999,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Opened by MGM Resorts International as a licensed commercial casino with no organized crime ties."
+    },
+    {
+     "id": "motorcity-casino-hotel",
+     "name": "MotorCity Casino Hotel",
+     "city": "Detroit",
+     "state": "MI",
+     "opened": 1999,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Developed by Marian Ilitch and opened as a licensed commercial casino with no organized crime ties."
+    },
+    {
+     "id": "greektown-casino-hotel",
+     "name": "Greektown Casino-Hotel",
+     "city": "Detroit",
+     "state": "MI",
+     "opened": 2000,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Opened as a licensed commercial casino by the Sault Ste. Marie Tribe of Chippewa Indians and later sold to Penn Entertainment with no organized crime ties."
+    },
+    {
+     "id": "pechanga-resort-casino",
+     "name": "Pechanga Resort Casino",
+     "city": "Temecula",
+     "state": "CA",
+     "opened": 2002,
+     "closed": null,
+     "current_label": "none",
+     "current_summary": "Owned and operated by the Pechanga Band of Luise\u00f1o Indians with no organized crime involvement."
+    }
+   ],
+   "asks": "For EACH venue in records: (1) confirm or correct the opening year and closing/demolition year; (2) build its lineage: every name the property has had and every owner/operator with dates (renamings, sales, mergers, successors on the same site), (3) find sources on organised-crime ties: court records, Kefauver Committee 1950-51 hearings, Nevada Gaming Control Board or state gaming commission actions, FBI/DOJ releases, reputable histories. Search for supporting AND sceptical/contradicting sources. If a label (documented/alleged/none) is not supported by sources, say so. Never accuse living people.",
+   "why": "The site 'Ledger of the House' labels each venue documented / alleged / none and shows ownership threads. Every label and every date must cite a fetched source."
+  }
+ ]
+}
