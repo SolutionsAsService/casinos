@@ -17,7 +17,7 @@ LOTH.load().then(function(r){
  function p(t,cls,srcs){var e=document.createElement("p");if(cls)e.className=cls;e.textContent=t;if(srcs)LOTH.cites(srcs,S,e);b.appendChild(e);return e}
  var L=c.ledger||{},lb=L.label||{};
  h3("What the sources support");
- var t=document.createElement("span");t.className="tag "+(c.level==="unsupported"?"ver":c.level);t.textContent=c.level==="none"?"no ties found":c.level;var w=document.createElement("p");w.appendChild(t);var v=document.createElement("span");v.className="tag ver";v.textContent=c.sourced?"cited":"unsourced draft";w.appendChild(v);b.appendChild(w);
+ var t=document.createElement("span");t.className="tag "+(c.level==="unsupported"?"ver":c.level);t.textContent=c.level==="none"?"nothing found in "+(lb.nsrc||0)+" source"+((lb.nsrc||0)===1?"":"s"):c.level;var w=document.createElement("p");w.appendChild(t);var v=document.createElement("span");v.className="tag ver";v.textContent=c.sourced?"cited":"unsourced draft";w.appendChild(v);b.appendChild(w);
  if(lb.basis)p(lb.basis,"",lb.sources);else p(c.mob.summary+" (earlier draft, not yet backed by a checked source)","hint");
  if(L.corrections)p("Corrected from earlier data: "+L.corrections,"hint");
  h3("Names and operators");

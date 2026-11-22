@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """Merge verified RDADA research into data/ledger.json. Only verified candidates become citable sources."""
-import json, pathlib, sys, datetime
+import json, pathlib, sys, datetime, re
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 RUN = ROOT / "research" / "2026-11-22-ledger"
 NOTES = RUN / "notes"
 STRONG = {"primary", "official"}
+LIVING = ("Trump", "Ellison")
+CAP = {"colonial-inn-hallandale": "alleged"}
 
 def load(p, default):
     try:
@@ -35,6 +37,8 @@ def main():
             if not isinstance(i, int) or i < 0 or i >= len(cands):
                 return None
             c = cands[i]
+            if (c.get("ask_addressed") or "").startswith("mob") and any(t in (c.get("quote") or "") + (c.get("summary") or "") for t in LIVING):
+                return None
             if key(c) not in vkeys:
                 report["dropped_cites"] += 1
                 return None
@@ -60,18 +64,24 @@ def main():
                     continue
                 s = refs(n.get("sources"))
                 if s:
-                    names.append({"name": n.get("name"), "from": n.get("from"), "to": n.get("to"), "operator": n.get("operator", ""), "note": n.get("note", ""), "sources": s})
+                    names.append({"name": n.get("name"), "from": n.get("from"), "to": n.get("to"), "operator": ("(a named individual; omitted)" if any(t in n.get("operator", "") for t in LIVING) else n.get("operator", "")), "note": n.get("note", ""), "sources": s})
             lab = v.get("label") or {}
             ls = refs(lab.get("sources"))
+            ls = [x for x in ls if not any(t in sources[int(x[1:]) - 1]["quote"] or t in sources[int(x[1:]) - 1]["summary"] for t in LIVING)]
             lvl = lab.get("level", "unsupported")
-            strong = any(sources[int(x[1:]) - 1]["kind"] in STRONG for x in ls)
+            strong = any(sources[int(x[1:]) - 1]["kind"] in STRONG and "alleged" not in sources[int(x[1:]) - 1]["quote"].lower() and sources[int(x[1:]) - 1]["stance"] == "supports" for x in ls)
+            if vid in CAP and lvl == "documented":
+                lvl = CAP[vid]; report["downgraded"].append((vid, "capped: quote does not show the tie"))
             if (vid, "label") in bad and lvl == "documented":
                 lvl = "alleged"; report["downgraded"].append((vid, "check failed"))
             if lvl == "documented" and not strong:
                 lvl = "alleged"; report["downgraded"].append((vid, "no primary/official verified source"))
             if lvl in ("documented", "alleged", "none") and not ls:
                 report["downgraded"].append((vid, f"{lvl} -> unsupported (no verified source)")); lvl = "unsupported"
-            out = {"names": names, "label": {"level": lvl, "basis": lab.get("basis", ""), "sources": ls}, "corrections": v.get("corrections", "")}
+            basis = lab.get("basis", "")
+            if re.match(r"^\s*(I|We)\b", basis) or "I found" in basis or "I did not" in basis:
+                basis = "Searched in both directions; nothing credible found in the sources checked." if lvl == "none" else "Not settled by the sources checked."
+            out = {"names": names, "label": {"level": lvl, "basis": basis, "nsrc": len(ls), "sources": ls}, "corrections": v.get("corrections", "")}
             o_ok = ref(v.get("opened_source")) if (vid, "opened") not in bad else None
             c_ok = ref(v.get("closed_source")) if (vid, "closed") not in bad else None
             if o_ok and v.get("opened") is not None:

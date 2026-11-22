@@ -2,6 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sources · Ledger of the House</title>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/site.css"></head>
 <body><div class="wrap page"><header><div><h1>Sources</h1><p class="sub">Every source below was opened by a researcher, and re-fetched by a second agent that found the quoted words on the page. Quotes are at most 25 words. Reliability is unassessed until a person has read the original.</p></div></header>
+<p class="sub">Markers after a citation show its stance: + supports, − contradicts, × fails to support, · context only.</p>
 <div class="bar"><input class="search" id="q" placeholder="Search sources" aria-label="Search"></div>
 <div class="srcs" id="list"></div>
 <footer>Stance is relative to the claim being tested: supports, fails_to_support, contradicts, or context. Wikipedia is used for context only.</footer></div>
@@ -20,6 +21,7 @@ LOTH.load().then(function(r){
   if(s.summary){var u=document.createElement("div");u.className="m";u.textContent=s.summary+(s.limits?" Limits: "+s.limits:"");d.appendChild(u)}
   var vv=by[s.id]||[];if(vv.length){var c=document.createElement("div");c.className="m";c.appendChild(document.createTextNode("Cited for: "));vv.forEach(function(x,i){if(i)c.appendChild(document.createTextNode(", "));var l=document.createElement("a");l.href="venue.html?id="+encodeURIComponent(x.id);l.textContent=x.name;c.appendChild(l)});d.appendChild(c)}
   list.appendChild(d)});
+  if(!list.children.length){var nm=document.createElement("p");nm.className="hint";nm.textContent="No source matches.";list.appendChild(nm)}
   if(location.hash){var t=document.getElementById(location.hash.slice(1));if(t)t.scrollIntoView()}}
  draw("");document.getElementById("q").addEventListener("input",function(e){draw(e.target.value.toLowerCase())});
 });

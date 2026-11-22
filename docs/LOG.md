@@ -24,3 +24,14 @@ Not done
 - The map slider still uses the earlier opening and closing years where no verified source corrected them (for example Colorado Belle, Casino Magic Biloxi, Colonial Inn): the venue page lists the correction.
 - Leads that were not opened and are not sources: a reported 2003 Illinois Gaming Board fine at Grand Victoria Elgin, a possible order involving Casino Queen, the Treasure Chest licensing case.
 - 68 venues is a small selection.
+
+## 2026-11-22: independent grade and fixes
+A fresh critic (no access to the builder's view) graded the site C+ (design B-, function C+, evidence honesty D+, accessibility C-, content C). Defects fixed in this pass:
+- Retired AI blurbs no longer lead the map panel; only the checked label basis shows, or "No checked source yet".
+- Sources naming living people can no longer back a mob label; operator names of individuals are omitted; Trump Taj Mahal drops to unsupported. A label cannot be documented on a quote that says "alleged" or on a source that does not support the claim; Colonial Inn capped at alleged.
+- "No ties found" renamed "Nothing found", with the number of sources checked; first-person researcher text removed.
+- Threads: real-scale scrolling graphic, legend including "no checked source yet", note that colour is venue-level.
+- Map: counts and hotspot cards follow the filters, hotspot rings centred on visible venues, Saratoga regrouped, bigger circles on phones, panel scrolls into view, slider starts at 1860.
+- Accessibility: skip link, main landmark, nav label, visible focus, Play pressed state, no per-tick live announcements, stance marker beside each citation.
+- A visible provisional notice on the map page.
+Not fixed: roving tabindex on the map and Threads, keyboard-sortable table headers, pattern or shape encoding in addition to colour, per-claim quotes inside the panel, a download of the data, wider coverage (Indiana and Missouri riverboats, most tribal venues).

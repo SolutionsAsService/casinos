@@ -15,19 +15,20 @@
 <div class="wrap">
 <header>
   <div><div class="brand">Solutions as Service</div><h1>Ledger of<br>the <span>house</span></h1></div>
-  <p class="lede">A hundred years of American casinos on one map. Drag the year, see what was open, and which houses had documented or alleged organised-crime ties.</p>
+  <p class="lede">A hundred and sixty years of American casinos on one map. Drag the year, see what was open, and which houses had documented or alleged organised-crime ties.</p>
 </header>
 
+<p class="notice" role="note"><b>Provisional.</b> Labels come from sources a second agent re-fetched (see Sources). The timeline events, hotspot groupings and map positions are not independently checked, and no source has been assessed for reliability by a person. Operators named are historical owners, not accusations.</p>
 <div class="bar">
-  <div class="year" id="year" aria-live="polite">1960</div>
+  <div class="year" id="year">1960</div><div class="sr" id="yearsr" role="status" aria-live="polite"></div>
   <div class="count" id="count"></div>
-  <div class="slider"><button id="play" aria-label="Play or pause">Play</button><input id="range" type="range" min="1900" max="2025" value="1960" step="1" aria-label="Year"></div>
+  <div class="slider"><button id="play" aria-pressed="false">Play</button><input id="range" type="range" min="1860" max="2025" value="1960" step="1" aria-label="Year"></div>
 </div>
 
 <div class="filters" id="filters">
   <label class="chip"><input type="checkbox" data-l="documented" checked><i class="dot" style="background:var(--red)"></i>Documented ties</label>
   <label class="chip"><input type="checkbox" data-l="alleged" checked><i class="dot" style="background:var(--amber)"></i>Alleged ties</label>
-  <label class="chip"><input type="checkbox" data-l="none" checked><i class="dot" style="background:var(--teal)"></i>No ties found</label>
+  <label class="chip"><input type="checkbox" data-l="none" checked><i class="dot" style="background:var(--teal)"></i>Nothing found</label>
   <label class="chip"><input type="checkbox" data-l="unsupported" checked><i class="dot" style="background:#8a7f70"></i>Sources could not settle it</label>
 </div>
 
@@ -39,13 +40,13 @@
 <h3>Venues open, year by year (68 notable venues in this dataset, not every casino)</h3>
 <div class="card" id="chart"><svg id="graph" viewBox="0 0 1000 190" role="img" aria-label="Chart of venues open by year"></svg></div>
 
-<h3>Timeline</h3>
+<h3>Timeline <span style="text-transform:none;letter-spacing:0;font-weight:400">(events listed here are not independently checked)</span></h3>
 <div id="tl"></div>
 
 <h3>Hotspots in the selected year</h3>
 <div id="spots"></div>
 
-<footer id="foot">Every label on this site is backed by sources that a second agent re-fetched and checked: see the Sources page. Venues marked "unsourced" still carry the earlier draft label. "Documented" means court records, convictions or congressional findings; "alleged" means credible reporting only. Nothing here is a claim about any living person. Built by Solutions as Service. Positions inside a city are illustrative. Map: US Atlas (public domain).</footer>
+<footer id="foot">Labels are backed by sources that a second agent re-fetched and checked (see Sources); venues with no checked source say so. Timeline events, hotspot groupings and map positions are not independently checked. "Documented" means court records, convictions or congressional findings; "alleged" means credible reporting only. Nothing here is a claim about any living person. Built by Solutions as Service. Positions inside a city are illustrative. Map: US Atlas (public domain).</footer>
 </div>
 
 <script src="assets/common.js"></script>
@@ -89,7 +90,7 @@ function init(){
   var hs=Object.keys(groups).map(function(k){var g=groups[k];var mx=0,my=0;g.forEach(function(c){mx+=pos[c.id].x;my+=pos[c.id].y});return{name:k,items:g,x:mx/g.length,y:my/g.length}});
   var ringEls={};
   hs.forEach(function(h){ringEls[h.name]={ring:el("circle",{class:"ring",cx:h.x,cy:h.y,r:0},gR),label:el("text",{class:"rlabel","text-anchor":"middle",x:h.x,y:h.y-0},gL)}});
-  var minY=1900,maxY=2025;
+  var minY=1860,maxY=2025;
   var graph=$("graph");
   var counts=[];
   for(var y=minY;y<=maxY;y++){var o={documented:0,alleged:0,none:0};cs.forEach(function(c){if(open(c,y))o[c.level]++});counts.push(o)}
@@ -99,7 +100,7 @@ function init(){
     var L=34,R=8,T=10,B=24,w=1000-L-R,h=190-T-B;
     var xs=function(y){return L+(y-minY)/(maxY-minY)*w},ys=function(v){return T+h-v/maxC*h};
     [0,Math.ceil(maxC/2),maxC].forEach(function(v){el("line",{x1:L,x2:L+w,y1:ys(v),y2:ys(v),stroke:"#3a312a","stroke-width":.6},graph);var t=el("text",{class:"axis",x:L-6,y:ys(v)+4,"text-anchor":"end"},graph);t.textContent=v});
-    for(var y=1900;y<=2020;y+=20){var t=el("text",{class:"axis",x:xs(y),y:190-6,"text-anchor":"middle"},graph);t.textContent=y}
+    for(var y=1880;y<=2020;y+=20){var t=el("text",{class:"axis",x:xs(y),y:190-6,"text-anchor":"middle"},graph);t.textContent=y}
     ["documented","alleged","none"].forEach(function(lv,li){
       var order=["documented","alleged","none"];
       var top=[],bot=[];
@@ -117,32 +118,32 @@ function init(){
   function update(){
     var y=state.year;$("year").textContent=y;$("range").value=y;
     var n=0,dc=0,al=0;
-    cs.forEach(function(c){var v=visible(c);var e=circles[c.id];var r=v?(c.opened>=y-5?9:6.5):0;e.setAttribute("r",r);e.style.pointerEvents=v?"auto":"none";e.setAttribute("tabindex",v?0:-1);if(open(c,y)){n++;if(c.level==="documented")dc++;if(c.level==="alleged")al++}});
-    $("count").innerHTML="<b>"+n+"</b> venues open · <b>"+dc+"</b> documented · <b>"+al+"</b> alleged";
+    cs.forEach(function(c){var v=visible(c);var e=circles[c.id];var narrow=$("map").getBoundingClientRect().width<640;var r=v?((c.opened>=y-5?9:6.5)*(narrow?1.7:1)):0;e.setAttribute("r",r);e.style.pointerEvents=v?"auto":"none";e.setAttribute("tabindex",v?0:-1);if(v){n++;if(c.level==="documented")dc++;if(c.level==="alleged")al++}});
+    $("count").innerHTML="<b>"+n+"</b> venues shown · <b>"+dc+"</b> documented · <b>"+al+"</b> alleged";$("yearsr").textContent=y+": "+n+" venues shown";if(!n){$("count").innerHTML+=" · <b>none match these filters</b>"}
     var sp=$("spots");sp.textContent="";
     var lab=[];
     hs.forEach(function(h){
-      var vis=h.items.filter(visible);var re=ringEls[h.name];
-      if(vis.length){var r=14+7*Math.sqrt(vis.length);re.ring.setAttribute("r",r);re.label.textContent=h.name+" · "+vis.length;var right=h.x<W*.72;re.label.setAttribute("text-anchor",right?"start":"end");lab.push({re:re,x:h.x+(right?r+6:-r-6),y:h.y+4})}else{re.ring.setAttribute("r",0);re.label.textContent=""}
+      var vis=h.items.filter(visible);var re=ringEls[h.name];if(vis.length){var mx=0,my=0;vis.forEach(function(c){mx+=pos[c.id].x;my+=pos[c.id].y});h.x=mx/vis.length;h.y=my/vis.length;re.ring.setAttribute("cx",h.x);re.ring.setAttribute("cy",h.y)}
+      if(vis.length){var r=14+7*Math.sqrt(vis.length);re.ring.setAttribute("r",r);re.label.textContent=($("map").getBoundingClientRect().width<640)?"":h.name+" · "+vis.length;var right=h.x<W*.72;re.label.setAttribute("text-anchor",right?"start":"end");lab.push({re:re,x:h.x+(right?r+6:-r-6),y:h.y+4})}else{re.ring.setAttribute("r",0);re.label.textContent=""}
     });
     lab.sort(function(a,b){return a.y-b.y});
     for(var i=1;i<lab.length;i++){for(var j=0;j<i;j++){if(Math.abs(lab[i].x-lab[j].x)<150&&lab[i].y-lab[j].y<14)lab[i].y=lab[j].y+14}}
     lab.forEach(function(l){l.re.label.setAttribute("x",l.x);l.re.label.setAttribute("y",l.y)});
-    hs.map(function(h){return{h:h,n:h.items.filter(function(c){return open(c,y)})}}).filter(function(o){return o.n.length}).sort(function(a,b){return b.n.length-a.n.length}).forEach(function(o){
+    hs.map(function(h){return{h:h,n:h.items.filter(visible)}}).filter(function(o){return o.n.length}).sort(function(a,b){return b.n.length-a.n.length}).forEach(function(o){
       var b=document.createElement("button");b.className="spot";var t=document.createElement("b");t.textContent=o.h.name;var s=document.createElement("span");var d=o.n.filter(function(c){return c.level==="documented"}).length;s.textContent=o.n.length+" open · "+d+" with documented ties";var bars=document.createElement("div");bars.className="bars";["documented","alleged","none"].forEach(function(l){var k=o.n.filter(function(c){return c.level===l}).length;if(k){var i=document.createElement("i");i.style.cssText="flex:"+k+";background:"+COL[l];bars.appendChild(i)}});b.appendChild(t);b.appendChild(s);b.appendChild(bars);b.addEventListener("click",function(){var f=o.n[0];select(f)});sp.appendChild(b)});
     Array.prototype.forEach.call(tl.children,function(b){var ey=+b.dataset.y;b.classList.toggle("past",ey<=y);b.classList.toggle("now",ey<=y&&(!b.nextSibling||+b.nextSibling.dataset.y>y))});
     var g=$("gline");if(g){var x=34+(y-minY)/(maxY-minY)*(1000-34-8);g.setAttribute("x1",x);g.setAttribute("x2",x)}
     if(state.sel)showPanel(state.sel);
   }
-  function select(c){state.sel=c;if(c.opened>state.year||(c.closed!=null&&c.closed<=state.year))setYear(c.opened);showPanel(c);Object.keys(circles).forEach(function(k){circles[k].classList.toggle("sel",k===c.id)})}
+  function select(c){state.sel=c;if($("map").getBoundingClientRect().width<900)setTimeout(function(){$("panel").scrollIntoView({behavior:"smooth",block:"start"})},50);if(c.opened>state.year||(c.closed!=null&&c.closed<=state.year))setYear(c.opened);showPanel(c);Object.keys(circles).forEach(function(k){circles[k].classList.toggle("sel",k===c.id)})}
   function showPanel(c){
     var p=$("panel");p.textContent="";
     var h=document.createElement("h2");h.textContent=c.name;p.appendChild(h);
     var m=document.createElement("div");m.className="meta";m.textContent=c.city+", "+c.state+" · "+status(c)+" · "+c.kind;p.appendChild(m);
-    var t=document.createElement("span");t.className="tag "+(c.level==="unsupported"?"ver":c.level);t.textContent=c.level==="none"?"No ties found":c.level==="unsupported"?"Sources could not settle it":c.level+" ties";p.appendChild(t);
+    var lb0=c.ledger&&c.ledger.label;var t=document.createElement("span");t.className="tag "+(c.level==="unsupported"?"ver":c.level);t.textContent=c.level==="none"?"Nothing found"+(lb0&&lb0.nsrc?" in "+lb0.nsrc+" source"+(lb0.nsrc===1?"":"s"):""):c.level==="unsupported"?"Sources could not settle it":c.level+" ties";p.appendChild(t);
     var v=document.createElement("span");v.className="tag ver";v.textContent=c.sourced?"cited":"unsourced";p.appendChild(v);
-    if(c.blurb){var b=document.createElement("p");b.textContent=c.blurb;p.appendChild(b)}
-    var lb=c.ledger&&c.ledger.label;var bs=lb&&lb.basis?lb.basis:c.mob.summary;if(bs){var s=document.createElement("p");s.textContent=bs;if(lb&&lb.sources)LOTH.cites(lb.sources,LOTH.S,s);p.appendChild(s)}
+    
+    var lb=c.ledger&&c.ledger.label;if(lb&&lb.basis){var s=document.createElement("p");s.textContent=lb.basis;if(lb.sources)LOTH.cites(lb.sources,LOTH.S,s);p.appendChild(s)}else{var s2=document.createElement("p");s2.className="hint";s2.textContent="No checked source yet for this venue.";p.appendChild(s2)}
     if(c.ledger&&c.ledger.corrections){var cr=document.createElement("p");cr.className="hint";cr.textContent="Corrected from earlier data: "+c.ledger.corrections;p.appendChild(cr)}
     var ln=document.createElement("p");var la=document.createElement("a");la.href="venue.html?id="+encodeURIComponent(c.id);la.textContent="Open the full page for this venue";ln.appendChild(la);p.appendChild(ln)
     
@@ -150,8 +151,8 @@ function init(){
   }
   function setYear(y){state.year=y;update()}
   $("range").addEventListener("input",function(e){stop();setYear(+e.target.value)});
-  function stop(){if(state.timer){clearInterval(state.timer);state.timer=null;$("play").textContent="Play";$("play").classList.remove("on")}}
-  $("play").addEventListener("click",function(){if(state.timer){stop();return}$("play").textContent="Pause";$("play").classList.add("on");if(state.year>=2025)state.year=1900;state.timer=setInterval(function(){if(state.year>=2025){stop();return}setYear(state.year+1)},220)});
+  function stop(){if(state.timer){clearInterval(state.timer);state.timer=null;$("play").textContent="Play";$("play").setAttribute("aria-pressed","false");$("play").classList.remove("on")}}
+  $("play").addEventListener("click",function(){if(state.timer){stop();return}$("play").textContent="Pause";$("play").setAttribute("aria-pressed","true");$("play").classList.add("on");if(state.year>=2025)state.year=1860;state.timer=setInterval(function(){if(state.year>=2025){stop();return}setYear(state.year+1)},220)});
   Array.prototype.forEach.call(document.querySelectorAll("#filters input"),function(i){i.addEventListener("change",function(){state.levels[i.dataset.l]=i.checked;update()})});
   drawGraph();update();
 }

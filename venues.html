@@ -9,17 +9,17 @@
 <script>
 LOTH.load().then(function(r){
  var cs=r.data.casinos,S=r.S,sort={k:"opened",d:1},q="",lv={documented:1,alleged:1,none:1,unsupported:1};
- var fl=document.getElementById("fl");["documented","alleged","none","unsupported"].forEach(function(l){var lab=document.createElement("label");lab.className="chip";var i=document.createElement("input");i.type="checkbox";i.checked=true;i.addEventListener("change",function(){lv[l]=i.checked;draw()});lab.appendChild(i);lab.appendChild(document.createTextNode(l));fl.appendChild(lab)});
+ var fl=document.getElementById("fl");["documented","alleged","none","unsupported"].forEach(function(l){var lab=document.createElement("label");lab.className="chip";var i=document.createElement("input");i.type="checkbox";i.checked=true;i.addEventListener("change",function(){lv[l]=i.checked;draw()});lab.appendChild(i);lab.appendChild(document.createTextNode(l==="none"?"nothing found":l));fl.appendChild(lab)});
  document.getElementById("q").addEventListener("input",function(e){q=e.target.value.toLowerCase();draw()});
  Array.prototype.forEach.call(document.querySelectorAll("th"),function(th){th.addEventListener("click",function(){var k=th.dataset.k;sort={k:k,d:sort.k===k?-sort.d:1};draw()})});
  function val(c,k){return k==="n"?c.names.length:k==="cites"?((c.ledger.label&&c.ledger.label.sources)||[]).length:k==="level"?c.level:c[k]==null?9999:c[k]}
- function draw(){var tb=document.querySelector("tbody");tb.textContent="";
+ function draw(){var tb=document.querySelector("tbody");tb.textContent="";var shown=0;
   cs.filter(function(c){return lv[c.level]&&(c.name+" "+c.city+" "+c.state).toLowerCase().indexOf(q)>=0}).sort(function(a,b){var x=val(a,sort.k),y=val(b,sort.k);return (x>y?1:x<y?-1:0)*sort.d}).forEach(function(c){
    var tr=document.createElement("tr");function td(t){var d=document.createElement("td");d.textContent=t;tr.appendChild(d);return d}
    var d=document.createElement("td");var a=document.createElement("a");a.href="venue.html?id="+encodeURIComponent(c.id);a.textContent=c.name;d.appendChild(a);tr.appendChild(d);
    td(c.city+", "+c.state);td(c.opened);td(c.closed==null?"open":c.closed);
-   var t=document.createElement("td");var sp=document.createElement("span");sp.className="tag "+(c.level==="unsupported"?"ver":c.level);sp.textContent=c.level;t.appendChild(sp);tr.appendChild(t);
-   td(c.names.length);var ct=td("");LOTH.cites((c.ledger.label&&c.ledger.label.sources)||[],S,ct);tb.appendChild(tr)})}
+   var t=document.createElement("td");var sp=document.createElement("span");sp.className="tag "+(c.level==="unsupported"?"ver":c.level);sp.textContent=c.level==="none"?"nothing found":c.level;t.appendChild(sp);tr.appendChild(t);
+   td(c.names.length);var ct=td("");LOTH.cites((c.ledger.label&&c.ledger.label.sources)||[],S,ct);tb.appendChild(tr);shown++});if(!shown){var tr=document.createElement("tr");var d=document.createElement("td");d.colSpan=7;d.textContent="No venue matches.";tr.appendChild(d);tb.appendChild(tr)}}
  draw();
 });
 </script></body></html>

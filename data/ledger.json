@@ -468,29 +468,6 @@
   {
    "id": "s0022",
    "brief": "atlantic-city-nj",
-   "title": "Nicodemo Scarfo",
-   "authors": null,
-   "year": null,
-   "venue": "Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/Nicodemo_Scarfo",
-   "accessed": "2026-11-22",
-   "kind": "secondary",
-   "stance": "fails_to_support",
-   "quote": "received business as developers built new casinos in the city",
-   "summary": "Says Scarfo's cement firm Scarf, Inc. got work from Atlantic City casino builders. It does not name Trump Plaza or the Taj, so the concrete link to Trump properties is not shown.",
-   "limits": "Wikipedia, so context only. Subject deceased.",
-   "claim": "mob-tie",
-   "records": [
-    "trump-plaza",
-    "trump-taj-mahal"
-   ],
-   "verified": "re-fetched by a second agent, quote found",
-   "review": "unreviewed",
-   "reliability": "unassessed"
-  },
-  {
-   "id": "s0023",
-   "brief": "atlantic-city-nj",
    "title": "Hard Rock Hotel & Casino Atlantic City (formerly Trump Taj Mahal)",
    "authors": null,
    "year": null,
@@ -511,29 +488,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0024",
-   "brief": "atlantic-city-nj",
-   "title": "Hard Rock Hotel & Casino Atlantic City (formerly Trump Taj Mahal)",
-   "authors": null,
-   "year": null,
-   "venue": "Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/Hard_Rock_Hotel_%26_Casino_Atlantic_City",
-   "accessed": "2026-11-22",
-   "kind": "secondary",
-   "stance": "context",
-   "quote": "linked Trump's businesses to Asian organized crime.",
-   "summary": "Reports a 1992 US Senate subcommittee report naming a Taj vice president as a triad associate, and says federal investigators described Russian mobsters as frequent patrons in 1990-91. Casino ownership by the mob is not alleged.",
-   "limits": "Wikipedia, so context only; the Senate report itself was not opened. The named executive is a living person and is not accused here.",
-   "claim": "mob-tie",
-   "records": [
-    "trump-taj-mahal"
-   ],
-   "verified": "re-fetched by a second agent, quote found",
-   "review": "unreviewed",
-   "reliability": "unassessed"
-  },
-  {
-   "id": "s0025",
+   "id": "s0023",
    "brief": "atlantic-city-nj",
    "title": "Borgata",
    "authors": null,
@@ -555,7 +510,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0026",
+   "id": "s0024",
    "brief": "chicago-illinois",
    "title": "Big Jim Colosimo",
    "authors": null,
@@ -577,7 +532,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0027",
+   "id": "s0025",
    "brief": "chicago-illinois",
    "title": "Johnny Torrio",
    "authors": null,
@@ -599,7 +554,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0028",
+   "id": "s0026",
    "brief": "chicago-illinois",
    "title": "The Levee, Chicago",
    "authors": null,
@@ -621,7 +576,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0029",
+   "id": "s0027",
    "brief": "chicago-illinois",
    "title": "Sunset Cafe",
    "authors": null,
@@ -643,7 +598,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0030",
+   "id": "s0028",
    "brief": "chicago-illinois",
    "title": "Sunset Cafe",
    "authors": null,
@@ -665,7 +620,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0031",
+   "id": "s0029",
    "brief": "chicago-illinois",
    "title": "Sunset Cafe",
    "authors": null,
@@ -687,7 +642,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0032",
+   "id": "s0030",
    "brief": "chicago-illinois",
    "title": "Earl Hines",
    "authors": null,
@@ -709,7 +664,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0033",
+   "id": "s0031",
    "brief": "chicago-illinois",
    "title": "Earl Hines",
    "authors": null,
@@ -731,7 +686,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0034",
+   "id": "s0032",
    "brief": "chicago-illinois",
    "title": "Casino Queen (DraftKings at Casino Queen)",
    "authors": null,
@@ -753,7 +708,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0035",
+   "id": "s0033",
    "brief": "chicago-illinois",
    "title": "Casino Queen (DraftKings at Casino Queen)",
    "authors": null,
@@ -775,7 +730,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0036",
+   "id": "s0034",
    "brief": "chicago-illinois",
    "title": "Harrah's Joliet",
    "authors": null,
@@ -797,7 +752,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0037",
+   "id": "s0035",
    "brief": "chicago-illinois",
    "title": "Harrah's Joliet",
    "authors": null,
@@ -819,7 +774,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0038",
+   "id": "s0036",
    "brief": "chicago-illinois",
    "title": "Harrah's Joliet",
    "authors": null,
@@ -841,7 +796,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0039",
+   "id": "s0037",
    "brief": "chicago-illinois",
    "title": "Hollywood Casino Aurora",
    "authors": null,
@@ -863,7 +818,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0040",
+   "id": "s0038",
    "brief": "chicago-illinois",
    "title": "Hollywood Casino Aurora",
    "authors": null,
@@ -885,7 +840,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0041",
+   "id": "s0039",
    "brief": "chicago-illinois",
    "title": "Grand Victoria Casino Elgin",
    "authors": null,
@@ -907,7 +862,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0042",
+   "id": "s0040",
    "brief": "chicago-illinois",
    "title": "Grand Victoria Casino Elgin",
    "authors": null,
@@ -929,7 +884,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0043",
+   "id": "s0041",
    "brief": "detroit-minnesota-tribal",
    "title": "Saratoga Race Course",
    "authors": null,
@@ -951,7 +906,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0044",
+   "id": "s0042",
    "brief": "detroit-minnesota-tribal",
    "title": "Saratoga Race Course",
    "authors": null,
@@ -973,7 +928,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0045",
+   "id": "s0043",
    "brief": "detroit-minnesota-tribal",
    "title": "Investigation of organized crime in interstate commerce. Hearings before a Special Committee to Investigate Organized Crime in Interstate Commerce, United States Senate, Part 7 (New York-New Jersey)",
    "authors": null,
@@ -996,7 +951,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0046",
+   "id": "s0044",
    "brief": "detroit-minnesota-tribal",
    "title": "Investigation of organized crime in interstate commerce. Hearings before a Special Committee to Investigate Organized Crime in Interstate Commerce, United States Senate, Part 7 (New York-New Jersey)",
    "authors": null,
@@ -1019,7 +974,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0047",
+   "id": "s0045",
    "brief": "detroit-minnesota-tribal",
    "title": "Saratoga lake houses",
    "authors": null,
@@ -1042,7 +997,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0048",
+   "id": "s0046",
    "brief": "detroit-minnesota-tribal",
    "title": "Canfield Casino and Congress Park",
    "authors": null,
@@ -1064,7 +1019,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0049",
+   "id": "s0047",
    "brief": "detroit-minnesota-tribal",
    "title": "Canfield Casino and Congress Park",
    "authors": null,
@@ -1086,7 +1041,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0050",
+   "id": "s0048",
    "brief": "detroit-minnesota-tribal",
    "title": "Canfield Casino and Congress Park",
    "authors": null,
@@ -1108,7 +1063,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0051",
+   "id": "s0049",
    "brief": "detroit-minnesota-tribal",
    "title": "Canterbury Park",
    "authors": null,
@@ -1130,7 +1085,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0052",
+   "id": "s0050",
    "brief": "detroit-minnesota-tribal",
    "title": "Canterbury Park",
    "authors": null,
@@ -1152,7 +1107,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0053",
+   "id": "s0051",
    "brief": "detroit-minnesota-tribal",
    "title": "Canterbury Park",
    "authors": null,
@@ -1174,7 +1129,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0054",
+   "id": "s0052",
    "brief": "detroit-minnesota-tribal",
    "title": "Canterbury Park",
    "authors": null,
@@ -1196,7 +1151,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0055",
+   "id": "s0053",
    "brief": "detroit-minnesota-tribal",
    "title": "Senate Hearing 115-150, Committee on Indian Affairs",
    "authors": null,
@@ -1223,7 +1178,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0056",
+   "id": "s0054",
    "brief": "detroit-minnesota-tribal",
    "title": "Senate Hearing 112-237, Committee on Indian Affairs",
    "authors": null,
@@ -1250,7 +1205,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0057",
+   "id": "s0055",
    "brief": "detroit-minnesota-tribal",
    "title": "Foxwoods Resort Casino",
    "authors": null,
@@ -1272,7 +1227,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0058",
+   "id": "s0056",
    "brief": "detroit-minnesota-tribal",
    "title": "Foxwoods Resort Casino",
    "authors": null,
@@ -1294,7 +1249,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0059",
+   "id": "s0057",
    "brief": "detroit-minnesota-tribal",
    "title": "Foxwoods Resort Casino",
    "authors": null,
@@ -1316,7 +1271,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0060",
+   "id": "s0058",
    "brief": "detroit-minnesota-tribal",
    "title": "Newspaper report: some dealers implicated in organized crime scheme (Foxwoods)",
    "authors": null,
@@ -1338,7 +1293,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0061",
+   "id": "s0059",
    "brief": "detroit-minnesota-tribal",
    "title": "Newspaper report: some dealers implicated in organized crime scheme (Foxwoods)",
    "authors": null,
@@ -1360,7 +1315,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0062",
+   "id": "s0060",
    "brief": "detroit-minnesota-tribal",
    "title": "Mystic Lake Casino Hotel",
    "authors": null,
@@ -1382,7 +1337,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0063",
+   "id": "s0061",
    "brief": "detroit-minnesota-tribal",
    "title": "Mystic Lake Casino Hotel",
    "authors": null,
@@ -1404,7 +1359,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0064",
+   "id": "s0062",
    "brief": "detroit-minnesota-tribal",
    "title": "Turning Stone Resort Casino",
    "authors": null,
@@ -1426,7 +1381,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0065",
+   "id": "s0063",
    "brief": "detroit-minnesota-tribal",
    "title": "Turning Stone Resort Casino",
    "authors": null,
@@ -1448,7 +1403,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0066",
+   "id": "s0064",
    "brief": "detroit-minnesota-tribal",
    "title": "Mohegan Sun",
    "authors": null,
@@ -1470,7 +1425,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0067",
+   "id": "s0065",
    "brief": "detroit-minnesota-tribal",
    "title": "Mohegan Sun",
    "authors": null,
@@ -1492,7 +1447,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0068",
+   "id": "s0066",
    "brief": "detroit-minnesota-tribal",
    "title": "Mohegan Sun",
    "authors": null,
@@ -1514,7 +1469,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0069",
+   "id": "s0067",
    "brief": "detroit-minnesota-tribal",
    "title": "MGM Grand Detroit",
    "authors": null,
@@ -1536,7 +1491,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0070",
+   "id": "s0068",
    "brief": "detroit-minnesota-tribal",
    "title": "MGM Grand Detroit",
    "authors": null,
@@ -1559,7 +1514,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0071",
+   "id": "s0069",
    "brief": "detroit-minnesota-tribal",
    "title": "MGM Grand's Detroit partners examined",
    "authors": null,
@@ -1581,7 +1536,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0072",
+   "id": "s0070",
    "brief": "detroit-minnesota-tribal",
    "title": "MotorCity Casino Hotel",
    "authors": null,
@@ -1603,7 +1558,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0073",
+   "id": "s0071",
    "brief": "detroit-minnesota-tribal",
    "title": "MotorCity Casino Hotel",
    "authors": null,
@@ -1625,7 +1580,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0074",
+   "id": "s0072",
    "brief": "detroit-minnesota-tribal",
    "title": "Hollywood Casino Greektown",
    "authors": null,
@@ -1647,7 +1602,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0075",
+   "id": "s0073",
    "brief": "detroit-minnesota-tribal",
    "title": "Hollywood Casino Greektown",
    "authors": null,
@@ -1669,7 +1624,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0076",
+   "id": "s0074",
    "brief": "detroit-minnesota-tribal",
    "title": "Hollywood Casino Greektown",
    "authors": null,
@@ -1691,7 +1646,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0077",
+   "id": "s0075",
    "brief": "detroit-minnesota-tribal",
    "title": "One year into Detroit gambling, positives and negatives unclear",
    "authors": null,
@@ -1713,7 +1668,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0078",
+   "id": "s0076",
    "brief": "detroit-minnesota-tribal",
    "title": "Pechanga Resort Casino",
    "authors": null,
@@ -1735,7 +1690,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0079",
+   "id": "s0077",
    "brief": "downtown-vegas-nevada",
    "title": "Railroad Pass Casino",
    "authors": null,
@@ -1757,7 +1712,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0080",
+   "id": "s0078",
    "brief": "downtown-vegas-nevada",
    "title": "El Cortez Hotel-Casino",
    "authors": "Green, M.",
@@ -1779,7 +1734,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0081",
+   "id": "s0079",
    "brief": "downtown-vegas-nevada",
    "title": "El Cortez (Las Vegas)",
    "authors": null,
@@ -1801,7 +1756,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0082",
+   "id": "s0080",
    "brief": "downtown-vegas-nevada",
    "title": "Guy McAfee",
    "authors": "Online Nevada Encyclopedia",
@@ -1823,7 +1778,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0083",
+   "id": "s0081",
    "brief": "downtown-vegas-nevada",
    "title": "Golden Nugget Las Vegas",
    "authors": null,
@@ -1845,7 +1800,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0084",
+   "id": "s0082",
    "brief": "downtown-vegas-nevada",
    "title": "Guy McAfee",
    "authors": "Online Nevada Encyclopedia",
@@ -1867,7 +1822,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0085",
+   "id": "s0083",
    "brief": "downtown-vegas-nevada",
    "title": "Estes Kefauver (1903-1963) / The Kefauver hearings in Las Vegas",
    "authors": null,
@@ -1890,7 +1845,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0086",
+   "id": "s0084",
    "brief": "downtown-vegas-nevada",
    "title": "Carson Nugget",
    "authors": null,
@@ -1912,7 +1867,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0087",
+   "id": "s0085",
    "brief": "downtown-vegas-nevada",
    "title": "Four Queens and Fremont",
    "authors": "Online Nevada Encyclopedia",
@@ -1934,7 +1889,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0088",
+   "id": "s0086",
    "brief": "downtown-vegas-nevada",
    "title": "Fremont Hotel and Casino",
    "authors": null,
@@ -1956,7 +1911,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0089",
+   "id": "s0087",
    "brief": "downtown-vegas-nevada",
    "title": "Argent Corporation",
    "authors": null,
@@ -1978,7 +1933,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0090",
+   "id": "s0088",
    "brief": "downtown-vegas-nevada",
    "title": "State Fines Argent Corp.; Revokes Game License",
    "authors": "Las Vegas Sun",
@@ -2000,7 +1955,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0091",
+   "id": "s0089",
    "brief": "downtown-vegas-nevada",
    "title": "Don Laughlin, architect behind Southern Nevada town, dead at 92",
    "authors": "Associated Press",
@@ -2022,7 +1977,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0092",
+   "id": "s0090",
    "brief": "downtown-vegas-nevada",
    "title": "Riverside Resort Hotel & Casino",
    "authors": null,
@@ -2044,7 +1999,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0093",
+   "id": "s0091",
    "brief": "downtown-vegas-nevada",
    "title": "Colorado Belle",
    "authors": null,
@@ -2066,7 +2021,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0094",
+   "id": "s0092",
    "brief": "downtown-vegas-nevada",
    "title": "Edgewater Hotel and Casino",
    "authors": null,
@@ -2088,7 +2043,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0095",
+   "id": "s0093",
    "brief": "gulf-coast",
    "title": "Margaritaville Resort Biloxi (Wikipedia)",
    "authors": null,
@@ -2110,7 +2065,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0096",
+   "id": "s0094",
    "brief": "gulf-coast",
    "title": "Margaritaville Resort Biloxi (Wikipedia)",
    "authors": null,
@@ -2132,7 +2087,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0097",
+   "id": "s0095",
    "brief": "gulf-coast",
    "title": "Margaritaville Resort Biloxi (Wikipedia)",
    "authors": null,
@@ -2154,7 +2109,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0098",
+   "id": "s0096",
    "brief": "gulf-coast",
    "title": "Controversy over ex-regulators landing casino jobs",
    "authors": null,
@@ -2176,7 +2131,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0099",
+   "id": "s0097",
    "brief": "gulf-coast",
    "title": "Pete Halat (Wikipedia)",
    "authors": null,
@@ -2199,7 +2154,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0100",
+   "id": "s0098",
    "brief": "gulf-coast",
    "title": "President Casino Broadwater Resort (Wikipedia)",
    "authors": null,
@@ -2221,7 +2176,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0101",
+   "id": "s0099",
    "brief": "gulf-coast",
    "title": "President Casino Broadwater Resort (Wikipedia)",
    "authors": null,
@@ -2243,7 +2198,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0102",
+   "id": "s0100",
    "brief": "gulf-coast",
    "title": "President Casino Broadwater Resort (Wikipedia)",
    "authors": null,
@@ -2265,7 +2220,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0103",
+   "id": "s0101",
    "brief": "gulf-coast",
    "title": "Boomtown New Orleans (Wikipedia)",
    "authors": null,
@@ -2287,7 +2242,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0104",
+   "id": "s0102",
    "brief": "gulf-coast",
    "title": "Boomtown New Orleans (Wikipedia)",
    "authors": null,
@@ -2309,7 +2264,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0105",
+   "id": "s0103",
    "brief": "gulf-coast",
    "title": "Edwin Edwards (Wikipedia)",
    "authors": null,
@@ -2333,7 +2288,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0106",
+   "id": "s0104",
    "brief": "gulf-coast",
    "title": "Boyd Gaming (Wikipedia)",
    "authors": null,
@@ -2355,7 +2310,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0107",
+   "id": "s0105",
    "brief": "gulf-coast",
    "title": "IP Casino Resort Spa (Wikipedia)",
    "authors": null,
@@ -2377,7 +2332,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0108",
+   "id": "s0106",
    "brief": "gulf-coast",
    "title": "IP Casino Resort Spa (Wikipedia)",
    "authors": null,
@@ -2399,7 +2354,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0109",
+   "id": "s0107",
    "brief": "gulf-coast",
    "title": "Ralph Engelstad (Wikipedia)",
    "authors": null,
@@ -2421,7 +2376,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0110",
+   "id": "s0108",
    "brief": "gulf-coast",
    "title": "Beau Rivage (Mississippi) (Wikipedia)",
    "authors": null,
@@ -2443,7 +2398,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0111",
+   "id": "s0109",
    "brief": "gulf-coast",
    "title": "Beau Rivage (Mississippi) (Wikipedia)",
    "authors": null,
@@ -2465,7 +2420,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0112",
+   "id": "s0110",
    "brief": "gulf-coast",
    "title": "Caesars New Orleans (Wikipedia)",
    "authors": null,
@@ -2487,7 +2442,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0113",
+   "id": "s0111",
    "brief": "gulf-coast",
    "title": "Caesars New Orleans (Wikipedia)",
    "authors": null,
@@ -2509,7 +2464,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0114",
+   "id": "s0112",
    "brief": "gulf-coast",
    "title": "Caesars New Orleans (Wikipedia)",
    "authors": null,
@@ -2531,7 +2486,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0115",
+   "id": "s0113",
    "brief": "gulf-coast",
    "title": "Hard Rock Hotel & Casino Biloxi (Wikipedia)",
    "authors": null,
@@ -2553,7 +2508,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0116",
+   "id": "s0114",
    "brief": "gulf-coast",
    "title": "Hard Rock Hotel & Casino Biloxi (Wikipedia)",
    "authors": null,
@@ -2575,7 +2530,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0117",
+   "id": "s0115",
    "brief": "gulf-coast",
    "title": "Golden Nugget Biloxi (Wikipedia)",
    "authors": null,
@@ -2597,7 +2552,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0118",
+   "id": "s0116",
    "brief": "gulf-coast",
    "title": "Isle of Capri Casinos (Wikipedia)",
    "authors": null,
@@ -2619,7 +2574,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0119",
+   "id": "s0117",
    "brief": "gulf-coast",
    "title": "Golden Nugget Biloxi (Wikipedia)",
    "authors": null,
@@ -2641,7 +2596,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0120",
+   "id": "s0118",
    "brief": "las-vegas-strip",
    "title": "Flamingo Hotel",
    "authors": null,
@@ -2663,7 +2618,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0121",
+   "id": "s0119",
    "brief": "las-vegas-strip",
    "title": "Flamingo Hotel",
    "authors": null,
@@ -2685,7 +2640,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0122",
+   "id": "s0120",
    "brief": "las-vegas-strip",
    "title": "Flamingo Las Vegas",
    "authors": null,
@@ -2707,7 +2662,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0123",
+   "id": "s0121",
    "brief": "las-vegas-strip",
    "title": "Mob Ties",
    "authors": "Las Vegas Sun staff",
@@ -2730,7 +2685,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0124",
+   "id": "s0122",
    "brief": "las-vegas-strip",
    "title": "Desert Inn",
    "authors": null,
@@ -2752,7 +2707,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0125",
+   "id": "s0123",
    "brief": "las-vegas-strip",
    "title": "Investigation of organized crime in interstate commerce. Hearings before a Special Committee to Investigate Organized Crime in Interstate Commerce, United States Senate, 81st Congress, Part 10",
    "authors": null,
@@ -2774,7 +2729,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0126",
+   "id": "s0124",
    "brief": "las-vegas-strip",
    "title": "Desert Inn",
    "authors": null,
@@ -2796,7 +2751,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0127",
+   "id": "s0125",
    "brief": "las-vegas-strip",
    "title": "Desert Inn",
    "authors": null,
@@ -2818,7 +2773,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0128",
+   "id": "s0126",
    "brief": "las-vegas-strip",
    "title": "Investigation of organized crime in interstate commerce. Hearings before a Special Committee to Investigate Organized Crime in Interstate Commerce, United States Senate, 81st Congress, Part 10",
    "authors": null,
@@ -2840,7 +2795,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0129",
+   "id": "s0127",
    "brief": "las-vegas-strip",
    "title": "Sands Hotel",
    "authors": null,
@@ -2862,7 +2817,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0130",
+   "id": "s0128",
    "brief": "las-vegas-strip",
    "title": "Sands Hotel",
    "authors": null,
@@ -2884,7 +2839,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0131",
+   "id": "s0129",
    "brief": "las-vegas-strip",
    "title": "Sands Hotel and Casino",
    "authors": null,
@@ -2906,7 +2861,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0132",
+   "id": "s0130",
    "brief": "las-vegas-strip",
    "title": "Historic 44-year-old hotel-casino now a 30-foot pile of rubble",
    "authors": "Cathy Scott",
@@ -2928,7 +2883,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0133",
+   "id": "s0131",
    "brief": "las-vegas-strip",
    "title": "Mob Ties",
    "authors": "Las Vegas Sun staff",
@@ -2950,7 +2905,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0134",
+   "id": "s0132",
    "brief": "las-vegas-strip",
    "title": "Dunes Hotel",
    "authors": null,
@@ -2972,7 +2927,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0135",
+   "id": "s0133",
    "brief": "las-vegas-strip",
    "title": "Dunes (hotel and casino)",
    "authors": null,
@@ -2994,7 +2949,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0136",
+   "id": "s0134",
    "brief": "las-vegas-strip",
    "title": "Riviera Hotel",
    "authors": null,
@@ -3016,7 +2971,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0137",
+   "id": "s0135",
    "brief": "las-vegas-strip",
    "title": "Riviera (hotel and casino)",
    "authors": null,
@@ -3038,7 +2993,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0138",
+   "id": "s0136",
    "brief": "las-vegas-strip",
    "title": "Mob Ties",
    "authors": "Las Vegas Sun staff",
@@ -3060,7 +3015,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0139",
+   "id": "s0137",
    "brief": "las-vegas-strip",
    "title": "Tropicana Hotel",
    "authors": null,
@@ -3082,7 +3037,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0140",
+   "id": "s0138",
    "brief": "las-vegas-strip",
    "title": "Tropicana Hotel",
    "authors": null,
@@ -3104,7 +3059,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0141",
+   "id": "s0139",
    "brief": "las-vegas-strip",
    "title": "FBI Affidavits Link Agosto, KC Mob",
    "authors": "Tom Flagg",
@@ -3126,7 +3081,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0142",
+   "id": "s0140",
    "brief": "las-vegas-strip",
    "title": "Tropicana Las Vegas",
    "authors": null,
@@ -3148,7 +3103,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0143",
+   "id": "s0141",
    "brief": "las-vegas-strip",
    "title": "Joe Agosto death cripples Mafia probe",
    "authors": "Jeff German",
@@ -3170,7 +3125,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0144",
+   "id": "s0142",
    "brief": "las-vegas-strip",
    "title": "Stardust Hotel",
    "authors": null,
@@ -3192,7 +3147,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0145",
+   "id": "s0143",
    "brief": "las-vegas-strip",
    "title": "Stardust Resort and Casino",
    "authors": null,
@@ -3214,7 +3169,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0146",
+   "id": "s0144",
    "brief": "las-vegas-strip",
    "title": "Caesars Palace",
    "authors": null,
@@ -3236,7 +3191,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0147",
+   "id": "s0145",
    "brief": "las-vegas-strip",
    "title": "Caesars Palace",
    "authors": null,
@@ -3258,7 +3213,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0148",
+   "id": "s0146",
    "brief": "las-vegas-strip",
    "title": "Mob Ties",
    "authors": "Las Vegas Sun staff",
@@ -3280,7 +3235,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0149",
+   "id": "s0147",
    "brief": "las-vegas-strip",
    "title": "Circus Circus",
    "authors": null,
@@ -3302,7 +3257,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0150",
+   "id": "s0148",
    "brief": "las-vegas-strip",
    "title": "Circus Circus Las Vegas",
    "authors": null,
@@ -3324,7 +3279,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0151",
+   "id": "s0149",
    "brief": "las-vegas-strip",
    "title": "Bellagio (resort)",
    "authors": null,
@@ -3346,7 +3301,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0152",
+   "id": "s0150",
    "brief": "las-vegas-strip",
    "title": "Wynn gets final approval for Bellagio",
    "authors": "Las Vegas Sun staff",
@@ -3368,7 +3323,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0153",
+   "id": "s0151",
    "brief": "las-vegas-strip",
    "title": "Steve Wynn",
    "authors": null,
@@ -3390,7 +3345,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0154",
+   "id": "s0152",
    "brief": "reno-tahoe",
    "title": "Cal Neva Lodge & Casino",
    "authors": "Wikipedia contributors",
@@ -3412,7 +3367,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0155",
+   "id": "s0153",
    "brief": "reno-tahoe",
    "title": "How Frank Sinatra Lost His Nevada Gaming License",
    "authors": "Barber, Alicia",
@@ -3434,7 +3389,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0156",
+   "id": "s0154",
    "brief": "reno-tahoe",
    "title": "Frank Sinatra FBI Files (FBI Vault release, archive.org full text)",
    "authors": "Federal Bureau of Investigation",
@@ -3456,7 +3411,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0157",
+   "id": "s0155",
    "brief": "reno-tahoe",
    "title": "Sinatra's old Lake Tahoe resort to get major makeover",
    "authors": "Griffith, Martin (AP)",
@@ -3478,7 +3433,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0158",
+   "id": "s0156",
    "brief": "reno-tahoe",
    "title": "Frank Sinatra's Lake Tahoe casino shuts down",
    "authors": "USA Today (via Las Vegas Sun)",
@@ -3500,7 +3455,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0159",
+   "id": "s0157",
    "brief": "reno-tahoe",
    "title": "Gaming Regulation in Nevada (UNOHP Catalog #236)",
    "authors": "Kling, Dwayne (interviewer); Barber, Alicia (volume editor)",
@@ -3522,7 +3477,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0160",
+   "id": "s0158",
    "brief": "reno-tahoe",
    "title": "Allegations of mob ties haunted the chairman",
    "authors": "Las Vegas Sun staff",
@@ -3544,7 +3499,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0161",
+   "id": "s0159",
    "brief": "reno-tahoe",
    "title": "Harolds Club",
    "authors": "Online Nevada Encyclopedia (Nevada Humanities)",
@@ -3566,7 +3521,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0162",
+   "id": "s0160",
    "brief": "reno-tahoe",
    "title": "Harold's Club",
    "authors": "Wikipedia contributors",
@@ -3588,7 +3543,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0163",
+   "id": "s0161",
    "brief": "reno-tahoe",
    "title": "Harolds Club in Reno to be demolished",
    "authors": "Las Vegas Sun (AP)",
@@ -3610,7 +3565,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0164",
+   "id": "s0162",
    "brief": "reno-tahoe",
    "title": "Investigation of Organized Crime in Interstate Commerce: index to hearings (Kefauver Committee)",
    "authors": "U.S. Senate Special Committee to Investigate Organized Crime in Interstate Commerce",
@@ -3632,7 +3587,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0165",
+   "id": "s0163",
    "brief": "reno-tahoe",
    "title": "Every Light Was On: Bill Harrah and His Clubs Remembered",
    "authors": "Kling, Dwayne (interviewer)",
@@ -3654,7 +3609,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0166",
+   "id": "s0164",
    "brief": "reno-tahoe",
    "title": "Harrah's Reno",
    "authors": "Wikipedia contributors",
@@ -3676,7 +3631,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0167",
+   "id": "s0165",
    "brief": "reno-tahoe",
    "title": "Every Light Was On: Bill Harrah and His Clubs Remembered (Drews interview)",
    "authors": "Kling, Dwayne (interviewer)",
@@ -3698,7 +3653,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0168",
+   "id": "s0166",
    "brief": "reno-tahoe",
    "title": "Mapes Hotel and Casino, Reno",
    "authors": "Online Nevada Encyclopedia (Nevada Humanities)",
@@ -3720,7 +3675,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0169",
+   "id": "s0167",
    "brief": "reno-tahoe",
    "title": "Mapes Hotel",
    "authors": "Wikipedia contributors",
@@ -3742,7 +3697,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0170",
+   "id": "s0168",
    "brief": "south-historic",
    "title": "Arlington Resort Hotel and Spa (Wikipedia)",
    "authors": null,
@@ -3764,7 +3719,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0171",
+   "id": "s0169",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 11 (Weisberg)",
    "authors": null,
@@ -3786,7 +3741,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0172",
+   "id": "s0170",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 7 (Adonis)",
    "authors": "US Senate",
@@ -3808,7 +3763,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0173",
+   "id": "s0171",
    "brief": "south-historic",
    "title": "Hot Springs, Arkansas (Wikipedia), gambling history",
    "authors": null,
@@ -3833,7 +3788,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0174",
+   "id": "s0172",
    "brief": "south-historic",
    "title": "Leo McLaughlin (Wikipedia)",
    "authors": null,
@@ -3855,7 +3810,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0175",
+   "id": "s0173",
    "brief": "south-historic",
    "title": "Owney Madden (Wikipedia)",
    "authors": null,
@@ -3877,7 +3832,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0176",
+   "id": "s0174",
    "brief": "south-historic",
    "title": "Acts Ride In on Gravy Train As Hot Springs Takes Baths and Bets",
    "authors": "Trump, G.",
@@ -3899,7 +3854,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0177",
+   "id": "s0175",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 6 (Ohio-Kentucky) (Lookout Club)",
    "authors": "US Senate",
@@ -3921,7 +3876,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0178",
+   "id": "s0176",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 6 (Ohio-Kentucky) (Sutton testimony)",
    "authors": "US Senate",
@@ -3943,7 +3898,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0179",
+   "id": "s0177",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 15 (Kentucky)",
    "authors": "US Senate",
@@ -3965,7 +3920,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0180",
+   "id": "s0178",
    "brief": "south-historic",
    "title": "Ed Levinson (Wikipedia), 1943 renaming",
    "authors": null,
@@ -3987,7 +3942,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0181",
+   "id": "s0179",
    "brief": "south-historic",
    "title": "Ed Levinson (Wikipedia)",
    "authors": null,
@@ -4009,7 +3964,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0182",
+   "id": "s0180",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 15 (Kentucky)",
    "authors": "US Senate",
@@ -4031,7 +3986,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0183",
+   "id": "s0181",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 1 (Florida)",
    "authors": "US Senate",
@@ -4053,7 +4008,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0184",
+   "id": "s0182",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 1 (Florida) (operating years)",
    "authors": "US Senate",
@@ -4075,7 +4030,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0185",
+   "id": "s0183",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 1 (Florida) (successor clubs)",
    "authors": "US Senate",
@@ -4097,7 +4052,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0186",
+   "id": "s0184",
    "brief": "south-historic",
    "title": "Beverly Hills Supper Club fire (Wikipedia), 1967 sale",
    "authors": null,
@@ -4119,7 +4074,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0187",
+   "id": "s0185",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 6 (Ohio-Kentucky)",
    "authors": "US Senate",
@@ -4141,7 +4096,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0188",
+   "id": "s0186",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 6 (Ohio-Kentucky) (opening)",
    "authors": "US Senate",
@@ -4163,7 +4118,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0189",
+   "id": "s0187",
    "brief": "south-historic",
    "title": "Balinese Room (Wikipedia)",
    "authors": null,
@@ -4185,7 +4140,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0190",
+   "id": "s0188",
    "brief": "south-historic",
    "title": "Balinese Room (Wikipedia), origins",
    "authors": null,
@@ -4207,7 +4162,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0191",
+   "id": "s0189",
    "brief": "south-historic",
    "title": "Investigation of Organized Crime in Interstate Commerce, Hearings, Part 12",
    "authors": "US Senate",
@@ -4229,7 +4184,7 @@
    "reliability": "unassessed"
   },
   {
-   "id": "s0192",
+   "id": "s0190",
    "brief": "south-historic",
    "title": "Free State of Galveston (Wikipedia)",
    "authors": null,
@@ -4279,6 +4234,7 @@
    "label": {
     "level": "unsupported",
     "basis": "The pages opened give no organized-crime claim for the Riviera either way; no primary source was opened.",
+    "nsrc": 2,
     "sources": [
      "s0001",
      "s0002"
@@ -4317,6 +4273,7 @@
    "label": {
     "level": "alleged",
     "basis": "1950 Kefauver testimony names D'Amato as manager and Reginelli as county racket boss, and Wikipedia says D'Amato had mob ties, but no opened source shows a conviction, a court finding or Bruno control of the club.",
+    "nsrc": 5,
     "sources": [
      "s0005",
      "s0006",
@@ -4345,6 +4302,7 @@
    "label": {
     "level": "none",
     "basis": "Only a Wikipedia history was read, and it shows no mob ownership; a 1972 Black Mafia shootout occurred in the club but concerns violence, not ownership.",
+    "nsrc": 2,
     "sources": [
      "s0008",
      "s0009"
@@ -4382,7 +4340,7 @@
      "name": "Resorts International Hotel Casino",
      "from": 1977,
      "to": 1988,
-     "operator": "Resorts International (Mary Carter Paint origin); James Crosby; Trump held control 1987-88",
+     "operator": "(a named individual; omitted)",
      "note": "Opened 26 May 1978; Merv Griffin took the company Nov 1988",
      "sources": [
       "s0011",
@@ -4394,6 +4352,7 @@
    "label": {
     "level": "unsupported",
     "basis": "Only a CIA-front reputation for Mary Carter is on the pages opened; no opened source states a Lansky link.",
+    "nsrc": 2,
     "sources": [
      "s0012",
      "s0011"
@@ -4439,6 +4398,7 @@
    "label": {
     "level": "alleged",
     "basis": "The NJCCC history says Bally's executives were found unsuitable and removed, and Wikipedia says Bally's head resigned over alleged organized crime links, which he denied.",
+    "nsrc": 2,
     "sources": [
      "s0014",
      "s0015"
@@ -4496,6 +4456,7 @@
    "label": {
     "level": "alleged",
     "basis": "The NJCCC found executives unsuitable and denied the Perlman brothers permanent licences over dealings with Malnik, identified as a Lansky associate.",
+    "nsrc": 2,
     "sources": [
      "s0014",
      "s0017"
@@ -4530,7 +4491,8 @@
    ],
    "label": {
     "level": "none",
-    "basis": "The page opened gives no organized-crime link, and I found no sceptical or supporting source.",
+    "basis": "Searched in both directions; nothing credible found in the sources checked.",
+    "nsrc": 1,
     "sources": [
      "s0018"
     ]
@@ -4585,6 +4547,7 @@
    "label": {
     "level": "none",
     "basis": "No opened source ties the casino to organized crime; the 1929 conference concerns the earlier hotel.",
+    "nsrc": 2,
     "sources": [
      "s0019",
      "s0020"
@@ -4600,7 +4563,7 @@
      "name": "Harrah's at Trump Plaza",
      "from": 1984,
      "to": 1984,
-     "operator": "Trump Organization with Harrah's (operator)",
+     "operator": "(a named individual; omitted)",
      "note": "Opened 14 May 1984",
      "sources": [
       "s0021"
@@ -4610,7 +4573,7 @@
      "name": "Trump Plaza",
      "from": 1984,
      "to": 2014,
-     "operator": "Trump (bought out Harrah's 1986); Trump Hotels & Casino Resorts (1995)",
+     "operator": "(a named individual; omitted)",
      "note": "Closed 16 Sep 2014; Icahn took the land",
      "sources": [
       "s0021"
@@ -4620,10 +4583,8 @@
    "label": {
     "level": "unsupported",
     "basis": "No opened source links Trump Plaza to organized-crime contractors; the Scarfo page only says his cement firm worked on Atlantic City casinos in general.",
-    "sources": [
-     "s0021",
-     "s0022"
-    ]
+    "nsrc": 0,
+    "sources": []
    },
    "corrections": "The concrete-contractor claim is not supported by any source opened, and the Trump Plaza page does not mention it.",
    "opened": 1984,
@@ -4640,17 +4601,17 @@
      "operator": "Resorts International (James Crosby)",
      "note": "Construction began 1983; Trump took over 1988",
      "sources": [
-      "s0023"
+      "s0022"
      ]
     },
     {
      "name": "Trump Taj Mahal",
      "from": 1990,
      "to": 2016,
-     "operator": "Donald Trump; Trump Hotels & Casino Resorts (1996); Icahn (2016)",
+     "operator": "(a named individual; omitted)",
      "note": "Opened 2 Apr 1990; closed 10 Oct 2016",
      "sources": [
-      "s0023"
+      "s0022"
      ]
     },
     {
@@ -4660,22 +4621,21 @@
      "operator": "Hard Rock International (Seminole Tribe) with Morris and Jingoli families",
      "note": "Reopened 27 Jun 2018",
      "sources": [
-      "s0023"
+      "s0022"
      ]
     }
    ],
    "label": {
-    "level": "alleged",
+    "level": "unsupported",
     "basis": "Wikipedia reports a 1992 Senate subcommittee report naming an executive as a triad associate and Russian mobsters among patrons; the report itself was not opened.",
-    "sources": [
-     "s0024"
-    ]
+    "nsrc": 0,
+    "sources": []
    },
    "corrections": "The concrete-contractor claim is not supported by any source opened. The reported ties are an employee named in a 1992 Senate report and Russian mob patrons. Ownership by the mob is not claimed.",
    "opened": 1990,
-   "opened_source": "s0023",
+   "opened_source": "s0022",
    "closed": 2016,
-   "closed_source": "s0023"
+   "closed_source": "s0022"
   },
   "borgata-hotel-casino-spa": {
    "names": [
@@ -4686,20 +4646,21 @@
      "operator": "MGM Mirage and Boyd Gaming; MGM Resorts (2016); Vici (2022 via MGM Growth)",
      "note": "Opened 2 Jul 2003; MGM sold its stake in 2010 settlement",
      "sources": [
-      "s0025"
+      "s0023"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The page opened shows no organized-crime tie at the Borgata itself.",
+    "nsrc": 1,
     "sources": [
-     "s0025"
+     "s0023"
     ]
    },
    "corrections": "",
    "opened": 2003,
-   "opened_source": "s0025"
+   "opened_source": "s0023"
   },
   "four-deuces-chicago": {
    "names": [
@@ -4710,24 +4671,25 @@
      "operator": "Big Jim Colosimo / Johnny Torrio organisation, later Torrio-Capone",
      "note": "Named for 2222 S. Wabash; Capone worked there from 1919; the building was initially owned by Torrio. Closing or demolition year not confirmed by an opened source.",
      "sources": [
-      "s0026",
-      "s0027",
-      "s0028"
+      "s0024",
+      "s0025",
+      "s0026"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Histories on Wikipedia place the Colosimo/Torrio/Capone organisation at the Four Deuces, but no court, commission or congressional record about the venue was opened.",
+    "nsrc": 3,
     "sources": [
-     "s0026",
-     "s0027",
-     "s0028"
+     "s0024",
+     "s0025",
+     "s0026"
     ]
    },
    "corrections": "Opening year 1923 is not supported: sources say 1919. Closing year 1929 is not supported by any opened source (a search summary gave demolition in 1966, not opened). Label 'documented' is not supported by an opened primary record; it is widely told in histories, so 'alleged' until a primary is read.",
    "opened": 1919,
-   "opened_source": "s0026"
+   "opened_source": "s0024"
   },
   "grand-terrace-cafe-chicago": {
    "names": [
@@ -4738,20 +4700,21 @@
      "operator": "Manager Ed Fox; Capone said to control or hold 25 percent",
      "note": "Hines opened there 28 Dec 1928. Closure given as Dec 1940 (Hines page) and 1950 (Sunset page). Sunset page says the 35th St building took the Grand Terrace name in 1937. These conflict.",
      "sources": [
+      "s0027",
+      "s0028",
       "s0029",
       "s0030",
-      "s0031",
-      "s0032",
-      "s0033"
+      "s0031"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Wikipedia pages cite Hines's recollection that Capone controlled or held 25 percent of the club; no court or board record was opened.",
+    "nsrc": 2,
     "sources": [
-     "s0029",
-     "s0033"
+     "s0027",
+     "s0031"
     ]
    },
    "corrections": "Closing year 1950 conflicts with a December 1940 closure on the Earl Hines page; the 1928 opening and the venue's identity with the Sunset Cafe building are inconsistent between pages. 'Owner Ed Fox answered to the Outfit' is not supported by any opened page, which only call Fox manager. 'Documented' is not supported."
@@ -4765,8 +4728,8 @@
      "operator": "Bill Koman group (to 2012); employee stock ownership plan (2012 on); real estate to Gaming and Leisure Properties 2014",
      "note": "Licence awarded May 1992; opened 23 June 1993 on the White Star One; moved ashore 2007.",
      "sources": [
-      "s0034",
-      "s0035"
+      "s0032",
+      "s0033"
      ]
     },
     {
@@ -4776,21 +4739,22 @@
      "operator": "Casino Queen owners, then Bally's Corporation (2025 merger of parent)",
      "note": "Rebrand with DraftKings 2020; GLPI owns the property.",
      "sources": [
-      "s0035"
+      "s0033"
      ]
     }
    ],
    "label": {
     "level": "unsupported",
     "basis": "Wikipedia shows no tie; a search summary of an unopened mirror page claimed a Gaming Board order over a shareholder's link to an organised-crime associate, which could not be verified.",
+    "nsrc": 2,
     "sources": [
-     "s0034",
-     "s0035"
+     "s0032",
+     "s0033"
     ]
    },
    "corrections": "Current label 'none' cannot be confirmed until the unverified shareholder claim is checked against Illinois Gaming Board records.",
    "opened": 1993,
-   "opened_source": "s0034"
+   "opened_source": "s0032"
   },
   "harrahs-joliet": {
    "names": [
@@ -4801,22 +4765,23 @@
      "operator": "John Q. Hammons (licence); Harrah's 80 percent and operator; Caesars Entertainment; Vici Properties 80 percent from 2017",
      "note": "Opened 4 May 1993 on the Northern Star; hotel 1999.",
      "sources": [
-      "s0036",
-      "s0037",
-      "s0038"
+      "s0034",
+      "s0035",
+      "s0036"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The one Gaming Board concern found was about licence-selling, not crime ties; a search in both directions found no organised-crime finding, though no regulator record was opened.",
+    "nsrc": 1,
     "sources": [
-     "s0037"
+     "s0035"
     ]
    },
    "corrections": "Wikipedia page lists no previous names; 'Hollywood Casino Joliet' is a separate Joliet casino and was not covered.",
    "opened": 1993,
-   "opened_source": "s0036"
+   "opened_source": "s0034"
   },
   "hollywood-casino-aurora": {
    "names": [
@@ -4827,21 +4792,22 @@
      "operator": "Hollywood Casino Corp.; now licence held by Penn Entertainment; property owned by Gaming and Leisure Properties",
      "note": "Riverboat closed 10 June 2026; land-based casino opened 24 June 2026 on Farnsworth Ave. Hollywood Casino Corp. to Penn succession not confirmed by an opened page.",
      "sources": [
-      "s0039",
-      "s0040"
+      "s0037",
+      "s0038"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "Search in both directions found no organised-crime source; no regulator record was opened.",
+    "nsrc": 1,
     "sources": [
-     "s0039"
+     "s0037"
     ]
    },
    "corrections": "Closed is null: only the riverboat closed (June 2026); the casino continues on land.",
    "opened": 1993,
-   "opened_source": "s0039"
+   "opened_source": "s0037"
   },
   "grand-victoria-casino-elgin": {
    "names": [
@@ -4852,22 +4818,23 @@
      "operator": "Gold Strike Resorts and Hyatt; Circus Circus (Mandalay) from 1995; MGM 2005 with Hyatt managing; Eldorado Resorts/Caesars 2018",
      "note": "Opened 6 Oct 1994 under the 1990 Riverboat Gambling Act.",
      "sources": [
-      "s0041",
-      "s0042"
+      "s0039",
+      "s0040"
      ]
     }
    ],
    "label": {
     "level": "unsupported",
     "basis": "A search summary reported a 2003 Gaming Board fine of $3.2 million over a contract with a firm tied to organised-crime figures; the pages (Chicago Sun-Times, Deseret) could not be opened.",
+    "nsrc": 2,
     "sources": [
-     "s0041",
-     "s0042"
+     "s0039",
+     "s0040"
     ]
    },
    "corrections": "Current label 'none' is likely wrong or incomplete: a search result described a 2003 Illinois Gaming Board fine at this casino tied to a contractor with organised-crime links (settled without admission). Not opened, so not a candidate; verify via Gaming Board orders.",
    "opened": 1994,
-   "opened_source": "s0041"
+   "opened_source": "s0039"
   },
   "saratoga-race-course": {
    "names": [
@@ -4878,7 +4845,7 @@
      "operator": "John Morrissey",
      "note": "First thoroughbred card 3 Aug 1863 on the Oklahoma Track, across the street from the present course",
      "sources": [
-      "s0043"
+      "s0041"
      ]
     },
     {
@@ -4888,23 +4855,24 @@
      "operator": "Morrissey and partners; Gottfried Waldbaum (1892); W. C. Whitney investor group (1901); New York Racing Association (current)",
      "note": "Morrissey built the new course and grandstand across the street in 1864; closed 1896 and 1911-12 (anti-gambling law), curtailed 1943-45",
      "sources": [
-      "s0043",
-      "s0044"
+      "s0041",
+      "s0042"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "Kefauver Part 7 treats Saratoga lake houses (Arrowhead Inn, Piping Rock), and a text search of that volume finds neither the Race Course nor Morrissey; no source opened ties the track to organised crime.",
+    "nsrc": 3,
     "sources": [
-     "s0045",
-     "s0046",
-     "s0047"
+     "s0043",
+     "s0044",
+     "s0045"
     ]
    },
    "corrections": "None needed on dates. The label \"none\" holds, but the hearings did involve Saratoga Springs gambling at other venues (the lake houses); the summary could say so.",
    "opened": 1863,
-   "opened_source": "s0043"
+   "opened_source": "s0041"
   },
   "canfield-casino-saratoga": {
    "names": [
@@ -4915,8 +4883,8 @@
      "operator": "John Morrissey (1866-1878); Albert Spencer and Charles Reed (after 1878)",
      "note": "Gambling clubhouse begun 1866; main building 1870",
      "sources": [
-      "s0048",
-      "s0049"
+      "s0046",
+      "s0047"
      ]
     },
     {
@@ -4926,8 +4894,8 @@
      "operator": "Richard A. Canfield",
      "note": "Canfield partner 1893, owner 1894; added dining wing 1902-03; gambling banned by reformers 1907; sold to the city 1911",
      "sources": [
-      "s0049",
-      "s0050"
+      "s0047",
+      "s0048"
      ]
     },
     {
@@ -4937,22 +4905,23 @@
      "operator": "City of Saratoga Springs",
      "note": "Buildings house the Saratoga Springs History Museum; not demolished",
      "sources": [
-      "s0050"
+      "s0048"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "Gambling ended in 1907, decades before the Kefauver era; the Saratoga mob-era gambling in the opened sources was at the lake houses, not here.",
+    "nsrc": 3,
     "sources": [
-     "s0047",
-     "s0050",
-     "s0045"
+     "s0045",
+     "s0048",
+     "s0043"
     ]
    },
    "corrections": "Opening: gambling at the site began 1866 as the Saratoga Clubhouse; 1870 is the date of the main building. Closing 1907 is for gambling only; the building survives as a museum. Summary correct that it predates organised crime.",
    "closed": 1907,
-   "closed_source": "s0050"
+   "closed_source": "s0048"
   },
   "canterbury-park": {
    "names": [
@@ -4963,7 +4932,7 @@
      "operator": "Minnesota Racetrack Inc. (Walter Brooks Fields Jr. and investors; Santa Anita partner)",
      "note": "First race 26 Jun 1985",
      "sources": [
-      "s0051"
+      "s0049"
      ]
     },
     {
@@ -4973,7 +4942,7 @@
      "operator": "Ladbroke Racing Corporation",
      "note": "Sold 1990; closed Dec 1992 after a poor season",
      "sources": [
-      "s0052"
+      "s0050"
      ]
     },
     {
@@ -4983,29 +4952,31 @@
      "operator": "Curtis and Randy Sampson (after Irwin L. Jacobs, late 1993)",
      "note": "Live racing returned late 1994; renamed Jan 1995; card room 1999",
      "sources": [
-      "s0053"
+      "s0051"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "Page describes a track and card room regulated by the Minnesota Racing Commission; no allegation on it or in a dedicated search; Commission records not opened.",
+    "nsrc": 1,
     "sources": [
-     "s0054"
+     "s0052"
     ]
    },
    "corrections": "\"closed\" null is fine for today but the track was closed for racing Dec 1992 to 1994. Summary \"no organized crime ties\" is supported only by absence of reports.",
    "opened": 1985,
-   "opened_source": "s0051"
+   "opened_source": "s0049"
   },
   "grand-casino-mille-lacs": {
    "names": [],
    "label": {
     "level": "none",
     "basis": "No allegation found in the pages opened or in a dedicated search; only general congressional statements on Indian gaming, which name no venue.",
+    "nsrc": 2,
     "sources": [
-     "s0055",
-     "s0056"
+     "s0053",
+     "s0054"
     ]
    },
    "corrections": "None established. Opening year 1991 unconfirmed (sources say \"early 1990s\")."
@@ -5019,7 +4990,7 @@
      "operator": "Mashantucket Pequot Tribe",
      "note": "Founded 1986 as a bingo hall",
      "sources": [
-      "s0057"
+      "s0055"
      ]
     },
     {
@@ -5029,7 +5000,7 @@
      "operator": "Mashantucket Pequot Tribal Nation",
      "note": "Table games 1992, slots 1993; Grand Pequot Tower 1997",
      "sources": [
-      "s0058"
+      "s0056"
      ]
     },
     {
@@ -5039,21 +5010,22 @@
      "operator": "Tribe, with MGM Mirage as brand partner to 2013",
      "note": "Separate tower opened 17 May 2008; renamed Fox Tower 2013",
      "sources": [
-      "s0059"
+      "s0057"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "A 1996 wire report says authorities were focusing on associates of a crime family over a cheating scheme involving dealers and patrons at the casino; the tribe reported it and says it banned 52 people for such associations; no charge against the tribe or its government appears.",
+    "nsrc": 2,
     "sources": [
-     "s0060",
-     "s0061"
+     "s0058",
+     "s0059"
     ]
    },
    "corrections": "\"No organized crime involvement\" is too strong: a 1996 report links a scheme at the casino to associates of a crime family. The casino and tribe are described as the party that detected and reported it. The casino began as bingo in 1986; 1992 is the start of table games.",
    "opened": 1992,
-   "opened_source": "s0058"
+   "opened_source": "s0056"
   },
   "mystic-lake-casino-hotel": {
    "names": [
@@ -5064,7 +5036,7 @@
      "operator": "Shakopee Mdewakanton Sioux Community",
      "note": "Precursor on the reservation",
      "sources": [
-      "s0062"
+      "s0060"
      ]
     },
     {
@@ -5074,7 +5046,7 @@
      "operator": "Shakopee Mdewakanton Sioux Community",
      "note": "Became a casino after the Indian Gaming Regulatory Act and state compact; still operated",
      "sources": [
-      "s0062"
+      "s0060"
      ]
     },
     {
@@ -5084,21 +5056,22 @@
      "operator": "Shakopee Mdewakanton Sioux Community",
      "note": "Opened 12 May 1992",
      "sources": [
-      "s0063"
+      "s0061"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "No allegation in the pages opened or a dedicated search; only general statements on Indian gaming.",
+    "nsrc": 2,
     "sources": [
-     "s0055",
-     "s0056"
+     "s0053",
+     "s0054"
     ]
    },
    "corrections": "None.",
    "opened": 1992,
-   "opened_source": "s0063"
+   "opened_source": "s0061"
   },
   "turning-stone-resort-casino": {
    "names": [
@@ -5109,22 +5082,23 @@
      "operator": "Oneida Indian Nation of New York",
      "note": "Opened 20 Jul 1993; hotel 1994-96; compact and land disputes with the state resolved 2013",
      "sources": [
-      "s0064",
-      "s0065"
+      "s0062",
+      "s0063"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The legal disputes on the page concern the compact and land, not crime; a mob-contractor search found nothing; general testimony says no substantial infiltration of Indian gaming.",
+    "nsrc": 2,
     "sources": [
-     "s0065",
-     "s0056"
+     "s0063",
+     "s0054"
     ]
    },
    "corrections": "None.",
    "opened": 1993,
-   "opened_source": "s0064"
+   "opened_source": "s0062"
   },
   "mohegan-sun": {
    "names": [
@@ -5135,24 +5109,25 @@
      "operator": "Mohegan Tribal Gaming Authority (1995); Trading Cove Associates (developer-manager: Sun International/Kerzner 50%, Waterford Gaming 50%) with 5% of gross revenue to 2014",
      "note": "Opened 12 Oct 1996; page says control passed to the tribe in 2000 (not independently checked)",
      "sources": [
-      "s0066",
-      "s0067",
-      "s0068"
+      "s0064",
+      "s0065",
+      "s0066"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "Searches returned only cheating cases involving patrons and dealers; no source opened ties ownership or development to organised crime.",
+    "nsrc": 3,
     "sources": [
-     "s0067",
-     "s0068",
-     "s0056"
+     "s0065",
+     "s0066",
+     "s0054"
     ]
    },
    "corrections": "None on dates. The 2000 date for the hand-over of control is a Wikipedia statement to be checked.",
    "opened": 1996,
-   "opened_source": "s0066"
+   "opened_source": "s0064"
   },
   "mgm-grand-detroit": {
    "names": [
@@ -5163,7 +5138,7 @@
      "operator": "MGM Grand Inc, later MGM Mirage",
      "note": "Opened 29 Jul 1999 in a converted IRS office; first legal casino in Detroit",
      "sources": [
-      "s0069"
+      "s0067"
      ]
     },
     {
@@ -5173,21 +5148,22 @@
      "operator": "MGM Resorts International (operator); Vici Properties (real estate)",
      "note": "Opened 3 Oct 2007; 2005 merger forced MGM to choose between this and MotorCity",
      "sources": [
-      "s0069",
-      "s0070"
+      "s0067",
+      "s0068"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "No finding against the operator; a 1999 report raised background concerns about the landlord of the temporary building, who denied wrongdoing.",
+    "nsrc": 1,
     "sources": [
-     "s0071"
+     "s0069"
     ]
    },
    "corrections": "\"No organized crime ties\" is supported for the operator, but in 1999 the press reported background concerns about the landlord of the temporary building, who denied wrongdoing.",
    "opened": 1999,
-   "opened_source": "s0069"
+   "opened_source": "s0067"
   },
   "motorcity-casino-hotel": {
    "names": [
@@ -5198,22 +5174,23 @@
      "operator": "Mandalay Resort Group (53.5%); Marian Ilitch (25%)",
      "note": "Opened 14 Dec 1999",
      "sources": [
-      "s0072",
-      "s0073"
+      "s0070",
+      "s0071"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "No source opened alleges organised-crime ties; Wikipedia only for the ownership thread.",
+    "nsrc": 2,
     "sources": [
-     "s0072",
-     "s0073"
+     "s0070",
+     "s0071"
     ]
    },
    "corrections": "\"Developed by Marian Ilitch\" is imprecise: it opened under Mandalay as majority owner, and Ilitch took control in 2005.",
    "opened": 1999,
-   "opened_source": "s0072"
+   "opened_source": "s0070"
   },
   "greektown-casino-hotel": {
    "names": [
@@ -5224,7 +5201,7 @@
      "operator": "Greektown Superholdings, Inc. (bondholders)",
      "note": "Bought out of bankruptcy June 2010",
      "sources": [
-      "s0074"
+      "s0072"
      ]
     },
     {
@@ -5234,7 +5211,7 @@
      "operator": "Rock Gaming (Dan Gilbert), later Jack Entertainment",
      "note": "Majority stake Jan 2013; planned rename Jack Detroit Casino-Hotel Greektown announced 2016, cancelled 2018",
      "sources": [
-      "s0074"
+      "s0072"
      ]
     },
     {
@@ -5244,22 +5221,23 @@
      "operator": "Penn Entertainment (operator); Vici Properties (real estate)",
      "note": "Penn and Vici bought it May 2019; rebranded Hollywood Casino May 2022",
      "sources": [
-      "s0075",
-      "s0076"
+      "s0073",
+      "s0074"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "State background checks raised concerns about two minority-owner couples, forcing a buy-out; the sources opened do not say organised crime.",
+    "nsrc": 2,
     "sources": [
-     "s0077",
-     "s0076"
+     "s0075",
+     "s0074"
     ]
    },
    "corrections": "Record says \"opened ... by the Sault Ste. Marie Tribe ... later sold to Penn\": the sale was in stages (bankruptcy 2010, Rock Gaming 2013, Penn/Vici 2019). Nature of the 2000 concerns about the minority owners is not given by any page opened.",
    "opened": 2000,
-   "opened_source": "s0076"
+   "opened_source": "s0074"
   },
   "pechanga-resort-casino": {
    "names": [
@@ -5270,21 +5248,22 @@
      "operator": "Pechanga Band of Luiseno Indians (tribe now styles itself Pechanga Band of Indians)",
      "note": "Opened 24 Jun 2002; expanded 2004 and 2018",
      "sources": [
-      "s0078"
+      "s0076"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "No allegation in the page opened or a dedicated search; only general statements on Indian gaming.",
+    "nsrc": 2,
     "sources": [
-     "s0055",
-     "s0056"
+     "s0053",
+     "s0054"
     ]
    },
    "corrections": "None.",
    "opened": 2002,
-   "opened_source": "s0078"
+   "opened_source": "s0076"
   },
   "railroad-pass": {
    "names": [
@@ -5295,7 +5274,7 @@
      "operator": "Original operators (not named in sources opened)",
      "note": "Opened 1 Aug 1931; Nevada licence no. 4 under its latest name",
      "sources": [
-      "s0079"
+      "s0077"
      ]
     },
     {
@@ -5305,7 +5284,7 @@
      "operator": "Bob Verchota",
      "note": "Bought 1975, modernised",
      "sources": [
-      "s0079"
+      "s0077"
      ]
     },
     {
@@ -5315,7 +5294,7 @@
      "operator": "Gold Strike Resorts (Ensign, Richardson, Belding)",
      "note": "Sold 1985; 120-room hotel opened Jan 1987",
      "sources": [
-      "s0079"
+      "s0077"
      ]
     },
     {
@@ -5325,7 +5304,7 @@
      "operator": "Circus Circus Enterprises/Mandalay Resort Group, then MGM Mirage/MGM Resorts",
      "note": "Gold Strike Resorts bought 1995; Mandalay bought by MGM Mirage 2005",
      "sources": [
-      "s0079"
+      "s0077"
      ]
     },
     {
@@ -5335,20 +5314,21 @@
      "operator": "Joseph DeSimone",
      "note": "Sale from MGM completed April 2015",
      "sources": [
-      "s0079"
+      "s0077"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The only page opened (Wikipedia) shows no allegation; no gaming-board or court page was opened, so the record's 'regulatory records' wording is unverified.",
+    "nsrc": 1,
     "sources": [
-     "s0079"
+     "s0077"
     ]
    },
    "corrections": "Opening year 1931 agrees with the source. The 'no allegations in regulatory records' claim rests on no regulatory record I opened.",
    "opened": 1931,
-   "opened_source": "s0079"
+   "opened_source": "s0077"
   },
   "el-cortez": {
    "names": [
@@ -5359,8 +5339,8 @@
      "operator": "Marion Hicks and J.C. Grayson (Thomas Hull took an interest)",
      "note": "Opened 7 Nov 1941; built for $245,000",
      "sources": [
-      "s0080",
-      "s0081"
+      "s0078",
+      "s0079"
      ]
     },
     {
@@ -5370,8 +5350,8 @@
      "operator": "Bugsy Siegel, Meyer Lansky, Gus Greenbaum, Moe Sedway (Siegel's group)",
      "note": "Bought 1945 (Wikipedia: for $600,000), sold 1946 to fund the Flamingo",
      "sources": [
-      "s0080",
-      "s0081"
+      "s0078",
+      "s0079"
      ]
     },
     {
@@ -5381,8 +5361,8 @@
      "operator": "J. Kell Houssels Sr. and William J. Moore group",
      "note": "Houssels bought it back in 1946 for $766,000",
      "sources": [
-      "s0080",
-      "s0081"
+      "s0078",
+      "s0079"
      ]
     },
     {
@@ -5392,8 +5372,8 @@
      "operator": "Jackie Gaughan",
      "note": "Pavilion rooms 1963; Barrick Gaming sale announced 2002 per Online Nevada; Wikipedia gives Gaughan sale to Epstein 2008",
      "sources": [
-      "s0080",
-      "s0081"
+      "s0078",
+      "s0079"
      ]
     },
     {
@@ -5403,21 +5383,22 @@
      "operator": "Kenny Epstein and partners",
      "note": "Added Cabana Suites 2009; listed on National Register 2013",
      "sources": [
-      "s0081"
+      "s0079"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Online Nevada states mobster Siegel had taken over the property by 1945 and sold it in 1946, and Wikipedia names Siegel, Lansky, Greenbaum and Sedway; no court or gaming-board record was opened.",
+    "nsrc": 2,
     "sources": [
-     "s0080",
-     "s0081"
+     "s0078",
+     "s0079"
     ]
    },
    "corrections": "Current record says 'No documented mob ownership; operated by legitimate local investors from opening'. Sources show Siegel's group owned it 1945-46 (alleged, not court-documented). Not 'from opening' by local investors alone; label 'none' is not supported.",
    "opened": 1941,
-   "opened_source": "s0081"
+   "opened_source": "s0079"
   },
   "golden-nugget": {
    "names": [
@@ -5428,7 +5409,7 @@
      "operator": "Guy McAfee",
      "note": "Took over 125 Fremont St coffee shop and pool hall in 1945",
      "sources": [
-      "s0082"
+      "s0080"
      ]
     },
     {
@@ -5438,8 +5419,8 @@
      "operator": "Guy McAfee with Jake Kozloff and Beldon Katelman (1951)",
      "note": "Opened 1946; 100-foot neon sign 1949",
      "sources": [
-      "s0082",
-      "s0083"
+      "s0080",
+      "s0081"
      ]
     },
     {
@@ -5449,7 +5430,7 @@
      "operator": "Steve Wynn (Golden Nugget, Inc.)",
      "note": "Wynn majority shareholder 1973; combined with California Club; towers 1977, 1984, 1986",
      "sources": [
-      "s0083"
+      "s0081"
      ]
     },
     {
@@ -5459,7 +5440,7 @@
      "operator": "MGM Grand, Inc. (MGM Mirage)",
      "note": "Sold with Mirage Resorts 2000",
      "sources": [
-      "s0083"
+      "s0081"
      ]
     },
     {
@@ -5469,7 +5450,7 @@
      "operator": "Poster Financial Group (Timothy Poster, Thomas Breitling)",
      "note": "Sold for $215 million",
      "sources": [
-      "s0083"
+      "s0081"
      ]
     },
     {
@@ -5479,22 +5460,23 @@
      "operator": "Landry's, Inc.",
      "note": "Sale closed 27 Sept 2005",
      "sources": [
-      "s0083"
+      "s0081"
      ]
     }
    ],
    "label": {
     "level": "unsupported",
     "basis": "Pages opened show a founder with a vice-squad and illegal-casino past but no documented syndicate ownership; a Mob Museum piece titled 'Gangster-built Golden Nugget turns 70' appeared in search but could not be opened.",
+    "nsrc": 3,
     "sources": [
+     "s0080",
      "s0082",
-     "s0084",
-     "s0085"
+     "s0083"
     ]
    },
    "corrections": "Dates agree. The 'none' label cannot be fully supported while the Mob Museum account is unread. Partners Kozloff and Katelman should be added to the lineage.",
    "opened": 1946,
-   "opened_source": "s0082"
+   "opened_source": "s0080"
   },
   "carson-nugget": {
    "names": [
@@ -5505,7 +5487,7 @@
      "operator": "Richard (Dick) Graves",
      "note": "Opened 1 March 1954",
      "sources": [
-      "s0086"
+      "s0084"
      ]
     },
     {
@@ -5515,7 +5497,7 @@
      "operator": "Richard E. Pogue and Chester H. Armstrong",
      "note": "Sold Sept 1956",
      "sources": [
-      "s0086"
+      "s0084"
      ]
     },
     {
@@ -5525,7 +5507,7 @@
      "operator": "Group of six Nevada-licensed buyers incl. Adams brothers",
      "note": "Sold Dec 1958 for $525,000; owners 1958-2015 not given",
      "sources": [
-      "s0086"
+      "s0084"
      ]
     },
     {
@@ -5535,20 +5517,21 @@
      "operator": "Dean DiLullo (M1 Gaming)",
      "note": "Sold 2015",
      "sources": [
-      "s0086"
+      "s0084"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The only page opened (Wikipedia) shows no allegation; no Nevada Gaming Control Board page was opened.",
+    "nsrc": 1,
     "sources": [
-     "s0086"
+     "s0084"
     ]
    },
    "corrections": "Opening 1954 agrees. 'Family-owned throughout' is contradicted by the sale chain (Pogue/Armstrong 1956, six buyers 1958, DiLullo 2015). 'Clean per Nevada Gaming Control Board' is unverified.",
    "opened": 1954,
-   "opened_source": "s0086"
+   "opened_source": "s0084"
   },
   "fremont-hotel": {
    "names": [
@@ -5559,8 +5542,8 @@
      "operator": "Ed (Eddie) Levinson and Lou Lurie",
      "note": "Opened 18 May 1956 as Nevada's tallest building; Ogden tower 1963",
      "sources": [
-      "s0087",
-      "s0088"
+      "s0085",
+      "s0086"
      ]
     },
     {
@@ -5570,8 +5553,8 @@
      "operator": "Argent Corporation (Allen Glick), via Recrion Corp.",
      "note": "Argent bought control of Recrion Aug 1974 with a Teamsters loan",
      "sources": [
-      "s0089",
-      "s0088"
+      "s0087",
+      "s0086"
      ]
     },
     {
@@ -5581,23 +5564,24 @@
      "operator": "Sam and Bill Boyd (Boyd Gaming)",
      "note": "Boyds bought 1983; state had asked Boyd to run it",
      "sources": [
-      "s0087",
-      "s0088"
+      "s0085",
+      "s0086"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "The Nevada Gaming Commission revoked the Fremont Hotel's licence in 1979 over about $7 million taken from the Argent casinos, and Online Nevada calls Argent a front for Midwest crime families.",
+    "nsrc": 3,
     "sources": [
-     "s0087",
-     "s0090",
-     "s0089"
+     "s0085",
+     "s0088",
+     "s0087"
     ]
    },
    "corrections": "Label 'documented' stands on the commission action. The 'Strawman case brought convictions' claim is not confirmed: no court record opened; Wikipedia says 15 were indicted in 1983, and Glick was never charged. Also check Teamsters-loan and Dalitz thread (1961) against the 1956 owners.",
    "opened": 1956,
-   "opened_source": "s0087"
+   "opened_source": "s0085"
   },
   "riverside-resort": {
    "names": [
@@ -5608,22 +5592,23 @@
      "operator": "Don Laughlin",
      "note": "Opened 2 Aug 1966; town of Laughlin named after him 1968; towers 1983, 1986, 1994",
      "sources": [
-      "s0091",
-      "s0092"
+      "s0089",
+      "s0090"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "An obituary and Wikipedia show no allegation; no regulatory page was opened, so this rests on absence.",
+    "nsrc": 2,
     "sources": [
-     "s0091",
-     "s0092"
+     "s0089",
+     "s0090"
     ]
    },
    "corrections": "Dates agree. Laughlin died in Oct 2023 (obituary), so 'founded by' stands; current ownership by his family was not checked.",
    "opened": 1966,
-   "opened_source": "s0092"
+   "opened_source": "s0090"
   },
   "colorado-belle": {
    "names": [
@@ -5634,7 +5619,7 @@
      "operator": "Circus Circus Enterprises",
      "note": "Opened 1 July 1987 at $80 million",
      "sources": [
-      "s0093"
+      "s0091"
      ]
     },
     {
@@ -5644,7 +5629,7 @@
      "operator": "Mandalay Resort Group, then MGM Mirage (2005)",
      "note": "Circus Circus renamed Mandalay 1999",
      "sources": [
-      "s0093"
+      "s0091"
      ]
     },
     {
@@ -5654,7 +5639,7 @@
      "operator": "Anthony Marnell III and Sher Gaming",
      "note": "Sold for $200 million (with Edgewater)",
      "sources": [
-      "s0093"
+      "s0091"
      ]
     },
     {
@@ -5664,23 +5649,24 @@
      "operator": "Golden Entertainment",
      "note": "Bought for $190 million (with Edgewater); closed 17 March 2020, kept closed indefinitely",
      "sources": [
-      "s0093"
+      "s0091"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "Wikipedia shows no allegation for the Colorado Belle; the one licensing concern found was at the neighbouring Edgewater, a different property.",
+    "nsrc": 2,
     "sources": [
-     "s0093",
-     "s0094"
+     "s0091",
+     "s0092"
     ]
    },
    "corrections": "Record says 'Developed by local investors' and closed null. Sources show Circus Circus (a public company) built it in 1987, and it closed in 2020 and has stayed closed. The page's 1979-84 section on an earlier casino is not reconciled.",
    "opened": 1987,
-   "opened_source": "s0093",
+   "opened_source": "s0091",
    "closed": 2020,
-   "closed_source": "s0093"
+   "closed_source": "s0091"
   },
   "casino-magic-biloxi": {
    "names": [
@@ -5691,9 +5677,9 @@
      "operator": "Casino Magic Corp. (1993-Oct 1998); Hollywood Park, Inc./Pinnacle Entertainment (1998-2005)",
      "note": "Opened June 5, 1993 as the second Casino Magic casino; company bought for $340 million in October 1998; casino barge destroyed by Hurricane Katrina in 2005 and never reopened",
      "sources": [
-      "s0095",
-      "s0096",
-      "s0097"
+      "s0093",
+      "s0094",
+      "s0095"
      ]
     },
     {
@@ -5703,23 +5689,24 @@
      "operator": "Biloxi Lodging developers",
      "note": "Non-gaming hotel on the old site, opened June 23, 2016",
      "sources": [
-      "s0097"
+      "s0095"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The sources opened show a corporate operator history; the only items found are a 1998 regulator-to-industry revolving-door report and a Biloxi Dixie Mafia case about illegal vice, neither of which ties the casino to organised crime.",
+    "nsrc": 2,
     "sources": [
-     "s0098",
-     "s0099"
+     "s0096",
+     "s0097"
     ]
    },
    "corrections": "Opening year is 1993 (opened June 5, 1993), not 1992; 1992 is the year of the company's Bay St. Louis casino. The casino closed for good in 2005 (Katrina); closed is not null. The current resort is a non-gaming hotel.",
    "opened": 1993,
-   "opened_source": "s0095",
+   "opened_source": "s0093",
    "closed": 2005,
-   "closed_source": "s0097"
+   "closed_source": "s0095"
   },
   "president-casino-biloxi": {
    "names": [
@@ -5730,8 +5717,8 @@
      "operator": "Pete Martin Sr.; Joe Brown (from 1958); Dorothy Brown",
      "note": "Pre-casino resort; illegal gambling under the first owner; Hurricane Camille 1969",
      "sources": [
-      "s0100",
-      "s0101"
+      "s0098",
+      "s0099"
      ]
     },
     {
@@ -5741,25 +5728,26 @@
      "operator": "President Casinos (John E. Connelly); Broadwater Development LLC (from April 2005)",
      "note": "Riverboat opened August 1992, replaced by a barge in 1995; bankruptcy 2002; destroyed by Katrina August 29, 2005; barge sold to a Silver Slipper venture",
      "sources": [
-      "s0102",
-      "s0101"
+      "s0100",
+      "s0099"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The history opened describes a bankruptcy-driven business story for the casino era; earlier illegal gambling (1939) is a pre-casino vice story, and the Halat Dixie Mafia case concerns Biloxi vice, not this property.",
+    "nsrc": 3,
     "sources": [
-     "s0102",
      "s0100",
-     "s0099"
+     "s0098",
+     "s0097"
     ]
    },
    "corrections": "",
    "opened": 1992,
-   "opened_source": "s0102",
+   "opened_source": "s0100",
    "closed": 2005,
-   "closed_source": "s0101"
+   "closed_source": "s0099"
   },
   "boomtown-casino-harvey": {
    "names": [
@@ -5770,8 +5758,8 @@
      "operator": "Boomtown, Inc.; Hollywood Park/Pinnacle Entertainment (from 1997)",
      "note": "Opened August 6, 1994",
      "sources": [
-      "s0103",
-      "s0104"
+      "s0101",
+      "s0102"
      ]
     },
     {
@@ -5781,34 +5769,36 @@
      "operator": "Pinnacle Entertainment; owned by Gaming and Leisure Properties since 2016 (leased back to Pinnacle); Penn Entertainment licence holder",
      "note": "Became largest riverboat in the region after taking a River City Casino riverboat in 1998",
      "sources": [
-      "s0104"
+      "s0102"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "Wikipedia history shows publicly traded corporate operators only; no organised-crime source found, but no gaming-board or court records could be opened.",
+    "nsrc": 2,
     "sources": [
-     "s0104",
-     "s0105"
+     "s0102",
+     "s0103"
     ]
    },
    "corrections": "The name was Boomtown Westbank until 2002 (infobox 1994-2002).",
    "opened": 1994,
-   "opened_source": "s0103"
+   "opened_source": "s0101"
   },
   "treasure-chest-casino-kenner": {
    "names": [],
    "label": {
     "level": "unsupported",
-    "basis": "I could not open any source on this casino that bears on organised crime; a search result suggested the Fifth Circuit Edwards opinion has a \"Treasure Chest scheme\" (public corruption in licensing) but the opinion could not be opened (blocked), so nothing is claimed.",
+    "basis": "Not settled by the sources checked.",
+    "nsrc": 1,
     "sources": [
-     "s0105"
+     "s0103"
     ]
    },
    "corrections": "Current label none is not backed by a source I could open; mark unsupported until the Edwards opinion is read.",
    "opened": 1994,
-   "opened_source": "s0106"
+   "opened_source": "s0104"
   },
   "ip-casino-biloxi": {
    "names": [
@@ -5819,8 +5809,8 @@
      "operator": "Ralph Engelstad; his estate trustees after 2002",
      "note": "Opened Dec 22, 1997; sister of the Las Vegas Imperial Palace",
      "sources": [
-      "s0107",
-      "s0108"
+      "s0105",
+      "s0106"
      ]
     },
     {
@@ -5830,20 +5820,21 @@
      "operator": "Boyd Gaming (from October 2011)",
      "note": "Bought for $278 million in cash",
      "sources": [
-      "s0108"
+      "s0106"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The only regulatory action found on the founder is a 1989 Nevada fine for Hitler-birthday parties at his Las Vegas casino, a reputational matter, not organised crime.",
+    "nsrc": 1,
     "sources": [
-     "s0109"
+     "s0107"
     ]
    },
    "corrections": "",
    "opened": 1997,
-   "opened_source": "s0107"
+   "opened_source": "s0105"
   },
   "beau-rivage-biloxi": {
    "names": [
@@ -5854,22 +5845,23 @@
      "operator": "Mirage Resorts (Steve Wynn); MGM Mirage/MGM Resorts operator; MGM Growth Properties owner 2016; now Vici Properties",
      "note": "Opened March 1999; Katrina 2005, fully reopened Aug 29, 2006",
      "sources": [
-      "s0110",
-      "s0111"
+      "s0108",
+      "s0109"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The Wikipedia history shows a corporate developer and no organised-crime material; I opened no regulatory or court records.",
+    "nsrc": 2,
     "sources": [
-     "s0110",
-     "s0111"
+     "s0108",
+     "s0109"
     ]
    },
    "corrections": "",
    "opened": 1999,
-   "opened_source": "s0110"
+   "opened_source": "s0108"
   },
   "harras-new-orleans": {
    "names": [
@@ -5880,8 +5872,8 @@
      "operator": "Harrah's Jazz (Hemmeter/Caesars World/Harrah's partnership)",
      "note": "Temporary casino 1995; bankruptcy filed in November 1995; project taken over by Harrah's",
      "sources": [
-      "s0112",
-      "s0113"
+      "s0110",
+      "s0111"
      ]
     },
     {
@@ -5891,8 +5883,8 @@
      "operator": "Harrah's Entertainment/Caesars Entertainment; Eldorado Resorts (2020); real estate to Vici Properties",
      "note": "Opened late October 1999; closed after Katrina, reopened Feb 17, 2006",
      "sources": [
-      "s0112",
-      "s0114"
+      "s0110",
+      "s0112"
      ]
     },
     {
@@ -5902,21 +5894,22 @@
      "operator": "Caesars Entertainment (operator); Vici Properties (owner)",
      "note": "Rebranded May 2024",
      "sources": [
-      "s0114"
+      "s0112"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The history opened shows corporate and political licensing dealings (1993 joint venture under pressure from the governor) and no organised-crime link.",
+    "nsrc": 2,
     "sources": [
-     "s0113",
-     "s0105"
+     "s0111",
+     "s0103"
     ]
    },
    "corrections": "The permanent casino opened in 1999, but the licence holder ran a temporary casino from 1995.",
    "opened": 1999,
-   "opened_source": "s0112"
+   "opened_source": "s0110"
   },
   "hard-rock-biloxi": {
    "names": [
@@ -5927,22 +5920,23 @@
      "operator": "Premier Entertainment Biloxi LLC (Leucadia National) 2002-2014; Twin River Worldwide Holdings/Bally's 2014-; Gaming and Leisure Properties owner since Jan 4, 2023",
      "note": "Soft opening June 30, grand opening July 7, 2007 after a Katrina delay; on the former Gold Shore Casino site",
      "sources": [
-      "s0115",
-      "s0116"
+      "s0113",
+      "s0114"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "A corporate and franchise history only; nothing on organised crime found, but I opened no regulatory records.",
+    "nsrc": 2,
     "sources": [
-     "s0115",
-     "s0116"
+     "s0113",
+     "s0114"
     ]
    },
    "corrections": "",
    "opened": 2007,
-   "opened_source": "s0115"
+   "opened_source": "s0113"
   },
   "golden-nugget-biloxi": {
    "names": [
@@ -5953,9 +5947,9 @@
      "operator": "Isle of Capri Casinos (Bernard Goldstein's company)",
      "note": "First casino in Biloxi, August 1992; casino destroyed by Katrina in 2005",
      "sources": [
-      "s0117",
-      "s0118",
-      "s0119"
+      "s0115",
+      "s0116",
+      "s0117"
      ]
     },
     {
@@ -5965,21 +5959,22 @@
      "operator": "Fertitta Entertainment",
      "note": "Sold 2012 and converted to a Golden Nugget",
      "sources": [
-      "s0117"
+      "s0115"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The histories opened show a corporate operator chain only; nothing found on organised crime.",
+    "nsrc": 2,
     "sources": [
-     "s0117",
-     "s0118"
+     "s0115",
+     "s0116"
     ]
    },
    "corrections": "Opening year is 1992 (as Isle of Capri); 2012 is the rebrand. The current summary (Guy McAfee, 1946, Steve Wynn) describes the Las Vegas Golden Nugget, not this Biloxi property.",
    "opened": 1992,
-   "opened_source": "s0118"
+   "opened_source": "s0116"
   },
   "flamingo-las-vegas": {
    "names": [
@@ -5990,9 +5985,9 @@
      "operator": "Nevada Projects Corporation (Bugsy Siegel; originator Billy Wilkerson)",
      "note": "Casino opened 26 Dec 1946; closed within weeks, reopened with the hotel 1 March 1947",
      "sources": [
-      "s0120",
-      "s0121",
-      "s0122"
+      "s0118",
+      "s0119",
+      "s0120"
      ]
     },
     {
@@ -6002,7 +5997,7 @@
      "operator": "Sedway/Greenbaum/Lansky/Rosen group; licence held by front man Sanford Adler, then Gus Greenbaum (1948)",
      "note": "Group bought the property from Siegel's company for $3.9m after his June 1947 killing",
      "sources": [
-      "s0120"
+      "s0118"
      ]
     },
     {
@@ -6012,7 +6007,7 @@
      "operator": "Thomas Hull and about 30 local investors; Parvin-Dohrmann (Albert Parvin)",
      "note": "Bought for $7m; Greenbaum left for the Riviera",
      "sources": [
-      "s0120"
+      "s0118"
      ]
     },
     {
@@ -6022,7 +6017,7 @@
      "operator": "Morris Lansburgh, Sam Cohen, Daniel Lifter (Miami Beach)",
      "note": "$10.6m sale; skim convictions of Lansburgh and Cohen a decade later",
      "sources": [
-      "s0120"
+      "s0118"
      ]
     },
     {
@@ -6032,7 +6027,7 @@
      "operator": "Kirk Kerkorian",
      "note": "Bought for $13m; built 28-storey tower",
      "sources": [
-      "s0120"
+      "s0118"
      ]
     },
     {
@@ -6042,8 +6037,8 @@
      "operator": "Hilton Hotels (Barron Hilton); from 1998 Park Place Entertainment",
      "note": "Hilton agreed 1971; 1998 Hilton gaming spin-off",
      "sources": [
-      "s0120",
-      "s0122"
+      "s0118",
+      "s0120"
      ]
     },
     {
@@ -6053,21 +6048,22 @@
      "operator": "Park Place, later Caesars Entertainment",
      "note": "Renamed after Hilton licence not renewed",
      "sources": [
-      "s0122"
+      "s0120"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Kefauver testimony (1950) lists Lansky among Flamingo stockholders, and Online Nevada reports Lansburgh and Cohen convicted for skimming the Flamingo.",
+    "nsrc": 2,
     "sources": [
-     "s0120",
-     "s0123"
+     "s0118",
+     "s0121"
     ]
    },
    "corrections": "Current summary says Siegel 'skimmed construction funds' and cites 'FBI and Kefauver findings'. The opened sources describe cost overruns and mismanagement under Siegel, not a skim of construction money; the Kefauver record is a witness's 'I think' that Lansky held some stock; the court record opened is the later Lansburgh/Cohen skimming convictions (Lansky charged, not convicted). Casino opened 26 Dec 1946, hotel 1 March 1947.",
    "opened": 1946,
-   "opened_source": "s0121"
+   "opened_source": "s0119"
   },
   "desert-inn": {
    "names": [
@@ -6078,8 +6074,8 @@
      "operator": "Wilbur Clark with the Cleveland group (Dalitz, Kleinman, Tucker, McGinty, C. Jones)",
      "note": "Opened 24 April 1950; Cleveland group stepped in after Clark ran short of money",
      "sources": [
-      "s0124",
-      "s0125"
+      "s0122",
+      "s0123"
      ]
     },
     {
@@ -6089,7 +6085,7 @@
      "operator": "Moe Dalitz group",
      "note": "Clark sold his interest 1964",
      "sources": [
-      "s0124"
+      "s0122"
      ]
     },
     {
@@ -6099,7 +6095,7 @@
      "operator": "ITT Sheraton, then Starwood (1998)",
      "note": "Sheraton from 1993",
      "sources": [
-      "s0126"
+      "s0124"
      ]
     },
     {
@@ -6109,26 +6105,27 @@
      "operator": "Steve Wynn",
      "note": "Bought for $275m; closed 28 Aug 2000; imploded from Oct 2001 for Wynn Las Vegas",
      "sources": [
-      "s0124",
-      "s0127"
+      "s0122",
+      "s0125"
      ]
     }
    ],
    "label": {
     "level": "documented",
     "basis": "The Kefauver record (1950) has Dalitz testifying to the Cleveland group's controlling stake and staff naming his Mayfield Road gang association.",
+    "nsrc": 4,
     "sources": [
-     "s0125",
-     "s0128",
-     "s0124",
-     "s0123"
+     "s0123",
+     "s0126",
+     "s0122",
+     "s0121"
     ]
    },
    "corrections": "Current summary says the Nevada Gaming Control Board 'documented hidden mob profit participation'; no opened source shows that. The documented point is the disclosed Cleveland-group ownership; skimming is described only as alleged. Opening 1950 and closure 2000 are right; towers were imploded later (2001 onward).",
    "opened": 1950,
-   "opened_source": "s0124",
+   "opened_source": "s0122",
    "closed": 2000,
-   "closed_source": "s0127"
+   "closed_source": "s0125"
   },
   "sands-hotel-casino": {
    "names": [
@@ -6139,8 +6136,8 @@
      "operator": "Original investors incl. Jake Freedman (licensed after buying out Mack Kufferman), Ed Levinson, Sid Wyman, Michael Shapiro; Jack Entratter and Carl Cohen after 1958",
      "note": "Opened 15 Dec 1952; Nevada Tax Commission refused Kufferman and Freedman licences first",
      "sources": [
-      "s0129",
-      "s0130"
+      "s0127",
+      "s0128"
      ]
     },
     {
@@ -6150,8 +6147,8 @@
      "operator": "Howard Hughes / Summa Corporation",
      "note": "Hughes bought 1967",
      "sources": [
-      "s0129",
-      "s0131"
+      "s0127",
+      "s0129"
      ]
     },
     {
@@ -6161,7 +6158,7 @@
      "operator": "Pratt Corporation, then MGM Grand",
      "note": "Pratt bought 1980; MGM Grand 1988 (MGM Sands)",
      "sources": [
-      "s0131"
+      "s0129"
      ]
     },
     {
@@ -6171,24 +6168,25 @@
      "operator": "Las Vegas Sands Inc. (Interface Group: Adelson and partners)",
      "note": "Closed 1996, imploded 26 Nov 1996; Venetian built on site",
      "sources": [
-      "s0131",
-      "s0132"
+      "s0129",
+      "s0130"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Online Nevada reports Tax Commission refusals of licences and skimming allegations; the Sun reports hidden Chicago ownership; no court or board finding on the Sands itself was opened.",
+    "nsrc": 2,
     "sources": [
-     "s0129",
-     "s0133"
+     "s0127",
+     "s0131"
     ]
    },
    "corrections": "Current summary says Kefauver Committee records confirm hidden interests; the hearings (Nov 1950) predate the Sands (opened Dec 1952) and the Part 10 transcript contains no mention of it. Claim of skim operations 'documented in 1970s federal prosecutions' and of FBI confirmation is not supported by anything opened, so 'documented' should be 'alleged'. Dates 1952 and 1996 stand (1996 is the demolition year).",
    "opened": 1952,
-   "opened_source": "s0130",
+   "opened_source": "s0128",
    "closed": 1996,
-   "closed_source": "s0132"
+   "closed_source": "s0130"
   },
   "dunes": {
    "names": [
@@ -6199,8 +6197,8 @@
      "operator": "Alfred Gottesman, Joe Sullivan, Bob Rice",
      "note": "Opened 23 May 1955; casino shut within a year, a motel in effect",
      "sources": [
-      "s0134",
-      "s0135"
+      "s0132",
+      "s0133"
      ]
     },
     {
@@ -6210,8 +6208,8 @@
      "operator": "James Gottlieb and Major Riddle; Sid Wyman and partners",
      "note": "Teamsters pension loan of $4m in 1958; golf course 1964-65 (Dunes Hotel and Country Club)",
      "sources": [
-      "s0134",
-      "s0135"
+      "s0132",
+      "s0133"
      ]
     },
     {
@@ -6221,8 +6219,8 @@
      "operator": "Morris Shenker group (later Dunes Hotels and Casinos Inc.)",
      "note": "Shenker chairman until 1984; bankruptcy",
      "sources": [
-      "s0134",
-      "s0135"
+      "s0132",
+      "s0133"
      ]
     },
     {
@@ -6232,8 +6230,8 @@
      "operator": "Masao Nangaku",
      "note": "Bought 1987 for $157m",
      "sources": [
-      "s0135",
-      "s0134"
+      "s0133",
+      "s0132"
      ]
     },
     {
@@ -6243,23 +6241,24 @@
      "operator": "Mirage Resorts (Steve Wynn)",
      "note": "Closed 26 Jan 1993; north tower imploded 27 Oct 1993, south 1994; Bellagio built on site",
      "sources": [
-      "s0135",
-      "s0134"
+      "s0133",
+      "s0132"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Online Nevada describes front-man reputations, Teamsters loans and federal investigators' beliefs, all as allegations.",
+    "nsrc": 1,
     "sources": [
-     "s0134"
+     "s0132"
     ]
    },
    "corrections": "No error found in the dates. Nevada licensing files were not opened, so the 'Nevada licensing files' basis in the record is unverified here.",
    "opened": 1955,
-   "opened_source": "s0134",
+   "opened_source": "s0132",
    "closed": 1993,
-   "closed_source": "s0135"
+   "closed_source": "s0133"
   },
   "riviera-casino": {
    "names": [
@@ -6270,7 +6269,7 @@
      "operator": "Miami partners, then Gus Greenbaum and partners (Berman, Alderman, Rich, Goffstein)",
      "note": "Opened 29 April 1955; Tax Commission had earlier balked at a Lansky-linked applicant",
      "sources": [
-      "s0136"
+      "s0134"
      ]
     },
     {
@@ -6280,8 +6279,8 @@
      "operator": "Meshulam Riklis",
      "note": "Bought 1973 for $56m; bankruptcy 1985 and 1991",
      "sources": [
-      "s0136",
-      "s0137"
+      "s0134",
+      "s0135"
      ]
     },
     {
@@ -6291,7 +6290,7 @@
      "operator": "Riviera Holdings (Starwood Capital 75% from 2011); Paragon Gaming operated 2013-15",
      "note": "Closed 4 May 2015",
      "sources": [
-      "s0137"
+      "s0135"
      ]
     },
     {
@@ -6301,23 +6300,24 @@
      "operator": "Las Vegas Convention and Visitors Authority",
      "note": "Bought for $191m; towers imploded 2016",
      "sources": [
-      "s0137"
+      "s0135"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Online Nevada and the Sun report Chicago-linked partners and a Tax Commission licensing problem; no conviction or board finding was opened.",
+    "nsrc": 2,
     "sources": [
-     "s0136",
-     "s0138"
+     "s0134",
+     "s0136"
     ]
    },
    "corrections": "Dates stand (opened April 1955, closed May 2015; demolished 2016). Current text on Midwest mob investors matches the reporting; 'no convictions tied directly to casino operations' could not be checked against a court source.",
    "opened": 1955,
-   "opened_source": "s0136",
+   "opened_source": "s0134",
    "closed": 2015,
-   "closed_source": "s0137"
+   "closed_source": "s0135"
   },
   "tropicana-las-vegas": {
    "names": [
@@ -6328,8 +6328,8 @@
      "operator": "Ben Jaffe (Fontainebleau owner); J. Kell Houssels oversaw operation",
      "note": "Opened 4 April 1957; Gaming Control Board denied Phil Kastel's casino licence",
      "sources": [
-      "s0139",
-      "s0140"
+      "s0137",
+      "s0138"
      ]
     },
     {
@@ -6339,7 +6339,7 @@
      "operator": "J. Kell Houssels and partners",
      "note": "Houssels bought out Jaffe's share in 1959; Jaffe kept the land",
      "sources": [
-      "s0139"
+      "s0137"
      ]
     },
     {
@@ -6349,8 +6349,8 @@
      "operator": "Trans-Texas Airways, then Deil Gustafson (1971), then Mitzi Stauffer Briggs and Associates of the Tropicana",
      "note": "Agosto ran the Folies Bergere and then the hotel; Gaming Commission revoked Briggs and Gustafson licences",
      "sources": [
-      "s0139",
-      "s0141"
+      "s0137",
+      "s0139"
      ]
     },
     {
@@ -6360,7 +6360,7 @@
      "operator": "Columbia Sussex (2007), Onex (2009)",
      "note": "Columbia Sussex lost it to bankruptcy",
      "sources": [
-      "s0142"
+      "s0140"
      ]
     },
     {
@@ -6370,24 +6370,25 @@
      "operator": "Penn National (2015), GLPI land (2020), Bally's Corporation (2022)",
      "note": "Closed 2 April 2024; imploded 9 Oct 2024 for the Athletics stadium",
      "sources": [
-      "s0142"
+      "s0140"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Online Nevada reports the 1981 Kansas City indictment and 1983 convictions for the Tropicana skim and licence revocations; the Sun reports Agosto's guilty plea.",
+    "nsrc": 3,
     "sources": [
-     "s0139",
-     "s0143",
-     "s0141"
+     "s0137",
+     "s0141",
+     "s0139"
     ]
    },
    "corrections": "'Hidden mob interests at opening (Frank Costello)' is an allegation: Online Nevada says a note found on Costello made national headlines and the Gaming Control Board denied Kastel's licence; no ownership finding was opened. The 1970s Kansas City skim is documented as Operation Strawman, but opened sources tie Strawman to the Tropicana, not the Stardust.",
    "opened": 1957,
-   "opened_source": "s0140",
+   "opened_source": "s0138",
    "closed": 2024,
-   "closed_source": "s0142"
+   "closed_source": "s0140"
   },
   "stardust": {
    "names": [
@@ -6398,7 +6399,7 @@
      "operator": "Jake Factor (landlord) with Dalitz group (United Hotels) leasing the casino",
      "note": "Opened 2 July 1958 after Tony Cornero's death in 1955 halted construction",
      "sources": [
-      "s0144"
+      "s0142"
      ]
     },
     {
@@ -6408,8 +6409,8 @@
      "operator": "Dalitz group (United Resort Hotels), then Recrion Corporation (Delbert Coleman)",
      "note": "Hughes blocked from buying; Teamsters $12m loan to Recrion",
      "sources": [
-      "s0144",
-      "s0145"
+      "s0142",
+      "s0143"
      ]
     },
     {
@@ -6419,24 +6420,25 @@
      "operator": "Boyd Group (Sam and Bill Boyd)",
      "note": "Closed 1 Nov 2006; imploded 13 March 2007",
      "sources": [
-      "s0144",
-      "s0145"
+      "s0142",
+      "s0143"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Online Nevada reports a 1983 federal case, a Gaming Commission lifetime ban of Lefty Rosenthal and a 1984 commission removal and fine; this is a secondary summary of those official actions.",
+    "nsrc": 2,
     "sources": [
-     "s0144",
-     "s0123"
+     "s0142",
+     "s0121"
     ]
    },
    "corrections": "Dates stand (July 1958, Nov 2006). Strawman is the Tropicana case in the opened sources; the Argent skim convictions are the Stardust case. 'Story behind the film Casino' was not checked. Court opinions (e.g. 8th Cir., United States v. Cerone) appeared in search but were not opened.",
    "opened": 1958,
-   "opened_source": "s0144",
+   "opened_source": "s0142",
    "closed": 2006,
-   "closed_source": "s0145"
+   "closed_source": "s0143"
   },
   "caesars-palace": {
    "names": [
@@ -6447,8 +6449,8 @@
      "operator": "Jay Sarno and Nathan Jacobson; land from Kirk Kerkorian",
      "note": "Teamsters $10.5m loan",
      "sources": [
-      "s0146",
-      "s0147"
+      "s0144",
+      "s0145"
      ]
     },
     {
@@ -6458,7 +6460,7 @@
      "operator": "Clifford and Stuart Perlman (Lum's, then Caesars World)",
      "note": "Bought for $60m",
      "sources": [
-      "s0146"
+      "s0144"
      ]
     },
     {
@@ -6468,7 +6470,7 @@
      "operator": "ITT-Sheraton, then Starwood Hotels & Resorts (1997)",
      "note": "ITT-Sheraton 1995",
      "sources": [
-      "s0146"
+      "s0144"
      ]
     },
     {
@@ -6478,7 +6480,7 @@
      "operator": "Park Place Entertainment (renamed Caesars Entertainment, 2004)",
      "note": "$3bn Starwood sale 1999",
      "sources": [
-      "s0146"
+      "s0144"
      ]
     },
     {
@@ -6488,22 +6490,23 @@
      "operator": "Harrah's Entertainment (renamed Caesars Entertainment 2010); land owned by Vici Properties",
      "note": "Merger 2005",
      "sources": [
-      "s0146"
+      "s0144"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Online Nevada reports rumours and Control Board investigations; the Sun reports a Chicago interest in 1965; the board found no wrongdoing by the later owners.",
+    "nsrc": 3,
     "sources": [
-     "s0146",
-     "s0147",
-     "s0148"
+     "s0144",
+     "s0145",
+     "s0146"
     ]
    },
    "corrections": "Current label 'documented' and 'federal convictions' are not supported by anything opened: Online Nevada reports a Teamsters loan and rumours, with Sarno denying them and the Gaming Control Board finding no wrongdoing by the Perlmans. Should be 'alleged' unless a conviction source is found. Opening 1966 stands.",
    "opened": 1966,
-   "opened_source": "s0146"
+   "opened_source": "s0144"
   },
   "circus-circus": {
    "names": [
@@ -6514,7 +6517,7 @@
      "operator": "Jay Sarno (Teamsters pension loans)",
      "note": "Opened 18 Oct 1968; Sarno resigned 1969 for a time then returned",
      "sources": [
-      "s0149"
+      "s0147"
      ]
     },
     {
@@ -6524,7 +6527,7 @@
      "operator": "William Bennett and William Pennington (lease), Sarno as adviser",
      "note": "Takeover of operations",
      "sources": [
-      "s0149"
+      "s0147"
      ]
     },
     {
@@ -6534,8 +6537,8 @@
      "operator": "Circus Circus Enterprises",
      "note": "Went public 1983",
      "sources": [
-      "s0149",
-      "s0150"
+      "s0147",
+      "s0148"
      ]
     },
     {
@@ -6545,7 +6548,7 @@
      "operator": "Mandalay Resort Group",
      "note": "Enterprises renamed 1999",
      "sources": [
-      "s0150"
+      "s0148"
      ]
     },
     {
@@ -6555,7 +6558,7 @@
      "operator": "MGM Mirage (later MGM Resorts)",
      "note": "Bought 2005",
      "sources": [
-      "s0150"
+      "s0148"
      ]
     },
     {
@@ -6565,20 +6568,21 @@
      "operator": "Phil Ruffin (per Wikipedia infobox)",
      "note": "Sold by MGM 2019",
      "sources": [
-      "s0150"
+      "s0148"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Online Nevada says federal investigators called Sarno a front man and that a Chicago member ran a skim there; a former executive admitted participating in a skim scheme; no conviction of owners was opened.",
+    "nsrc": 1,
     "sources": [
-     "s0149"
+     "s0147"
     ]
    },
    "corrections": "Current record says 'no proven mob ownership after licensing'; sources opened do say investigators alleged a skim in the 1970s, so 'alleged' is right but the summary understates it.",
    "opened": 1968,
-   "opened_source": "s0149"
+   "opened_source": "s0147"
   },
   "bellagio": {
    "names": [
@@ -6589,8 +6593,8 @@
      "operator": "Mirage Resorts (Steve Wynn)",
      "note": "Opened 15 Oct 1998 on the Dunes site; Gaming Commission approval Aug 1998",
      "sources": [
-      "s0151",
-      "s0152"
+      "s0149",
+      "s0150"
      ]
     },
     {
@@ -6600,7 +6604,7 @@
      "operator": "MGM Mirage (later MGM Resorts International)",
      "note": "Mirage merged with MGM Grand in 2000",
      "sources": [
-      "s0151"
+      "s0149"
      ]
     },
     {
@@ -6610,21 +6614,22 @@
      "operator": "Blackstone owner; MGM Resorts licence holder",
      "note": "$4.25bn sale",
      "sources": [
-      "s0151"
+      "s0149"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "Searched both directions: opened pages show Gaming Commission approval and a Mirage mob-visit inquiry with no wrongdoing found; none tie Bellagio to organised crime.",
+    "nsrc": 2,
     "sources": [
-     "s0152",
-     "s0153"
+     "s0150",
+     "s0151"
     ]
    },
    "corrections": "None needed for dates. 'Fully corporate financing' was not verified from a source. The Dunes site had alleged mob history; that does not carry over to Bellagio.",
    "opened": 1998,
-   "opened_source": "s0151"
+   "opened_source": "s0149"
   },
   "cal-neva-lodge": {
    "names": [
@@ -6635,7 +6640,7 @@
      "operator": "Robert P. Sherman (builder); Norman Blitz; investor group with William Remmer from 1935",
      "note": "Built 1926; burned and rebuilt in 1937; legal gambling from 1931",
      "sources": [
-      "s0154"
+      "s0152"
      ]
     },
     {
@@ -6645,7 +6650,7 @@
      "operator": "Sanford Adler and associates",
      "note": "Bought from Remmer for $700,000; hyphen dropped (Wikipedia: c. end of WWII; spelling already in use earlier)",
      "sources": [
-      "s0154"
+      "s0152"
      ]
     },
     {
@@ -6655,7 +6660,7 @@
      "operator": "Group led by Bert Grober",
      "note": "Bought March 21, 1955 for $1 million",
      "sources": [
-      "s0154"
+      "s0152"
      ]
     },
     {
@@ -6665,10 +6670,10 @@
      "operator": "Park Lake Enterprises (Frank Sinatra, Hank Sanicola, Paul D'Amato and others); leased to Jack Warner",
      "note": "Sinatra surrendered his Nevada gaming licences in 1963 after Giancana was found there; AP gives 1960-1963 as his ownership years, Wikipedia says the property was sold in 1968",
      "sources": [
+      "s0153",
+      "s0154",
       "s0155",
-      "s0156",
-      "s0157",
-      "s0154"
+      "s0152"
      ]
     },
     {
@@ -6678,7 +6683,7 @@
      "operator": "Owners of Reno's Club Cal Neva; later Ohio Real Estate Investment Trust (1970); federal receivership 1973",
      "note": "Ten-story expansion 1969; winter closure 1974",
      "sources": [
-      "s0154"
+      "s0152"
      ]
     },
     {
@@ -6688,7 +6693,7 @@
      "operator": "BKJ Corporation (licence refused); First National Bank of Nevada; Kirk Kerkorian (Tracinda) from 1976",
      "note": "Foreclosure early 1976; a 1985 fraud buyer was arrested",
      "sources": [
-      "s0154"
+      "s0152"
      ]
     },
     {
@@ -6698,38 +6703,39 @@
      "operator": "Chuck Bluth (1985); Ezri Namvar (2005); Canyon Capital foreclosure",
      "note": "Casino shut down in April 2010; resort closed Sept 2013 for renovation",
      "sources": [
-      "s0158",
-      "s0157",
-      "s0154"
+      "s0156",
+      "s0155",
+      "s0152"
      ]
     },
     {
      "name": "Cal Neva Lodge",
      "from": 2013,
      "to": null,
-     "operator": "Criswell-Radovan (2013); Larry Ellison (2018); McWhinney (2023)",
+     "operator": "(a named individual; omitted)",
      "note": "Bought April 2013; bankruptcy 2016; sold at auction Jan 2018; McWhinney April 2023 to convert to a hotel",
      "sources": [
-      "s0157",
-      "s0154"
+      "s0155",
+      "s0152"
      ]
     }
    ],
    "label": {
     "level": "documented",
     "basis": "A historian, an oral-history volume and an FBI file record that Giancana, on Nevada's excluded list, was a guest at the Cal-Neva and that Sinatra surrendered his licences in 1963; Giancana's ownership is only informant reporting and Sinatra denied it.",
+    "nsrc": 4,
     "sources": [
-     "s0155",
-     "s0156",
-     "s0159",
-     "s0160"
+     "s0153",
+     "s0154",
+     "s0157",
+     "s0158"
     ]
    },
    "corrections": "(1) The record says Sinatra 'partnered with' Giancana: sources I opened document Giancana as a guest and Sinatra's licence surrender (1963); joint ownership appears only as unverified FBI informant reporting and a rumor, and Sinatra denied it, so that part is alleged. (2) Wikipedia says licence 'suspended'; the sources say surrendered. (3) 'Closed 2013' is the resort; the casino stopped in April 2010. (4) Sinatra's ownership 1960 to 1963 (AP) vs sale in 1968 (Wikipedia): the record should say 1960-1968 with licence lost 1963.",
    "opened": 1926,
-   "opened_source": "s0154",
+   "opened_source": "s0152",
    "closed": 2013,
-   "closed_source": "s0157"
+   "closed_source": "s0155"
   },
   "harolds-club": {
    "names": [
@@ -6740,7 +6746,7 @@
      "operator": "Harold S. Smith Sr. and Raymond A. Smith; Raymond I. 'Pappy' Smith as manager",
      "note": "Opened Feb 23, 1935; apostrophe dropped over time",
      "sources": [
-      "s0161"
+      "s0159"
      ]
     },
     {
@@ -6750,7 +6756,7 @@
      "operator": "Webbel Corporation (Smith family) as lessee",
      "note": "1962 sale of the property for $16.5 million and 25-year leaseback",
      "sources": [
-      "s0161"
+      "s0159"
      ]
     },
     {
@@ -6760,8 +6766,8 @@
      "operator": "Howard Hughes / Summa Corporation",
      "note": "Sold June 1970 (Wikipedia: $11.5 million); $20 million expansion 1971",
      "sources": [
-      "s0161",
-      "s0162"
+      "s0159",
+      "s0160"
      ]
     },
     {
@@ -6771,7 +6777,7 @@
      "operator": "The Fitzgerald Group of Reno; Gamma International (American Gaming and Entertainment) 1995",
      "note": "Closed March 31, 1995; reopened four hours in 1997 to keep its licence",
      "sources": [
-      "s0161"
+      "s0159"
      ]
     },
     {
@@ -6781,25 +6787,26 @@
      "operator": "Harrah's Entertainment",
      "note": "Bought 1999; imploded December 1999; outdoor plaza",
      "sources": [
-      "s0161",
-      "s0163"
+      "s0159",
+      "s0161"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "The sources opened describe a family-run club with an honest-game reputation and show no court, board or congressional finding of organised-crime ties; the Kefauver index text search found no entry.",
+    "nsrc": 3,
     "sources": [
+     "s0159",
      "s0161",
-     "s0163",
-     "s0164"
+     "s0162"
     ]
    },
    "corrections": "The record says 'family-owned throughout its history': wrong. The Smiths sold to Howard Hughes in June 1970, then The Fitzgerald Group (1988) and Gamma International (1995). Demolition was December 1999 (Online Nevada: Dec 16; Sun: Dec 15).",
    "opened": 1935,
-   "opened_source": "s0161",
+   "opened_source": "s0159",
    "closed": 1995,
-   "closed_source": "s0161"
+   "closed_source": "s0159"
   },
   "harrahs-reno": {
    "names": [
@@ -6810,8 +6817,8 @@
      "operator": "William F. Harrah in joint ventures",
      "note": "First bingo parlor Oct 1937; small-time operations until 1946",
      "sources": [
-      "s0165",
-      "s0166"
+      "s0163",
+      "s0164"
      ]
     },
     {
@@ -6821,8 +6828,8 @@
      "operator": "William F. Harrah, sole owner",
      "note": "Absorbed neighbours, including Pick Hobson's Frontier Club in 1956",
      "sources": [
-      "s0165",
-      "s0166"
+      "s0163",
+      "s0164"
      ]
     },
     {
@@ -6832,8 +6839,8 @@
      "operator": "Harrah's (William F. Harrah to 1978; company public 1971, NYSE 1973)",
      "note": "Golden Hotel bought 1968; 24-story tower opened Oct 10, 1969",
      "sources": [
-      "s0165",
-      "s0166"
+      "s0163",
+      "s0164"
      ]
     },
     {
@@ -6843,8 +6850,8 @@
      "operator": "Holiday Inns, then Promus Hotel Company",
      "note": "Holiday Inns acquired the company in 1980; Promus spin-off 1995",
      "sources": [
-      "s0165",
-      "s0166"
+      "s0163",
+      "s0164"
      ]
     },
     {
@@ -6854,7 +6861,7 @@
      "operator": "Harrah's Entertainment (Caesars)",
      "note": "Bought the adjoining Harold's Club and Nevada Club 1999",
      "sources": [
-      "s0166"
+      "s0164"
      ]
     },
     {
@@ -6864,7 +6871,7 @@
      "operator": "VICI Properties (owner), leased to Caesars Entertainment",
      "note": "Closed March 17, 2020; Caesars said in June 2020 it would not reopen",
      "sources": [
-      "s0166"
+      "s0164"
      ]
     },
     {
@@ -6874,24 +6881,25 @@
      "operator": "CAI Investments / Gryphon-RCCO",
      "note": "Sale completed Sept 2020; conversion to apartments and mixed use",
      "sources": [
-      "s0166"
+      "s0164"
      ]
     }
    ],
    "label": {
     "level": "none",
     "basis": "No source I opened shows an organised-crime link; a company oral history reports Harrah's persuaded financiers it was not mob-owned, and a Kefauver index text search found no entry.",
+    "nsrc": 3,
     "sources": [
+     "s0163",
      "s0165",
-     "s0167",
-     "s0164"
+     "s0162"
     ]
    },
    "corrections": "The record has closed: null. The property closed March 17, 2020 and was not reopened. The 1937 opening is a small bingo parlor that closed within months; Harrah's casino (Harrah's Reno Club) dates from 1946.",
    "opened": 1937,
-   "opened_source": "s0165",
+   "opened_source": "s0163",
    "closed": 2020,
-   "closed_source": "s0166"
+   "closed_source": "s0164"
   },
   "mapes-hotel-casino": {
    "names": [
@@ -6902,8 +6910,8 @@
      "operator": "Mapes family (Charles Mapes Jr.)",
      "note": "Opened Dec 17, 1947; casino closed Dec 17, 1982",
      "sources": [
-      "s0168",
-      "s0169"
+      "s0166",
+      "s0167"
      ]
     },
     {
@@ -6913,7 +6921,7 @@
      "operator": "Bank foreclosure",
      "note": "Mapes could not repay $15 million; foreclosed December 1982",
      "sources": [
-      "s0168"
+      "s0166"
      ]
     },
     {
@@ -6923,7 +6931,7 @@
      "operator": "George Karadanis and Robert Maloff",
      "note": "Bought June 1988; never reopened",
      "sources": [
-      "s0168"
+      "s0166"
      ]
     },
     {
@@ -6933,25 +6941,26 @@
      "operator": "Reno Redevelopment Agency",
      "note": "Imploded January 30, 2000; site now park and ice rink",
      "sources": [
-      "s0168",
-      "s0169"
+      "s0166",
+      "s0167"
      ]
     }
    ],
    "label": {
     "level": "none",
-    "basis": "Sources opened show family ownership and a bank foreclosure with no organised-crime allegation; the only congressional trace is a hearings-index entry whose context I did not open.",
+    "basis": "Searched in both directions; nothing credible found in the sources checked.",
+    "nsrc": 3,
     "sources": [
-     "s0168",
-     "s0169",
-     "s0164"
+     "s0166",
+     "s0167",
+     "s0162"
     ]
    },
    "corrections": "Dates are confirmed. Note the casino closed in 1982 but the building stood until the January 2000 demolition.",
    "opened": 1947,
-   "opened_source": "s0168",
+   "opened_source": "s0166",
    "closed": 1982,
-   "closed_source": "s0169"
+   "closed_source": "s0167"
   },
   "arlington-hotel-hot-springs": {
    "names": [
@@ -6962,7 +6971,7 @@
      "operator": "Samuel W. Fordyce and two other investors",
      "note": "First luxury hotel in Hot Springs; rebuilt 1892-93",
      "sources": [
-      "s0170"
+      "s0168"
      ]
     },
     {
@@ -6972,7 +6981,7 @@
      "operator": "not found",
      "note": "300 rooms; replaced by third building",
      "sources": [
-      "s0170"
+      "s0168"
      ]
     },
     {
@@ -6982,30 +6991,32 @@
      "operator": "not found for the casino era; Sky Capitol Group per Wikipedia (2023)",
      "note": "Mann and Stern design; renovation under way 2023",
      "sources": [
-      "s0170"
+      "s0168"
      ]
     }
    ],
    "label": {
     "level": "unsupported",
     "basis": "Kefauver hearings show Adonis and others as hotel guests and a witness calling it a bath-town hotel, but no page shows the Arlington ran a casino, or Madden or Binion held an interest.",
+    "nsrc": 3,
     "sources": [
-     "s0171",
-     "s0172",
-     "s0170"
+     "s0169",
+     "s0170",
+     "s0168"
     ]
    },
    "corrections": "Closed 1967 is not supported: the hotel was never a 1967 closure (current building 1924, still operating). 'Kefauver Committee named it a mob-controlled casino' is not supported; Kefauver pages only record guests. Madden's Hot Springs gambling is tied to the Southern Club/Hotel Arkansas, and no opened source ties Binion to the Arlington.",
    "opened": 1875,
-   "opened_source": "s0170"
+   "opened_source": "s0168"
   },
   "ohio-club-hot-springs": {
    "names": [],
    "label": {
     "level": "unsupported",
-    "basis": "I could not open any page about the Ohio Club; the Kefauver parts searched do not name it.",
+    "basis": "Not settled by the sources checked.",
+    "nsrc": 1,
     "sources": [
-     "s0173"
+     "s0171"
     ]
    },
    "corrections": "Opening 1905 and closing 1967 not confirmed; the 1967 closure of casinos generally is sourced."
@@ -7015,11 +7026,12 @@
    "label": {
     "level": "alleged",
     "basis": "Wikipedia and a 1959 Variety report describe a casino run with official tolerance and Madden-linked nightlife, but no court record, commission finding or Kefauver passage naming the Southern Club was opened.",
+    "nsrc": 4,
     "sources": [
+     "s0171",
+     "s0172",
      "s0173",
-     "s0174",
-     "s0175",
-     "s0176"
+     "s0174"
     ]
    },
    "corrections": "'Chicago Outfit backing' and '1960s raids documented' not found in opened sources; the 1959 Variety piece says operators paid weekly fines and were not raided. Opening 1920 not confirmed; reopening under McLaughlin was after 1927. Label 'documented' is not supported; use 'alleged'."
@@ -7029,6 +7041,7 @@
    "label": {
     "level": "unsupported",
     "basis": "No page about the Vapors was opened; the searched Kefauver parts do not mention it.",
+    "nsrc": 0,
     "sources": []
    },
    "corrections": "'Listed in Kefauver Committee exhibits' not confirmed: no hit for Vapors in the 19 hearing volumes searched (text search of OCR)."
@@ -7042,19 +7055,20 @@
      "operator": "Cleveland partners named in hearing (Kleinman, Dalitz, Tucker, Rothkopf) per witnesses; by mid-1951 Brink, Carr brothers and others",
      "note": "Gambling reported stopped in early 1951 after grand jury action; later closing not found",
      "sources": [
-      "s0177",
-      "s0178",
-      "s0179"
+      "s0175",
+      "s0176",
+      "s0177"
      ]
     }
    ],
    "label": {
     "level": "documented",
     "basis": "Congressional hearing record (Kefauver Parts 6 and 15) has sworn testimony that the Lookout Club ran the casino with Cleveland partners.",
+    "nsrc": 3,
     "sources": [
-     "s0177",
-     "s0178",
-     "s0179"
+     "s0175",
+     "s0176",
+     "s0177"
     ]
    },
    "corrections": "Closing 1961 and 'FBI surveillance confirmed' not confirmed; hearings show gambling stopped in early 1951. Opening 1927 not confirmed."
@@ -7068,7 +7082,7 @@
      "operator": "Pete Schmidt",
      "note": "Hotel with casino",
      "sources": [
-      "s0180"
+      "s0178"
      ]
     },
     {
@@ -7078,18 +7092,19 @@
      "operator": "Pete Schmidt, then Levinson brothers and Arthur Dennert from 1948",
      "note": "Remodeled 1943; sold 1948; named in 1951 hearing as a Dennert gambling place",
      "sources": [
-      "s0180",
-      "s0181",
-      "s0182"
+      "s0178",
+      "s0179",
+      "s0180"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Kefauver Part 15 names it as an illegal gambling place run by Dennert; the Levinson link comes from Wikipedia, and no opened page ties it to Cleveland.",
+    "nsrc": 2,
     "sources": [
-     "s0182",
-     "s0181"
+     "s0180",
+     "s0179"
     ]
    },
    "corrections": "'Operated by Cleveland family associates' is not supported: sources show Newport operators Dennert and the Levinsons. Opening 1930 is not supported (Rendezvous name 1943). 'IRS and FBI files' not found."
@@ -7103,8 +7118,8 @@
      "operator": "Frank Erickson, Joe Adonis (Doto, 15%), B. Briggs and others per tax return; earlier Ben Marden/Lou Walters per other (unopened) sources",
      "note": "Gambling casino; Hallandale; closed 1948",
      "sources": [
-      "s0183",
-      "s0184"
+      "s0181",
+      "s0182"
      ]
     },
     {
@@ -7114,22 +7129,23 @@
      "operator": "not found",
      "note": "Colonial Inn building later used as a burlesque house; casino operations moved to Club Boheme",
      "sources": [
-      "s0185"
+      "s0183"
      ]
     }
    ],
    "label": {
-    "level": "documented",
+    "level": "alleged",
     "basis": "Kefauver Part 1 reads the Colonial Inn tax return into the record showing Joe Adonis (Doto) 15 percent and Erickson and Briggs as owners.",
+    "nsrc": 3,
     "sources": [
-     "s0183",
-     "s0184",
-     "s0185"
+     "s0181",
+     "s0182",
+     "s0183"
     ]
    },
    "corrections": "Closing year 1957 is wrong for the casino: the hearing says it operated through 1948. 'Chicago Outfit ran it' not shown; owners named are Erickson, Adonis and Briggs. Opening 1935 not confirmed.",
    "closed": 1948,
-   "closed_source": "s0184"
+   "closed_source": "s0182"
   },
   "beverly-hills-club-newport": {
    "names": [
@@ -7140,17 +7156,18 @@
      "operator": "Joseph Cole, Sam Klein, Carl Glickman and others; Schilling family from 1974",
      "note": "Destroyed by the 28 May 1977 fire (165 deaths)",
      "sources": [
-      "s0186"
+      "s0184"
      ]
     }
    ],
    "label": {
     "level": "documented",
     "basis": "Kefauver Part 6 has sworn testimony and records showing a casino operation at Beverly Hills with Cleveland partners.",
+    "nsrc": 3,
     "sources": [
-     "s0187",
-     "s0188",
-     "s0186"
+     "s0185",
+     "s0186",
+     "s0184"
     ]
    },
    "corrections": "Shondor Birns is not named in the pages opened; the partners named are Kleinman, Dalitz, Tucker, Rothkopf and others. Closed 1961 is not supported: the property continued to 1977 (fire). Location is Southgate, not Newport."
@@ -7164,7 +7181,7 @@
      "operator": "Maceo brothers (Sam and Rosario)",
      "note": "Small restaurant taken over",
      "sources": [
-      "s0189"
+      "s0187"
      ]
     },
     {
@@ -7174,7 +7191,7 @@
      "operator": "Maceo brothers",
      "note": "Opened at 21st and Seawall",
      "sources": [
-      "s0190"
+      "s0188"
      ]
     },
     {
@@ -7184,22 +7201,23 @@
      "operator": "Maceo brothers",
      "note": "Chinese restaurant; 200-foot pier added",
      "sources": [
-      "s0189"
+      "s0187"
      ]
     }
    ],
    "label": {
     "level": "alleged",
     "basis": "Wikipedia-based histories say it was a well-known illegal casino of the Maceos but no conviction or commission finding was found; the Kefauver part opened only names it as a customer.",
+    "nsrc": 3,
     "sources": [
-     "s0191",
      "s0189",
-     "s0192"
+     "s0187",
+     "s0190"
     ]
    },
    "corrections": "Opened 1942 is a renaming; the site opened 1929 as Maceo's Grotto. 'Closed 1957' is the end of gambling after state action, but the club reopened 2001 without a casino and was destroyed in 2008. Texas Ranger primary sources not opened.",
    "opened": 1929,
-   "opened_source": "s0190"
+   "opened_source": "s0188"
   }
  }
 }
