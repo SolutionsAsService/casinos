@@ -1,0 +1,266 @@
+[
+ {
+  "venue": "casino-magic-biloxi",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Cand 0-1: Casino Magic opened June 5 1993, Hollywood Park/Pinnacle bought company Oct 1998 for $340M; Katrina 2005 is on the page (lead) though not in the quoted passages."
+ },
+ {
+  "venue": "casino-magic-biloxi",
+  "field": "names[1]",
+  "ok": false,
+  "note": "'Casino Magic Biloxi (Harrah's-owned, closed)' is a descriptive label, not a documented name. Cand 2 supports the Harrah's transfer with $25M; the 2005-2016 span is only implied."
+ },
+ {
+  "venue": "casino-magic-biloxi",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Margaritaville Resort Biloxi, non-gaming, opened June 23 2016 per the same page (not in the cand 2 quote). Operator 'Biloxi Lodging developers' not found in the page text read."
+ },
+ {
+  "venue": "casino-magic-biloxi",
+  "field": "opened",
+  "ok": true,
+  "note": "1993: page infobox June 5, 1993 and Jan 1993 announcement; cand 0 quote itself has no year. 1992 correction is right."
+ },
+ {
+  "venue": "casino-magic-biloxi",
+  "field": "closed",
+  "ok": true,
+  "note": "2005 Katrina damage is on the page; cand 2 quote does not state the year."
+ },
+ {
+  "venue": "casino-magic-biloxi",
+  "field": "label",
+  "ok": true,
+  "note": "'none': cands 3,4 do not tie the casino to organised crime. Cand 3 (Sun 1998) reports interim director Nourse joining Casino Magic (revolving door); cand 4 is Biloxi vice. Consistent with 'none'. No 'documented' claim."
+ },
+ {
+  "venue": "president-casino-biloxi",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Broadwater Beach Hotel opened 1939, Pete Martin Sr. (cand 7), Joe Brown 1958; Dorothy Brown and Hurricane Camille not checked against the quotes."
+ },
+ {
+  "venue": "president-casino-biloxi",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Cand 5: President Casino opened Aug 1992 (Connelly); 2002 bankruptcy, Katrina Aug 29 2005, Silver Slipper barge sale and Broadwater Development (won auction Jan 2005, closed April 15 2005) all on the page; 1995 barge replacement not checked."
+ },
+ {
+  "venue": "president-casino-biloxi",
+  "field": "opened",
+  "ok": true,
+  "note": "1992 supported by cand 5 (page: August 1992)."
+ },
+ {
+  "venue": "president-casino-biloxi",
+  "field": "closed",
+  "ok": true,
+  "note": "2005 supported by page (Katrina Aug 29 2005); cand 6 quote itself does not state it."
+ },
+ {
+  "venue": "president-casino-biloxi",
+  "field": "label",
+  "ok": true,
+  "note": "'none' consistent with cands 5,7,4; not a documented claim. Cand 4 does not mention this property."
+ },
+ {
+  "venue": "boomtown-casino-harvey",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Cand 8,9: opened Aug 6 1994, Hollywood Park/Pinnacle 1997. End year 2002 comes from the infobox, not the quotes."
+ },
+ {
+  "venue": "boomtown-casino-harvey",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Name and present-day status supported by page; cand 9 quote covers only the 1997 purchase. 'River City boat 1998' is on the page; GLPI 2016 and Penn detail not in quote."
+ },
+ {
+  "venue": "boomtown-casino-harvey",
+  "field": "opened",
+  "ok": true,
+  "note": "1994 supported (cand 8)."
+ },
+ {
+  "venue": "boomtown-casino-harvey",
+  "field": "closed",
+  "ok": true,
+  "note": "null: page describes it as operating; no later check."
+ },
+ {
+  "venue": "boomtown-casino-harvey",
+  "field": "label",
+  "ok": true,
+  "note": "'none' is absence of evidence, no gaming-board records. Cand 11 (Edwards) does not name Boomtown but documents Edwards-era riverboat licence bribery (public corruption, not organised crime). Acceptable as 'none' but not 'documented'."
+ },
+ {
+  "venue": "treasure-chest-casino-kenner",
+  "field": "names[0]",
+  "ok": false,
+  "note": "Cand 10 supports name, Kenner, 1994 opening, Boyd 15% then 100% in 1997. 'Local investors' and 'riverboat' are not on that page."
+ },
+ {
+  "venue": "treasure-chest-casino-kenner",
+  "field": "opened",
+  "ok": true,
+  "note": "1994 supported (cand 10)."
+ },
+ {
+  "venue": "treasure-chest-casino-kenner",
+  "field": "closed",
+  "ok": true,
+  "note": "null: Boyd page lists it as owned; no later check."
+ },
+ {
+  "venue": "treasure-chest-casino-kenner",
+  "field": "label",
+  "ok": true,
+  "note": "'unsupported' is the right level: cand 11 does not mention Treasure Chest; the Edwards opinion was not opened."
+ },
+ {
+  "venue": "ip-casino-biloxi",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Cand 12,13: opened Dec 22 1997, Engelstad, trustees after 2002 (page text), Boyd Oct 2011 for $278M."
+ },
+ {
+  "venue": "ip-casino-biloxi",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Page title and infobox 'IP Casino Resort Spa' (Boyd); the rename date is not stated, only the Oct 2011 purchase. Page tagged 'one source'."
+ },
+ {
+  "venue": "ip-casino-biloxi",
+  "field": "opened",
+  "ok": true,
+  "note": "Dec 22 1997 supported (cand 12)."
+ },
+ {
+  "venue": "ip-casino-biloxi",
+  "field": "closed",
+  "ok": true,
+  "note": "null as of the page; post-2011 status not checked (researcher's gap)."
+ },
+ {
+  "venue": "ip-casino-biloxi",
+  "field": "label",
+  "ok": true,
+  "note": "'none': cand 14 is a 1989 Nevada fine for Nazi-themed stunts at the Las Vegas property (reputation), not organised crime. Subject died 2002. Fine."
+ },
+ {
+  "venue": "beau-rivage-biloxi",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Cand 15,16: opened March 1999; MGM Growth Properties 2016 (MGM operates), Vici acquired 2022. Mirage/Wynn developer is in the page, not the quotes."
+ },
+ {
+  "venue": "beau-rivage-biloxi",
+  "field": "opened",
+  "ok": true,
+  "note": "March 1999 (cand 15)."
+ },
+ {
+  "venue": "beau-rivage-biloxi",
+  "field": "closed",
+  "ok": true,
+  "note": "null: page in present tense."
+ },
+ {
+  "venue": "beau-rivage-biloxi",
+  "field": "label",
+  "ok": true,
+  "note": "'none': no organised-crime material in the pages; no records opened."
+ },
+ {
+  "venue": "harras-new-orleans",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Cand 17,19: Harrah's Jazz temporary casino, May 1995 opening and November 1995 bankruptcy are on the page (cand 19 context); 1993 joint venture under Edwards pressure. Hemmeter/Caesars World partners on page. Lineage lists 1995 'from' and 'to' only."
+ },
+ {
+  "venue": "harras-new-orleans",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Cand 17: Harrah's New Orleans, opened 1999 (late Oct 1999 on the page); Eldorado/Vici 2020 in cand 18's page."
+ },
+ {
+  "venue": "harras-new-orleans",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Cand 18: Caesars New Orleans, name officially changed May 2024."
+ },
+ {
+  "venue": "harras-new-orleans",
+  "field": "opened",
+  "ok": true,
+  "note": "1999 supported (cand 17)."
+ },
+ {
+  "venue": "harras-new-orleans",
+  "field": "closed",
+  "ok": true,
+  "note": "null: page in present tense (post-Katrina closure/reopen noted as temporary)."
+ },
+ {
+  "venue": "harras-new-orleans",
+  "field": "label",
+  "ok": true,
+  "note": "'none': cand 19 shows political pressure by Governor Edwards on the licence; cand 11 documents Edwards riverboat bribery. Not organised crime. 'none' acceptable, not documented."
+ },
+ {
+  "venue": "hard-rock-biloxi",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Cand 20,21: opened July 7 2007; Twin River bought it from Leucadia July 2014 for $250M (page uses a non-breaking space in the quote). Gold Shore site, GLP 2023 and soft opening June 30 are on the page."
+ },
+ {
+  "venue": "hard-rock-biloxi",
+  "field": "opened",
+  "ok": true,
+  "note": "2007 supported (cand 20)."
+ },
+ {
+  "venue": "hard-rock-biloxi",
+  "field": "closed",
+  "ok": true,
+  "note": "null: page in present tense."
+ },
+ {
+  "venue": "hard-rock-biloxi",
+  "field": "label",
+  "ok": true,
+  "note": "'none': corporate history only."
+ },
+ {
+  "venue": "golden-nugget-biloxi",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Cand 22,23,24: Isle of Capri Biloxi, first casino in Biloxi, August 1992 (cand 23 page), casino destroyed by Katrina 2005, sold to Fertitta 2012. Cand 24's summary says the site 'later reopened', which is not on that page."
+ },
+ {
+  "venue": "golden-nugget-biloxi",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Cand 22: sold to Fertitta Entertainment 2012 to be converted to a Golden Nugget."
+ },
+ {
+  "venue": "golden-nugget-biloxi",
+  "field": "opened",
+  "ok": true,
+  "note": "1992 supported (cand 23, a company-level statement that its first casino opened in Biloxi in Aug 1992; the Biloxi page calls it the first casino in Biloxi). The Biloxi Wikipedia page gives no date itself."
+ },
+ {
+  "venue": "golden-nugget-biloxi",
+  "field": "closed",
+  "ok": true,
+  "note": "null: present-tense page."
+ },
+ {
+  "venue": "golden-nugget-biloxi",
+  "field": "label",
+  "ok": true,
+  "note": "'none': corporate chain only."
+ }
+]

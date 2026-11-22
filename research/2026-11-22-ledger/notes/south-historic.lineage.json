@@ -1,0 +1,338 @@
+{
+ "brief": "south-historic",
+ "venues": [
+  {
+   "id": "arlington-hotel-hot-springs",
+   "opened": 1875,
+   "closed": null,
+   "opened_source": 23,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Arlington Hotel (first building)",
+     "from": 1875,
+     "to": 1893,
+     "operator": "Samuel W. Fordyce and two other investors",
+     "note": "First luxury hotel in Hot Springs; rebuilt 1892-93",
+     "sources": [
+      23
+     ]
+    },
+    {
+     "name": "Arlington Hotel (second building)",
+     "from": 1893,
+     "to": 1924,
+     "operator": "not found",
+     "note": "300 rooms; replaced by third building",
+     "sources": [
+      23
+     ]
+    },
+    {
+     "name": "Arlington Hotel (current building, now Arlington Resort Hotel & Spa)",
+     "from": 1924,
+     "to": null,
+     "operator": "not found for the casino era; Sky Capitol Group per Wikipedia (2023)",
+     "note": "Mann and Stern design; renovation under way 2023",
+     "sources": [
+      23
+     ]
+    }
+   ],
+   "label": {
+    "level": "unsupported",
+    "basis": "Kefauver hearings show Adonis and others as hotel guests and a witness calling it a bath-town hotel, but no page shows the Arlington ran a casino, or Madden or Binion held an interest.",
+    "sources": [
+     21,
+     22,
+     23
+    ]
+   },
+   "corrections": "Closed 1967 is not supported: the hotel was never a 1967 closure (current building 1924, still operating). 'Kefauver Committee named it a mob-controlled casino' is not supported; Kefauver pages only record guests. Madden's Hot Springs gambling is tied to the Southern Club/Hotel Arkansas, and no opened source ties Binion to the Arlington."
+  },
+  {
+   "id": "ohio-club-hot-springs",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "I could not open any page about the Ohio Club; the Kefauver parts searched do not name it.",
+    "sources": [
+     17
+    ]
+   },
+   "corrections": "Opening 1905 and closing 1967 not confirmed; the 1967 closure of casinos generally is sourced."
+  },
+  {
+   "id": "southern-club-hot-springs",
+   "opened": null,
+   "closed": 1967,
+   "opened_source": null,
+   "closed_source": 17,
+   "names": [
+    {
+     "name": "Southern Club",
+     "from": 1927,
+     "to": 1967,
+     "operator": "William Stokley Jacobs held a stake (died 1940); Owney Madden reported to have held control; later operators not found",
+     "note": "Reopened under McLaughlin's machine; casino still operating in 1959; closed in 1967 crackdown (all Hot Springs casinos)",
+     "sources": [
+      18,
+      19,
+      20,
+      17
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Wikipedia and a 1959 Variety report describe a casino run with official tolerance and Madden-linked nightlife, but no court record, commission finding or Kefauver passage naming the Southern Club was opened.",
+    "sources": [
+     17,
+     18,
+     19,
+     20
+    ]
+   },
+   "corrections": "'Chicago Outfit backing' and '1960s raids documented' not found in opened sources; the 1959 Variety piece says operators paid weekly fines and were not raided. Opening 1920 not confirmed; reopening under McLaughlin was after 1927. Label 'documented' is not supported; use 'alleged'."
+  },
+  {
+   "id": "vapors-club-hot-springs",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [],
+   "label": {
+    "level": "unsupported",
+    "basis": "No page about the Vapors was opened; the searched Kefauver parts do not mention it.",
+    "sources": []
+   },
+   "corrections": "'Listed in Kefauver Committee exhibits' not confirmed: no hit for Vapors in the 19 hearing volumes searched (text search of OCR)."
+  },
+  {
+   "id": "lookout-house-covington",
+   "opened": null,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Lookout House (Lookout House, Inc.; casino run as the Lookout Club)",
+     "from": null,
+     "to": null,
+     "operator": "Cleveland partners named in hearing (Kleinman, Dalitz, Tucker, Rothkopf) per witnesses; by mid-1951 Brink, Carr brothers and others",
+     "note": "Gambling reported stopped in early 1951 after grand jury action; later closing not found",
+     "sources": [
+      5,
+      6,
+      7
+     ]
+    }
+   ],
+   "label": {
+    "level": "documented",
+    "basis": "Congressional hearing record (Kefauver Parts 6 and 15) has sworn testimony that the Lookout Club ran the casino with Cleveland partners.",
+    "sources": [
+     5,
+     6,
+     7
+    ]
+   },
+   "corrections": "Closing 1961 and 'FBI surveillance confirmed' not confirmed; hearings show gambling stopped in early 1951. Opening 1927 not confirmed."
+  },
+  {
+   "id": "glenn-rendezvous-newport",
+   "opened": 1943,
+   "closed": null,
+   "opened_source": 10,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Glenn Hotel",
+     "from": null,
+     "to": 1943,
+     "operator": "Pete Schmidt",
+     "note": "Hotel with casino",
+     "sources": [
+      10
+     ]
+    },
+    {
+     "name": "Glenn Rendezvous",
+     "from": 1943,
+     "to": null,
+     "operator": "Pete Schmidt, then Levinson brothers and Arthur Dennert from 1948",
+     "note": "Remodeled 1943; sold 1948; named in 1951 hearing as a Dennert gambling place",
+     "sources": [
+      10,
+      9,
+      8
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Kefauver Part 15 names it as an illegal gambling place run by Dennert; the Levinson link comes from Wikipedia, and no opened page ties it to Cleveland.",
+    "sources": [
+     8,
+     9
+    ]
+   },
+   "corrections": "'Operated by Cleveland family associates' is not supported: sources show Newport operators Dennert and the Levinsons. Opening 1930 is not supported (Rendezvous name 1943). 'IRS and FBI files' not found."
+  },
+  {
+   "id": "colonial-inn-hallandale",
+   "opened": null,
+   "closed": 1948,
+   "opened_source": null,
+   "closed_source": 1,
+   "names": [
+    {
+     "name": "Colonial Inn",
+     "from": null,
+     "to": 1948,
+     "operator": "Frank Erickson, Joe Adonis (Doto, 15%), B. Briggs and others per tax return; earlier Ben Marden/Lou Walters per other (unopened) sources",
+     "note": "Gambling casino; Hallandale; closed 1948",
+     "sources": [
+      0,
+      1
+     ]
+    },
+    {
+     "name": "Minsky's Burlesque",
+     "from": 1949,
+     "to": null,
+     "operator": "not found",
+     "note": "Colonial Inn building later used as a burlesque house; casino operations moved to Club Boheme",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "label": {
+    "level": "documented",
+    "basis": "Kefauver Part 1 reads the Colonial Inn tax return into the record showing Joe Adonis (Doto) 15 percent and Erickson and Briggs as owners.",
+    "sources": [
+     0,
+     1,
+     2
+    ]
+   },
+   "corrections": "Closing year 1957 is wrong for the casino: the hearing says it operated through 1948. 'Chicago Outfit ran it' not shown; owners named are Erickson, Adonis and Briggs. Opening 1935 not confirmed."
+  },
+  {
+   "id": "beverly-hills-club-newport",
+   "opened": 1941,
+   "closed": null,
+   "opened_source": 4,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Beverly Hills Country Club (casino: Country Club Enterprise)",
+     "from": 1941,
+     "to": 1967,
+     "operator": "Pete Schmidt (founder, per Wikipedia); Cleveland group Dalitz, Kleinman, Tucker and others in 1951 record",
+     "note": "Gambling on the site from 1926 per Wikipedia; sold 1967",
+     "sources": [
+      3,
+      4,
+      12,
+      11
+     ]
+    },
+    {
+     "name": "Beverly Hills Supper Club",
+     "from": 1967,
+     "to": 1977,
+     "operator": "Joseph Cole, Sam Klein, Carl Glickman and others; Schilling family from 1974",
+     "note": "Destroyed by the 28 May 1977 fire (165 deaths)",
+     "sources": [
+      12
+     ]
+    }
+   ],
+   "label": {
+    "level": "documented",
+    "basis": "Kefauver Part 6 has sworn testimony and records showing a casino operation at Beverly Hills with Cleveland partners.",
+    "sources": [
+     3,
+     4,
+     12
+    ]
+   },
+   "corrections": "Shondor Birns is not named in the pages opened; the partners named are Kleinman, Dalitz, Tucker, Rothkopf and others. Closed 1961 is not supported: the property continued to 1977 (fire). Location is Southgate, not Newport."
+  },
+  {
+   "id": "balinese-room-galveston",
+   "opened": 1929,
+   "closed": null,
+   "opened_source": 15,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Chop Suey",
+     "from": null,
+     "to": 1929,
+     "operator": "Maceo brothers (Sam and Rosario)",
+     "note": "Small restaurant taken over",
+     "sources": [
+      14
+     ]
+    },
+    {
+     "name": "Maceo's Grotto",
+     "from": 1929,
+     "to": 1932,
+     "operator": "Maceo brothers",
+     "note": "Opened at 21st and Seawall",
+     "sources": [
+      15
+     ]
+    },
+    {
+     "name": "Sui Jen",
+     "from": 1932,
+     "to": 1942,
+     "operator": "Maceo brothers",
+     "note": "Chinese restaurant; 200-foot pier added",
+     "sources": [
+      14
+     ]
+    },
+    {
+     "name": "Balinese Room",
+     "from": 1942,
+     "to": 2008,
+     "operator": "Maceo brothers; Fertitta family from c.1954 per Wikipedia (Maceo page)",
+     "note": "Rangers raids after 1956; casino ended 1957; reopened 2001 without casino; destroyed by Hurricane Ike 2008",
+     "sources": [
+      14,
+      16,
+      13
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Wikipedia-based histories say it was a well-known illegal casino of the Maceos but no conviction or commission finding was found; the Kefauver part opened only names it as a customer.",
+    "sources": [
+     13,
+     14,
+     16
+    ]
+   },
+   "corrections": "Opened 1942 is a renaming; the site opened 1929 as Maceo's Grotto. 'Closed 1957' is the end of gambling after state action, but the club reopened 2001 without a casino and was destroyed in 2008. Texas Ranger primary sources not opened."
+  }
+ ],
+ "gaps": [
+  "Encyclopedia of Arkansas, TSHA entries, Northern Kentucky news sites and the Mob Museum refused scripted access (403/Cloudflare/DNS); no state archive or court opinions were opened for Hot Springs.",
+  "Ohio Club and Vapors Club: no page opened; labels unsupported.",
+  "Lookout House, Glenn Rendezvous, Beverly Hills: closing dates not found.",
+  "Texas Ranger / state-probe primary sources on the Balinese Room not opened (recalled, not fetched: Texas Ranger Hall of Fame Klevenhagen article cited by Wikipedia).",
+  "Hot Springs: Kefauver searches were by OCR text on 19 volumes; the Third Interim Report was not opened."
+ ]
+}

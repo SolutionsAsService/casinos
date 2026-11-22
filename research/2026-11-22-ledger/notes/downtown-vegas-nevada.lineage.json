@@ -1,0 +1,438 @@
+{
+ "brief": "downtown-vegas-nevada",
+ "venues": [
+  {
+   "id": "railroad-pass",
+   "opened": 1931,
+   "closed": null,
+   "opened_source": 11,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Railroad Pass Club",
+     "from": 1931,
+     "to": null,
+     "operator": "Original operators (not named in sources opened)",
+     "note": "Opened 1 Aug 1931; Nevada licence no. 4 under its latest name",
+     "sources": [
+      11
+     ]
+    },
+    {
+     "name": "Railroad Pass Hotel & Casino",
+     "from": 1975,
+     "to": 1985,
+     "operator": "Bob Verchota",
+     "note": "Bought 1975, modernised",
+     "sources": [
+      11
+     ]
+    },
+    {
+     "name": "Railroad Pass Hotel & Casino",
+     "from": 1985,
+     "to": 1995,
+     "operator": "Gold Strike Resorts (Ensign, Richardson, Belding)",
+     "note": "Sold 1985; 120-room hotel opened Jan 1987",
+     "sources": [
+      11
+     ]
+    },
+    {
+     "name": "Railroad Pass Hotel & Casino",
+     "from": 1995,
+     "to": 2015,
+     "operator": "Circus Circus Enterprises/Mandalay Resort Group, then MGM Mirage/MGM Resorts",
+     "note": "Gold Strike Resorts bought 1995; Mandalay bought by MGM Mirage 2005",
+     "sources": [
+      11
+     ]
+    },
+    {
+     "name": "Railroad Pass Hotel & Casino",
+     "from": 2015,
+     "to": null,
+     "operator": "Joseph DeSimone",
+     "note": "Sale from MGM completed April 2015",
+     "sources": [
+      11
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The only page opened (Wikipedia) shows no allegation; no gaming-board or court page was opened, so the record's 'regulatory records' wording is unverified.",
+    "sources": [
+     11
+    ]
+   },
+   "corrections": "Opening year 1931 agrees with the source. The 'no allegations in regulatory records' claim rests on no regulatory record I opened."
+  },
+  {
+   "id": "el-cortez",
+   "opened": 1941,
+   "closed": null,
+   "opened_source": 1,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "El Cortez Hotel",
+     "from": 1941,
+     "to": 1945,
+     "operator": "Marion Hicks and J.C. Grayson (Thomas Hull took an interest)",
+     "note": "Opened 7 Nov 1941; built for $245,000",
+     "sources": [
+      0,
+      1
+     ]
+    },
+    {
+     "name": "El Cortez Hotel",
+     "from": 1945,
+     "to": 1946,
+     "operator": "Bugsy Siegel, Meyer Lansky, Gus Greenbaum, Moe Sedway (Siegel's group)",
+     "note": "Bought 1945 (Wikipedia: for $600,000), sold 1946 to fund the Flamingo",
+     "sources": [
+      0,
+      1
+     ]
+    },
+    {
+     "name": "El Cortez Hotel",
+     "from": 1946,
+     "to": 1963,
+     "operator": "J. Kell Houssels Sr. and William J. Moore group",
+     "note": "Houssels bought it back in 1946 for $766,000",
+     "sources": [
+      0,
+      1
+     ]
+    },
+    {
+     "name": "El Cortez Hotel & Casino",
+     "from": 1963,
+     "to": 2008,
+     "operator": "Jackie Gaughan",
+     "note": "Pavilion rooms 1963; Barrick Gaming sale announced 2002 per Online Nevada; Wikipedia gives Gaughan sale to Epstein 2008",
+     "sources": [
+      0,
+      1
+     ]
+    },
+    {
+     "name": "El Cortez Hotel & Casino",
+     "from": 2008,
+     "to": null,
+     "operator": "Kenny Epstein and partners",
+     "note": "Added Cabana Suites 2009; listed on National Register 2013",
+     "sources": [
+      1
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Online Nevada states mobster Siegel had taken over the property by 1945 and sold it in 1946, and Wikipedia names Siegel, Lansky, Greenbaum and Sedway; no court or gaming-board record was opened.",
+    "sources": [
+     0,
+     1
+    ]
+   },
+   "corrections": "Current record says 'No documented mob ownership; operated by legitimate local investors from opening'. Sources show Siegel's group owned it 1945-46 (alleged, not court-documented). Not 'from opening' by local investors alone; label 'none' is not supported."
+  },
+  {
+   "id": "golden-nugget",
+   "opened": 1946,
+   "closed": null,
+   "opened_source": 2,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Golden Nugget Saloon (planned)",
+     "from": 1945,
+     "to": 1946,
+     "operator": "Guy McAfee",
+     "note": "Took over 125 Fremont St coffee shop and pool hall in 1945",
+     "sources": [
+      2
+     ]
+    },
+    {
+     "name": "Golden Nugget",
+     "from": 1946,
+     "to": 1973,
+     "operator": "Guy McAfee with Jake Kozloff and Beldon Katelman (1951)",
+     "note": "Opened 1946; 100-foot neon sign 1949",
+     "sources": [
+      2,
+      4
+     ]
+    },
+    {
+     "name": "Golden Nugget",
+     "from": 1973,
+     "to": 2000,
+     "operator": "Steve Wynn (Golden Nugget, Inc.)",
+     "note": "Wynn majority shareholder 1973; combined with California Club; towers 1977, 1984, 1986",
+     "sources": [
+      4
+     ]
+    },
+    {
+     "name": "Golden Nugget",
+     "from": 2000,
+     "to": 2003,
+     "operator": "MGM Grand, Inc. (MGM Mirage)",
+     "note": "Sold with Mirage Resorts 2000",
+     "sources": [
+      4
+     ]
+    },
+    {
+     "name": "Golden Nugget",
+     "from": 2003,
+     "to": 2005,
+     "operator": "Poster Financial Group (Timothy Poster, Thomas Breitling)",
+     "note": "Sold for $215 million",
+     "sources": [
+      4
+     ]
+    },
+    {
+     "name": "Golden Nugget",
+     "from": 2005,
+     "to": null,
+     "operator": "Landry's, Inc.",
+     "note": "Sale closed 27 Sept 2005",
+     "sources": [
+      4
+     ]
+    }
+   ],
+   "label": {
+    "level": "unsupported",
+    "basis": "Pages opened show a founder with a vice-squad and illegal-casino past but no documented syndicate ownership; a Mob Museum piece titled 'Gangster-built Golden Nugget turns 70' appeared in search but could not be opened.",
+    "sources": [
+     2,
+     3,
+     5
+    ]
+   },
+   "corrections": "Dates agree. The 'none' label cannot be fully supported while the Mob Museum account is unread. Partners Kozloff and Katelman should be added to the lineage."
+  },
+  {
+   "id": "carson-nugget",
+   "opened": 1954,
+   "closed": null,
+   "opened_source": 12,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Carson City Nugget",
+     "from": 1954,
+     "to": 1956,
+     "operator": "Richard (Dick) Graves",
+     "note": "Opened 1 March 1954",
+     "sources": [
+      12
+     ]
+    },
+    {
+     "name": "Carson City Nugget",
+     "from": 1956,
+     "to": 1958,
+     "operator": "Richard E. Pogue and Chester H. Armstrong",
+     "note": "Sold Sept 1956",
+     "sources": [
+      12
+     ]
+    },
+    {
+     "name": "Carson City Nugget",
+     "from": 1958,
+     "to": null,
+     "operator": "Group of six Nevada-licensed buyers incl. Adams brothers",
+     "note": "Sold Dec 1958 for $525,000; owners 1958-2015 not given",
+     "sources": [
+      12
+     ]
+    },
+    {
+     "name": "Carson Nugget",
+     "from": 2015,
+     "to": null,
+     "operator": "Dean DiLullo (M1 Gaming)",
+     "note": "Sold 2015",
+     "sources": [
+      12
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The only page opened (Wikipedia) shows no allegation; no Nevada Gaming Control Board page was opened.",
+    "sources": [
+     12
+    ]
+   },
+   "corrections": "Opening 1954 agrees. 'Family-owned throughout' is contradicted by the sale chain (Pogue/Armstrong 1956, six buyers 1958, DiLullo 2015). 'Clean per Nevada Gaming Control Board' is unverified."
+  },
+  {
+   "id": "fremont-hotel",
+   "opened": 1956,
+   "closed": null,
+   "opened_source": 6,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Fremont Hotel",
+     "from": 1956,
+     "to": 1974,
+     "operator": "Ed (Eddie) Levinson and Lou Lurie",
+     "note": "Opened 18 May 1956 as Nevada's tallest building; Ogden tower 1963",
+     "sources": [
+      6,
+      10
+     ]
+    },
+    {
+     "name": "Fremont Hotel",
+     "from": 1974,
+     "to": 1979,
+     "operator": "Argent Corporation (Allen Glick), via Recrion Corp.",
+     "note": "Argent bought control of Recrion Aug 1974 with a Teamsters loan",
+     "sources": [
+      9,
+      10
+     ]
+    },
+    {
+     "name": "Fremont Hotel",
+     "from": 1979,
+     "to": 1983,
+     "operator": "Al Sachs / Herb Tobman group",
+     "note": "Commission revoked Fremont licence Aug 1979, held in abeyance; Sachs group buying",
+     "sources": [
+      6,
+      7
+     ]
+    },
+    {
+     "name": "Fremont Hotel & Casino",
+     "from": 1983,
+     "to": null,
+     "operator": "Sam and Bill Boyd (Boyd Gaming)",
+     "note": "Boyds bought 1983; state had asked Boyd to run it",
+     "sources": [
+      6,
+      10
+     ]
+    }
+   ],
+   "label": {
+    "level": "documented",
+    "basis": "The Nevada Gaming Commission revoked the Fremont Hotel's licence in 1979 over about $7 million taken from the Argent casinos, and Online Nevada calls Argent a front for Midwest crime families.",
+    "sources": [
+     6,
+     7,
+     9
+    ]
+   },
+   "corrections": "Label 'documented' stands on the commission action. The 'Strawman case brought convictions' claim is not confirmed: no court record opened; Wikipedia says 15 were indicted in 1983, and Glick was never charged. Also check Teamsters-loan and Dalitz thread (1961) against the 1956 owners."
+  },
+  {
+   "id": "riverside-resort",
+   "opened": 1966,
+   "closed": null,
+   "opened_source": 14,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Riverside Resort Hotel & Casino (Don Laughlin's Riverside)",
+     "from": 1966,
+     "to": null,
+     "operator": "Don Laughlin",
+     "note": "Opened 2 Aug 1966; town of Laughlin named after him 1968; towers 1983, 1986, 1994",
+     "sources": [
+      13,
+      14
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "An obituary and Wikipedia show no allegation; no regulatory page was opened, so this rests on absence.",
+    "sources": [
+     13,
+     14
+    ]
+   },
+   "corrections": "Dates agree. Laughlin died in Oct 2023 (obituary), so 'founded by' stands; current ownership by his family was not checked."
+  },
+  {
+   "id": "colorado-belle",
+   "opened": 1987,
+   "closed": 2020,
+   "opened_source": 15,
+   "closed_source": 15,
+   "names": [
+    {
+     "name": "Colorado Belle",
+     "from": 1987,
+     "to": 1999,
+     "operator": "Circus Circus Enterprises",
+     "note": "Opened 1 July 1987 at $80 million",
+     "sources": [
+      15
+     ]
+    },
+    {
+     "name": "Colorado Belle",
+     "from": 1999,
+     "to": 2007,
+     "operator": "Mandalay Resort Group, then MGM Mirage (2005)",
+     "note": "Circus Circus renamed Mandalay 1999",
+     "sources": [
+      15
+     ]
+    },
+    {
+     "name": "Colorado Belle",
+     "from": 2007,
+     "to": 2019,
+     "operator": "Anthony Marnell III and Sher Gaming",
+     "note": "Sold for $200 million (with Edgewater)",
+     "sources": [
+      15
+     ]
+    },
+    {
+     "name": "Colorado Belle",
+     "from": 2019,
+     "to": 2020,
+     "operator": "Golden Entertainment",
+     "note": "Bought for $190 million (with Edgewater); closed 17 March 2020, kept closed indefinitely",
+     "sources": [
+      15
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "Wikipedia shows no allegation for the Colorado Belle; the one licensing concern found was at the neighbouring Edgewater, a different property.",
+    "sources": [
+     15,
+     16
+    ]
+   },
+   "corrections": "Record says 'Developed by local investors' and closed null. Sources show Circus Circus (a public company) built it in 1987, and it closed in 2020 and has stayed closed. The page's 1979-84 section on an earlier casino is not reconciled."
+  }
+ ],
+ "gaps": [
+  "The Mob Museum (themobmuseum.org), Review-Journal, casino.org, vegasinc.lasvegassun.com, UNLV Special Collections and Wayback were refused (403, DNS or not allowed); not opened.",
+  "Recalled, not fetched: Mob Museum 'Gangster-built Golden Nugget turns 70' (search title only).",
+  "No court opinion on the Argent skim ('Strawman') or its outcome was found or opened; Nevada Gaming Control Board and Commission pages were not opened for any venue.",
+  "Railroad Pass, Carson Nugget, Riverside, Colorado Belle rest on Wikipedia, an obituary and absence of reports; 'none' is weak there.",
+  "Carson Nugget owners 1958-2015 and original Railroad Pass operators are unknown; Colorado Belle's 1979-84 predecessor casino is unresolved; Gaughan's El Cortez sale date conflicts (2002 vs 2008)."
+ ]
+}

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Method · Ledger of the House</title>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/site.css"></head>
+<body><div class="wrap page"><header><div><h1>Method</h1><p class="sub">How a label ends up on a venue, and what this site cannot tell you.</p></div></header>
+<div id="m" style="max-width:72ch;line-height:1.6;font-size:16px"></div>
+<script src="assets/common.js"></script>
+<script>
+var m=document.getElementById("m");
+function h(t){var e=document.createElement("h3");e.textContent=t;m.appendChild(e)}
+function p(t){var e=document.createElement("p");e.textContent=t;m.appendChild(e);return e}
+h("Research");
+p("The ledger follows the RDADA method (Research Directed Ambition Design Agent, github.com/SolutionsAsService/RDADA). A brief states what a source would need to show. Researchers search the open web and open real pages. Every source records a URL, an accessed date, and a short verbatim quote of at most 25 words. Recalled citations are not sources.");
+h("Both directions");
+p("For each venue the researchers looked for sources that support an organised-crime tie and for sceptical or contradicting ones. A search that finds nothing in either direction is recorded as such.");
+h("Verification");
+p("A second agent, different from the researcher, re-fetched every source and checked that the quote is on the page and that the stance is fair. Sources that failed are dropped and kept in the research folder with the reason; sources that could not be re-fetched are listed as unverifiable and are not cited here.");
+h("Labels");
+p("Documented: a primary or official source that was opened (court record, conviction, gaming board or commission finding, congressional finding). Alleged: credible reporting or histories only. None: searched in both directions, nothing credible found. Unsupported: the sources could not settle it. A venue can only be documented if a primary or official source passed verification; otherwise the label is lowered automatically.");
+h("What this does not do");
+p("None of the sources has been assessed for reliability by a person. Many venues rest on Wikipedia as context, and several official hosts (court sites, state archives, the Mob Museum) refused automated access, so absence of a finding is not proof of absence. Positions inside a city on the map are illustrative. The venue list is a small selection, not every casino. Nothing here is a claim about any living person, tribe or tribal government.");
+h("Corrections");
+p("The first draft of this dataset came from AI models without sources. Each venue page lists what the research corrected. The research notes, rejected candidates and gaps are in the repository under research/.");
+</script></div></body></html>

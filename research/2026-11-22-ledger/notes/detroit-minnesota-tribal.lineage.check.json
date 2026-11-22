@@ -1,0 +1,374 @@
+[
+ {
+  "venue": "saratoga-race-course",
+  "field": "names[0]",
+  "ok": true,
+  "note": "cand 0 quote supports 1863 Oklahoma Track, Morrissey"
+ },
+ {
+  "venue": "saratoga-race-course",
+  "field": "names[1]",
+  "ok": true,
+  "note": "cand 0 page: Morrissey bought land across street, new grandstand, named it Saratoga Race Course; cand 1 supports Waldbaum 1892; Whitney 1901 and NYRA are on the same page but outside the quoted passages. \"1864\" start is from the page text \"in use almost every year since 1864\""
+ },
+ {
+  "venue": "saratoga-race-course",
+  "field": "opened",
+  "ok": true,
+  "note": "1863 first card on the Oklahoma Track; the present course dates from 1864"
+ },
+ {
+  "venue": "saratoga-race-course",
+  "field": "closed",
+  "ok": true,
+  "note": "null: open"
+ },
+ {
+  "venue": "saratoga-race-course",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\": cands 2 and 4 re-checked; Kefauver Part 7 has zero hits for Race Course, Canfield, Morrissey; cand 3 and cand 4 concern the lake houses. Absence, not a finding."
+ },
+ {
+  "venue": "canfield-casino-saratoga",
+  "field": "names[0]",
+  "ok": true,
+  "note": "cand 6 supports 1866 Clubhouse; cand 7 supports Canfield partner 1893 and Spencer/Reed after Morrissey died 1878"
+ },
+ {
+  "venue": "canfield-casino-saratoga",
+  "field": "names[1]",
+  "ok": true,
+  "note": "cand 7 supports 1893/1894 Canfield; cand 5 supports 1907"
+ },
+ {
+  "venue": "canfield-casino-saratoga",
+  "field": "names[2]",
+  "ok": true,
+  "note": "cand 5 page says buildings house the history museum; the 1911 city sale is on the same page but outside the quoted passage"
+ },
+ {
+  "venue": "canfield-casino-saratoga",
+  "field": "opened",
+  "ok": false,
+  "note": "1870 is the main building date (page), not supported by cand 6 quote, which gives 1866 for the Clubhouse; the researcher's correction note already says so"
+ },
+ {
+  "venue": "canfield-casino-saratoga",
+  "field": "closed",
+  "ok": true,
+  "note": "cand 5: gambling ended 1907 (gambling only)"
+ },
+ {
+  "venue": "canfield-casino-saratoga",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\": cand 5 supports 1907 end; cands 4 and 2 as above"
+ },
+ {
+  "venue": "canterbury-park",
+  "field": "names[0]",
+  "ok": true,
+  "note": "cand 8; page also gives Fields/Minnesota Racetrack Inc./Santa Anita"
+ },
+ {
+  "venue": "canterbury-park",
+  "field": "names[1]",
+  "ok": true,
+  "note": "cand 9 supports 1990 Ladbroke, rename, Dec 1992 close"
+ },
+ {
+  "venue": "canterbury-park",
+  "field": "names[2]",
+  "ok": true,
+  "note": "cand 10 supports Jacobs/Sampsons late 1993; the Jan 1995 rename is on the page but outside the quoted passage"
+ },
+ {
+  "venue": "canterbury-park",
+  "field": "opened",
+  "ok": true,
+  "note": "cand 8: first race 26 Jun 1985"
+ },
+ {
+  "venue": "canterbury-park",
+  "field": "closed",
+  "ok": true,
+  "note": "null correct today; the track was shut for racing Dec 1992 to late 1994 (cand 9)"
+ },
+ {
+  "venue": "canterbury-park",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\" rests on cand 11 (context only) and absence; page has no crime/organized mention. Not a documented claim."
+ },
+ {
+  "venue": "grand-casino-mille-lacs",
+  "field": "names[0]",
+  "ok": false,
+  "note": "cands 12/13 only say \"early 1990s\"; 1991 is not on any page and no passing candidate dates the opening or management hand-over. Researcher flags this."
+ },
+ {
+  "venue": "grand-casino-mille-lacs",
+  "field": "opened",
+  "ok": false,
+  "note": "no opened_source; 1991 unsupported (cand 12 says early 1990s)"
+ },
+ {
+  "venue": "grand-casino-mille-lacs",
+  "field": "closed",
+  "ok": true,
+  "note": "null: no close claimed"
+ },
+ {
+  "venue": "grand-casino-mille-lacs",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\": cands 36 and 37 are general statements, venue not named; acceptable only as an absence label"
+ },
+ {
+  "venue": "foxwoods-resort-casino",
+  "field": "names[0]",
+  "ok": true,
+  "note": "cand 14: bingo hall founded 1986; end year 1991 not stated in quote (infobox says 1986-1992 previous name)"
+ },
+ {
+  "venue": "foxwoods-resort-casino",
+  "field": "names[1]",
+  "ok": true,
+  "note": "cand 15: 1992 table games; page infobox casino opened 15 Feb 1992"
+ },
+ {
+  "venue": "foxwoods-resort-casino",
+  "field": "names[2]",
+  "ok": true,
+  "note": "cand 16: MGM Grand tower 2008, renamed Fox Tower 2013; names[2].to is null though the rename happened 2013 and the resort name stays Foxwoods"
+ },
+ {
+  "venue": "foxwoods-resort-casino",
+  "field": "opened",
+  "ok": true,
+  "note": "cand 15"
+ },
+ {
+  "venue": "foxwoods-resort-casino",
+  "field": "closed",
+  "ok": true,
+  "note": "null"
+ },
+ {
+  "venue": "foxwoods-resort-casino",
+  "field": "label",
+  "ok": true,
+  "note": "\"alleged\": cands 17/18 are a 1996 wire report citing the Day and unnamed authorities; no primary or official source, so \"alleged\" is the ceiling. Acceptable. No living person named in the lineage."
+ },
+ {
+  "venue": "mystic-lake-casino-hotel",
+  "field": "names[0]",
+  "ok": true,
+  "note": "cand 20: Little Six Bingo 1982"
+ },
+ {
+  "venue": "mystic-lake-casino-hotel",
+  "field": "names[1]",
+  "ok": true,
+  "note": "cand 20: Little Six Casino 1990"
+ },
+ {
+  "venue": "mystic-lake-casino-hotel",
+  "field": "names[2]",
+  "ok": true,
+  "note": "cand 19: opened 12 May 1992"
+ },
+ {
+  "venue": "mystic-lake-casino-hotel",
+  "field": "opened",
+  "ok": true,
+  "note": "cand 19"
+ },
+ {
+  "venue": "mystic-lake-casino-hotel",
+  "field": "closed",
+  "ok": true,
+  "note": "null"
+ },
+ {
+  "venue": "mystic-lake-casino-hotel",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\": cands 36/37 general; absence only"
+ },
+ {
+  "venue": "turning-stone-resort-casino",
+  "field": "names[0]",
+  "ok": true,
+  "note": "cand 21 opened 20 Jul 1993"
+ },
+ {
+  "venue": "turning-stone-resort-casino",
+  "field": "opened",
+  "ok": true,
+  "note": "cand 21"
+ },
+ {
+  "venue": "turning-stone-resort-casino",
+  "field": "closed",
+  "ok": true,
+  "note": "null"
+ },
+ {
+  "venue": "turning-stone-resort-casino",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\": cand 22 page has no crime/mob mention (checked); cand 37 general. Absence only."
+ },
+ {
+  "venue": "mohegan-sun",
+  "field": "names[0]",
+  "ok": true,
+  "note": "cand 23 opened 12 Oct 1996; cands 24/25 TCA, 50/50 Kerzner/Waterford, control to tribe 2000, 5% through 2014 (all on page)"
+ },
+ {
+  "venue": "mohegan-sun",
+  "field": "opened",
+  "ok": true,
+  "note": "cand 23"
+ },
+ {
+  "venue": "mohegan-sun",
+  "field": "closed",
+  "ok": true,
+  "note": "null"
+ },
+ {
+  "venue": "mohegan-sun",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\": the basis mentions searches not in the candidates; cands 24, 25, 37 give no crime allegation. Absence only."
+ },
+ {
+  "venue": "mgm-grand-detroit",
+  "field": "names[0]",
+  "ok": true,
+  "note": "cand 26: temporary casino from 29 Jul 1999; end 2007 matches permanent opening 3 Oct 2007 on the page"
+ },
+ {
+  "venue": "mgm-grand-detroit",
+  "field": "names[1]",
+  "ok": true,
+  "note": "cands 26/27"
+ },
+ {
+  "venue": "mgm-grand-detroit",
+  "field": "opened",
+  "ok": true,
+  "note": "cand 26"
+ },
+ {
+  "venue": "mgm-grand-detroit",
+  "field": "closed",
+  "ok": true,
+  "note": "null"
+ },
+ {
+  "venue": "mgm-grand-detroit",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\": cand 28 (context, 1999 press) concerns the landlord of the temporary site, not the operator; living person not named in the label. OK as is."
+ },
+ {
+  "venue": "motorcity-casino-hotel",
+  "field": "names[0]",
+  "ok": true,
+  "note": "cand 29 opened 14 Dec 1999 by Mandalay; \"MotorCity Casino\" name is not shown on the page as a distinct name"
+ },
+ {
+  "venue": "motorcity-casino-hotel",
+  "field": "names[1]",
+  "ok": false,
+  "note": "cands 30/27 support the 2005 ownership change (Ilitch bought 53.5% on 12 Apr 2005), not a rename; no passing candidate shows a name change in 2005"
+ },
+ {
+  "venue": "motorcity-casino-hotel",
+  "field": "opened",
+  "ok": true,
+  "note": "cand 29"
+ },
+ {
+  "venue": "motorcity-casino-hotel",
+  "field": "closed",
+  "ok": true,
+  "note": "null"
+ },
+ {
+  "venue": "motorcity-casino-hotel",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\": no allegation in the cited pages; absence only"
+ },
+ {
+  "venue": "greektown-casino-hotel",
+  "field": "names[0]",
+  "ok": false,
+  "note": "2000 start supported by cand 31; end 2016 unsupported: page says only that a Feb 2016 plan to rename it Jack Detroit Casino-Hotel Greektown was cancelled (not 2016 end); cand 32/33 do not give 2016"
+ },
+ {
+  "venue": "greektown-casino-hotel",
+  "field": "names[1]",
+  "ok": true,
+  "note": "cand 33: June 2010 Greektown Superholdings bought it out of bankruptcy; 2013 end is the Rock Gaming purchase (same page, outside quote)"
+ },
+ {
+  "venue": "greektown-casino-hotel",
+  "field": "names[2]",
+  "ok": true,
+  "note": "cand 33 page: Rock Gaming agreed Jan 2013; 2019 end per cand 34"
+ },
+ {
+  "venue": "greektown-casino-hotel",
+  "field": "names[3]",
+  "ok": true,
+  "note": "cand 31 page: rebranded Hollywood Casino in May 2022 (infobox previous name 2000-2022); cand 34 supports 2019 sale only"
+ },
+ {
+  "venue": "greektown-casino-hotel",
+  "field": "opened",
+  "ok": true,
+  "note": "cand 31: 10 Nov 2000"
+ },
+ {
+  "venue": "greektown-casino-hotel",
+  "field": "closed",
+  "ok": true,
+  "note": "null"
+ },
+ {
+  "venue": "greektown-casino-hotel",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\": cand 32 says state checks found concerns about backgrounds of two owner couples; says nothing about crime; the label keeps that distinction"
+ },
+ {
+  "venue": "pechanga-resort-casino",
+  "field": "names[0]",
+  "ok": true,
+  "note": "cand 35"
+ },
+ {
+  "venue": "pechanga-resort-casino",
+  "field": "opened",
+  "ok": true,
+  "note": "cand 35: 24 Jun 2002"
+ },
+ {
+  "venue": "pechanga-resort-casino",
+  "field": "closed",
+  "ok": true,
+  "note": "null"
+ },
+ {
+  "venue": "pechanga-resort-casino",
+  "field": "label",
+  "ok": true,
+  "note": "\"none\": cands 36/37 general; absence only"
+ }
+]

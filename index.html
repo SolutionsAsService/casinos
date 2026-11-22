@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>American Casinos: Map and Timeline</title>
+<title>Ledger of the House: American casinos, mapped</title>
 <meta name="description" content="Where American casinos opened and closed, year by year, and which ones had documented or alleged organised-crime ties.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230d0b0a'/%3E%3Ccircle cx='16' cy='16' r='9' fill='%23d8402a'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -14,7 +14,7 @@
 <body>
 <div class="wrap">
 <header>
-  <div><div class="brand">Solutions as Service</div><h1>The house<br><span>always</span> wins</h1></div>
+  <div><div class="brand">Solutions as Service</div><h1>Ledger of<br>the <span>house</span></h1></div>
   <p class="lede">A hundred years of American casinos on one map. Drag the year, see what was open, and which houses had documented or alleged organised-crime ties.</p>
 </header>
 
@@ -28,6 +28,7 @@
   <label class="chip"><input type="checkbox" data-l="documented" checked><i class="dot" style="background:var(--red)"></i>Documented ties</label>
   <label class="chip"><input type="checkbox" data-l="alleged" checked><i class="dot" style="background:var(--amber)"></i>Alleged ties</label>
   <label class="chip"><input type="checkbox" data-l="none" checked><i class="dot" style="background:var(--teal)"></i>No ties found</label>
+  <label class="chip"><input type="checkbox" data-l="unsupported" checked><i class="dot" style="background:#8a7f70"></i>Sources could not settle it</label>
 </div>
 
 <div class="grid">
@@ -44,25 +45,26 @@
 <h3>Hotspots in the selected year</h3>
 <div id="spots"></div>
 
-<footer id="foot">Data is AI-drafted from public history, then reviewed in a second AI pass: not independently sourced, so check anything you rely on. "Documented" means court records, convictions or congressional findings; "alleged" means credible reporting only. Nothing here is a claim about any living person. Built by Solutions as Service. Positions inside a city are illustrative. Map: US Atlas (public domain).</footer>
+<footer id="foot">Every label on this site is backed by sources that a second agent re-fetched and checked: see the Sources page. Venues marked "unsourced" still carry the earlier draft label. "Documented" means court records, convictions or congressional findings; "alleged" means credible reporting only. Nothing here is a claim about any living person. Built by Solutions as Service. Positions inside a city are illustrative. Map: US Atlas (public domain).</footer>
 </div>
 
+<script src="assets/common.js"></script>
 <script src="vendor/d3-array.min.js"></script>
 <script src="vendor/d3-geo.min.js"></script>
 <script src="vendor/topojson-client.min.js"></script>
 <script>
 (function(){
 "use strict";
-var COL={documented:"#d8402a",alleged:"#e8a33a",none:"#3fb6a8"};
+var COL={documented:"#d8402a",alleged:"#e8a33a",none:"#3fb6a8",unsupported:"#8a7f70"};
 var NS="http://www.w3.org/2000/svg";
 var W=975,H=610;
-var data=null,us=null,pos={},state={year:1960,sel:null,levels:{documented:true,alleged:true,none:true},timer:null};
+var data=null,us=null,pos={},state={year:1960,sel:null,levels:{documented:true,alleged:true,none:true,unsupported:true},timer:null};
 var $=function(i){return document.getElementById(i)};
 function el(n,a,p){var e=document.createElementNS(NS,n);for(var k in a)e.setAttribute(k,a[k]);if(p)p.appendChild(e);return e}
 function open(c,y){return c.opened<=y&&(c.closed==null||c.closed>y)}
 function status(c,y){return c.closed==null?"since "+c.opened:c.opened+" to "+c.closed}
 
-Promise.all([fetch("data/casinos.json").then(function(r){return r.json()}),fetch("vendor/states-10m.json").then(function(r){return r.json()})]).then(function(r){data=r[0];us=r[1];init()}).catch(function(e){var p=$("panel");p.textContent="Could not load the data: "+e}); 
+Promise.all([LOTH.load(),fetch("vendor/states-10m.json").then(function(r){return r.json()})]).then(function(r){data=r[0].data;LOTH.S=r[0].S;us=r[1];init()}).catch(function(e){var p=$("panel");p.textContent="Could not load the data: "+e}); 
 
 function init(){
   var map=$("map");
@@ -77,7 +79,7 @@ function init(){
   relax(cs);
   var circles={};
   cs.forEach(function(c){
-    var e=el("circle",{class:"v",cx:pos[c.id].x,cy:pos[c.id].y,r:0,fill:COL[c.mob.level],tabindex:0,role:"button","aria-label":c.name+", "+c.city+", "+status(c)},gV);
+    var e=el("circle",{class:"v",cx:pos[c.id].x,cy:pos[c.id].y,r:0,fill:COL[c.level],tabindex:0,role:"button","aria-label":c.name+", "+c.city+", "+status(c)},gV);
     e.addEventListener("click",function(){select(c)});
     e.addEventListener("keydown",function(ev){if(ev.key==="Enter"||ev.key===" "){ev.preventDefault();select(c)}});
     var t=el("title",{},e);t.textContent=c.name+" ("+status(c)+")";
@@ -90,7 +92,7 @@ function init(){
   var minY=1900,maxY=2025;
   var graph=$("graph");
   var counts=[];
-  for(var y=minY;y<=maxY;y++){var o={documented:0,alleged:0,none:0};cs.forEach(function(c){if(open(c,y))o[c.mob.level]++});counts.push(o)}
+  for(var y=minY;y<=maxY;y++){var o={documented:0,alleged:0,none:0};cs.forEach(function(c){if(open(c,y))o[c.level]++});counts.push(o)}
   var maxC=d3.max(counts,function(o){return o.documented+o.alleged+o.none})||1;
   function drawGraph(){
     graph.textContent="";
@@ -111,11 +113,11 @@ function init(){
   var tl=$("tl");
   data.timeline.forEach(function(ev){var b=document.createElement("button");b.className="ev";b.dataset.y=ev.year;var s=document.createElement("b");s.textContent=ev.year;var t=document.createElement("span");t.textContent=ev.text;b.appendChild(s);b.appendChild(t);b.addEventListener("click",function(){setYear(ev.year)});tl.appendChild(b)});
 
-  function visible(c){return open(c,state.year)&&state.levels[c.mob.level]}
+  function visible(c){return open(c,state.year)&&state.levels[c.level]}
   function update(){
     var y=state.year;$("year").textContent=y;$("range").value=y;
     var n=0,dc=0,al=0;
-    cs.forEach(function(c){var v=visible(c);var e=circles[c.id];var r=v?(c.opened>=y-5?9:6.5):0;e.setAttribute("r",r);e.style.pointerEvents=v?"auto":"none";e.setAttribute("tabindex",v?0:-1);if(open(c,y)){n++;if(c.mob.level==="documented")dc++;if(c.mob.level==="alleged")al++}});
+    cs.forEach(function(c){var v=visible(c);var e=circles[c.id];var r=v?(c.opened>=y-5?9:6.5):0;e.setAttribute("r",r);e.style.pointerEvents=v?"auto":"none";e.setAttribute("tabindex",v?0:-1);if(open(c,y)){n++;if(c.level==="documented")dc++;if(c.level==="alleged")al++}});
     $("count").innerHTML="<b>"+n+"</b> venues open · <b>"+dc+"</b> documented · <b>"+al+"</b> alleged";
     var sp=$("spots");sp.textContent="";
     var lab=[];
@@ -127,7 +129,7 @@ function init(){
     for(var i=1;i<lab.length;i++){for(var j=0;j<i;j++){if(Math.abs(lab[i].x-lab[j].x)<150&&lab[i].y-lab[j].y<14)lab[i].y=lab[j].y+14}}
     lab.forEach(function(l){l.re.label.setAttribute("x",l.x);l.re.label.setAttribute("y",l.y)});
     hs.map(function(h){return{h:h,n:h.items.filter(function(c){return open(c,y)})}}).filter(function(o){return o.n.length}).sort(function(a,b){return b.n.length-a.n.length}).forEach(function(o){
-      var b=document.createElement("button");b.className="spot";var t=document.createElement("b");t.textContent=o.h.name;var s=document.createElement("span");var d=o.n.filter(function(c){return c.mob.level==="documented"}).length;s.textContent=o.n.length+" open · "+d+" with documented ties";var bars=document.createElement("div");bars.className="bars";["documented","alleged","none"].forEach(function(l){var k=o.n.filter(function(c){return c.mob.level===l}).length;if(k){var i=document.createElement("i");i.style.cssText="flex:"+k+";background:"+COL[l];bars.appendChild(i)}});b.appendChild(t);b.appendChild(s);b.appendChild(bars);b.addEventListener("click",function(){var f=o.n[0];select(f)});sp.appendChild(b)});
+      var b=document.createElement("button");b.className="spot";var t=document.createElement("b");t.textContent=o.h.name;var s=document.createElement("span");var d=o.n.filter(function(c){return c.level==="documented"}).length;s.textContent=o.n.length+" open · "+d+" with documented ties";var bars=document.createElement("div");bars.className="bars";["documented","alleged","none"].forEach(function(l){var k=o.n.filter(function(c){return c.level===l}).length;if(k){var i=document.createElement("i");i.style.cssText="flex:"+k+";background:"+COL[l];bars.appendChild(i)}});b.appendChild(t);b.appendChild(s);b.appendChild(bars);b.addEventListener("click",function(){var f=o.n[0];select(f)});sp.appendChild(b)});
     Array.prototype.forEach.call(tl.children,function(b){var ey=+b.dataset.y;b.classList.toggle("past",ey<=y);b.classList.toggle("now",ey<=y&&(!b.nextSibling||+b.nextSibling.dataset.y>y))});
     var g=$("gline");if(g){var x=34+(y-minY)/(maxY-minY)*(1000-34-8);g.setAttribute("x1",x);g.setAttribute("x2",x)}
     if(state.sel)showPanel(state.sel);
@@ -137,12 +139,14 @@ function init(){
     var p=$("panel");p.textContent="";
     var h=document.createElement("h2");h.textContent=c.name;p.appendChild(h);
     var m=document.createElement("div");m.className="meta";m.textContent=c.city+", "+c.state+" · "+status(c)+" · "+c.kind;p.appendChild(m);
-    var t=document.createElement("span");t.className="tag "+c.mob.level;t.textContent=c.mob.level==="none"?"No ties found":c.mob.level+" ties";p.appendChild(t);
-    var v=document.createElement("span");v.className="tag ver";v.textContent="AI-reviewed, not sourced";p.appendChild(v);
+    var t=document.createElement("span");t.className="tag "+(c.level==="unsupported"?"ver":c.level);t.textContent=c.level==="none"?"No ties found":c.level==="unsupported"?"Sources could not settle it":c.level+" ties";p.appendChild(t);
+    var v=document.createElement("span");v.className="tag ver";v.textContent=c.sourced?"cited":"unsourced";p.appendChild(v);
     if(c.blurb){var b=document.createElement("p");b.textContent=c.blurb;p.appendChild(b)}
-    if(c.mob.summary){var s=document.createElement("p");s.textContent=c.mob.summary+(c.mob.years?" ("+c.mob.years+")":"");p.appendChild(s)}
-    if(c.mob.groups&&c.mob.groups.length){var g=document.createElement("div");g.className="meta";g.textContent="Groups named: "+c.mob.groups.join(", ");p.appendChild(g)}
-    if(c.events&&c.events.length){var u=document.createElement("ul");c.events.slice(0,5).forEach(function(e){var li=document.createElement("li");li.textContent=e.year+": "+e.text;u.appendChild(li)});p.appendChild(u)}
+    var lb=c.ledger&&c.ledger.label;var bs=lb&&lb.basis?lb.basis:c.mob.summary;if(bs){var s=document.createElement("p");s.textContent=bs;if(lb&&lb.sources)LOTH.cites(lb.sources,LOTH.S,s);p.appendChild(s)}
+    if(c.ledger&&c.ledger.corrections){var cr=document.createElement("p");cr.className="hint";cr.textContent="Corrected from earlier data: "+c.ledger.corrections;p.appendChild(cr)}
+    var ln=document.createElement("p");var la=document.createElement("a");la.href="venue.html?id="+encodeURIComponent(c.id);la.textContent="Open the full page for this venue";ln.appendChild(la);p.appendChild(ln)
+    
+    
   }
   function setYear(y){state.year=y;update()}
   $("range").addEventListener("input",function(e){stop();setYear(+e.target.value)});

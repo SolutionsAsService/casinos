@@ -1,0 +1,434 @@
+[
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "four-deuces-chicago"
+  ],
+  "title": "Big Jim Colosimo",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Big_Jim_Colosimo",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "dates: Four Deuces opening year",
+  "quote": "In 1919, Torrio and Colosimo opened a brothel at 2222 South Wabash called the Four Deuces, referencing the address.",
+  "summary": "Dates the Four Deuces to 1919 under Colosimo and Torrio, not 1923.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "four-deuces-chicago"
+  ],
+  "title": "Johnny Torrio",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Johnny_Torrio",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "mob-tie: Capone at the Four Deuces",
+  "quote": "started working as a bouncer and bartender at one of the Colosimo gang establishments, the Four Deuces at 2222 S. Wabash Street.",
+  "summary": "Places Capone at the Four Deuces from 1919 as employee of the Colosimo/Torrio organisation.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "four-deuces-chicago"
+  ],
+  "title": "The Levee, Chicago",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/The_Levee,_Chicago",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "lineage: ownership of the Four Deuces building",
+  "quote": "The four-storey brick building, which also housed an office and a brothel upstairs, was initially owned by Jonny Torrio.",
+  "summary": "Says Torrio first owned the building (cited there to Schoenberg 1993). The same page repeats a basement-torture claim from a web source that is not confirmed here.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "four-deuces-chicago"
+  ],
+  "title": "Investigation of organized crime in interstate commerce: index to hearings (Kefauver Committee)",
+  "authors": null,
+  "year": null,
+  "venue": "Internet Archive, full text of the Senate committee index",
+  "url": "https://archive.org/stream/investigationofo0112unit/investigationofo0112unit_djvu.txt",
+  "accessed": "2026-11-22",
+  "kind": "official",
+  "discipline": "Congressional record",
+  "stance": "context",
+  "ask_addressed": "mob-tie: Kefauver Committee record",
+  "quote": "Capone, Al (see also Capone Syndicate)",
+  "summary": "The congressional hearings index carries entries for Al Capone and a Capone Syndicate. The index has no entry I found for the Four Deuces, the Grand Terrace or Ed Fox.",
+  "limits": "Only an index. It does not describe any venue, so it does not by itself document a tie for either Chicago venue.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "grand-terrace-cafe-chicago"
+  ],
+  "title": "Sunset Cafe",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Sunset_Cafe",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "mob-tie: Capone and the Grand Terrace",
+  "quote": "by now \"controlled\" (or 25% controlled) by Al Capone.",
+  "summary": "States Capone \"controlled\" or held a 25 percent share of the club in 1928; the source is a 1975 TV interview with Earl Hines.",
+  "limits": "The quote marks around \"controlled\" and the 25 percent figure show the page itself is unsure. No court or board record is cited.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "grand-terrace-cafe-chicago"
+  ],
+  "title": "Sunset Cafe",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Sunset_Cafe",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "dates: rename to Grand Terrace",
+  "quote": "when it was renamed the Grand Terrace Cafe.",
+  "summary": "Says the 315 E 35th St building was remodelled and renamed Grand Terrace Cafe in 1937 (built 1909, club from 1921). That conflicts with a 1928 Grand Terrace opening.",
+  "limits": "Page also names Joe Glaser as owner of the Sunset; it contradicts itself on when the Grand Terrace name began.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "grand-terrace-cafe-chicago"
+  ],
+  "title": "Sunset Cafe",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Sunset_Cafe",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "dates: closing year",
+  "quote": "returned to its modest roots after the then-named–Grand Terrace Cafe closed in 1950",
+  "summary": "Gives 1950 as the closing of the Grand Terrace Cafe at the 35th St building.",
+  "limits": "Conflicts with the Earl Hines page, which says the Grand Terrace closed in December 1940.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "grand-terrace-cafe-chicago"
+  ],
+  "title": "Earl Hines",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Earl_Hines",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "contradicts",
+  "ask_addressed": "dates: closing year; lineage: manager",
+  "quote": "The Grand Terrace Cafe had closed suddenly in December 1940; its manager, Ed Fox, disappeared.",
+  "summary": "Gives December 1940 for the Grand Terrace closure and names Ed Fox as manager.",
+  "limits": "Conflicts with the 1950 closing on the Sunset Cafe page. It does not say Fox answered to the Outfit.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "grand-terrace-cafe-chicago"
+  ],
+  "title": "Earl Hines",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Earl_Hines",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "mob-tie: Capone control of Grand Terrace",
+  "quote": "The Grand Terrace was controlled by the gangster Al Capone",
+  "summary": "States Capone control of the Grand Terrace as background to Hines opening there on 28 December 1928.",
+  "limits": "No primary record cited here; derives from Hines interviews and Stanley Dance.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "casino-queen-east-st-louis"
+  ],
+  "title": "Casino Queen (DraftKings at Casino Queen)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Casino_Queen",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "dates: opening",
+  "quote": "The Casino Queen opened on June 23, 1993.",
+  "summary": "Confirms the 1993 opening on the White Star One boat; licence awarded to Bill Koman's group by the Illinois Gaming Board in May 1992.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "casino-queen-east-st-louis"
+  ],
+  "title": "Casino Queen (DraftKings at Casino Queen)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Casino_Queen",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "lineage: owners",
+  "quote": "In 2012, Koman and his partners sold the Casino Queen for $170 million to a newly formed employee stock ownership plan (ESOP)",
+  "summary": "Owners: Koman group 1992-2012, ESOP 2012; real estate to GLPI 2014; DraftKings brand 2020; operator Bally's 2025.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "harrahs-joliet"
+  ],
+  "title": "Harrah's Joliet",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Harrah%27s_Joliet",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "dates: opening",
+  "quote": "Harrah's Joliet launched its first boat on May 4, 1993",
+  "summary": "Confirms the 1993 opening on the Northern Star.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "harrahs-joliet"
+  ],
+  "title": "Harrah's Joliet",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Harrah%27s_Joliet",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "fails_to_support",
+  "ask_addressed": "lineage: licence holder",
+  "quote": "concern from the Illinois Gaming Board that Hammons was \"selling\" the license",
+  "summary": "Licence went to John Q. Hammons, who brought in Harrah's with an 80 percent share. The Gaming Board worried about licence-selling (a licensing issue, not an organised-crime finding).",
+  "limits": "Says nothing on organised crime.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "harrahs-joliet"
+  ],
+  "title": "Harrah's Joliet",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Harrah%27s_Joliet",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "lineage: Vici sale 2017",
+  "quote": "In October 2017, Caesars Entertainment (formerly Harrah's) transferred its 80 percent ownership stake in the property to Vici Properties",
+  "summary": "Later ownership: Vici owns, Caesars operates under lease.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "hollywood-casino-aurora"
+  ],
+  "title": "Hollywood Casino Aurora",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Hollywood_Casino_Aurora",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "dates: opening",
+  "quote": "Hollywood Casino Aurora opened on June 17, 1993, as the first riverboat casino under Hollywood Casino Corp.",
+  "summary": "Confirms 1993 opening under Hollywood Casino Corp.; casino now owned by GLPI and operated by Penn Entertainment.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "hollywood-casino-aurora"
+  ],
+  "title": "Hollywood Casino Aurora",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Hollywood_Casino_Aurora",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "dates: closing of riverboat",
+  "quote": "The riverboat casino was closed on June 10, 2026, in favor of a land-based casino at Farnsworth Avenue",
+  "summary": "The riverboat closed 10 June 2026; a land-based casino on the same licence opened 24 June 2026, so the operation did not close.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "grand-victoria-casino-elgin"
+  ],
+  "title": "Grand Victoria Casino Elgin",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Grand_Victoria_Casino_Elgin",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "dates: opening",
+  "quote": "It opened its doors on October 6, 1994.",
+  "summary": "Confirms the 1994 opening; developed by Gold Strike Resorts and Hyatt.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "chicago-illinois",
+  "records": [
+   "grand-victoria-casino-elgin"
+  ],
+  "title": "Grand Victoria Casino Elgin",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (raw wikitext, read 2026-11-22)",
+  "url": "https://en.wikipedia.org/wiki/Grand_Victoria_Casino_Elgin",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "lineage: owners",
+  "quote": "In August 2018, MGM and Hyatt sold the casino to Eldorado Resorts (later renamed as Caesars Entertainment) for $328M.",
+  "summary": "Chain: Gold Strike/Hyatt, Circus Circus 1995 (later Mandalay), MGM 2005 (Hyatt managing), Eldorado/Caesars 2018.",
+  "limits": "Wikipedia is a tertiary context source; it gives no primary record here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ }
+]

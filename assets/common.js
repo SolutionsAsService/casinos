@@ -12,7 +12,7 @@ window.LOTH.load=function(){
   return Promise.all([fetch(base+"data/casinos.json").then(function(r){return r.json()}),fetch(base+"data/ledger.json").then(function(r){return r.ok?r.json():null}).catch(function(){return null})]).then(function(r){
     var d=r[0],L=r[1]||{sources:[],venues:{}};var S={};L.sources.forEach(function(s,i){s.n=i+1;S[s.id]=s});
     d.casinos.forEach(function(c){var v=L.venues[c.id]||{};c.ledger=v;c.names=(v.names&&v.names.length)?v.names:[{name:c.name,from:c.opened,to:c.closed,operator:"",note:"",sources:[]}];
-      c.level=(v.label&&v.label.level&&v.label.level!=="unsupported")?v.label.level:c.mob.level;c.sourced=!!(v.label&&v.label.sources&&v.label.sources.length);
+      c.level=(v.label&&v.label.level)?v.label.level:c.mob.level;c.sourced=!!(v.label&&v.label.sources&&v.label.sources.length);
       if(v.opened!=null)c.opened=v.opened;if(v.closed!==undefined&&v.opened!=null)c.closed=v.closed});
     return{data:d,ledger:L,S:S}});
 };

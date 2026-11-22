@@ -1,0 +1,374 @@
+[
+ {
+  "venue": "bill-millers-riviera-casino",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Opened 1931 by Ben Marden confirmed (cand 21). 1942 end is not stated; page says closed early in WWII."
+ },
+ {
+  "venue": "bill-millers-riviera-casino",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Riviera page (21) says reopened 1946 by Bill Miller; Miller page (22) says bought 1945 and renamed it Bill Miller's Riviera. Conflict already noted by researcher."
+ },
+ {
+  "venue": "bill-millers-riviera-casino",
+  "field": "opened",
+  "ok": true,
+  "note": "1931, cand 21."
+ },
+ {
+  "venue": "bill-millers-riviera-casino",
+  "field": "closed",
+  "ok": true,
+  "note": "4 Oct 1953, cand 21."
+ },
+ {
+  "venue": "bill-millers-riviera-casino",
+  "field": "label",
+  "ok": true,
+  "note": "'unsupported' fits: neither page makes an organised-crime claim. Not 'documented'."
+ },
+ {
+  "venue": "the-500-club",
+  "field": "names[0]",
+  "ok": true,
+  "note": "500 Cafe, Phil Barr, mid-1930s per cand 3; 1935 is an approximation of 'mid-1930s'. 1946 end/rename confirmed."
+ },
+ {
+  "venue": "the-500-club",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Cand 3 gives June 1946 buyout and rename; cand 4 supports D'Amato as owner. Sole owners by 1949 per a Billboard note cited on page 3."
+ },
+ {
+  "venue": "the-500-club",
+  "field": "opened",
+  "ok": true,
+  "note": "null is right; page says only 1930s."
+ },
+ {
+  "venue": "the-500-club",
+  "field": "closed",
+  "ok": true,
+  "note": "1973 fire, cand 3."
+ },
+ {
+  "venue": "the-500-club",
+  "field": "label",
+  "ok": true,
+  "note": "'alleged' supported by cands 3 and 4 (alleged gambling front; Summers and Swan claim D'Amato fronted for Reginelli, with a note that Reginelli was a patron not owner) and cands 0-2 (witness statements only). Cand 1 downgraded to context. No documented claim; no primary finding of control."
+ },
+ {
+  "venue": "club-harlem",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Founded 1935 by Leroy 'Pop' Williams; Clifton Williams and Ben Alten listed as owners (1951 date not rechecked beyond infobox listing)."
+ },
+ {
+  "venue": "club-harlem",
+  "field": "opened",
+  "ok": true,
+  "note": "1935"
+ },
+ {
+  "venue": "club-harlem",
+  "field": "closed",
+  "ok": true,
+  "note": "1986"
+ },
+ {
+  "venue": "club-harlem",
+  "field": "label",
+  "ok": true,
+  "note": "'none' fits: page shows no mob ownership; 1972 shootout is about violence."
+ },
+ {
+  "venue": "resorts-casino-hotel",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Chalfonte-Haddon Hall returned to owners 1946 (cand 11)."
+ },
+ {
+  "venue": "resorts-casino-hotel",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Palace Hotel May 1977 then Resorts International Hotel 1 July 1977 (cand 11)."
+ },
+ {
+  "venue": "resorts-casino-hotel",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Opened 26 May 1978 (cands 6, 11); Mary Carter CIA-front reputation (12); Griffin 1988 settlement supported. Trump control dates for 1987-88 not rechecked."
+ },
+ {
+  "venue": "resorts-casino-hotel",
+  "field": "names[3]",
+  "ok": false,
+  "note": "The page does not clearly show a rename to 'Resorts Casino Hotel' in 1988; page sections are 'ownership changes' and 'renovation and re-branding'. Date unconfirmed."
+ },
+ {
+  "venue": "resorts-casino-hotel",
+  "field": "opened",
+  "ok": true,
+  "note": "26 May 1978, cands 6, 11."
+ },
+ {
+  "venue": "resorts-casino-hotel",
+  "field": "closed",
+  "ok": true,
+  "note": "null, still open per page."
+ },
+ {
+  "venue": "resorts-casino-hotel",
+  "field": "label",
+  "ok": true,
+  "note": "'unsupported' fits; no opened source states a Lansky link."
+ },
+ {
+  "venue": "ballys-atlantic-city",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Marlborough House built 1900, Blenheim 1906, Marlborough demolished Nov 1978 (cand 10)."
+ },
+ {
+  "venue": "ballys-atlantic-city",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Bally's Park Place 1979-2000, opened 30 Dec 1979."
+ },
+ {
+  "venue": "ballys-atlantic-city",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Section 'Bally's Atlantic City (2000-present)'."
+ },
+ {
+  "venue": "ballys-atlantic-city",
+  "field": "opened",
+  "ok": true,
+  "note": "30 Dec 1979, cand 10."
+ },
+ {
+  "venue": "ballys-atlantic-city",
+  "field": "closed",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "ballys-atlantic-city",
+  "field": "label",
+  "ok": true,
+  "note": "'alleged' fits: cand 9 says O'Donnell resigned over alleged organised crime links, which he denied; cand 5 confirms executives found unsuitable but names no grounds. Not 'documented'; no primary source opened."
+ },
+ {
+  "venue": "caesars-atlantic-city",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Howard Johnson's Regency Motor Hotel opened 1966, bought by Caesars 1977 (cand 8)."
+ },
+ {
+  "venue": "caesars-atlantic-city",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Boardwalk Regency opened 26 June 1979; cand 7 confirms the name period."
+ },
+ {
+  "venue": "caesars-atlantic-city",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Caesars added to the name in 1983 (cand 8)."
+ },
+ {
+  "venue": "caesars-atlantic-city",
+  "field": "names[3]",
+  "ok": true,
+  "note": "Renamed Caesars Atlantic City in 1987 (cand 8)."
+ },
+ {
+  "venue": "caesars-atlantic-city",
+  "field": "opened",
+  "ok": true,
+  "note": "26 June 1979."
+ },
+ {
+  "venue": "caesars-atlantic-city",
+  "field": "closed",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "caesars-atlantic-city",
+  "field": "label",
+  "ok": true,
+  "note": "'alleged' fits: cand 7 says Malnik was identified by federal officials as a Lansky associate and the NJCCC denied the Perlmans' permanent licences over dealings with Malnik and Cohen. Wikipedia only; the court opinion was not opened."
+ },
+ {
+  "venue": "harrahs-atlantic-city",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Planned as Holiday Inn Marina Casino (cand 13)."
+ },
+ {
+  "venue": "harrahs-atlantic-city",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Harrah's Marina; opened 22 Nov 1980."
+ },
+ {
+  "venue": "harrahs-atlantic-city",
+  "field": "opened",
+  "ok": true,
+  "note": "22 Nov 1980."
+ },
+ {
+  "venue": "harrahs-atlantic-city",
+  "field": "closed",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "harrahs-atlantic-city",
+  "field": "label",
+  "ok": true,
+  "note": "'none' fits: no organised-crime mention on the page."
+ },
+ {
+  "venue": "tropicana-atlantic-city",
+  "field": "names[0]",
+  "ok": false,
+  "note": "Ambassador Hotel: page heading says 1919-1977 and text says it closed in the 1970s; the entry's 'to' of 1970 is not supported."
+ },
+ {
+  "venue": "tropicana-atlantic-city",
+  "field": "names[1]",
+  "ok": true,
+  "note": "The Phoenix (1978-1980), planned; Ramada bought the building 1978."
+ },
+ {
+  "venue": "tropicana-atlantic-city",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Tropicana (1981-88)."
+ },
+ {
+  "venue": "tropicana-atlantic-city",
+  "field": "names[3]",
+  "ok": true,
+  "note": "TropWorld (1988-95)."
+ },
+ {
+  "venue": "tropicana-atlantic-city",
+  "field": "names[4]",
+  "ok": true,
+  "note": "Tropicana (1996-present)."
+ },
+ {
+  "venue": "tropicana-atlantic-city",
+  "field": "opened",
+  "ok": true,
+  "note": "23 Nov 1981."
+ },
+ {
+  "venue": "tropicana-atlantic-city",
+  "field": "closed",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "tropicana-atlantic-city",
+  "field": "label",
+  "ok": true,
+  "note": "'none' fits; cand 15 says the 1929 Atlantic City conference was at the old Ambassador (Wikipedia; location disputed per researcher), which concerns the hotel, not the casino."
+ },
+ {
+  "venue": "trump-plaza",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Opened as Harrah's at Trump Plaza 14 May 1984 (cand 16)."
+ },
+ {
+  "venue": "trump-plaza",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Renamed Trump Plaza five months after opening."
+ },
+ {
+  "venue": "trump-plaza",
+  "field": "opened",
+  "ok": true,
+  "note": "14 May 1984."
+ },
+ {
+  "venue": "trump-plaza",
+  "field": "closed",
+  "ok": true,
+  "note": "16 Sept 2014."
+ },
+ {
+  "venue": "trump-plaza",
+  "field": "label",
+  "ok": true,
+  "note": "'unsupported' fits: cand 19 says only that Scarfo's cement firm got casino work generally; it does not name Trump Plaza."
+ },
+ {
+  "venue": "trump-taj-mahal",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Construction began 1983 by Resorts International; Trump bought the project in the Nov 1988 settlement."
+ },
+ {
+  "venue": "trump-taj-mahal",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Opened 2 April 1990; closed 10 Oct 2016 (cand 18)."
+ },
+ {
+  "venue": "trump-taj-mahal",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Hard Rock reopened 27 June 2018 (cand 18); page says Hard Rock deal announced 2017."
+ },
+ {
+  "venue": "trump-taj-mahal",
+  "field": "opened",
+  "ok": true,
+  "note": "1990"
+ },
+ {
+  "venue": "trump-taj-mahal",
+  "field": "closed",
+  "ok": true,
+  "note": "2016"
+ },
+ {
+  "venue": "trump-taj-mahal",
+  "field": "label",
+  "ok": true,
+  "note": "'alleged' fits: cand 17 reports a 1992 Senate subcommittee report naming an employee as a triad associate and Russian mobsters as patrons, per federal investigators. Secondhand via Wikipedia; no ownership claim. Employee is not named here."
+ },
+ {
+  "venue": "borgata-hotel-casino-spa",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Opened 2 July 2003 as MGM Mirage and Boyd joint venture (cand 20)."
+ },
+ {
+  "venue": "borgata-hotel-casino-spa",
+  "field": "opened",
+  "ok": true,
+  "note": "2003"
+ },
+ {
+  "venue": "borgata-hotel-casino-spa",
+  "field": "closed",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "borgata-hotel-casino-spa",
+  "field": "label",
+  "ok": true,
+  "note": "'none' fits; the 2010 settlement concerns an MGM partner in Macau, not mob ties. No label claims 'documented'."
+ }
+]

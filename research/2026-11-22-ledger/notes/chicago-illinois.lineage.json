@@ -1,0 +1,212 @@
+{
+ "brief": "chicago-illinois",
+ "venues": [
+  {
+   "id": "four-deuces-chicago",
+   "opened": 1919,
+   "closed": null,
+   "opened_source": 0,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Four Deuces",
+     "from": 1919,
+     "to": null,
+     "operator": "Big Jim Colosimo / Johnny Torrio organisation, later Torrio-Capone",
+     "note": "Named for 2222 S. Wabash; Capone worked there from 1919; the building was initially owned by Torrio. Closing or demolition year not confirmed by an opened source.",
+     "sources": [
+      0,
+      1,
+      2
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Histories on Wikipedia place the Colosimo/Torrio/Capone organisation at the Four Deuces, but no court, commission or congressional record about the venue was opened.",
+    "sources": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "corrections": "Opening year 1923 is not supported: sources say 1919. Closing year 1929 is not supported by any opened source (a search summary gave demolition in 1966, not opened). Label 'documented' is not supported by an opened primary record; it is widely told in histories, so 'alleged' until a primary is read."
+  },
+  {
+   "id": "grand-terrace-cafe-chicago",
+   "opened": 1928,
+   "closed": null,
+   "opened_source": 8,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Sunset Cafe",
+     "from": 1921,
+     "to": null,
+     "operator": "Joe Glaser (per Wikipedia); lease to Edward Fox and Sam Rifas per a search summary of a page not opened",
+     "note": "Garage built 1909 at 315 E 35th St, remodelled 1921 into a club.",
+     "sources": [
+      5
+     ]
+    },
+    {
+     "name": "Grand Terrace Cafe",
+     "from": 1928,
+     "to": null,
+     "operator": "Manager Ed Fox; Capone said to control or hold 25 percent",
+     "note": "Hines opened there 28 Dec 1928. Closure given as Dec 1940 (Hines page) and 1950 (Sunset page). Sunset page says the 35th St building took the Grand Terrace name in 1937. These conflict.",
+     "sources": [
+      4,
+      5,
+      6,
+      7,
+      8
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Wikipedia pages cite Hines's recollection that Capone controlled or held 25 percent of the club; no court or board record was opened.",
+    "sources": [
+     4,
+     8
+    ]
+   },
+   "corrections": "Closing year 1950 conflicts with a December 1940 closure on the Earl Hines page; the 1928 opening and the venue's identity with the Sunset Cafe building are inconsistent between pages. 'Owner Ed Fox answered to the Outfit' is not supported by any opened page, which only call Fox manager. 'Documented' is not supported."
+  },
+  {
+   "id": "casino-queen-east-st-louis",
+   "opened": 1993,
+   "closed": null,
+   "opened_source": 9,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Casino Queen",
+     "from": 1993,
+     "to": 2020,
+     "operator": "Bill Koman group (to 2012); employee stock ownership plan (2012 on); real estate to Gaming and Leisure Properties 2014",
+     "note": "Licence awarded May 1992; opened 23 June 1993 on the White Star One; moved ashore 2007.",
+     "sources": [
+      9,
+      10
+     ]
+    },
+    {
+     "name": "DraftKings at Casino Queen",
+     "from": 2020,
+     "to": null,
+     "operator": "Casino Queen owners, then Bally's Corporation (2025 merger of parent)",
+     "note": "Rebrand with DraftKings 2020; GLPI owns the property.",
+     "sources": [
+      10
+     ]
+    }
+   ],
+   "label": {
+    "level": "unsupported",
+    "basis": "Wikipedia shows no tie; a search summary of an unopened mirror page claimed a Gaming Board order over a shareholder's link to an organised-crime associate, which could not be verified.",
+    "sources": [
+     9,
+     10
+    ]
+   },
+   "corrections": "Current label 'none' cannot be confirmed until the unverified shareholder claim is checked against Illinois Gaming Board records."
+  },
+  {
+   "id": "harrahs-joliet",
+   "opened": 1993,
+   "closed": null,
+   "opened_source": 11,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Harrah's Joliet",
+     "from": 1993,
+     "to": null,
+     "operator": "John Q. Hammons (licence); Harrah's 80 percent and operator; Caesars Entertainment; Vici Properties 80 percent from 2017",
+     "note": "Opened 4 May 1993 on the Northern Star; hotel 1999.",
+     "sources": [
+      11,
+      12,
+      13
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The one Gaming Board concern found was about licence-selling, not crime ties; a search in both directions found no organised-crime finding, though no regulator record was opened.",
+    "sources": [
+     12
+    ]
+   },
+   "corrections": "Wikipedia page lists no previous names; 'Hollywood Casino Joliet' is a separate Joliet casino and was not covered."
+  },
+  {
+   "id": "hollywood-casino-aurora",
+   "opened": 1993,
+   "closed": null,
+   "opened_source": 14,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Hollywood Casino Aurora",
+     "from": 1993,
+     "to": null,
+     "operator": "Hollywood Casino Corp.; now licence held by Penn Entertainment; property owned by Gaming and Leisure Properties",
+     "note": "Riverboat closed 10 June 2026; land-based casino opened 24 June 2026 on Farnsworth Ave. Hollywood Casino Corp. to Penn succession not confirmed by an opened page.",
+     "sources": [
+      14,
+      15
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "Search in both directions found no organised-crime source; no regulator record was opened.",
+    "sources": [
+     14
+    ]
+   },
+   "corrections": "Closed is null: only the riverboat closed (June 2026); the casino continues on land."
+  },
+  {
+   "id": "grand-victoria-casino-elgin",
+   "opened": 1994,
+   "closed": null,
+   "opened_source": 16,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Grand Victoria Casino Elgin",
+     "from": 1994,
+     "to": null,
+     "operator": "Gold Strike Resorts and Hyatt; Circus Circus (Mandalay) from 1995; MGM 2005 with Hyatt managing; Eldorado Resorts/Caesars 2018",
+     "note": "Opened 6 Oct 1994 under the 1990 Riverboat Gambling Act.",
+     "sources": [
+      16,
+      17
+     ]
+    }
+   ],
+   "label": {
+    "level": "unsupported",
+    "basis": "A search summary reported a 2003 Gaming Board fine of $3.2 million over a contract with a firm tied to organised-crime figures; the pages (Chicago Sun-Times, Deseret) could not be opened.",
+    "sources": [
+     16,
+     17
+    ]
+   },
+   "corrections": "Current label 'none' is likely wrong or incomplete: a search result described a 2003 Illinois Gaming Board fine at this casino tied to a contractor with organised-crime links (settled without admission). Not opened, so not a candidate; verify via Gaming Board orders."
+  }
+ ],
+ "gaps": [
+  "Four Deuces: closing/demolition year (summary said 1966) and a primary record (court, Kefauver, Chicago Crime Commission) not opened; mobmuseum.org returned a Cloudflare 403; chicago.gov, theclio.com, hmdb.org did not resolve.",
+  "Grand Terrace: the 1928 vs 1937 rename and 1940 vs 1950 closing conflicts need the Chicago Landmarks designation report or a dedicated history. The Grand Terrace may have been at a different address from the Sunset building; unresolved.",
+  "Casino Queen: unverified claim of a Gaming Board order against a shareholder (Chicago Tribune, 2005 per a mirror); recalled, not fetched. Illinois Gaming Board hosts did not resolve.",
+  "Grand Victoria Elgin: 2003 Gaming Board fine ($3.2M) reported in a Sun-Times piece and Deseret/AP; recalled from search summaries, not fetched. Highest-priority verification.",
+  "Harrah's Joliet and Hollywood Aurora: no regulator order, court record or Tribune/Herald-News archive opened; labels 'none' rest on the absence of findings in Wikipedia and in search results.",
+  "Kefauver hearings Illinois volumes (Part 5) not read beyond the index."
+ ]
+}

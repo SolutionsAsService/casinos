@@ -1,0 +1,729 @@
+{
+ "brief": "las-vegas-strip",
+ "venues": [
+  {
+   "id": "flamingo-las-vegas",
+   "opened": 1946,
+   "closed": null,
+   "opened_source": 9,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Flamingo Hotel",
+     "from": 1946,
+     "to": 1947,
+     "operator": "Nevada Projects Corporation (Bugsy Siegel; originator Billy Wilkerson)",
+     "note": "Casino opened 26 Dec 1946; closed within weeks, reopened with the hotel 1 March 1947",
+     "sources": [
+      8,
+      9,
+      32
+     ]
+    },
+    {
+     "name": "The Fabulous Flamingo",
+     "from": 1947,
+     "to": 1955,
+     "operator": "Sedway/Greenbaum/Lansky/Rosen group; licence held by front man Sanford Adler, then Gus Greenbaum (1948)",
+     "note": "Group bought the property from Siegel's company for $3.9m after his June 1947 killing",
+     "sources": [
+      8
+     ]
+    },
+    {
+     "name": "Flamingo",
+     "from": 1955,
+     "to": 1960,
+     "operator": "Thomas Hull and about 30 local investors; Parvin-Dohrmann (Albert Parvin)",
+     "note": "Bought for $7m; Greenbaum left for the Riviera",
+     "sources": [
+      8
+     ]
+    },
+    {
+     "name": "Flamingo",
+     "from": 1960,
+     "to": 1967,
+     "operator": "Morris Lansburgh, Sam Cohen, Daniel Lifter (Miami Beach)",
+     "note": "$10.6m sale; skim convictions of Lansburgh and Cohen a decade later",
+     "sources": [
+      8
+     ]
+    },
+    {
+     "name": "Flamingo",
+     "from": 1967,
+     "to": 1971,
+     "operator": "Kirk Kerkorian",
+     "note": "Bought for $13m; built 28-storey tower",
+     "sources": [
+      8
+     ]
+    },
+    {
+     "name": "Flamingo Hilton",
+     "from": 1971,
+     "to": 2001,
+     "operator": "Hilton Hotels (Barron Hilton); from 1998 Park Place Entertainment",
+     "note": "Hilton agreed 1971; 1998 Hilton gaming spin-off",
+     "sources": [
+      8,
+      32
+     ]
+    },
+    {
+     "name": "Flamingo Las Vegas",
+     "from": 2001,
+     "to": null,
+     "operator": "Park Place, later Caesars Entertainment",
+     "note": "Renamed after Hilton licence not renewed",
+     "sources": [
+      32
+     ]
+    }
+   ],
+   "label": {
+    "level": "documented",
+    "basis": "Kefauver testimony (1950) lists Lansky among Flamingo stockholders, and Online Nevada reports Lansburgh and Cohen convicted for skimming the Flamingo.",
+    "sources": [
+     0,
+     8,
+     3
+    ]
+   },
+   "corrections": "Current summary says Siegel 'skimmed construction funds' and cites 'FBI and Kefauver findings'. The opened sources describe cost overruns and mismanagement under Siegel, not a skim of construction money; the Kefauver record is a witness's 'I think' that Lansky held some stock; the court record opened is the later Lansburgh/Cohen skimming convictions (Lansky charged, not convicted). Casino opened 26 Dec 1946, hotel 1 March 1947."
+  },
+  {
+   "id": "desert-inn",
+   "opened": 1950,
+   "closed": 2000,
+   "opened_source": 10,
+   "closed_source": 11,
+   "names": [
+    {
+     "name": "Wilbur Clark's Desert Inn",
+     "from": 1950,
+     "to": 1964,
+     "operator": "Wilbur Clark with the Cleveland group (Dalitz, Kleinman, Tucker, McGinty, C. Jones)",
+     "note": "Opened 24 April 1950; Cleveland group stepped in after Clark ran short of money",
+     "sources": [
+      10,
+      1
+     ]
+    },
+    {
+     "name": "Desert Inn",
+     "from": 1964,
+     "to": 1967,
+     "operator": "Moe Dalitz group",
+     "note": "Clark sold his interest 1964",
+     "sources": [
+      10
+     ]
+    },
+    {
+     "name": "Desert Inn",
+     "from": 1967,
+     "to": 1986,
+     "operator": "Howard Hughes / Summa Corporation",
+     "note": "Hughes took over April 1967; Online Nevada says Summa held it to 1987, Wikipedia says sold 1986",
+     "sources": [
+      10,
+      33
+     ]
+    },
+    {
+     "name": "MGM Desert Inn",
+     "from": 1986,
+     "to": 1993,
+     "operator": "Kirk Kerkorian (Tracinda)",
+     "note": "Dates from Wikipedia; Online Nevada differs by a year",
+     "sources": [
+      33
+     ]
+    },
+    {
+     "name": "Sheraton Desert Inn",
+     "from": 1993,
+     "to": 2000,
+     "operator": "ITT Sheraton, then Starwood (1998)",
+     "note": "Sheraton from 1993",
+     "sources": [
+      33
+     ]
+    },
+    {
+     "name": "Desert Inn",
+     "from": 2000,
+     "to": 2000,
+     "operator": "Steve Wynn",
+     "note": "Bought for $275m; closed 28 Aug 2000; imploded from Oct 2001 for Wynn Las Vegas",
+     "sources": [
+      10,
+      11
+     ]
+    }
+   ],
+   "label": {
+    "level": "documented",
+    "basis": "The Kefauver record (1950) has Dalitz testifying to the Cleveland group's controlling stake and staff naming his Mayfield Road gang association.",
+    "sources": [
+     1,
+     2,
+     10,
+     3
+    ]
+   },
+   "corrections": "Current summary says the Nevada Gaming Control Board 'documented hidden mob profit participation'; no opened source shows that. The documented point is the disclosed Cleveland-group ownership; skimming is described only as alleged. Opening 1950 and closure 2000 are right; towers were imploded later (2001 onward)."
+  },
+  {
+   "id": "sands-hotel-casino",
+   "opened": 1952,
+   "closed": 1996,
+   "opened_source": 13,
+   "closed_source": 14,
+   "names": [
+    {
+     "name": "Sands Hotel",
+     "from": 1952,
+     "to": 1967,
+     "operator": "Original investors incl. Jake Freedman (licensed after buying out Mack Kufferman), Ed Levinson, Sid Wyman, Michael Shapiro; Jack Entratter and Carl Cohen after 1958",
+     "note": "Opened 15 Dec 1952; Nevada Tax Commission refused Kufferman and Freedman licences first",
+     "sources": [
+      12,
+      13
+     ]
+    },
+    {
+     "name": "Sands",
+     "from": 1967,
+     "to": 1980,
+     "operator": "Howard Hughes / Summa Corporation",
+     "note": "Hughes bought 1967",
+     "sources": [
+      12,
+      34
+     ]
+    },
+    {
+     "name": "Sands Hotel",
+     "from": 1980,
+     "to": 1988,
+     "operator": "Pratt Corporation, then MGM Grand",
+     "note": "Pratt bought 1980; MGM Grand 1988 (MGM Sands)",
+     "sources": [
+      34
+     ]
+    },
+    {
+     "name": "Sands Hotel and Casino",
+     "from": 1989,
+     "to": 1996,
+     "operator": "Las Vegas Sands Inc. (Interface Group: Adelson and partners)",
+     "note": "Closed 1996, imploded 26 Nov 1996; Venetian built on site",
+     "sources": [
+      34,
+      14
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Online Nevada reports Tax Commission refusals of licences and skimming allegations; the Sun reports hidden Chicago ownership; no court or board finding on the Sands itself was opened.",
+    "sources": [
+     12,
+     5,
+     0
+    ]
+   },
+   "corrections": "Current summary says Kefauver Committee records confirm hidden interests; the hearings (Nov 1950) predate the Sands (opened Dec 1952) and the Part 10 transcript contains no mention of it. Claim of skim operations 'documented in 1970s federal prosecutions' and of FBI confirmation is not supported by anything opened, so 'documented' should be 'alleged'. Dates 1952 and 1996 stand (1996 is the demolition year)."
+  },
+  {
+   "id": "dunes",
+   "opened": 1955,
+   "closed": 1993,
+   "opened_source": 15,
+   "closed_source": 16,
+   "names": [
+    {
+     "name": "Dunes Hotel",
+     "from": 1955,
+     "to": 1956,
+     "operator": "Alfred Gottesman, Joe Sullivan, Bob Rice",
+     "note": "Opened 23 May 1955; casino shut within a year, a motel in effect",
+     "sources": [
+      15,
+      16
+     ]
+    },
+    {
+     "name": "Dunes Hotel",
+     "from": 1956,
+     "to": 1975,
+     "operator": "James Gottlieb and Major Riddle; Sid Wyman and partners",
+     "note": "Teamsters pension loan of $4m in 1958; golf course 1964-65 (Dunes Hotel and Country Club)",
+     "sources": [
+      15,
+      16
+     ]
+    },
+    {
+     "name": "Dunes Hotel and Casino",
+     "from": 1975,
+     "to": 1987,
+     "operator": "Morris Shenker group (later Dunes Hotels and Casinos Inc.)",
+     "note": "Shenker chairman until 1984; bankruptcy",
+     "sources": [
+      15,
+      16
+     ]
+    },
+    {
+     "name": "Dunes Hotel and Casino",
+     "from": 1987,
+     "to": 1992,
+     "operator": "Masao Nangaku",
+     "note": "Bought 1987 for $157m",
+     "sources": [
+      16,
+      15
+     ]
+    },
+    {
+     "name": "Dunes",
+     "from": 1992,
+     "to": 1994,
+     "operator": "Mirage Resorts (Steve Wynn)",
+     "note": "Closed 26 Jan 1993; north tower imploded 27 Oct 1993, south 1994; Bellagio built on site",
+     "sources": [
+      16,
+      15
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Online Nevada describes front-man reputations, Teamsters loans and federal investigators' beliefs, all as allegations.",
+    "sources": [
+     15
+    ]
+   },
+   "corrections": "No error found in the dates. Nevada licensing files were not opened, so the 'Nevada licensing files' basis in the record is unverified here."
+  },
+  {
+   "id": "riviera-casino",
+   "opened": 1955,
+   "closed": 2015,
+   "opened_source": 17,
+   "closed_source": 18,
+   "names": [
+    {
+     "name": "Riviera (planned as Casa Blanca)",
+     "from": 1955,
+     "to": 1973,
+     "operator": "Miami partners, then Gus Greenbaum and partners (Berman, Alderman, Rich, Goffstein)",
+     "note": "Opened 29 April 1955; Tax Commission had earlier balked at a Lansky-linked applicant",
+     "sources": [
+      17
+     ]
+    },
+    {
+     "name": "Riviera Hotel and Casino",
+     "from": 1973,
+     "to": 1993,
+     "operator": "Meshulam Riklis",
+     "note": "Bought 1973 for $56m; bankruptcy 1985 and 1991",
+     "sources": [
+      17,
+      18
+     ]
+    },
+    {
+     "name": "Riviera Hotel and Casino",
+     "from": 1993,
+     "to": 2015,
+     "operator": "Riviera Holdings (Starwood Capital 75% from 2011); Paragon Gaming operated 2013-15",
+     "note": "Closed 4 May 2015",
+     "sources": [
+      18
+     ]
+    },
+    {
+     "name": "Riviera",
+     "from": 2015,
+     "to": 2016,
+     "operator": "Las Vegas Convention and Visitors Authority",
+     "note": "Bought for $191m; towers imploded 2016",
+     "sources": [
+      18
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Online Nevada and the Sun report Chicago-linked partners and a Tax Commission licensing problem; no conviction or board finding was opened.",
+    "sources": [
+     17,
+     4
+    ]
+   },
+   "corrections": "Dates stand (opened April 1955, closed May 2015; demolished 2016). Current text on Midwest mob investors matches the reporting; 'no convictions tied directly to casino operations' could not be checked against a court source."
+  },
+  {
+   "id": "tropicana-las-vegas",
+   "opened": 1957,
+   "closed": 2024,
+   "opened_source": 23,
+   "closed_source": 22,
+   "names": [
+    {
+     "name": "Tropicana",
+     "from": 1957,
+     "to": 1959,
+     "operator": "Ben Jaffe (Fontainebleau owner); J. Kell Houssels oversaw operation",
+     "note": "Opened 4 April 1957; Gaming Control Board denied Phil Kastel's casino licence",
+     "sources": [
+      19,
+      23
+     ]
+    },
+    {
+     "name": "Tropicana",
+     "from": 1959,
+     "to": 1970,
+     "operator": "J. Kell Houssels and partners",
+     "note": "Houssels bought out Jaffe's share in 1959; Jaffe kept the land",
+     "sources": [
+      19
+     ]
+    },
+    {
+     "name": "Tropicana",
+     "from": 1970,
+     "to": 1979,
+     "operator": "Trans-Texas Airways, then Deil Gustafson (1971), then Mitzi Stauffer Briggs and Associates of the Tropicana",
+     "note": "Agosto ran the Folies Bergere and then the hotel; Gaming Commission revoked Briggs and Gustafson licences",
+     "sources": [
+      19,
+      20
+     ]
+    },
+    {
+     "name": "Tropicana",
+     "from": 1979,
+     "to": 2007,
+     "operator": "Ramada, then Aztar Corporation (1989)",
+     "note": "Aztar bought the land from the Jaffe family in 2002",
+     "sources": [
+      19
+     ]
+    },
+    {
+     "name": "Tropicana",
+     "from": 2007,
+     "to": 2015,
+     "operator": "Columbia Sussex (2007), Onex (2009)",
+     "note": "Columbia Sussex lost it to bankruptcy",
+     "sources": [
+      22
+     ]
+    },
+    {
+     "name": "Tropicana Las Vegas",
+     "from": 2015,
+     "to": 2024,
+     "operator": "Penn National (2015), GLPI land (2020), Bally's Corporation (2022)",
+     "note": "Closed 2 April 2024; imploded 9 Oct 2024 for the Athletics stadium",
+     "sources": [
+      22
+     ]
+    }
+   ],
+   "label": {
+    "level": "documented",
+    "basis": "Online Nevada reports the 1981 Kansas City indictment and 1983 convictions for the Tropicana skim and licence revocations; the Sun reports Agosto's guilty plea.",
+    "sources": [
+     19,
+     21,
+     20
+    ]
+   },
+   "corrections": "'Hidden mob interests at opening (Frank Costello)' is an allegation: Online Nevada says a note found on Costello made national headlines and the Gaming Control Board denied Kastel's licence; no ownership finding was opened. The 1970s Kansas City skim is documented as Operation Strawman, but opened sources tie Strawman to the Tropicana, not the Stardust."
+  },
+  {
+   "id": "stardust",
+   "opened": 1958,
+   "closed": 2006,
+   "opened_source": 24,
+   "closed_source": 25,
+   "names": [
+    {
+     "name": "Stardust Hotel",
+     "from": 1958,
+     "to": 1959,
+     "operator": "Jake Factor (landlord) with Dalitz group (United Hotels) leasing the casino",
+     "note": "Opened 2 July 1958 after Tony Cornero's death in 1955 halted construction",
+     "sources": [
+      24
+     ]
+    },
+    {
+     "name": "Stardust",
+     "from": 1959,
+     "to": 1974,
+     "operator": "Dalitz group (United Resort Hotels), then Recrion Corporation (Delbert Coleman)",
+     "note": "Hughes blocked from buying; Teamsters $12m loan to Recrion",
+     "sources": [
+      24,
+      25
+     ]
+    },
+    {
+     "name": "Stardust",
+     "from": 1974,
+     "to": 1980,
+     "operator": "Argent Corporation (Allen Glick)",
+     "note": "Teamsters loan of $67.2m; skim uncovered",
+     "sources": [
+      24
+     ]
+    },
+    {
+     "name": "Stardust",
+     "from": 1980,
+     "to": 1985,
+     "operator": "Al Sachs and Herb Tobman",
+     "note": "Removed by Gaming Commission in 1984 with a $3.5m fine",
+     "sources": [
+      24
+     ]
+    },
+    {
+     "name": "Stardust Resort and Casino",
+     "from": 1985,
+     "to": 2006,
+     "operator": "Boyd Group (Sam and Bill Boyd)",
+     "note": "Closed 1 Nov 2006; imploded 13 March 2007",
+     "sources": [
+      24,
+      25
+     ]
+    }
+   ],
+   "label": {
+    "level": "documented",
+    "basis": "Online Nevada reports a 1983 federal case, a Gaming Commission lifetime ban of Lefty Rosenthal and a 1984 commission removal and fine; this is a secondary summary of those official actions.",
+    "sources": [
+     24,
+     3
+    ]
+   },
+   "corrections": "Dates stand (July 1958, Nov 2006). Strawman is the Tropicana case in the opened sources; the Argent skim convictions are the Stardust case. 'Story behind the film Casino' was not checked. Court opinions (e.g. 8th Cir., United States v. Cerone) appeared in search but were not opened."
+  },
+  {
+   "id": "caesars-palace",
+   "opened": 1966,
+   "closed": null,
+   "opened_source": 26,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Caesars Palace",
+     "from": 1966,
+     "to": 1969,
+     "operator": "Jay Sarno and Nathan Jacobson; land from Kirk Kerkorian",
+     "note": "Teamsters $10.5m loan",
+     "sources": [
+      26,
+      27
+     ]
+    },
+    {
+     "name": "Caesars Palace",
+     "from": 1969,
+     "to": 1995,
+     "operator": "Clifford and Stuart Perlman (Lum's, then Caesars World)",
+     "note": "Bought for $60m",
+     "sources": [
+      26
+     ]
+    },
+    {
+     "name": "Caesars Palace",
+     "from": 1995,
+     "to": 1999,
+     "operator": "ITT-Sheraton, then Starwood Hotels & Resorts (1997)",
+     "note": "ITT-Sheraton 1995",
+     "sources": [
+      26
+     ]
+    },
+    {
+     "name": "Caesars Palace",
+     "from": 1999,
+     "to": 2005,
+     "operator": "Park Place Entertainment (renamed Caesars Entertainment, 2004)",
+     "note": "$3bn Starwood sale 1999",
+     "sources": [
+      26
+     ]
+    },
+    {
+     "name": "Caesars Palace",
+     "from": 2005,
+     "to": null,
+     "operator": "Harrah's Entertainment (renamed Caesars Entertainment 2010); land owned by Vici Properties",
+     "note": "Merger 2005",
+     "sources": [
+      26
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Online Nevada reports rumours and Control Board investigations; the Sun reports a Chicago interest in 1965; the board found no wrongdoing by the later owners.",
+    "sources": [
+     26,
+     27,
+     6
+    ]
+   },
+   "corrections": "Current label 'documented' and 'federal convictions' are not supported by anything opened: Online Nevada reports a Teamsters loan and rumours, with Sarno denying them and the Gaming Control Board finding no wrongdoing by the Perlmans. Should be 'alleged' unless a conviction source is found. Opening 1966 stands."
+  },
+  {
+   "id": "circus-circus",
+   "opened": 1968,
+   "closed": null,
+   "opened_source": 28,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Circus Circus",
+     "from": 1968,
+     "to": 1974,
+     "operator": "Jay Sarno (Teamsters pension loans)",
+     "note": "Opened 18 Oct 1968; Sarno resigned 1969 for a time then returned",
+     "sources": [
+      28
+     ]
+    },
+    {
+     "name": "Circus Circus",
+     "from": 1974,
+     "to": 1983,
+     "operator": "William Bennett and William Pennington (lease), Sarno as adviser",
+     "note": "Takeover of operations",
+     "sources": [
+      28
+     ]
+    },
+    {
+     "name": "Circus Circus",
+     "from": 1983,
+     "to": 1999,
+     "operator": "Circus Circus Enterprises",
+     "note": "Went public 1983",
+     "sources": [
+      28,
+      35
+     ]
+    },
+    {
+     "name": "Circus Circus Las Vegas",
+     "from": 1999,
+     "to": 2005,
+     "operator": "Mandalay Resort Group",
+     "note": "Enterprises renamed 1999",
+     "sources": [
+      35
+     ]
+    },
+    {
+     "name": "Circus Circus Las Vegas",
+     "from": 2005,
+     "to": 2019,
+     "operator": "MGM Mirage (later MGM Resorts)",
+     "note": "Bought 2005",
+     "sources": [
+      35
+     ]
+    },
+    {
+     "name": "Circus Circus Las Vegas",
+     "from": 2019,
+     "to": null,
+     "operator": "Phil Ruffin (per Wikipedia infobox)",
+     "note": "Sold by MGM 2019",
+     "sources": [
+      35
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Online Nevada says federal investigators called Sarno a front man and that a Chicago member ran a skim there; a former executive admitted participating in a skim scheme; no conviction of owners was opened.",
+    "sources": [
+     28
+    ]
+   },
+   "corrections": "Current record says 'no proven mob ownership after licensing'; sources opened do say investigators alleged a skim in the 1970s, so 'alleged' is right but the summary understates it."
+  },
+  {
+   "id": "bellagio",
+   "opened": 1998,
+   "closed": null,
+   "opened_source": 29,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Bellagio",
+     "from": 1998,
+     "to": 2000,
+     "operator": "Mirage Resorts (Steve Wynn)",
+     "note": "Opened 15 Oct 1998 on the Dunes site; Gaming Commission approval Aug 1998",
+     "sources": [
+      29,
+      30
+     ]
+    },
+    {
+     "name": "Bellagio",
+     "from": 2000,
+     "to": 2019,
+     "operator": "MGM Mirage (later MGM Resorts International)",
+     "note": "Mirage merged with MGM Grand in 2000",
+     "sources": [
+      29
+     ]
+    },
+    {
+     "name": "Bellagio",
+     "from": 2019,
+     "to": null,
+     "operator": "Blackstone owner; MGM Resorts licence holder",
+     "note": "$4.25bn sale",
+     "sources": [
+      29
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "Searched both directions: opened pages show Gaming Commission approval and a Mirage mob-visit inquiry with no wrongdoing found; none tie Bellagio to organised crime.",
+    "sources": [
+     30,
+     31
+    ]
+   },
+   "corrections": "None needed for dates. 'Fully corporate financing' was not verified from a source. The Dunes site had alleged mob history; that does not carry over to Bellagio."
+  }
+ ],
+ "gaps": [
+  "themobmuseum.org, special.library.unlv.edu, vault.fbi.gov, law.justia.com and courtlistener.com opinion text refused or returned nothing to curl/WebFetch (403, DNS or empty); no Mob Museum, UNLV finding aid, FBI Vault or court-opinion page was opened.",
+  "Recalled, not fetched: United States v. Cerone, 830 F.2d 938 (8th Cir. 1987) (Stardust/Fremont undisclosed interests) - seen only in search results.",
+  "No Nevada Gaming Control Board or Tax Commission primary document was opened; board actions are reported via Online Nevada and the Sun.",
+  "Kefauver Part 10 was opened for the Flamingo and Desert Inn only; the Sands, Dunes, Riviera, Tropicana, Stardust, Caesars, Circus Circus and Bellagio postdate the hearings (Nov 1950).",
+  "Bellagio financing not verified from a primary source; label 'none' rests on absence in opened pages plus the Gaming Commission approval.",
+  "Some dates (Desert Inn sale 1986 vs 1987; Sands 1996 closure to public) rest on Wikipedia or a demolition report."
+ ]
+}

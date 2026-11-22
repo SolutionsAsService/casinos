@@ -1,0 +1,346 @@
+{
+ "brief": "reno-tahoe",
+ "venues": [
+  {
+   "id": "cal-neva-lodge",
+   "opened": 1926,
+   "closed": 2013,
+   "opened_source": 6,
+   "closed_source": 5,
+   "names": [
+    {
+     "name": "Cal-Neva Lodge",
+     "from": 1926,
+     "to": 1946,
+     "operator": "Robert P. Sherman (builder); Norman Blitz; investor group with William Remmer from 1935",
+     "note": "Built 1926; burned and rebuilt in 1937; legal gambling from 1931",
+     "sources": [
+      6
+     ]
+    },
+    {
+     "name": "Cal Neva Lodge",
+     "from": 1946,
+     "to": 1955,
+     "operator": "Sanford Adler and associates",
+     "note": "Bought from Remmer for $700,000; hyphen dropped (Wikipedia: c. end of WWII; spelling already in use earlier)",
+     "sources": [
+      6
+     ]
+    },
+    {
+     "name": "Cal Neva Lodge",
+     "from": 1955,
+     "to": 1960,
+     "operator": "Group led by Bert Grober",
+     "note": "Bought March 21, 1955 for $1 million",
+     "sources": [
+      6
+     ]
+    },
+    {
+     "name": "Cal Neva Lodge",
+     "from": 1960,
+     "to": 1968,
+     "operator": "Park Lake Enterprises (Frank Sinatra, Hank Sanicola, Paul D'Amato and others); leased to Jack Warner",
+     "note": "Sinatra surrendered his Nevada gaming licences in 1963 after Giancana was found there; AP gives 1960-1963 as his ownership years, Wikipedia says the property was sold in 1968",
+     "sources": [
+      0,
+      1,
+      5,
+      6
+     ]
+    },
+    {
+     "name": "Cal Neva Lodge",
+     "from": 1968,
+     "to": 1975,
+     "operator": "Owners of Reno's Club Cal Neva; later Ohio Real Estate Investment Trust (1970); federal receivership 1973",
+     "note": "Ten-story expansion 1969; winter closure 1974",
+     "sources": [
+      6
+     ]
+    },
+    {
+     "name": "Cal Neva Lodge",
+     "from": 1975,
+     "to": 1985,
+     "operator": "BKJ Corporation (licence refused); First National Bank of Nevada; Kirk Kerkorian (Tracinda) from 1976",
+     "note": "Foreclosure early 1976; a 1985 fraud buyer was arrested",
+     "sources": [
+      6
+     ]
+    },
+    {
+     "name": "Cal Neva Resort & Casino",
+     "from": 1985,
+     "to": 2013,
+     "operator": "Chuck Bluth (1985); Ezri Namvar (2005); Canyon Capital foreclosure",
+     "note": "Casino shut down in April 2010; resort closed Sept 2013 for renovation",
+     "sources": [
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "name": "Cal Neva Lodge",
+     "from": 2013,
+     "to": null,
+     "operator": "Criswell-Radovan (2013); Larry Ellison (2018); McWhinney (2023)",
+     "note": "Bought April 2013; bankruptcy 2016; sold at auction Jan 2018; McWhinney April 2023 to convert to a hotel",
+     "sources": [
+      5,
+      6
+     ]
+    }
+   ],
+   "label": {
+    "level": "documented",
+    "basis": "A historian, an oral-history volume and an FBI file record that Giancana, on Nevada's excluded list, was a guest at the Cal-Neva and that Sinatra surrendered his licences in 1963; Giancana's ownership is only informant reporting and Sinatra denied it.",
+    "sources": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "corrections": "(1) The record says Sinatra 'partnered with' Giancana: sources I opened document Giancana as a guest and Sinatra's licence surrender (1963); joint ownership appears only as unverified FBI informant reporting and a rumor, and Sinatra denied it, so that part is alleged. (2) Wikipedia says licence 'suspended'; the sources say surrendered. (3) 'Closed 2013' is the resort; the casino stopped in April 2010. (4) Sinatra's ownership 1960 to 1963 (AP) vs sale in 1968 (Wikipedia): the record should say 1960-1968 with licence lost 1963."
+  },
+  {
+   "id": "harolds-club",
+   "opened": 1935,
+   "closed": 1995,
+   "opened_source": 7,
+   "closed_source": 7,
+   "names": [
+    {
+     "name": "Harold's Club (later Harolds Club)",
+     "from": 1935,
+     "to": 1962,
+     "operator": "Harold S. Smith Sr. and Raymond A. Smith; Raymond I. 'Pappy' Smith as manager",
+     "note": "Opened Feb 23, 1935; apostrophe dropped over time",
+     "sources": [
+      7
+     ]
+    },
+    {
+     "name": "Harolds Club",
+     "from": 1962,
+     "to": 1970,
+     "operator": "Webbel Corporation (Smith family) as lessee",
+     "note": "1962 sale of the property for $16.5 million and 25-year leaseback",
+     "sources": [
+      7
+     ]
+    },
+    {
+     "name": "Harolds Club",
+     "from": 1970,
+     "to": 1988,
+     "operator": "Howard Hughes / Summa Corporation",
+     "note": "Sold June 1970 (Wikipedia: $11.5 million); $20 million expansion 1971",
+     "sources": [
+      7,
+      9
+     ]
+    },
+    {
+     "name": "Harolds Club",
+     "from": 1988,
+     "to": 1995,
+     "operator": "The Fitzgerald Group of Reno; Gamma International (American Gaming and Entertainment) 1995",
+     "note": "Closed March 31, 1995; reopened four hours in 1997 to keep its licence",
+     "sources": [
+      7
+     ]
+    },
+    {
+     "name": "Site (Harrah's Plaza)",
+     "from": 1999,
+     "to": null,
+     "operator": "Harrah's Entertainment",
+     "note": "Bought 1999; imploded December 1999; outdoor plaza",
+     "sources": [
+      7,
+      8
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The sources opened describe a family-run club with an honest-game reputation and show no court, board or congressional finding of organised-crime ties; the Kefauver index text search found no entry.",
+    "sources": [
+     7,
+     8,
+     15
+    ]
+   },
+   "corrections": "The record says 'family-owned throughout its history': wrong. The Smiths sold to Howard Hughes in June 1970, then The Fitzgerald Group (1988) and Gamma International (1995). Demolition was December 1999 (Online Nevada: Dec 16; Sun: Dec 15)."
+  },
+  {
+   "id": "harrahs-reno",
+   "opened": 1937,
+   "closed": 2020,
+   "opened_source": 10,
+   "closed_source": 12,
+   "names": [
+    {
+     "name": "Bingo parlors and bar (Plaza Tango / Heart Tango)",
+     "from": 1937,
+     "to": 1946,
+     "operator": "William F. Harrah in joint ventures",
+     "note": "First bingo parlor Oct 1937; small-time operations until 1946",
+     "sources": [
+      10,
+      12
+     ]
+    },
+    {
+     "name": "Harrah's Reno Club (Harrah's Club)",
+     "from": 1946,
+     "to": 1969,
+     "operator": "William F. Harrah, sole owner",
+     "note": "Absorbed neighbours, including Pick Hobson's Frontier Club in 1956",
+     "sources": [
+      10,
+      12
+     ]
+    },
+    {
+     "name": "Harrah's Reno (Golden Hotel tower)",
+     "from": 1969,
+     "to": 1980,
+     "operator": "Harrah's (William F. Harrah to 1978; company public 1971, NYSE 1973)",
+     "note": "Golden Hotel bought 1968; 24-story tower opened Oct 10, 1969",
+     "sources": [
+      10,
+      12
+     ]
+    },
+    {
+     "name": "Harrah's Reno",
+     "from": 1980,
+     "to": 1995,
+     "operator": "Holiday Inns, then Promus Hotel Company",
+     "note": "Holiday Inns acquired the company in 1980; Promus spin-off 1995",
+     "sources": [
+      10,
+      12
+     ]
+    },
+    {
+     "name": "Harrah's Reno",
+     "from": 1995,
+     "to": 2017,
+     "operator": "Harrah's Entertainment (Caesars)",
+     "note": "Bought the adjoining Harold's Club and Nevada Club 1999",
+     "sources": [
+      12
+     ]
+    },
+    {
+     "name": "Harrah's Reno",
+     "from": 2017,
+     "to": 2020,
+     "operator": "VICI Properties (owner), leased to Caesars Entertainment",
+     "note": "Closed March 17, 2020; Caesars said in June 2020 it would not reopen",
+     "sources": [
+      12
+     ]
+    },
+    {
+     "name": "Reno City Center",
+     "from": 2020,
+     "to": null,
+     "operator": "CAI Investments / Gryphon-RCCO",
+     "note": "Sale completed Sept 2020; conversion to apartments and mixed use",
+     "sources": [
+      12
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "No source I opened shows an organised-crime link; a company oral history reports Harrah's persuaded financiers it was not mob-owned, and a Kefauver index text search found no entry.",
+    "sources": [
+     10,
+     11,
+     15
+    ]
+   },
+   "corrections": "The record has closed: null. The property closed March 17, 2020 and was not reopened. The 1937 opening is a small bingo parlor that closed within months; Harrah's casino (Harrah's Reno Club) dates from 1946."
+  },
+  {
+   "id": "mapes-hotel-casino",
+   "opened": 1947,
+   "closed": 1982,
+   "opened_source": 13,
+   "closed_source": 14,
+   "names": [
+    {
+     "name": "Mapes Hotel",
+     "from": 1947,
+     "to": 1982,
+     "operator": "Mapes family (Charles Mapes Jr.)",
+     "note": "Opened Dec 17, 1947; casino closed Dec 17, 1982",
+     "sources": [
+      13,
+      14
+     ]
+    },
+    {
+     "name": "Mapes Hotel (vacant)",
+     "from": 1982,
+     "to": 1988,
+     "operator": "Bank foreclosure",
+     "note": "Mapes could not repay $15 million; foreclosed December 1982",
+     "sources": [
+      13
+     ]
+    },
+    {
+     "name": "Mapes Hotel (vacant)",
+     "from": 1988,
+     "to": 1996,
+     "operator": "George Karadanis and Robert Maloff",
+     "note": "Bought June 1988; never reopened",
+     "sources": [
+      13
+     ]
+    },
+    {
+     "name": "Mapes Hotel (vacant)",
+     "from": 1996,
+     "to": 2000,
+     "operator": "Reno Redevelopment Agency",
+     "note": "Imploded January 30, 2000; site now park and ice rink",
+     "sources": [
+      13,
+      14
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "Sources opened show family ownership and a bank foreclosure with no organised-crime allegation; the only congressional trace is a hearings-index entry whose context I did not open.",
+    "sources": [
+     13,
+     14,
+     15
+    ]
+   },
+   "corrections": "Dates are confirmed. Note the casino closed in 1982 but the building stood until the January 2000 demolition."
+  }
+ ],
+ "gaps": [
+  "Cal Neva opening (1926) rests on Wikipedia; no primary or archival source opened.",
+  "Cal Neva: the full Gaming Control Board complaint and Nevada Gaming Commission minutes were not opened; vault.fbi.gov page itself was not opened (archive.org copy of the file used).",
+  "Cal Neva: the FBI file's shareholder list (Sinatra 36.6 percent in Park Lake) and Chicago-office 'jointly owned' note are OCR-garbled; recalled, not fetched as a clean quote.",
+  "Kefauver hearings: only the index (OCR) was opened; the Mapes pages (Pt. 2 p.179, Pt. 12 p.486) were not read; the Reno/Bank Club testimony (Graham, McKay) was seen only in a search snippet and is not used.",
+  "Recalled, not fetched: Kling, The Rise of the Biggest Little City (1931-1981), A Family Affair (Harolds Club oral history; archive.org page returned an HTML wrapper only), Nevada Gaming Control Board licensing files.",
+  "Blocked hosts: themobmuseum.org (403), reviewjournal.com (Cloudflare), sierrasun.com, tahoequarterly.com, npgallery.nps.gov (proxy 403), ejournals.sierracollege.edu and WebFetch for kunr.org (read via curl instead).",
+  "Harrah's Reno closure date rests on Wikipedia; Review-Journal sale story seen only as a search result.",
+  "Mapes ownership during 1947-1982 beyond the Mapes family is not documented in sources opened; no search of Nevada Tax Commission licensing."
+ ]
+}

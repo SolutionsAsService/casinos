@@ -1,0 +1,29 @@
+[
+  {
+    "candidate": {
+      "brief": "las-vegas-strip",
+      "records": [
+        "flamingo-las-vegas"
+      ],
+      "title": "Investigation of organized crime in interstate commerce. Hearings before a Special Committee to Investigate Organized Crime in Interstate Commerce, United States Senate, 81st Congress, Part 10",
+      "authors": null,
+      "year": 1951,
+      "venue": "U.S. Senate (Kefauver Committee), via Internet Archive",
+      "url": "https://archive.org/stream/investigationofo10unit/investigationofo10unit_djvu.txt",
+      "accessed": "2026-11-22",
+      "kind": "official",
+      "discipline": "History",
+      "stance": "supports",
+      "ask_addressed": "mob-tie: Flamingo ownership under Siegel and successors; Lansky stock",
+      "quote": "Mr. Halley. Did Lansky have some stock ? Mr. Wiener. I think he did.",
+      "summary": "Sworn Senate testimony (Nov 1950) by the Flamingo's attorney lists the post-Siegel stockholders and says Meyer Lansky held some stock, while Siegel held about 22 percent.",
+      "limits": "Witness testimony ('I think'), not a committee finding; the witness could not state Lansky's share. Lansky is dead. Hearings predate the Sands (1952) and later venues.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "metadata_mismatch: quote is verbatim in the Kefauver Part 10 text (testimony of Louis Wiener, 15 Nov 1950), but the summary calls the witness 'the Flamingo's attorney'. The page says he is the attorney for the executor of the Bugsy Siegel estate (Las Vegas lawyer), not the Flamingo's. Not repaired, per task rules; a corrected summary would pass."
+  }
+]

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Venue · Ledger of the House</title>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/site.css"></head>
+<body><div class="wrap page"><header><div><div class="brand" id="crumb"></div><h1 id="h"></h1><p class="sub" id="meta"></p></div></header>
+<div id="body" style="margin-top:18px"></div>
+<footer>Citations in square brackets link to the Sources page. Nothing here is a claim about any living person.</footer></div>
+<script src="assets/common.js"></script>
+<script>
+LOTH.load().then(function(r){
+ var id=new URLSearchParams(location.search).get("id"),S=r.S;
+ var c=r.data.casinos.filter(function(x){return x.id===id})[0],b=document.getElementById("body");
+ if(!c){document.getElementById("h").textContent="Venue not found";return}
+ document.title=c.name+" · Ledger of the House";
+ document.getElementById("crumb").textContent=c.hotspot;document.getElementById("h").textContent=c.name;
+ document.getElementById("meta").textContent=c.city+", "+c.state+" · "+c.opened+(c.closed==null?" to present":" to "+c.closed)+" · "+c.kind;
+ function h3(t){var e=document.createElement("h3");e.textContent=t;b.appendChild(e)}
+ function p(t,cls,srcs){var e=document.createElement("p");if(cls)e.className=cls;e.textContent=t;if(srcs)LOTH.cites(srcs,S,e);b.appendChild(e);return e}
+ var L=c.ledger||{},lb=L.label||{};
+ h3("What the sources support");
+ var t=document.createElement("span");t.className="tag "+(c.level==="unsupported"?"ver":c.level);t.textContent=c.level==="none"?"no ties found":c.level;var w=document.createElement("p");w.appendChild(t);var v=document.createElement("span");v.className="tag ver";v.textContent=c.sourced?"cited":"unsourced draft";w.appendChild(v);b.appendChild(w);
+ if(lb.basis)p(lb.basis,"",lb.sources);else p(c.mob.summary+" (earlier draft, not yet backed by a checked source)","hint");
+ if(L.corrections)p("Corrected from earlier data: "+L.corrections,"hint");
+ h3("Names and operators");
+ var ul=document.createElement("ul");ul.style.cssText="color:var(--ink);line-height:1.6";
+ c.names.forEach(function(n){var li=document.createElement("li");li.textContent=(n.from||"?")+" to "+(n.to==null?"present":n.to)+": "+n.name+(n.operator?" ("+n.operator+")":"")+(n.note?". "+n.note:"");LOTH.cites(n.sources,S,li);ul.appendChild(li)});b.appendChild(ul);
+ var ids={};[].concat(lb.sources||[],L.opened_source?[L.opened_source]:[],L.closed_source?[L.closed_source]:[]).forEach(function(s){ids[s]=1});c.names.forEach(function(n){(n.sources||[]).forEach(function(s){ids[s]=1})});
+ var list=Object.keys(ids).map(function(i){return S[i]}).filter(Boolean).sort(function(a,b){return a.n-b.n});
+ h3("Sources ("+list.length+")");
+ if(!list.length)p("No checked source yet for this venue.","hint");
+ list.forEach(function(s){var d=document.createElement("div");d.className="src";var bb=document.createElement("b");bb.textContent="["+s.n+"] "+s.title;d.appendChild(bb);var q=document.createElement("q");q.textContent=s.quote;d.appendChild(q);var m=document.createElement("div");m.className="m";var a=document.createElement("a");a.href=s.url;a.rel="noopener";a.textContent=s.url;m.appendChild(document.createTextNode((s.authors?s.authors+". ":"")+(s.year?s.year+". ":"")+(s.venue?s.venue+". ":"")+s.kind+", "+s.stance+". Accessed "+s.accessed+". "));m.appendChild(a);d.appendChild(m);b.appendChild(d)});
+ var a=document.createElement("p");var l=document.createElement("a");l.href="lineage.html";l.textContent="See this venue among the threads";a.appendChild(l);b.appendChild(a);
+});
+</script></body></html>

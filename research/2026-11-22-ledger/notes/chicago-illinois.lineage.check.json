@@ -1,0 +1,158 @@
+[
+ {
+  "venue": "four-deuces-chicago",
+  "field": "names[0]",
+  "ok": true,
+  "note": "0 (opened 1919, Colosimo/Torrio, named for the address), 1 (Capone worked there from 1919), 2 (building initially owned by Torrio) pass. 'later Torrio-Capone' is loose wording: no page says the operator changed."
+ },
+ {
+  "venue": "four-deuces-chicago",
+  "field": "opened",
+  "ok": true,
+  "note": "1919 supported by candidate 0 (Wikipedia, tertiary); candidate 1 agrees."
+ },
+ {
+  "venue": "four-deuces-chicago",
+  "field": "closed",
+  "ok": true,
+  "note": "null; no passing candidate gives a closing year."
+ },
+ {
+  "venue": "four-deuces-chicago",
+  "field": "label",
+  "ok": true,
+  "note": "'alleged' fits: only Wikipedia sources pass, no primary or official source. Cited source 3 was rejected, and the Kefauver index in fact lists 'Four Deuces: Pt. 2 128', so the basis text claiming no record is wrong. An index entry is not a documented tie either. No downgrade needed."
+ },
+ {
+  "venue": "grand-terrace-cafe-chicago",
+  "field": "names[0]",
+  "ok": false,
+  "note": "Sunset Cafe 1921 (built 1909, remodelled 1921, owner Joe Glaser) is on the cited page but candidate 5's quote covers only the rename. The operator clause 'lease to Edward Fox and Sam Rifas per a search summary of a page not opened' has no passing candidate."
+ },
+ {
+  "venue": "grand-terrace-cafe-chicago",
+  "field": "names[1]",
+  "ok": true,
+  "note": "4 and 8 support Capone control 'or 25 percent' (hedged by the page itself), 7 supports Ed Fox as manager, 5 supports the rename (to 1937 on the page), 6 the 1950 closing. The 'to' is null and the conflicts are noted in the entry. The 1928 'from' conflicts with candidate 5 (rename 1937)."
+ },
+ {
+  "venue": "grand-terrace-cafe-chicago",
+  "field": "opened",
+  "ok": false,
+  "note": "1928 is when Hines opened there (candidates 4 and 8, 28 Dec 1928), not an opening of the venue. Candidate 5 says the building was a club from 1921 and renamed Grand Terrace in 1937. The sources conflict, so 1928 is unresolved."
+ },
+ {
+  "venue": "grand-terrace-cafe-chicago",
+  "field": "closed",
+  "ok": true,
+  "note": "null is correct: candidates 6 (1950) and 7 (December 1940) conflict, so no single year is supported."
+ },
+ {
+  "venue": "grand-terrace-cafe-chicago",
+  "field": "label",
+  "ok": true,
+  "note": "'alleged' fits: Wikipedia only, resting on Hines's interview; no primary or official source. No downgrade needed."
+ },
+ {
+  "venue": "casino-queen-east-st-louis",
+  "field": "names[0]",
+  "ok": true,
+  "note": "9 (opened 23 June 1993; licence May 1992 per page) and 10 (Koman 2012 sale to ESOP). 'Moved ashore 2007' and GLPI 2014 are on the page body, not in the quotes."
+ },
+ {
+  "venue": "casino-queen-east-st-louis",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Rebrand 2020 and the Bally's 2025 parent merger are on the cited page (10); the quote covers only the 2012 sale."
+ },
+ {
+  "venue": "casino-queen-east-st-louis",
+  "field": "opened",
+  "ok": true,
+  "note": "1993 supported by candidate 9."
+ },
+ {
+  "venue": "casino-queen-east-st-louis",
+  "field": "closed",
+  "ok": true,
+  "note": "null; nothing states a closing."
+ },
+ {
+  "venue": "casino-queen-east-st-louis",
+  "field": "label",
+  "ok": true,
+  "note": "'unsupported' is not a documented claim. No passing candidate shows a crime tie, and the basis rests on pages that were not opened. Keep it out of any published claim."
+ },
+ {
+  "venue": "harrahs-joliet",
+  "field": "names[0]",
+  "ok": true,
+  "note": "11 (opened 4 May 1993, Northern Star), 12 (Hammons licence, Harrah's 80 percent), 13 (Vici 2017). The 1999 hotel is on the page body, not in the quotes."
+ },
+ {
+  "venue": "harrahs-joliet",
+  "field": "opened",
+  "ok": true,
+  "note": "1993 supported by candidate 11."
+ },
+ {
+  "venue": "harrahs-joliet",
+  "field": "closed",
+  "ok": true,
+  "note": "null; nothing states a closing."
+ },
+ {
+  "venue": "harrahs-joliet",
+  "field": "label",
+  "ok": true,
+  "note": "'none' rests on absence only: candidate 12 shows a licence-selling concern, not a crime finding. It is not 'documented', and no downgrade is needed."
+ },
+ {
+  "venue": "hollywood-casino-aurora",
+  "field": "names[0]",
+  "ok": true,
+  "note": "14 (opened 17 June 1993, Hollywood Casino Corp.) and 15 (riverboat closed 10 June 2026 for a land-based site). The Penn/GLPI facts are in the page infobox. The Hollywood Casino Corp. to Penn succession is not supported, as the entry itself says."
+ },
+ {
+  "venue": "hollywood-casino-aurora",
+  "field": "opened",
+  "ok": true,
+  "note": "1993 supported by candidate 14."
+ },
+ {
+  "venue": "hollywood-casino-aurora",
+  "field": "closed",
+  "ok": true,
+  "note": "null is right: only the riverboat closed (candidate 15)."
+ },
+ {
+  "venue": "hollywood-casino-aurora",
+  "field": "label",
+  "ok": true,
+  "note": "'none' rests on absence only; not 'documented'. No downgrade needed."
+ },
+ {
+  "venue": "grand-victoria-casino-elgin",
+  "field": "names[0]",
+  "ok": true,
+  "note": "16 (opened 6 Oct 1994; Gold Strike and Hyatt) and 17 (2018 sale to Eldorado/Caesars). The Circus Circus 1995 and MGM 2005 steps are on the page body."
+ },
+ {
+  "venue": "grand-victoria-casino-elgin",
+  "field": "opened",
+  "ok": true,
+  "note": "1994 supported by candidate 16."
+ },
+ {
+  "venue": "grand-victoria-casino-elgin",
+  "field": "closed",
+  "ok": true,
+  "note": "null; nothing states a closing."
+ },
+ {
+  "venue": "grand-victoria-casino-elgin",
+  "field": "label",
+  "ok": true,
+  "note": "'unsupported' is not a documented claim. The 2003 fine claim has no passing candidate and must not be repeated as fact."
+ }
+]

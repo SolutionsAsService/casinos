@@ -1,0 +1,29 @@
+[
+ {
+  "candidate": {
+   "brief": "chicago-illinois",
+   "records": [
+    "four-deuces-chicago"
+   ],
+   "title": "Investigation of organized crime in interstate commerce: index to hearings (Kefauver Committee)",
+   "authors": null,
+   "year": null,
+   "venue": "Internet Archive, full text of the Senate committee index",
+   "url": "https://archive.org/stream/investigationofo0112unit/investigationofo0112unit_djvu.txt",
+   "accessed": "2026-11-22",
+   "kind": "official",
+   "discipline": "Congressional record",
+   "stance": "context",
+   "ask_addressed": "mob-tie: Kefauver Committee record",
+   "quote": "Capone, Al (see also Capone Syndicate)",
+   "summary": "The congressional hearings index carries entries for Al Capone and a Capone Syndicate. The index has no entry I found for the Four Deuces, the Grand Terrace or Ed Fox.",
+   "limits": "Only an index. It does not describe any venue, so it does not by itself document a tie for either Chicago venue.",
+   "reliability": "unassessed",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  "reason": "summary_inaccurate: the quote 'Capone, Al (see also Capone Syndicate)' is on the page, but the summary says the index has no entry for the Four Deuces. The same index lists 'Four Deuces: Pt. 2 128'. Stance 'context' and the rest are fair, but the summary misstates the page, and the researcher's own claim that no Four Deuces entry exists is wrong. Researcher may resubmit with a corrected summary; I did not repair it."
+ }
+]

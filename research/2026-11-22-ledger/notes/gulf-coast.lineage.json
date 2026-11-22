@@ -1,0 +1,356 @@
+{
+ "brief": "gulf-coast",
+ "venues": [
+  {
+   "id": "casino-magic-biloxi",
+   "opened": 1993,
+   "closed": 2005,
+   "opened_source": 0,
+   "closed_source": 2,
+   "names": [
+    {
+     "name": "Casino Magic Biloxi",
+     "from": 1993,
+     "to": 2005,
+     "operator": "Casino Magic Corp. (1993-Oct 1998); Hollywood Park, Inc./Pinnacle Entertainment (1998-2005)",
+     "note": "Opened June 5, 1993 as the second Casino Magic casino; company bought for $340 million in October 1998; casino barge destroyed by Hurricane Katrina in 2005 and never reopened",
+     "sources": [
+      0,
+      1,
+      2
+     ]
+    },
+    {
+     "name": "Casino Magic Biloxi (Harrah's-owned, closed)",
+     "from": 2005,
+     "to": 2016,
+     "operator": "Harrah's Entertainment (after Pinnacle handed over the property with $25 million)",
+     "note": "Planned Margaritaville casino resort suspended 2008; hotel tower declared blighted",
+     "sources": [
+      2
+     ]
+    },
+    {
+     "name": "Margaritaville Resort Biloxi",
+     "from": 2016,
+     "to": null,
+     "operator": "Biloxi Lodging developers",
+     "note": "Non-gaming hotel on the old site, opened June 23, 2016",
+     "sources": [
+      2
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The sources opened show a corporate operator history; the only items found are a 1998 regulator-to-industry revolving-door report and a Biloxi Dixie Mafia case about illegal vice, neither of which ties the casino to organised crime.",
+    "sources": [
+     3,
+     4
+    ]
+   },
+   "corrections": "Opening year is 1993 (opened June 5, 1993), not 1992; 1992 is the year of the company's Bay St. Louis casino. The casino closed for good in 2005 (Katrina); closed is not null. The current resort is a non-gaming hotel."
+  },
+  {
+   "id": "president-casino-biloxi",
+   "opened": 1992,
+   "closed": 2005,
+   "opened_source": 5,
+   "closed_source": 6,
+   "names": [
+    {
+     "name": "Broadwater Beach Hotel / Broadwater Beach Resort",
+     "from": 1939,
+     "to": 1992,
+     "operator": "Pete Martin Sr.; Joe Brown (from 1958); Dorothy Brown",
+     "note": "Pre-casino resort; illegal gambling under the first owner; Hurricane Camille 1969",
+     "sources": [
+      7,
+      6
+     ]
+    },
+    {
+     "name": "President Casino Broadwater Resort",
+     "from": 1992,
+     "to": 2005,
+     "operator": "President Casinos (John E. Connelly); Broadwater Development LLC (from April 2005)",
+     "note": "Riverboat opened August 1992, replaced by a barge in 1995; bankruptcy 2002; destroyed by Katrina August 29, 2005; barge sold to a Silver Slipper venture",
+     "sources": [
+      5,
+      6
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The history opened describes a bankruptcy-driven business story for the casino era; earlier illegal gambling (1939) is a pre-casino vice story, and the Halat Dixie Mafia case concerns Biloxi vice, not this property.",
+    "sources": [
+     5,
+     7,
+     4
+    ]
+   },
+   "corrections": ""
+  },
+  {
+   "id": "boomtown-casino-harvey",
+   "opened": 1994,
+   "closed": null,
+   "opened_source": 8,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Boomtown Westbank",
+     "from": 1994,
+     "to": 2002,
+     "operator": "Boomtown, Inc.; Hollywood Park/Pinnacle Entertainment (from 1997)",
+     "note": "Opened August 6, 1994",
+     "sources": [
+      8,
+      9
+     ]
+    },
+    {
+     "name": "Boomtown New Orleans",
+     "from": 2002,
+     "to": null,
+     "operator": "Pinnacle Entertainment; owned by Gaming and Leisure Properties since 2016 (leased back to Pinnacle); Penn Entertainment licence holder",
+     "note": "Became largest riverboat in the region after taking a River City Casino riverboat in 1998",
+     "sources": [
+      9
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "Wikipedia history shows publicly traded corporate operators only; no organised-crime source found, but no gaming-board or court records could be opened.",
+    "sources": [
+     9,
+     11
+    ]
+   },
+   "corrections": "The name was Boomtown Westbank until 2002 (infobox 1994-2002)."
+  },
+  {
+   "id": "treasure-chest-casino-kenner",
+   "opened": 1994,
+   "closed": null,
+   "opened_source": 10,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Treasure Chest Casino",
+     "from": 1994,
+     "to": null,
+     "operator": "Local investors with Boyd Gaming holding 15% (1994); Boyd Gaming 100% (from 1997)",
+     "note": "Riverboat in Kenner opened 1994; Boyd bought out the investors in 1997",
+     "sources": [
+      10
+     ]
+    }
+   ],
+   "label": {
+    "level": "unsupported",
+    "basis": "I could not open any source on this casino that bears on organised crime; a search result suggested the Fifth Circuit Edwards opinion has a \"Treasure Chest scheme\" (public corruption in licensing) but the opinion could not be opened (blocked), so nothing is claimed.",
+    "sources": [
+     11
+    ]
+   },
+   "corrections": "Current label none is not backed by a source I could open; mark unsupported until the Edwards opinion is read."
+  },
+  {
+   "id": "ip-casino-biloxi",
+   "opened": 1997,
+   "closed": null,
+   "opened_source": 12,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Imperial Palace Hotel and Casino Biloxi",
+     "from": 1997,
+     "to": 2011,
+     "operator": "Ralph Engelstad; his estate trustees after 2002",
+     "note": "Opened Dec 22, 1997; sister of the Las Vegas Imperial Palace",
+     "sources": [
+      12,
+      13
+     ]
+    },
+    {
+     "name": "IP Casino Resort Spa",
+     "from": 2011,
+     "to": null,
+     "operator": "Boyd Gaming (from October 2011)",
+     "note": "Bought for $278 million in cash",
+     "sources": [
+      13
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The only regulatory action found on the founder is a 1989 Nevada fine for Hitler-birthday parties at his Las Vegas casino, a reputational matter, not organised crime.",
+    "sources": [
+     14
+    ]
+   },
+   "corrections": ""
+  },
+  {
+   "id": "beau-rivage-biloxi",
+   "opened": 1999,
+   "closed": null,
+   "opened_source": 15,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Beau Rivage",
+     "from": 1999,
+     "to": null,
+     "operator": "Mirage Resorts (Steve Wynn); MGM Mirage/MGM Resorts operator; MGM Growth Properties owner 2016; now Vici Properties",
+     "note": "Opened March 1999; Katrina 2005, fully reopened Aug 29, 2006",
+     "sources": [
+      15,
+      16
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The Wikipedia history shows a corporate developer and no organised-crime material; I opened no regulatory or court records.",
+    "sources": [
+     15,
+     16
+    ]
+   },
+   "corrections": ""
+  },
+  {
+   "id": "harras-new-orleans",
+   "opened": 1999,
+   "closed": null,
+   "opened_source": 17,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Harrah's Jazz (temporary casino)",
+     "from": 1995,
+     "to": 1995,
+     "operator": "Harrah's Jazz (Hemmeter/Caesars World/Harrah's partnership)",
+     "note": "Temporary casino 1995; bankruptcy filed in November 1995; project taken over by Harrah's",
+     "sources": [
+      17,
+      19
+     ]
+    },
+    {
+     "name": "Harrah's New Orleans",
+     "from": 1999,
+     "to": 2024,
+     "operator": "Harrah's Entertainment/Caesars Entertainment; Eldorado Resorts (2020); real estate to Vici Properties",
+     "note": "Opened late October 1999; closed after Katrina, reopened Feb 17, 2006",
+     "sources": [
+      17,
+      18
+     ]
+    },
+    {
+     "name": "Caesars New Orleans",
+     "from": 2024,
+     "to": null,
+     "operator": "Caesars Entertainment (operator); Vici Properties (owner)",
+     "note": "Rebranded May 2024",
+     "sources": [
+      18
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The history opened shows corporate and political licensing dealings (1993 joint venture under pressure from the governor) and no organised-crime link.",
+    "sources": [
+     19,
+     11
+    ]
+   },
+   "corrections": "The permanent casino opened in 1999, but the licence holder ran a temporary casino from 1995."
+  },
+  {
+   "id": "hard-rock-biloxi",
+   "opened": 2007,
+   "closed": null,
+   "opened_source": 20,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Hard Rock Hotel & Casino Biloxi",
+     "from": 2007,
+     "to": null,
+     "operator": "Premier Entertainment Biloxi LLC (Leucadia National) 2002-2014; Twin River Worldwide Holdings/Bally's 2014-; Gaming and Leisure Properties owner since Jan 4, 2023",
+     "note": "Soft opening June 30, grand opening July 7, 2007 after a Katrina delay; on the former Gold Shore Casino site",
+     "sources": [
+      20,
+      21
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "A corporate and franchise history only; nothing on organised crime found, but I opened no regulatory records.",
+    "sources": [
+     20,
+     21
+    ]
+   },
+   "corrections": ""
+  },
+  {
+   "id": "golden-nugget-biloxi",
+   "opened": 1992,
+   "closed": null,
+   "opened_source": 23,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Isle of Capri Biloxi",
+     "from": 1992,
+     "to": 2012,
+     "operator": "Isle of Capri Casinos (Bernard Goldstein's company)",
+     "note": "First casino in Biloxi, August 1992; casino destroyed by Katrina in 2005",
+     "sources": [
+      22,
+      23,
+      24
+     ]
+    },
+    {
+     "name": "Golden Nugget Biloxi",
+     "from": 2012,
+     "to": null,
+     "operator": "Fertitta Entertainment",
+     "note": "Sold 2012 and converted to a Golden Nugget",
+     "sources": [
+      22
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The histories opened show a corporate operator chain only; nothing found on organised crime.",
+    "sources": [
+     22,
+     23
+    ]
+   },
+   "corrections": "Opening year is 1992 (as Isle of Capri); 2012 is the rebrand. The current summary (Guy McAfee, 1946, Steve Wynn) describes the Las Vegas Golden Nugget, not this Biloxi property."
+  }
+ ],
+ "gaps": [
+  "Official sources (Mississippi Gaming Commission, Louisiana Gaming Control Board, PEER report, FBI, OJP) were refused by the proxy; no gaming-board record could be opened for any venue.",
+  "United States v. Edwards, 303 F.3d 606 (5th Cir. 2002): justia (Cloudflare), ca5.uscourts.gov, findlaw, courtlistener and archive.org were all unavailable, so the Treasure Chest scheme could not be checked. Recalled, not fetched: that opinion names a \"Treasure Chest scheme\".",
+  "Treasure Chest: names of the original local investors, and the 2024 move from the riverboat to land, are not backed by a page I opened.",
+  "IP Casino Biloxi: closure or later ownership after Boyd (2011) not checked.",
+  "All dates and lineages rest on Wikipedia as secondary context; no operator filings were opened.",
+  "Beau Rivage: the Mirage-MGM merger date (2000) is not stated in a page I opened."
+ ]
+}

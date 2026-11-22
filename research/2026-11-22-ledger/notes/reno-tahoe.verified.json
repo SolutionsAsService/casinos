@@ -1,0 +1,466 @@
+[
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "cal-neva-lodge"
+  ],
+  "title": "How Frank Sinatra Lost His Nevada Gaming License",
+  "authors": "Barber, Alicia",
+  "year": 2018,
+  "venue": "KUNR Public Radio, Time & Place",
+  "url": "https://www.kunr.org/post/how-frank-sinatra-lost-his-nevada-gaming-license",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "mob-tie: Giancana at Cal-Neva and the 1963 Gaming Control Board action",
+  "quote": "Sinatra surrendered his gaming licenses for the Cal-Neva and for the Sands on the Las Vegas Strip, where he also held an interest.",
+  "summary": "Historian's account: Giancana, on Nevada's List of Excluded Persons, was found at the Cal-Neva in summer 1963 as Sinatra's guest; the Gaming Control Board filed a complaint and Sinatra gave up his licenses.",
+  "limits": "Radio script quoting a 2001 oral-history interview with a former gaming control official; shows a guest visit, not Giancana ownership.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "cal-neva-lodge"
+  ],
+  "title": "Frank Sinatra FBI Files (FBI Vault release, archive.org full text)",
+  "authors": "Federal Bureau of Investigation",
+  "year": null,
+  "venue": "FBI Vault release, hosted at Internet Archive",
+  "url": "https://archive.org/stream/SinatraFBI/sinatr4b_djvu.txt",
+  "accessed": "2026-11-22",
+  "kind": "official",
+  "discipline": "Law enforcement records",
+  "stance": "supports",
+  "ask_addressed": "mob-tie: FBI record of Giancana at the Cal-Neva and loss of Nevada licenses",
+  "quote": "he surrendered his gambling licenses in Nevada when it was discovered that he had entertained Sam Giancana of the Chicago underworld at the Cal-Neva",
+  "summary": "FBI summary in the Sinatra file records that he surrendered his Nevada gambling licenses after entertaining Giancana at the Cal-Neva. The same file also records the Cal-Neva being bought by the Sinatra group in 1961 and Paul D'Amato in charge of gambling there.",
+  "limits": "OCR of a scanned file; a 1962 Chicago-office entry elsewhere in the file (sinatr5 volume) says earlier reporting held the Lodge was jointly owned by Giancana and Sinatra, which is informant reporting the FBI did not verify, so ownership by Giancana stays alleged. The scan is a hosted copy, not the vault.fbi.gov page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "cal-neva-lodge"
+  ],
+  "title": "Gaming Regulation in Nevada (UNOHP Catalog #236)",
+  "authors": "Kling, Dwayne (interviewer); Barber, Alicia (volume editor)",
+  "year": 2016,
+  "venue": "University of Nevada Oral History Program",
+  "url": "https://archive.org/stream/GamingRegulation/GamingRegulation_djvu.txt",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "mob-tie: Giancana as guest of the licensed owner; Black Book",
+  "quote": "visited Lake Tahoe's Cal-Neva Lodge anyway as a guest of the resort's licensed owner: Frank Sinatra.",
+  "summary": "University oral-history volume (foreword) describes the Black Book, Giancana's visit to the Cal-Neva as Sinatra's guest, and that Sinatra gave up his license. It calls Sinatra 'rumored' to be Giancana's front man, not proven.",
+  "limits": "Interview-based volume, 2001-2004 interviews published 2016; a rumor of fronting is reported as rumor only.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "cal-neva-lodge"
+  ],
+  "title": "Allegations of mob ties haunted the chairman",
+  "authors": "Las Vegas Sun staff",
+  "year": 1998,
+  "venue": "Las Vegas Sun",
+  "url": "https://lasvegassun.com/news/1998/may/15/allegations-of-mob-ties-haunted-the-chairman/",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "Journalism",
+  "stance": "contradicts",
+  "ask_addressed": "mob-tie: sceptical, Sinatra's denial that the Cal-Neva was a mob front",
+  "quote": "said the property was not a front for the mob's hidden interests",
+  "summary": "Reports Sinatra's 1981 Gaming Control Board testimony denying he invited Giancana to the Cal-Neva in 1963 and denying the property was a mob front; the Gaming Commission later granted him an unrestricted licence. Also states he surrendered his licence in 1963 over alleged Giancana ties.",
+  "limits": "Denial by the person concerned, who is now deceased; a denial is not a finding. Sceptical only on ownership, not on the 1963 events.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "cal-neva-lodge"
+  ],
+  "title": "Frank Sinatra's Lake Tahoe casino shuts down",
+  "authors": "USA Today (via Las Vegas Sun)",
+  "year": 2010,
+  "venue": "Las Vegas Sun",
+  "url": "https://lasvegassun.com/blogs/elsewhere/2010/apr/09/frank-sinatras-lake-tahoe-casino-shuts-down/",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "Journalism",
+  "stance": "context",
+  "ask_addressed": "dates: closing of the Cal-Neva casino in 2010",
+  "quote": "On Wednesday, roulette wheels will stop spinning and blackjack games will cease at Sinatra's old resort",
+  "summary": "Casino gaming at the Cal Neva stopped in April 2010 (item dated April 9, 2010; exact day not stated beyond 'Wednesday').",
+  "limits": "Gives no explicit calendar date for the Wednesday; the resort was not yet closed.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "cal-neva-lodge"
+  ],
+  "title": "Sinatra's old Lake Tahoe resort to get major makeover",
+  "authors": "Griffith, Martin (AP)",
+  "year": 2013,
+  "venue": "Las Vegas Sun",
+  "url": "https://lasvegassun.com/news/2013/sep/08/us-sinatras-casino-makeover/",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "Journalism",
+  "stance": "supports",
+  "ask_addressed": "dates: closure of the resort in September 2013 and 2010 casino shutdown; lineage",
+  "quote": "Its casino was forced to shut down in 2010 due to declining business.",
+  "summary": "AP says Criswell-Radovan acquired the Cal Neva in April 2013 and the hotel-casino would close for more than a year from Monday (Sept 9, 2013). Says Sinatra owned it 1960 to 1963; mentions tunnels used to move 'mobsters and celebrities'.",
+  "limits": "Tunnel claim is stated without attribution; 1960-1963 conflicts with Wikipedia's 1960-1968 (sale in 1968 after lease to Warner).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "cal-neva-lodge"
+  ],
+  "title": "Cal Neva Lodge & Casino",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Cal_Neva_Lodge_%26_Casino",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "Encyclopedia",
+  "stance": "context",
+  "ask_addressed": "lineage: owners and names of the Cal Neva 1926 to 2023",
+  "quote": "Sinatra publicly bought the resort in 1960 through his company, Park Lake Enterprises.",
+  "summary": "Ownership chain: Sherman 1926; Remmer group 1935; Adler (renamed Cal Neva) c.1945-48; Grober group 1955; Park Lake Enterprises 1960; Warner lease; 1968 sale; BKJ 1975; Kerkorian 1976; Bluth 1985; Namvar 2005; Criswell-Radovan 2013; Ellison 2018; McWhinney 2023.",
+  "limits": "Wikipedia, context only. Its lead says Giancana was a partner and that Sinatra's licence was 'suspended', which the primary and historian sources above describe as a surrender; lead and body differ on closing (2010 vs 2013).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "harolds-club"
+  ],
+  "title": "Harolds Club",
+  "authors": "Online Nevada Encyclopedia (Nevada Humanities)",
+  "year": 2015,
+  "venue": "Online Nevada Encyclopedia",
+  "url": "https://www.onlinenevada.org/articles/harolds-club",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "dates and lineage: Smith family to Hughes (1970) and later owners; no mob tie",
+  "quote": "In June 1970, the family sold the club to billionaire Howard Hughes",
+  "summary": "Opened Feb 23, 1935; 1962 sale-leaseback to Webbel Corporation; sold to Hughes June 1970; Howard Hughes Corporation sold to The Fitzgerald Group in 1988; Gamma International 1995; closed March 31, 1995; Harrah's imploded it Dec 16, 1999. It describes the club's reputation as 'clean, friendly' and mentions no organised-crime tie.",
+  "limits": "Absence of a mob mention in one encyclopedia entry is not proof; page last updated May 15, 2015.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "harolds-club"
+  ],
+  "title": "Harolds Club in Reno to be demolished",
+  "authors": "Las Vegas Sun (AP)",
+  "year": 1999,
+  "venue": "Las Vegas Sun",
+  "url": "https://lasvegassun.com/news/1999/dec/14/harolds-club-in-reno-to-be-demolished/",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "Journalism",
+  "stance": "supports",
+  "ask_addressed": "dates: demolition in December 1999 by Harrah's",
+  "quote": "the seven-story building will be imploded by its new owners Harrah's Entertainment Inc.",
+  "summary": "Demolition set for Wednesday Dec 15, 1999 by Harrah's Entertainment; describes the club as founded 1935 by the Smith family, with a reputation for innovation and scholarships.",
+  "limits": "Does not address organised crime either way. Online Nevada gives Dec 16 for the implosion; the Sun item (dated Dec 14) says Wednesday, which was Dec 15.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "harolds-club"
+  ],
+  "title": "Harold's Club",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Harold%27s_Club",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "Encyclopedia",
+  "stance": "context",
+  "ask_addressed": "dates: opening 1935, closing 1995, demolition 1999",
+  "quote": "The casino closed in 1995 and the building was demolished in 1999.",
+  "summary": "Gives sale to Howard Hughes's Summa Corporation in 1970 for $11.5 million and to Gamma International in December 1994.",
+  "limits": "Wikipedia, context only; says Dec 1994 sale and closing three months later.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "harrahs-reno"
+  ],
+  "title": "Every Light Was On: Bill Harrah and His Clubs Remembered",
+  "authors": "Kling, Dwayne (interviewer)",
+  "year": 1999,
+  "venue": "University of Nevada Oral History Program",
+  "url": "https://archive.org/stream/EveryLightWasOnHarrahs/Every%20Light%20Was%20On%20(Harrah's)_djvu.txt",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "dates and lineage: Harrah's Reno from 1937 bingo parlor to Holiday Inns takeover",
+  "quote": "Harrahs rise in the world of gaming began in 1946 when he went deeply into debt to become the sole owner and operator",
+  "summary": "Introduction: bingo parlor in Reno in 1937, casino named Harrahs Reno Club in 1946, Tahoe club 1955, Golden Hotel tower 1969, NYSE listing 1973, acquisition by Holiday Inns in 1980.",
+  "limits": "Oral-history introduction; the 1937 date is for a small bingo parlor, the casino as such dates from 1946.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "harrahs-reno"
+  ],
+  "title": "Every Light Was On: Bill Harrah and His Clubs Remembered (Drews interview)",
+  "authors": "Kling, Dwayne (interviewer)",
+  "year": 1999,
+  "venue": "University of Nevada Oral History Program",
+  "url": "https://archive.org/stream/EveryLightWasOnHarrahs/Every%20Light%20Was%20On%20(Harrah's)_djvu.txt",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "contradicts",
+  "ask_addressed": "mob-tie: sceptical, Harrah's persuaded financiers it was not mob-owned",
+  "quote": "was not owned and operated by gangsters and hoodlums",
+  "summary": "Introductory summary says Harrah's management persuaded New York financiers the company was legitimate and not owned and operated by gangsters and hoodlums; an interviewee notes everyone suspected Mafia ties when seeking a bond rating.",
+  "limits": "Company-insider oral history, not an independent finding; stronger evidence would be a Gaming Control Board or SEC record.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "harrahs-reno"
+  ],
+  "title": "Harrah's Reno",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Harrah%27s_Reno",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "Encyclopedia",
+  "stance": "context",
+  "ask_addressed": "dates: closure in 2020; lineage through Holiday Inn, Vici, CAI",
+  "quote": "In June 2020, Caesars announced that it would not reopen Harrah's Reno.",
+  "summary": "Closed March 17, 2020 under a COVID order and did not reopen; Holiday Inn owned it from 1981; Vici took ownership Oct 2017 with lease to Caesars; sale to CAI finalized Sept 2020.",
+  "limits": "Wikipedia, context only; 'More citations needed' tag. Closure date for the casino should be confirmed from a news or Nevada gaming source.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "mapes-hotel-casino"
+  ],
+  "title": "Mapes Hotel and Casino, Reno",
+  "authors": "Online Nevada Encyclopedia (Nevada Humanities)",
+  "year": 2015,
+  "venue": "Online Nevada Encyclopedia",
+  "url": "https://www.onlinenevada.org/articles/mapes-hotel-and-casino-reno",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "dates and lineage: Mapes family, 1982 foreclosure, 1988 sale, 1996 city, 2000 demolition",
+  "quote": "The Mapes officially opened on December 17, 1947.",
+  "summary": "Built by the Mapes family and financed by Bank of America, First National Bank of Nevada and the RFC; foreclosed December 1982; bought June 1988 by Karadanis and Maloff; sold to Reno Redevelopment Agency 1996; imploded January 30, 2000. No organised-crime tie is mentioned.",
+  "limits": "Absence from one encyclopedia entry is not proof.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "mapes-hotel-casino"
+  ],
+  "title": "Mapes Hotel",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Mapes_Hotel",
+  "accessed": "2026-11-22",
+  "kind": "secondary",
+  "discipline": "Encyclopedia",
+  "stance": "context",
+  "ask_addressed": "dates: casino closure 17 December 1982",
+  "quote": "The Mapes casino closed on December 17, 1982",
+  "summary": "Describes Mapes-family ownership throughout the casino years, failure after the 1981 recession and the Money Tree, then several owners and city purchase in 1996.",
+  "limits": "Wikipedia, context only.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ },
+ {
+  "brief": "reno-tahoe",
+  "records": [
+   "mapes-hotel-casino"
+  ],
+  "title": "Investigation of Organized Crime in Interstate Commerce: index to hearings (Kefauver Committee)",
+  "authors": "U.S. Senate Special Committee to Investigate Organized Crime in Interstate Commerce",
+  "year": 1951,
+  "venue": "U.S. Senate, via Internet Archive",
+  "url": "https://archive.org/stream/investigationofo0112unit/investigationofo0112unit_djvu.txt",
+  "accessed": "2026-11-22",
+  "kind": "official",
+  "discipline": "Congressional records",
+  "stance": "fails_to_support",
+  "ask_addressed": "mob-tie: Kefauver 1950-51 hearing index entries for Reno properties",
+  "quote": "Mapes Hotel, Reno:",
+  "summary": "The hearings index has an entry for the Mapes Hotel, Reno (pages in Pt. 2 and Pt. 12). My text search of the OCR index found no entries for Harold's Club, Harrah's or the Cal-Neva.",
+  "limits": "Index entry only. I did not open the cited hearing pages, so the context of the Mapes mention is unknown and it is not evidence of a tie. OCR of the index is imperfect, so absence of the other names is suggestive only.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "rdada-verifier",
+   "date": "2026-11-22",
+   "method": "re-fetched, quote found"
+  }
+ }
+]

@@ -1,0 +1,230 @@
+[
+ {
+  "venue": "arlington-hotel-hot-springs",
+  "field": "names[0]",
+  "ok": true,
+  "note": "1875 opening, Fordyce and two investors financed it, razed after almost 20 years, rebuilt 1892-93 (cand 23). 'operator' is really financier."
+ },
+ {
+  "venue": "arlington-hotel-hot-springs",
+  "field": "names[1]",
+  "ok": true,
+  "note": "1893 second building, 300 rooms (cand 23 page). Page says it burned 5 Apr 1923, so 'to 1924' is when the replacement opened."
+ },
+ {
+  "venue": "arlington-hotel-hot-springs",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Mann and Stern 1924, Sky Capitol Group, 2023 renovation all on cand 23 page."
+ },
+ {
+  "venue": "arlington-hotel-hot-springs",
+  "field": "opened",
+  "ok": true,
+  "note": "1875 verbatim in cand 23."
+ },
+ {
+  "venue": "arlington-hotel-hot-springs",
+  "field": "closed",
+  "ok": true,
+  "note": "null; hotel still operating per page."
+ },
+ {
+  "venue": "arlington-hotel-hot-springs",
+  "field": "label",
+  "ok": true,
+  "note": "'unsupported' is correct: cands 21 and 22 show only guests/gathering place, 23 no casino. Not 'documented'."
+ },
+ {
+  "venue": "ohio-club-hot-springs",
+  "field": "label",
+  "ok": true,
+  "note": "'unsupported' fair; cand 17 does not mention the Ohio Club."
+ },
+ {
+  "venue": "southern-club-hot-springs",
+  "field": "names[0]",
+  "ok": false,
+  "note": "Jacobs stake (18) and Southern Club reopened under McLaughlin (18) supported; Madden control not stated (19 says only that the Southern Club was a mobsters' nightspot and Madden was involved in illegal gambling); 1927 start for the club and 1967 end for this club are inferences."
+ },
+ {
+  "venue": "southern-club-hot-springs",
+  "field": "opened",
+  "ok": true,
+  "note": "null, nothing claimed."
+ },
+ {
+  "venue": "southern-club-hot-springs",
+  "field": "closed",
+  "ok": false,
+  "note": "Cand 17 supports a town-wide casino closure in 1967 only, and does not name the Southern Club. Treat as inferred."
+ },
+ {
+  "venue": "southern-club-hot-springs",
+  "field": "label",
+  "ok": true,
+  "note": "'alleged' fine; no primary/official source passing. Cand 20 (1959 trade press) shows casino and weekly-fine practice."
+ },
+ {
+  "venue": "vapors-club-hot-springs",
+  "field": "label",
+  "ok": true,
+  "note": "'unsupported', no sources, correct."
+ },
+ {
+  "venue": "lookout-house-covington",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Cand 5 (Lookout Club runs casino, Lookout House Inc.), 6 (Kleinman/Dalitz/Tucker named by witness Sutton, assertion not finding), 7 (Brink: gambling stopped ~Jan 1951; present partners Brink, Carr brothers etc.). Rothkopf is not tied to Lookout by the cited pages."
+ },
+ {
+  "venue": "lookout-house-covington",
+  "field": "opened",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "lookout-house-covington",
+  "field": "closed",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "lookout-house-covington",
+  "field": "label",
+  "ok": true,
+  "note": "'documented' stands: cands 5 and 7 are official congressional testimony that the Lookout Club ran a casino. The Cleveland-partner link rests on witness assertion, so keep wording to what the hearing records."
+ },
+ {
+  "venue": "glenn-rendezvous-newport",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Cand 10: Schmidt's Glenn Hotel with expanded casino."
+ },
+ {
+  "venue": "glenn-rendezvous-newport",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Renamed 1943 (10); Levinsons and Dennert bought 1948 (9); named in 1951 hearing as a Dennert place (8). Cand 10 also says Dennert had interests earlier."
+ },
+ {
+  "venue": "glenn-rendezvous-newport",
+  "field": "opened",
+  "ok": false,
+  "note": "1943 is a remodel/renaming of an existing hotel casino (cand 10), not an opening."
+ },
+ {
+  "venue": "glenn-rendezvous-newport",
+  "field": "closed",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "glenn-rendezvous-newport",
+  "field": "label",
+  "ok": true,
+  "note": "'alleged' fine; cand 8 is official but only a police letter naming it as Dennert's place."
+ },
+ {
+  "venue": "colonial-inn-hallandale",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Cand 0: Doto (Adonis) 15 percent, Briggs 5 percent, F. Erickson owners on 1947-48 return; cand 1: operated through 1948. Marden/Walters are flagged unopened, not supported."
+ },
+ {
+  "venue": "colonial-inn-hallandale",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Cand 2: Minsky's Burlesque, casino moved to Club Boheme. 'from 1949' is inferred from 1948 cessation (cand 1)."
+ },
+ {
+  "venue": "colonial-inn-hallandale",
+  "field": "opened",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "colonial-inn-hallandale",
+  "field": "closed",
+  "ok": true,
+  "note": "1948 per cand 1 (casino)."
+ },
+ {
+  "venue": "colonial-inn-hallandale",
+  "field": "label",
+  "ok": true,
+  "note": "'documented' stands: official Senate hearing (cands 0-2) reads the return into the record."
+ },
+ {
+  "venue": "beverly-hills-club-newport",
+  "field": "names[0]",
+  "ok": false,
+  "note": "Cleveland group in 1951 record (3) and 1967 sale (12) ok; 1941 start is only Giesey's 'probably 1941' while cand 11 says gambling on site since 1926; Schmidt as founder is not shown (Levinson page only says he was forced out)."
+ },
+ {
+  "venue": "beverly-hills-club-newport",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Cand 12 page: sale to Cole, Klein, Glickman; Schilling family 1974; fire 28 May 1977, 165 deaths."
+ },
+ {
+  "venue": "beverly-hills-club-newport",
+  "field": "opened",
+  "ok": false,
+  "note": "1941 is unsettled (cand 4 'probably', cand 11 1926)."
+ },
+ {
+  "venue": "beverly-hills-club-newport",
+  "field": "closed",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "beverly-hills-club-newport",
+  "field": "label",
+  "ok": true,
+  "note": "'documented' stands: cands 3, 4 are official testimony and records of a casino operation with the named partners."
+ },
+ {
+  "venue": "balinese-room-galveston",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Chop Suey: on the Balinese Room page (cand 15 passage); cited cand 14 is the 1942 rename quote."
+ },
+ {
+  "venue": "balinese-room-galveston",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Cand 15: Maceo's Grotto opened 1929 (page also gives the 1932 Sui Jen remodel)."
+ },
+ {
+  "venue": "balinese-room-galveston",
+  "field": "names[2]",
+  "ok": true,
+  "note": "1932 Sui Jen with 200-foot pier is on the Balinese Room page; 1942 rename (cand 14)."
+ },
+ {
+  "venue": "balinese-room-galveston",
+  "field": "names[3]",
+  "ok": false,
+  "note": "1942 rename ok (14); 1957 end of the Free State ok (16); Fertitta operation from c.1954 not in any passing candidate; 2001 reopening and 2008 Hurricane Ike are on the page but not in a quoted passage."
+ },
+ {
+  "venue": "balinese-room-galveston",
+  "field": "opened",
+  "ok": true,
+  "note": "1929 per cand 15."
+ },
+ {
+  "venue": "balinese-room-galveston",
+  "field": "closed",
+  "ok": true,
+  "note": "null."
+ },
+ {
+  "venue": "balinese-room-galveston",
+  "field": "label",
+  "ok": true,
+  "note": "'alleged' fine: cands 13, 14, 16 are Wikipedia/customer mention; no primary source passing. Not 'documented'."
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+  "venue": "cal-neva-lodge",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Wikipedia (6): built 1926 by Sherman; 1931 gambling law; Remmer group 1935; fire and rebuild 1937 (also AP, 5). Name 'Cal-Neva Lodge' is the Wikipedia spelling."
+ },
+ {
+  "venue": "cal-neva-lodge",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Adler group bought from Remmer for $700,000 near end of WWII (6). The 'hyphen dropped' note and the exact 1946 date are not stated by the cited candidate."
+ },
+ {
+  "venue": "cal-neva-lodge",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Grober group, March 21, 1955, $1 million (6)."
+ },
+ {
+  "venue": "cal-neva-lodge",
+  "field": "names[3]",
+  "ok": true,
+  "note": "Sinatra 1960 via Park Lake Enterprises, Warner lease, 1963 licence surrender, 1968 sale (6, 0, 1, 5). AP (5) says Sinatra owned it 1960-1963, which conflicts with 1968; the entry notes this. D'Amato as co-owner is not shown: the FBI file (1) says he was in charge of gambling."
+ },
+ {
+  "venue": "cal-neva-lodge",
+  "field": "names[4]",
+  "ok": true,
+  "note": "1968 sale to Club Cal Neva owners, 1969 expansion, Ohio REIT 1970, receivership 1973, winter closure 1974 (6)."
+ },
+ {
+  "venue": "cal-neva-lodge",
+  "field": "names[5]",
+  "ok": true,
+  "note": "BKJ 1975, bank foreclosure and Kerkorian 1976, 1985 fraud arrest (6). 'Licence refused' for BKJ not checked."
+ },
+ {
+  "venue": "cal-neva-lodge",
+  "field": "names[6]",
+  "ok": true,
+  "note": "Bluth 1985, Namvar 2005 (6); casino stopped in 2010 (4 dated April 9, 2010, repost of a USA Today piece; 5); closed Sept 2013 for renovation (5). The name 'Cal Neva Resort & Casino' and its 1985 start are not dated in the cited sources."
+ },
+ {
+  "venue": "cal-neva-lodge",
+  "field": "names[7]",
+  "ok": true,
+  "note": "Criswell-Radovan spring 2013 (5, 6), bankruptcy 2016, Ellison Jan 2018, McWhinney April 2023 (6)."
+ },
+ {
+  "venue": "cal-neva-lodge",
+  "field": "opened",
+  "ok": true,
+  "note": "1926 supported by Wikipedia (6) and AP (5: original lodge opened 1926). No primary source."
+ },
+ {
+  "venue": "cal-neva-lodge",
+  "field": "closed",
+  "ok": true,
+  "note": "2013 is the resort closure (5); the casino ended in 2010 (4, 5). The entry says so."
+ },
+ {
+  "venue": "cal-neva-lodge",
+  "field": "label",
+  "ok": true,
+  "note": "'documented' holds only for: Giancana (on the excluded list) was a guest in 1963 and Sinatra surrendered his licences. Passing official source: FBI file (1), plus historian (0), oral-history volume (2) and Sun (3, 5). It does not extend to Giancana ownership or partnership, which stays alleged (FBI informant reporting; 2 reports a rumor; 3 records Sinatra's denial). Wikipedia (6) says Giancana was a partner, and that is context only."
+ },
+ {
+  "venue": "harolds-club",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Opened Feb 23, 1935 by Harold Smith Sr. (7). Page also says 'clean, friendly'."
+ },
+ {
+  "venue": "harolds-club",
+  "field": "names[1]",
+  "ok": true,
+  "note": "July 1, 1962 sale for $16.5 million to Webbel and 25-year leaseback (7)."
+ },
+ {
+  "venue": "harolds-club",
+  "field": "names[2]",
+  "ok": true,
+  "note": "June 1970 sale to Hughes (7); $11.5 million and Summa (9); $20 million expansion 1971 (7). 1988 end date from 7."
+ },
+ {
+  "venue": "harolds-club",
+  "field": "names[3]",
+  "ok": true,
+  "note": "Fitzgerald Group 1988, Gamma 1995, closed March 31, 1995, four-hour reopening March 31, 1997 (7). Wikipedia (9) says Gamma bought in Dec 1994; the entry follows 7."
+ },
+ {
+  "venue": "harolds-club",
+  "field": "names[4]",
+  "ok": true,
+  "note": "Harrah's bought 1999 and imploded it Dec 16 (7); Sun (8) says Wednesday, i.e. Dec 15. The two disagree by a day."
+ },
+ {
+  "venue": "harolds-club",
+  "field": "opened",
+  "ok": true,
+  "note": "1935 (7, 9)."
+ },
+ {
+  "venue": "harolds-club",
+  "field": "closed",
+  "ok": true,
+  "note": "March 31, 1995 (7); 9 says 1995."
+ },
+ {
+  "venue": "harolds-club",
+  "field": "label",
+  "ok": true,
+  "note": "'none' is fine; no documented claim made. Absence from sources 7, 8 and the Kefauver index (15) is not proof."
+ },
+ {
+  "venue": "harrahs-reno",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Bingo parlors and bar 1937-46 (10); Plaza Tango / Heart Tango (12). Exact 'Oct 1937' not found in the cited text."
+ },
+ {
+  "venue": "harrahs-reno",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Sole owner and Harrahs Reno Club in 1946 (10); Frontier Club 1956 (12)."
+ },
+ {
+  "venue": "harrahs-reno",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Golden Hotel 1968, tower Oct 10, 1969 (12); public 1971, NYSE 1973 (10). 'Harrah to 1978' not found in the opened text."
+ },
+ {
+  "venue": "harrahs-reno",
+  "field": "names[3]",
+  "ok": true,
+  "note": "Holiday Inns acquired in 1980 (10); Wikipedia says new owners Holiday Inn 1981; Promus spin-off 1995 (12)."
+ },
+ {
+  "venue": "harrahs-reno",
+  "field": "names[4]",
+  "ok": true,
+  "note": "Harrah's Entertainment from 1995; bought Harold's and Nevada Club 1999 (12)."
+ },
+ {
+  "venue": "harrahs-reno",
+  "field": "names[5]",
+  "ok": true,
+  "note": "Vici Oct 6, 2017 with Caesars lease; closed March 17, 2020 by order; June 2020 not reopening (12)."
+ },
+ {
+  "venue": "harrahs-reno",
+  "field": "names[6]",
+  "ok": true,
+  "note": "CAI sale finalized Sept 2020, renamed Reno City Center (12). 'Gryphon-RCCO' not found in the text I read."
+ },
+ {
+  "venue": "harrahs-reno",
+  "field": "opened",
+  "ok": true,
+  "note": "1937 bingo parlor (10: 'small bingo parlor in Reno in 1937'); the casino proper dates from 1946 (10). The entry says so."
+ },
+ {
+  "venue": "harrahs-reno",
+  "field": "closed",
+  "ok": true,
+  "note": "March 17, 2020 closure and June 2020 announcement (12, Wikipedia only; no news source)."
+ },
+ {
+  "venue": "harrahs-reno",
+  "field": "label",
+  "ok": true,
+  "note": "'none' is fine. Source 11 is a company insider's account (Drews)."
+ },
+ {
+  "venue": "mapes-hotel-casino",
+  "field": "names[0]",
+  "ok": true,
+  "note": "Opened Dec 17, 1947 (13); Mapes family; casino closed Dec 17, 1982 (14)."
+ },
+ {
+  "venue": "mapes-hotel-casino",
+  "field": "names[1]",
+  "ok": true,
+  "note": "Foreclosure Dec 1982 on $15 million loan (13)."
+ },
+ {
+  "venue": "mapes-hotel-casino",
+  "field": "names[2]",
+  "ok": true,
+  "note": "Bought June 1988 by Karadanis and Maloff; sold 1996 (13)."
+ },
+ {
+  "venue": "mapes-hotel-casino",
+  "field": "names[3]",
+  "ok": true,
+  "note": "Reno Redevelopment Agency 1996; imploded Jan 30, 2000 (13, 14 for 1996)."
+ },
+ {
+  "venue": "mapes-hotel-casino",
+  "field": "opened",
+  "ok": true,
+  "note": "Dec 17, 1947 (13)."
+ },
+ {
+  "venue": "mapes-hotel-casino",
+  "field": "closed",
+  "ok": true,
+  "note": "Casino closed Dec 17, 1982 (14); 13 says the bank foreclosed Dec 1982."
+ },
+ {
+  "venue": "mapes-hotel-casino",
+  "field": "label",
+  "ok": true,
+  "note": "'none' is fine. Kefauver index entry (15) is an unread index line only."
+ }
+]

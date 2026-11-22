@@ -1,0 +1,503 @@
+{
+ "brief": "detroit-minnesota-tribal",
+ "venues": [
+  {
+   "id": "saratoga-race-course",
+   "opened": 1863,
+   "closed": null,
+   "opened_source": 0,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Oklahoma Track (first meet)",
+     "from": 1863,
+     "to": 1863,
+     "operator": "John Morrissey",
+     "note": "First thoroughbred card 3 Aug 1863 on the Oklahoma Track, across the street from the present course",
+     "sources": [
+      0
+     ]
+    },
+    {
+     "name": "Saratoga Race Course",
+     "from": 1864,
+     "to": null,
+     "operator": "Morrissey and partners; Gottfried Waldbaum (1892); W. C. Whitney investor group (1901); New York Racing Association (current)",
+     "note": "Morrissey built the new course and grandstand across the street in 1864; closed 1896 and 1911-12 (anti-gambling law), curtailed 1943-45",
+     "sources": [
+      0,
+      1
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "Kefauver Part 7 treats Saratoga lake houses (Arrowhead Inn, Piping Rock), and a text search of that volume finds neither the Race Course nor Morrissey; no source opened ties the track to organised crime.",
+    "sources": [
+     2,
+     3,
+     4
+    ]
+   },
+   "corrections": "None needed on dates. The label \"none\" holds, but the hearings did involve Saratoga Springs gambling at other venues (the lake houses); the summary could say so."
+  },
+  {
+   "id": "canfield-casino-saratoga",
+   "opened": 1870,
+   "closed": 1907,
+   "opened_source": 6,
+   "closed_source": 5,
+   "names": [
+    {
+     "name": "Saratoga Clubhouse",
+     "from": 1866,
+     "to": 1893,
+     "operator": "John Morrissey (1866-1878); Albert Spencer and Charles Reed (after 1878)",
+     "note": "Gambling clubhouse begun 1866; main building 1870",
+     "sources": [
+      6,
+      7
+     ]
+    },
+    {
+     "name": "Canfield Casino (Saratoga Clubhouse under Canfield)",
+     "from": 1894,
+     "to": 1907,
+     "operator": "Richard A. Canfield",
+     "note": "Canfield partner 1893, owner 1894; added dining wing 1902-03; gambling banned by reformers 1907; sold to the city 1911",
+     "sources": [
+      7,
+      5
+     ]
+    },
+    {
+     "name": "Canfield Casino (museum)",
+     "from": 1911,
+     "to": null,
+     "operator": "City of Saratoga Springs",
+     "note": "Buildings house the Saratoga Springs History Museum; not demolished",
+     "sources": [
+      5
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "Gambling ended in 1907, decades before the Kefauver era; the Saratoga mob-era gambling in the opened sources was at the lake houses, not here.",
+    "sources": [
+     4,
+     5,
+     2
+    ]
+   },
+   "corrections": "Opening: gambling at the site began 1866 as the Saratoga Clubhouse; 1870 is the date of the main building. Closing 1907 is for gambling only; the building survives as a museum. Summary correct that it predates organised crime."
+  },
+  {
+   "id": "canterbury-park",
+   "opened": 1985,
+   "closed": null,
+   "opened_source": 8,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Canterbury Downs",
+     "from": 1985,
+     "to": 1990,
+     "operator": "Minnesota Racetrack Inc. (Walter Brooks Fields Jr. and investors; Santa Anita partner)",
+     "note": "First race 26 Jun 1985",
+     "sources": [
+      8
+     ]
+    },
+    {
+     "name": "New Canterbury Downs",
+     "from": 1990,
+     "to": 1992,
+     "operator": "Ladbroke Racing Corporation",
+     "note": "Sold 1990; closed Dec 1992 after a poor season",
+     "sources": [
+      9
+     ]
+    },
+    {
+     "name": "Canterbury Park",
+     "from": 1995,
+     "to": null,
+     "operator": "Curtis and Randy Sampson (after Irwin L. Jacobs, late 1993)",
+     "note": "Live racing returned late 1994; renamed Jan 1995; card room 1999",
+     "sources": [
+      10
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "Page describes a track and card room regulated by the Minnesota Racing Commission; no allegation on it or in a dedicated search; Commission records not opened.",
+    "sources": [
+     11
+    ]
+   },
+   "corrections": "\"closed\" null is fine for today but the track was closed for racing Dec 1992 to 1994. Summary \"no organized crime ties\" is supported only by absence of reports."
+  },
+  {
+   "id": "grand-casino-mille-lacs",
+   "opened": 1991,
+   "closed": null,
+   "opened_source": null,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Grand Casino Mille Lacs",
+     "from": 1991,
+     "to": null,
+     "operator": "Grand Casinos Inc. (management, early 1990s; bought by Hilton 1998 to form Park Place Entertainment); Mille Lacs Band of Ojibwe (owner and operator)",
+     "note": "Opened early 1990s; the year 1991 is not confirmed by an opened page; hand-over of management not dated by an opened source",
+     "sources": [
+      12,
+      13
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "No allegation found in the pages opened or in a dedicated search; only general congressional statements on Indian gaming, which name no venue.",
+    "sources": [
+     36,
+     37
+    ]
+   },
+   "corrections": "None established. Opening year 1991 unconfirmed (sources say \"early 1990s\")."
+  },
+  {
+   "id": "foxwoods-resort-casino",
+   "opened": 1992,
+   "closed": null,
+   "opened_source": 15,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Foxwoods (high-stakes bingo hall)",
+     "from": 1986,
+     "to": 1991,
+     "operator": "Mashantucket Pequot Tribe",
+     "note": "Founded 1986 as a bingo hall",
+     "sources": [
+      14
+     ]
+    },
+    {
+     "name": "Foxwoods Resort Casino",
+     "from": 1992,
+     "to": null,
+     "operator": "Mashantucket Pequot Tribal Nation",
+     "note": "Table games 1992, slots 1993; Grand Pequot Tower 1997",
+     "sources": [
+      15
+     ]
+    },
+    {
+     "name": "MGM Grand at Foxwoods / Fox Tower",
+     "from": 2008,
+     "to": null,
+     "operator": "Tribe, with MGM Mirage as brand partner to 2013",
+     "note": "Separate tower opened 17 May 2008; renamed Fox Tower 2013",
+     "sources": [
+      16
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "A 1996 wire report says authorities were focusing on associates of a crime family over a cheating scheme involving dealers and patrons at the casino; the tribe reported it and says it banned 52 people for such associations; no charge against the tribe or its government appears.",
+    "sources": [
+     17,
+     18
+    ]
+   },
+   "corrections": "\"No organized crime involvement\" is too strong: a 1996 report links a scheme at the casino to associates of a crime family. The casino and tribe are described as the party that detected and reported it. The casino began as bingo in 1986; 1992 is the start of table games."
+  },
+  {
+   "id": "mystic-lake-casino-hotel",
+   "opened": 1992,
+   "closed": null,
+   "opened_source": 19,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Little Six Bingo",
+     "from": 1982,
+     "to": 1990,
+     "operator": "Shakopee Mdewakanton Sioux Community",
+     "note": "Precursor on the reservation",
+     "sources": [
+      20
+     ]
+    },
+    {
+     "name": "Little Six Casino",
+     "from": 1990,
+     "to": null,
+     "operator": "Shakopee Mdewakanton Sioux Community",
+     "note": "Became a casino after the Indian Gaming Regulatory Act and state compact; still operated",
+     "sources": [
+      20
+     ]
+    },
+    {
+     "name": "Mystic Lake Casino Hotel",
+     "from": 1992,
+     "to": null,
+     "operator": "Shakopee Mdewakanton Sioux Community",
+     "note": "Opened 12 May 1992",
+     "sources": [
+      19
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "No allegation in the pages opened or a dedicated search; only general statements on Indian gaming.",
+    "sources": [
+     36,
+     37
+    ]
+   },
+   "corrections": "None."
+  },
+  {
+   "id": "turning-stone-resort-casino",
+   "opened": 1993,
+   "closed": null,
+   "opened_source": 21,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Turning Stone Resort Casino",
+     "from": 1993,
+     "to": null,
+     "operator": "Oneida Indian Nation of New York",
+     "note": "Opened 20 Jul 1993; hotel 1994-96; compact and land disputes with the state resolved 2013",
+     "sources": [
+      21,
+      22
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The legal disputes on the page concern the compact and land, not crime; a mob-contractor search found nothing; general testimony says no substantial infiltration of Indian gaming.",
+    "sources": [
+     22,
+     37
+    ]
+   },
+   "corrections": "None."
+  },
+  {
+   "id": "mohegan-sun",
+   "opened": 1996,
+   "closed": null,
+   "opened_source": 23,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Mohegan Sun",
+     "from": 1996,
+     "to": null,
+     "operator": "Mohegan Tribal Gaming Authority (1995); Trading Cove Associates (developer-manager: Sun International/Kerzner 50%, Waterford Gaming 50%) with 5% of gross revenue to 2014",
+     "note": "Opened 12 Oct 1996; page says control passed to the tribe in 2000 (not independently checked)",
+     "sources": [
+      23,
+      24,
+      25
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "Searches returned only cheating cases involving patrons and dealers; no source opened ties ownership or development to organised crime.",
+    "sources": [
+     24,
+     25,
+     37
+    ]
+   },
+   "corrections": "None on dates. The 2000 date for the hand-over of control is a Wikipedia statement to be checked."
+  },
+  {
+   "id": "mgm-grand-detroit",
+   "opened": 1999,
+   "closed": null,
+   "opened_source": 26,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "MGM Grand Detroit (temporary casino)",
+     "from": 1999,
+     "to": 2007,
+     "operator": "MGM Grand Inc, later MGM Mirage",
+     "note": "Opened 29 Jul 1999 in a converted IRS office; first legal casino in Detroit",
+     "sources": [
+      26
+     ]
+    },
+    {
+     "name": "MGM Grand Detroit (permanent resort)",
+     "from": 2007,
+     "to": null,
+     "operator": "MGM Resorts International (operator); Vici Properties (real estate)",
+     "note": "Opened 3 Oct 2007; 2005 merger forced MGM to choose between this and MotorCity",
+     "sources": [
+      26,
+      27
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "No finding against the operator; a 1999 report raised background concerns about the landlord of the temporary building, who denied wrongdoing.",
+    "sources": [
+     28
+    ]
+   },
+   "corrections": "\"No organized crime ties\" is supported for the operator, but in 1999 the press reported background concerns about the landlord of the temporary building, who denied wrongdoing."
+  },
+  {
+   "id": "motorcity-casino-hotel",
+   "opened": 1999,
+   "closed": null,
+   "opened_source": 29,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "MotorCity Casino",
+     "from": 1999,
+     "to": 2005,
+     "operator": "Mandalay Resort Group (53.5%); Marian Ilitch (25%)",
+     "note": "Opened 14 Dec 1999",
+     "sources": [
+      29,
+      30
+     ]
+    },
+    {
+     "name": "MotorCity Casino Hotel",
+     "from": 2005,
+     "to": null,
+     "operator": "Marian Ilitch",
+     "note": "Ilitch bought the Mandalay stake 12 Apr 2005 for $525 million after the MGM Mirage-Mandalay merger",
+     "sources": [
+      30,
+      27
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "No source opened alleges organised-crime ties; Wikipedia only for the ownership thread.",
+    "sources": [
+     29,
+     30
+    ]
+   },
+   "corrections": "\"Developed by Marian Ilitch\" is imprecise: it opened under Mandalay as majority owner, and Ilitch took control in 2005."
+  },
+  {
+   "id": "greektown-casino-hotel",
+   "opened": 2000,
+   "closed": null,
+   "opened_source": 31,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Greektown Casino",
+     "from": 2000,
+     "to": 2016,
+     "operator": "Sault Ste. Marie Tribe of Chippewa Indians (90% after buy-out; Millennium Management managed to 2002)",
+     "note": "Opened 10 Nov 2000; Chapter 11 May 2008",
+     "sources": [
+      31,
+      32,
+      33
+     ]
+    },
+    {
+     "name": "Greektown Casino (Superholdings)",
+     "from": 2010,
+     "to": 2013,
+     "operator": "Greektown Superholdings, Inc. (bondholders)",
+     "note": "Bought out of bankruptcy June 2010",
+     "sources": [
+      33
+     ]
+    },
+    {
+     "name": "Greektown Casino",
+     "from": 2013,
+     "to": 2019,
+     "operator": "Rock Gaming (Dan Gilbert), later Jack Entertainment",
+     "note": "Majority stake Jan 2013; planned rename Jack Detroit Casino-Hotel Greektown announced 2016, cancelled 2018",
+     "sources": [
+      33
+     ]
+    },
+    {
+     "name": "Hollywood Casino at Greektown",
+     "from": 2022,
+     "to": null,
+     "operator": "Penn Entertainment (operator); Vici Properties (real estate)",
+     "note": "Penn and Vici bought it May 2019; rebranded Hollywood Casino May 2022",
+     "sources": [
+      34,
+      31
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "State background checks raised concerns about two minority-owner couples, forcing a buy-out; the sources opened do not say organised crime.",
+    "sources": [
+     32,
+     31
+    ]
+   },
+   "corrections": "Record says \"opened ... by the Sault Ste. Marie Tribe ... later sold to Penn\": the sale was in stages (bankruptcy 2010, Rock Gaming 2013, Penn/Vici 2019). Nature of the 2000 concerns about the minority owners is not given by any page opened."
+  },
+  {
+   "id": "pechanga-resort-casino",
+   "opened": 2002,
+   "closed": null,
+   "opened_source": 35,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Pechanga Resort & Casino",
+     "from": 2002,
+     "to": null,
+     "operator": "Pechanga Band of Luiseno Indians (tribe now styles itself Pechanga Band of Indians)",
+     "note": "Opened 24 Jun 2002; expanded 2004 and 2018",
+     "sources": [
+      35
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "No allegation in the page opened or a dedicated search; only general statements on Indian gaming.",
+    "sources": [
+     36,
+     37
+    ]
+   },
+   "corrections": "None."
+  }
+ ],
+ "gaps": [
+  "Grand Casino Mille Lacs: Wikipedia page for the venue returned a rate-limit error four times; the 1991 opening year and the date the Band took over management are unconfirmed. Recalled, not fetched: April 1991 opening (from search snippets only).",
+  "michigan.gov (Michigan Gaming Control Board), justice.gov, senate.gov, nigc.gov, mlbo.dev, web.archive.org and themobmuseum.org refused through the proxy, so no Gaming Control Board order on the 2000 Greektown buy-out or on MGM Grand/MotorCity suitability was read.",
+  "Detroit venues (MGM Grand, MotorCity, Greektown) rest on Wikipedia and two Las Vegas Sun wire reports; no court record or board finding opened. Labels 'none' mean no credible tie was found, not that suitability files were read.",
+  "Tribal venues (Mille Lacs, Mystic Lake, Turning Stone, Mohegan, Pechanga) have no venue-specific primary source; the congressional statements are general. Tribal gaming commission and NIGC records not opened.",
+  "Foxwoods 1996: no later court record or outcome of the state police investigation was opened.",
+  "Canterbury Park: Minnesota Racing Commission records not opened."
+ ]
+}

@@ -1,0 +1,488 @@
+[
+  {
+    "venue": "flamingo-las-vegas",
+    "field": "names[0]",
+    "ok": true,
+    "note": "years and operators found in 8/9/32; operator details only spot-checked."
+  },
+  {
+    "venue": "flamingo-las-vegas",
+    "field": "names[1]",
+    "ok": true,
+    "note": "years and operators found in 8/9/32; operator details only spot-checked."
+  },
+  {
+    "venue": "flamingo-las-vegas",
+    "field": "names[2]",
+    "ok": true,
+    "note": "years and operators found in 8/9/32; operator details only spot-checked."
+  },
+  {
+    "venue": "flamingo-las-vegas",
+    "field": "names[3]",
+    "ok": true,
+    "note": "years and operators found in 8/9/32; operator details only spot-checked."
+  },
+  {
+    "venue": "flamingo-las-vegas",
+    "field": "names[4]",
+    "ok": true,
+    "note": "years and operators found in 8/9/32; operator details only spot-checked."
+  },
+  {
+    "venue": "flamingo-las-vegas",
+    "field": "names[5]",
+    "ok": true,
+    "note": "years and operators found in 8/9/32; operator details only spot-checked."
+  },
+  {
+    "venue": "flamingo-las-vegas",
+    "field": "names[6]",
+    "ok": true,
+    "note": "years and operators found in 8/9/32; operator details only spot-checked."
+  },
+  {
+    "venue": "flamingo-las-vegas",
+    "field": "opened",
+    "ok": true,
+    "note": "opened 1946 supported by candidate 9"
+  },
+  {
+    "venue": "flamingo-las-vegas",
+    "field": "closed",
+    "ok": true,
+    "note": "null (still open); nothing to check"
+  },
+  {
+    "venue": "flamingo-las-vegas",
+    "field": "label",
+    "ok": false,
+    "note": "Label 'documented' not supported: the only official source (candidate 0) was rejected; remaining cited 8 and 3 are secondary. Alleged at most."
+  },
+  {
+    "venue": "desert-inn",
+    "field": "names[0]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "desert-inn",
+    "field": "names[1]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "desert-inn",
+    "field": "names[2]",
+    "ok": false,
+    "note": "Dates conflict: Online Nevada (10) says Summa held it to 1987; Wikipedia text (33) says sold to Kerkorian 1986, its infobox says Hughes to 1988, and candidate 34 says MGM Grand bought it in 1988. The 1986 boundary is not settled by the cited candidates."
+  },
+  {
+    "venue": "desert-inn",
+    "field": "names[3]",
+    "ok": false,
+    "note": "Dates conflict: Online Nevada (10) says Summa held it to 1987; Wikipedia text (33) says sold to Kerkorian 1986, its infobox says Hughes to 1988, and candidate 34 says MGM Grand bought it in 1988. The 1986 boundary is not settled by the cited candidates."
+  },
+  {
+    "venue": "desert-inn",
+    "field": "names[4]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "desert-inn",
+    "field": "names[5]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "desert-inn",
+    "field": "opened",
+    "ok": true,
+    "note": "opened 1950 supported by candidate 10"
+  },
+  {
+    "venue": "desert-inn",
+    "field": "closed",
+    "ok": true,
+    "note": "closed 2000 supported by candidate 11"
+  },
+  {
+    "venue": "desert-inn",
+    "field": "label",
+    "ok": true,
+    "note": "OK only for the disclosed Cleveland-group ownership (candidate 1, official Senate testimony); candidate 2 is an allegation ('it was alleged'), and no skim or board finding is documented."
+  },
+  {
+    "venue": "sands-hotel-casino",
+    "field": "names[0]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "sands-hotel-casino",
+    "field": "names[1]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "sands-hotel-casino",
+    "field": "names[2]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "sands-hotel-casino",
+    "field": "names[3]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "sands-hotel-casino",
+    "field": "opened",
+    "ok": true,
+    "note": "opened 1952 supported by candidate 13"
+  },
+  {
+    "venue": "sands-hotel-casino",
+    "field": "closed",
+    "ok": true,
+    "note": "closed 1996 supported by candidate 14; Sands year is the demolition (14) and a Wikipedia infobox closing date of 30 Jun 1996 (34)"
+  },
+  {
+    "venue": "sands-hotel-casino",
+    "field": "label",
+    "ok": true,
+    "note": "'alleged' is right (12, 5). Source 0 is cited but is rejected and does not mention the Sands (hearings predate it); drop it."
+  },
+  {
+    "venue": "dunes",
+    "field": "names[0]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "dunes",
+    "field": "names[1]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "dunes",
+    "field": "names[2]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "dunes",
+    "field": "names[3]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "dunes",
+    "field": "names[4]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "dunes",
+    "field": "opened",
+    "ok": true,
+    "note": "opened 1955 supported by candidate 15"
+  },
+  {
+    "venue": "dunes",
+    "field": "closed",
+    "ok": true,
+    "note": "closed 1993 supported by candidate 16"
+  },
+  {
+    "venue": "dunes",
+    "field": "label",
+    "ok": true,
+    "note": "'alleged' is supported; no primary or official source needed."
+  },
+  {
+    "venue": "riviera-casino",
+    "field": "names[0]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "riviera-casino",
+    "field": "names[1]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "riviera-casino",
+    "field": "names[2]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "riviera-casino",
+    "field": "names[3]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "riviera-casino",
+    "field": "opened",
+    "ok": true,
+    "note": "opened 1955 supported by candidate 17"
+  },
+  {
+    "venue": "riviera-casino",
+    "field": "closed",
+    "ok": true,
+    "note": "closed 2015 supported by candidate 18"
+  },
+  {
+    "venue": "riviera-casino",
+    "field": "label",
+    "ok": true,
+    "note": "'alleged' is supported; no primary or official source needed."
+  },
+  {
+    "venue": "tropicana-las-vegas",
+    "field": "names[0]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "tropicana-las-vegas",
+    "field": "names[1]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "tropicana-las-vegas",
+    "field": "names[2]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "tropicana-las-vegas",
+    "field": "names[3]",
+    "ok": false,
+    "note": "End year 2007 is not on the cited candidate 19 (only 22, not cited, has 2007)."
+  },
+  {
+    "venue": "tropicana-las-vegas",
+    "field": "names[4]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "tropicana-las-vegas",
+    "field": "names[5]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "tropicana-las-vegas",
+    "field": "opened",
+    "ok": true,
+    "note": "opened 1957 supported by candidate 23"
+  },
+  {
+    "venue": "tropicana-las-vegas",
+    "field": "closed",
+    "ok": true,
+    "note": "closed 2024 supported by candidate 22"
+  },
+  {
+    "venue": "tropicana-las-vegas",
+    "field": "label",
+    "ok": false,
+    "note": "Label 'documented' has no passing primary or official source (19, 20, 21 are encyclopedia/newspaper reports of the indictment, convictions and plea; no court record opened). Alleged at most."
+  },
+  {
+    "venue": "stardust",
+    "field": "names[0]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "stardust",
+    "field": "names[1]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "stardust",
+    "field": "names[2]",
+    "ok": false,
+    "note": "The 1980 boundary does not appear in candidate 24 (the only source cited); 1974 and 1985 do."
+  },
+  {
+    "venue": "stardust",
+    "field": "names[3]",
+    "ok": false,
+    "note": "The 1980 boundary does not appear in candidate 24 (the only source cited); 1974 and 1985 do."
+  },
+  {
+    "venue": "stardust",
+    "field": "names[4]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "stardust",
+    "field": "opened",
+    "ok": true,
+    "note": "opened 1958 supported by candidate 24"
+  },
+  {
+    "venue": "stardust",
+    "field": "closed",
+    "ok": true,
+    "note": "closed 2006 supported by candidate 25"
+  },
+  {
+    "venue": "stardust",
+    "field": "label",
+    "ok": false,
+    "note": "Label 'documented' has no passing primary or official source (24 is a secondary summary; 3 is a newspaper feature). Alleged at most."
+  },
+  {
+    "venue": "caesars-palace",
+    "field": "names[0]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "caesars-palace",
+    "field": "names[1]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "caesars-palace",
+    "field": "names[2]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "caesars-palace",
+    "field": "names[3]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "caesars-palace",
+    "field": "names[4]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "caesars-palace",
+    "field": "opened",
+    "ok": true,
+    "note": "opened 1966 supported by candidate 26"
+  },
+  {
+    "venue": "caesars-palace",
+    "field": "closed",
+    "ok": true,
+    "note": "null (still open); nothing to check"
+  },
+  {
+    "venue": "caesars-palace",
+    "field": "label",
+    "ok": true,
+    "note": "'alleged' is supported; no primary or official source needed."
+  },
+  {
+    "venue": "circus-circus",
+    "field": "names[0]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "circus-circus",
+    "field": "names[1]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "circus-circus",
+    "field": "names[2]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "circus-circus",
+    "field": "names[3]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "circus-circus",
+    "field": "names[4]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "circus-circus",
+    "field": "names[5]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "circus-circus",
+    "field": "opened",
+    "ok": true,
+    "note": "opened 1968 supported by candidate 28"
+  },
+  {
+    "venue": "circus-circus",
+    "field": "closed",
+    "ok": true,
+    "note": "null (still open); nothing to check"
+  },
+  {
+    "venue": "circus-circus",
+    "field": "label",
+    "ok": true,
+    "note": "'alleged' is supported; no primary or official source needed."
+  },
+  {
+    "venue": "bellagio",
+    "field": "names[0]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "bellagio",
+    "field": "names[1]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "bellagio",
+    "field": "names[2]",
+    "ok": true,
+    "note": ""
+  },
+  {
+    "venue": "bellagio",
+    "field": "opened",
+    "ok": true,
+    "note": "opened 1998 supported by candidate 29"
+  },
+  {
+    "venue": "bellagio",
+    "field": "closed",
+    "ok": true,
+    "note": "null (still open); nothing to check"
+  },
+  {
+    "venue": "bellagio",
+    "field": "label",
+    "ok": true,
+    "note": "'none' rests on absence (30 only reports approval, 31 concerns a Mirage episode); it is not proof of no ties."
+  }
+]

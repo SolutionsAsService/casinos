@@ -11,3 +11,16 @@ Not done
 - Positions inside Atlantic City, Biloxi and Hot Springs are illustrative.
 - GitHub Pages is not enabled.
 - The second-model fact check (`python3 tools/orbuild.py verify`) still needs a day with free quota.
+
+## 2026-11-22: Ledger of the House (round 2)
+- Renamed to Ledger of the House. New pages: Threads (ownership and renaming graphic), Venues (sortable list), a page per venue, Sources, Method.
+- Research run `research/2026-11-22-ledger/` (RDADA method): 8 briefs, 8 researchers, 8 independent verifiers. 199 candidates written; 192 reached the site as cited sources after verification (rejections and unverifiable ones are kept in the notes with reasons). A first attempt ran while the network blocked every host and returned zero sources (kept in `research/stale-blocked-run/`).
+- `tools/merge_research.py` builds `data/ledger.json`: only verified sources are citable; a label can be documented only with a verified primary or official source; a label with no verified source becomes unsupported; lineage fields the verifier flagged are dropped.
+- Label results: 5 documented (Desert Inn, Cal Neva Lodge, Colonial Inn, Beverly Hills Club, Lookout House), 20 alleged, 33 none, 10 unsupported. 24 labels changed from the earlier draft, mostly downgrades.
+- Gate: `node tools/check_pages.js` prints OK for all 7 pages at 1280 and 390 px (no console errors, no horizontal scroll).
+
+Not done
+- No label is assessed for reliability by a person. Many rest on Wikipedia as context; court sites, state archives and the Mob Museum refused automated access, so "none" means nothing credible found in what could be opened.
+- The map slider still uses the earlier opening and closing years where no verified source corrected them (for example Colorado Belle, Casino Magic Biloxi, Colonial Inn): the venue page lists the correction.
+- Leads that were not opened and are not sources: a reported 2003 Illinois Gaming Board fine at Grand Victoria Elgin, a possible order involving Casino Queen, the Treasure Chest licensing case.
+- 68 venues is a small selection.

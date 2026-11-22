@@ -1,0 +1,302 @@
+[
+ {
+  "venue": "railroad-pass",
+  "field": "names[0]",
+  "ok": true,
+  "note": "[11] opened 1 Aug 1931 as Railroad Pass Club; operator not named in source."
+ },
+ {
+  "venue": "railroad-pass",
+  "field": "names[1]",
+  "ok": true,
+  "note": "[11] Verchota bought 1975, modernised; sold 1985."
+ },
+ {
+  "venue": "railroad-pass",
+  "field": "names[2]",
+  "ok": true,
+  "note": "[11] Ensign/Richardson/Belding 1985; hotel opened 8 Jan 1987 (page body, not the candidate quote); Gold Strike bought by Circus Circus 1995."
+ },
+ {
+  "venue": "railroad-pass",
+  "field": "names[3]",
+  "ok": true,
+  "note": "[11] Circus Circus/Mandalay 1995; MGM acquired Mandalay 2005."
+ },
+ {
+  "venue": "railroad-pass",
+  "field": "names[4]",
+  "ok": true,
+  "note": "[11] DeSimone 2015 (April month not independently confirmed)."
+ },
+ {
+  "venue": "railroad-pass",
+  "field": "opened",
+  "ok": true,
+  "note": "[11] quote: opened August 1, 1931."
+ },
+ {
+  "venue": "railroad-pass",
+  "field": "closed",
+  "ok": true,
+  "note": "null: page shows it still operating; fine."
+ },
+ {
+  "venue": "railroad-pass",
+  "field": "label",
+  "ok": true,
+  "note": "'none' rests only on absence in a Wikipedia page; no regulatory record opened. Acceptable only as weak 'none'; not 'documented'."
+ },
+ {
+  "venue": "el-cortez",
+  "field": "names[0]",
+  "ok": true,
+  "note": "[0],[1] Hicks and Grayson built it for $245,000; Hull took an interest ([0]). Wikipedia says Houssels originally opened it, a minor tension not reconciled."
+ },
+ {
+  "venue": "el-cortez",
+  "field": "names[1]",
+  "ok": true,
+  "note": "[0] Siegel took over by 1945, sold 1946 to fund the Flamingo; [1] names Siegel, Lansky, Greenbaum, Sedway, $600,000."
+ },
+ {
+  "venue": "el-cortez",
+  "field": "names[2]",
+  "ok": true,
+  "note": "[1] Houssels bought back 1946 for $766,000; [0] Houssels/Moore group."
+ },
+ {
+  "venue": "el-cortez",
+  "field": "names[3]",
+  "ok": true,
+  "note": "[0] Gaughan 1963, 2002 Barrick sale announced; [1] Gaughan sale to Epstein 2008. The discrepancy is already noted."
+ },
+ {
+  "venue": "el-cortez",
+  "field": "names[4]",
+  "ok": true,
+  "note": "[1] Epstein 2008; National Register 2013 found in Wikipedia infobox. Cabana Suites 2009 not checked."
+ },
+ {
+  "venue": "el-cortez",
+  "field": "opened",
+  "ok": true,
+  "note": "[1] opened 7 Nov 1941 (page text); the source index 1 matches."
+ },
+ {
+  "venue": "el-cortez",
+  "field": "closed",
+  "ok": true,
+  "note": "null: still operating."
+ },
+ {
+  "venue": "el-cortez",
+  "field": "label",
+  "ok": true,
+  "note": "'alleged' fits: [0] says mobster Siegel took over by 1945, secondary encyclopedia, no court or board record; not 'documented'."
+ },
+ {
+  "venue": "golden-nugget",
+  "field": "names[0]",
+  "ok": true,
+  "note": "[2] 1945 planning is in the page body; not re-checked line by line."
+ },
+ {
+  "venue": "golden-nugget",
+  "field": "names[1]",
+  "ok": true,
+  "note": "[2] opened 1946 (quote); Kozloff and Katelman as partners 1951 in page. The 1949 100-foot sign is not in the candidate quotes and was not checked."
+ },
+ {
+  "venue": "golden-nugget",
+  "field": "names[2]",
+  "ok": true,
+  "note": "[4] Wynn majority shareholder 1973; towers 1977, 1984, 1986 in page."
+ },
+ {
+  "venue": "golden-nugget",
+  "field": "names[3]",
+  "ok": true,
+  "note": "[4] 2000 sale of Mirage Resorts properties to MGM Grand, Inc."
+ },
+ {
+  "venue": "golden-nugget",
+  "field": "names[4]",
+  "ok": true,
+  "note": "[4] quote: 2003, $215 million, Poster Financial Group."
+ },
+ {
+  "venue": "golden-nugget",
+  "field": "names[5]",
+  "ok": true,
+  "note": "[4] Landry's; sale closed 27 Sept 2005. Page infobox says Landry's owns it; the 2005 closing is the stated fact."
+ },
+ {
+  "venue": "golden-nugget",
+  "field": "opened",
+  "ok": true,
+  "note": "[2] quote: McAfee opened the Golden Nugget in 1946."
+ },
+ {
+  "venue": "golden-nugget",
+  "field": "closed",
+  "ok": true,
+  "note": "null: still operating."
+ },
+ {
+  "venue": "golden-nugget",
+  "field": "label",
+  "ok": true,
+  "note": "'unsupported' makes no 'documented' claim. [2],[3],[5] show a vice reputation (not charged) and nothing tying the Nugget to a syndicate. Note [3]'s quote concerns a 1931 LA matter, so it speaks to reputation, not the Nugget."
+ },
+ {
+  "venue": "carson-nugget",
+  "field": "names[0]",
+  "ok": true,
+  "note": "[12] Graves opened it 1 Mar 1954."
+ },
+ {
+  "venue": "carson-nugget",
+  "field": "names[1]",
+  "ok": true,
+  "note": "[12] Pogue and Armstrong Sept 1956."
+ },
+ {
+  "venue": "carson-nugget",
+  "field": "names[2]",
+  "ok": true,
+  "note": "[12] six Nevada-licensed buyers, $525,000, Dec 1958; open-ended to null, owners to 2015 unknown."
+ },
+ {
+  "venue": "carson-nugget",
+  "field": "names[3]",
+  "ok": true,
+  "note": "[12] sold 2015 to Dean DiLullo (M1 Gaming)."
+ },
+ {
+  "venue": "carson-nugget",
+  "field": "opened",
+  "ok": true,
+  "note": "[12] quote: March 1, 1954."
+ },
+ {
+  "venue": "carson-nugget",
+  "field": "closed",
+  "ok": true,
+  "note": "null: still operating."
+ },
+ {
+  "venue": "carson-nugget",
+  "field": "label",
+  "ok": true,
+  "note": "'none' rests on Wikipedia absence only; weak, no regulatory page opened."
+ },
+ {
+  "venue": "fremont-hotel",
+  "field": "names[0]",
+  "ok": true,
+  "note": "[6] Levinson builder, Lurie investor; [10] opened 18 May 1956, Ogden tower 1963."
+ },
+ {
+  "venue": "fremont-hotel",
+  "field": "names[1]",
+  "ok": true,
+  "note": "[9] Argent gained control of Recrion 14 Aug 1974 with Teamsters loan; [10] Argent bought 1974."
+ },
+ {
+  "venue": "fremont-hotel",
+  "field": "names[2]",
+  "ok": false,
+  "note": "Partly supported: [6] says Glick then Sachs and Tobman were forced out; [7] says Fremont licence revoked Aug 1979 (held to 31 Dec 1980) and that Sachs's company is buying. No source cited gives 1979 as the start of the Sachs/Tobman ownership; the dates are inferred."
+ },
+ {
+  "venue": "fremont-hotel",
+  "field": "names[3]",
+  "ok": true,
+  "note": "[10] Sam and Bill Boyd bought 1983; [6] the state asked Boyd to run it."
+ },
+ {
+  "venue": "fremont-hotel",
+  "field": "opened",
+  "ok": true,
+  "note": "[6] first high-rise 1956; [10] opened 18 May 1956."
+ },
+ {
+  "venue": "fremont-hotel",
+  "field": "closed",
+  "ok": true,
+  "note": "null: still operating per [10]."
+ },
+ {
+  "venue": "fremont-hotel",
+  "field": "label",
+  "ok": false,
+  "note": "DOWNGRADE to 'alleged' at most. 'documented' needs a passing primary or official source. [7] is a Las Vegas Sun news report (the candidate's kind 'official' is wrong for a newspaper) and speaks of embezzlement, not organised crime; [6] (encyclopedia) and [9] (Wikipedia) carry the organised-crime claim and are secondary. The 1979 Commission action itself is solid as a reported fact."
+ },
+ {
+  "venue": "riverside-resort",
+  "field": "names[0]",
+  "ok": true,
+  "note": "[13] opened 1966; [14] 2 Aug 1966; expansions 1975, 1983, 1986, 1994 found. 1968 town naming: the obituary says 'two years later', consistent."
+ },
+ {
+  "venue": "riverside-resort",
+  "field": "opened",
+  "ok": true,
+  "note": "[14] quote: August 2, 1966; [13] 1966."
+ },
+ {
+  "venue": "riverside-resort",
+  "field": "closed",
+  "ok": true,
+  "note": "null: no closure in the sources; current ownership after Laughlin's death not checked, as noted."
+ },
+ {
+  "venue": "riverside-resort",
+  "field": "label",
+  "ok": true,
+  "note": "'none' rests on absence in an obituary and Wikipedia; weak."
+ },
+ {
+  "venue": "colorado-belle",
+  "field": "names[0]",
+  "ok": true,
+  "note": "[15] opened 1 July 1987, $80 million; Circus Circus."
+ },
+ {
+  "venue": "colorado-belle",
+  "field": "names[1]",
+  "ok": true,
+  "note": "[15] Circus Circus became Mandalay 1999, bought by MGM Mirage 2005."
+ },
+ {
+  "venue": "colorado-belle",
+  "field": "names[2]",
+  "ok": true,
+  "note": "[15] MGM Mirage sold to Marnell and Sher in June 2007 for $200 million (with Edgewater)."
+ },
+ {
+  "venue": "colorado-belle",
+  "field": "names[3]",
+  "ok": true,
+  "note": "[15] Golden Entertainment bought for $190 million; closed 17 March 2020, kept closed indefinitely. The 2019 year was not re-checked."
+ },
+ {
+  "venue": "colorado-belle",
+  "field": "opened",
+  "ok": true,
+  "note": "[15] quote: July 1, 1987."
+ },
+ {
+  "venue": "colorado-belle",
+  "field": "closed",
+  "ok": true,
+  "note": "[15] closed 17 March 2020 and remains closed 'indefinitely'; the page does not say permanently."
+ },
+ {
+  "venue": "colorado-belle",
+  "field": "label",
+  "ok": true,
+  "note": "'none' for Colorado Belle rests on absence; [16] concerns the Edgewater only and is correctly not used as evidence against the Colorado Belle."
+ }
+]

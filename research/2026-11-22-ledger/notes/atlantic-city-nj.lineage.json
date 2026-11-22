@@ -1,0 +1,507 @@
+{
+ "brief": "atlantic-city-nj",
+ "venues": [
+  {
+   "id": "bill-millers-riviera-casino",
+   "opened": 1931,
+   "closed": 1953,
+   "opened_source": 21,
+   "closed_source": 21,
+   "names": [
+    {
+     "name": "Riviera",
+     "from": 1931,
+     "to": 1942,
+     "operator": "Ben Marden",
+     "note": "Opened 1931 in Fort Lee; first building burned Thanksgiving 1936; rebuilt 1937; closed in early WWII",
+     "sources": [
+      21
+     ]
+    },
+    {
+     "name": "Bill Miller's Riviera",
+     "from": 1946,
+     "to": 1953,
+     "operator": "Bill Miller",
+     "note": "Reopened by Miller (his page says bought 1945); closed 4 Oct 1953 for the Palisades Parkway; demolished 1954",
+     "sources": [
+      21,
+      22
+     ]
+    }
+   ],
+   "label": {
+    "level": "unsupported",
+    "basis": "The pages opened give no organized-crime claim for the Riviera either way; no primary source was opened.",
+    "sources": [
+     21,
+     22
+    ]
+   },
+   "corrections": "Opening year is 1931 (Ben Marden), not 1930. The name 'Bill Miller's Riviera' applies only from 1946 (1945 per Miller's page); closed 1953 is confirmed. The 'alleged' label could not be sourced."
+  },
+  {
+   "id": "the-500-club",
+   "opened": null,
+   "closed": 1973,
+   "opened_source": 3,
+   "closed_source": 3,
+   "names": [
+    {
+     "name": "500 Cafe",
+     "from": 1935,
+     "to": 1946,
+     "operator": "Phil Barr",
+     "note": "Built by Barr in the mid-1930s as a betting parlor and nightclub; repossessed and closed for a time; D'Amato investors took over",
+     "sources": [
+      3
+     ]
+    },
+    {
+     "name": "500 Club",
+     "from": 1946,
+     "to": 1973,
+     "operator": "Paul 'Skinny' D'Amato (with Irvin Wolf, then sole owner by 1949)",
+     "note": "Renamed when D'Amato and Wolf bought out the half-interest in June 1946; burned in an electrical fire in June 1973",
+     "sources": [
+      3,
+      4
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "1950 Kefauver testimony names D'Amato as manager and Reginelli as county racket boss, and Wikipedia says D'Amato had mob ties, but no opened source shows a conviction, a court finding or Bruno control of the club.",
+    "sources": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "corrections": "Opening is mid-1930s (500 Cafe, Phil Barr), not firmly 1930. The 'documented' label is not supported by what was opened: the Kefauver hearings of 1950 contain witness statements, not a finding of Bruno family control (Bruno led after 1959), D'Amato was never convicted, and the NJ Crime Commission was not opened. Suggest 'alleged'."
+  },
+  {
+   "id": "club-harlem",
+   "opened": 1935,
+   "closed": 1986,
+   "opened_source": 23,
+   "closed_source": 23,
+   "names": [
+    {
+     "name": "Club Harlem",
+     "from": 1935,
+     "to": 1986,
+     "operator": "Leroy \"Pop\" Williams, later with Clifton Williams and Ben Alten",
+     "note": "On the site of Fitzgerald's Auditorium; closed 1986; demolished 1992",
+     "sources": [
+      23
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "Only a Wikipedia history was read, and it shows no mob ownership; a 1972 Black Mafia shootout occurred in the club but concerns violence, not ownership.",
+    "sources": [
+     23,
+     24
+    ]
+   },
+   "corrections": ""
+  },
+  {
+   "id": "resorts-casino-hotel",
+   "opened": 1978,
+   "closed": null,
+   "opened_source": 6,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Chalfonte-Haddon Hall",
+     "from": 1946,
+     "to": 1977,
+     "operator": "Leeds & Lippincott",
+     "note": "Hotel complex returned to owners 1946; Resorts bought Leeds & Lippincott 1976",
+     "sources": [
+      11
+     ]
+    },
+    {
+     "name": "The Palace Hotel",
+     "from": 1977,
+     "to": 1977,
+     "operator": "Resorts International",
+     "note": "Brief name from May 1977",
+     "sources": [
+      11
+     ]
+    },
+    {
+     "name": "Resorts International Hotel Casino",
+     "from": 1977,
+     "to": 1988,
+     "operator": "Resorts International (Mary Carter Paint origin); James Crosby; Trump held control 1987-88",
+     "note": "Opened 26 May 1978; Merv Griffin took the company Nov 1988",
+     "sources": [
+      6,
+      11,
+      12
+     ]
+    },
+    {
+     "name": "Resorts Casino Hotel",
+     "from": 1988,
+     "to": null,
+     "operator": "Griffin Gaming; Sun International; Colony Capital; lenders 2009; later owners",
+     "note": "Sold in turn; lenders took the property in 2009",
+     "sources": [
+      11
+     ]
+    }
+   ],
+   "label": {
+    "level": "unsupported",
+    "basis": "Only a CIA-front reputation for Mary Carter is on the pages opened; no opened source states a Lansky link.",
+    "sources": [
+     12,
+     6
+    ]
+   },
+   "corrections": "The Lansky link in the current summary is not stated by any source opened (the Resorts International page says Mary Carter was widely considered a CIA front)."
+  },
+  {
+   "id": "ballys-atlantic-city",
+   "opened": 1979,
+   "closed": null,
+   "opened_source": 10,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Marlborough-Blenheim and Dennis hotels",
+     "from": 1900,
+     "to": 1978,
+     "operator": "White family; Buzby family",
+     "note": "Marlborough demolished Nov 1978; Dennis retained",
+     "sources": [
+      10
+     ]
+    },
+    {
+     "name": "Bally's Park Place",
+     "from": 1979,
+     "to": 2000,
+     "operator": "Bally Manufacturing",
+     "note": "Opened 30 Dec 1979",
+     "sources": [
+      10
+     ]
+    },
+    {
+     "name": "Bally's Atlantic City",
+     "from": 2000,
+     "to": null,
+     "operator": "Bally Manufacturing successors; Harrah's (2005); Vici (2017); Twin River/Bally's Corp. (2020)",
+     "note": "Claridge Tower added 2003",
+     "sources": [
+      10
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "The NJCCC history says Bally's executives were found unsuitable and removed, and Wikipedia says Bally's head resigned over alleged organized crime links, which he denied.",
+    "sources": [
+     5,
+     9
+    ]
+   },
+   "corrections": "The 'none' label is contradicted: the NJCCC history records executives found unsuitable at Bally's licensing, and Wikipedia reports the head resigned over alleged mob links. The grounds were not read in a primary decision."
+  },
+  {
+   "id": "caesars-atlantic-city",
+   "opened": 1979,
+   "closed": null,
+   "opened_source": 8,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Howard Johnson's Regency Motor Hotel",
+     "from": 1966,
+     "to": 1977,
+     "operator": "Howard Johnson's",
+     "note": "Bought by Caesars 1977",
+     "sources": [
+      8
+     ]
+    },
+    {
+     "name": "Boardwalk Regency",
+     "from": 1979,
+     "to": 1983,
+     "operator": "Caesars World (Perlmans removed 1980)",
+     "note": "Opened 26 Jun 1979 on a temporary licence",
+     "sources": [
+      8,
+      7
+     ]
+    },
+    {
+     "name": "Caesars Boardwalk Regency",
+     "from": 1983,
+     "to": 1987,
+     "operator": "Caesars World",
+     "note": "Caesars name added 1983",
+     "sources": [
+      8
+     ]
+    },
+    {
+     "name": "Caesars Atlantic City",
+     "from": 1987,
+     "to": null,
+     "operator": "Caesars World, ITT, Starwood, Park Place/Harrah's, Caesars Entertainment; Vici owns real estate (2017)",
+     "note": "Renamed 1987",
+     "sources": [
+      8,
+      7
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "The NJCCC found executives unsuitable and denied the Perlman brothers permanent licences over dealings with Malnik, identified as a Lansky associate.",
+    "sources": [
+     5,
+     7
+    ]
+   },
+   "corrections": "The 'Chicago Outfit' wording is not supported by any source opened: the dealings named are with Alvin Malnik (Lansky associate, Miami) and a Teamsters pension loan to Malnik/Cohen sons. Underlying court opinions were not opened."
+  },
+  {
+   "id": "harrahs-atlantic-city",
+   "opened": 1980,
+   "closed": null,
+   "opened_source": 13,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Holiday Inn Marina Casino (planned)",
+     "from": 1980,
+     "to": 1980,
+     "operator": "LM Walters Co and Holiday Inns",
+     "note": "Planned name",
+     "sources": [
+      13
+     ]
+    },
+    {
+     "name": "Harrah's Marina Hotel Casino",
+     "from": 1980,
+     "to": null,
+     "operator": "Holiday Inns; later Harrah's Entertainment/Caesars; Vici real estate (2020)",
+     "note": "Opened 22 Nov 1980",
+     "sources": [
+      13
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The page opened gives no organized-crime link, and I found no sceptical or supporting source.",
+    "sources": [
+     13
+    ]
+   },
+   "corrections": ""
+  },
+  {
+   "id": "tropicana-atlantic-city",
+   "opened": 1981,
+   "closed": null,
+   "opened_source": 14,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Ambassador Hotel",
+     "from": 1919,
+     "to": 1970,
+     "operator": "hotel owners",
+     "note": "Old hotel on the site; reported site of the 1929 gangster conference",
+     "sources": [
+      15
+     ]
+    },
+    {
+     "name": "The Phoenix (planned)",
+     "from": 1978,
+     "to": 1980,
+     "operator": "Ramada",
+     "note": "Plan replaced by new build",
+     "sources": [
+      14
+     ]
+    },
+    {
+     "name": "Tropicana Atlantic City",
+     "from": 1981,
+     "to": 1988,
+     "operator": "Ramada",
+     "note": "Opened 23 Nov 1981",
+     "sources": [
+      14
+     ]
+    },
+    {
+     "name": "TropWorld",
+     "from": 1988,
+     "to": 1995,
+     "operator": "Ramada then Aztar (1989)",
+     "note": "Expansion 1988",
+     "sources": [
+      14
+     ]
+    },
+    {
+     "name": "Tropicana Casino & Resort",
+     "from": 1996,
+     "to": null,
+     "operator": "Aztar; Icahn group (2010); Caesars/GLP (2018)",
+     "note": "Renamed on closing Tivoli Pier",
+     "sources": [
+      14
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "No opened source ties the casino to organized crime; the 1929 conference concerns the earlier hotel.",
+    "sources": [
+     14,
+     15
+    ]
+   },
+   "corrections": ""
+  },
+  {
+   "id": "trump-plaza",
+   "opened": 1984,
+   "closed": 2014,
+   "opened_source": 16,
+   "closed_source": 16,
+   "names": [
+    {
+     "name": "Harrah's at Trump Plaza",
+     "from": 1984,
+     "to": 1984,
+     "operator": "Trump Organization with Harrah's (operator)",
+     "note": "Opened 14 May 1984",
+     "sources": [
+      16
+     ]
+    },
+    {
+     "name": "Trump Plaza",
+     "from": 1984,
+     "to": 2014,
+     "operator": "Trump (bought out Harrah's 1986); Trump Hotels & Casino Resorts (1995)",
+     "note": "Closed 16 Sep 2014; Icahn took the land",
+     "sources": [
+      16
+     ]
+    }
+   ],
+   "label": {
+    "level": "unsupported",
+    "basis": "No opened source links Trump Plaza to organized-crime contractors; the Scarfo page only says his cement firm worked on Atlantic City casinos in general.",
+    "sources": [
+     16,
+     19
+    ]
+   },
+   "corrections": "The concrete-contractor claim is not supported by any source opened, and the Trump Plaza page does not mention it."
+  },
+  {
+   "id": "trump-taj-mahal",
+   "opened": 1990,
+   "closed": 2016,
+   "opened_source": 18,
+   "closed_source": 18,
+   "names": [
+    {
+     "name": "Taj Mahal (project)",
+     "from": 1983,
+     "to": 1988,
+     "operator": "Resorts International (James Crosby)",
+     "note": "Construction began 1983; Trump took over 1988",
+     "sources": [
+      18
+     ]
+    },
+    {
+     "name": "Trump Taj Mahal",
+     "from": 1990,
+     "to": 2016,
+     "operator": "Donald Trump; Trump Hotels & Casino Resorts (1996); Icahn (2016)",
+     "note": "Opened 2 Apr 1990; closed 10 Oct 2016",
+     "sources": [
+      18
+     ]
+    },
+    {
+     "name": "Hard Rock Hotel & Casino Atlantic City",
+     "from": 2018,
+     "to": null,
+     "operator": "Hard Rock International (Seminole Tribe) with Morris and Jingoli families",
+     "note": "Reopened 27 Jun 2018",
+     "sources": [
+      18
+     ]
+    }
+   ],
+   "label": {
+    "level": "alleged",
+    "basis": "Wikipedia reports a 1992 Senate subcommittee report naming an executive as a triad associate and Russian mobsters among patrons; the report itself was not opened.",
+    "sources": [
+     17
+    ]
+   },
+   "corrections": "The concrete-contractor claim is not supported by any source opened. The reported ties are an employee named in a 1992 Senate report and Russian mob patrons. Ownership by the mob is not claimed."
+  },
+  {
+   "id": "borgata-hotel-casino-spa",
+   "opened": 2003,
+   "closed": null,
+   "opened_source": 20,
+   "closed_source": null,
+   "names": [
+    {
+     "name": "Borgata",
+     "from": 2003,
+     "to": null,
+     "operator": "MGM Mirage and Boyd Gaming; MGM Resorts (2016); Vici (2022 via MGM Growth)",
+     "note": "Opened 2 Jul 2003; MGM sold its stake in 2010 settlement",
+     "sources": [
+      20
+     ]
+    }
+   ],
+   "label": {
+    "level": "none",
+    "basis": "The page opened shows no organized-crime tie at the Borgata itself.",
+    "sources": [
+     20
+    ]
+   },
+   "corrections": ""
+  }
+ ],
+ "gaps": [
+  "Resorts: Lansky-link claims were not fetched (Miami Beach police study, UPI and company-histories hosts blocked).",
+  "500 Club: NJ State Commission of Investigation reports and the Kefauver final report were not opened (hosts blocked); Kefauver Part 18 and Part 11 searched via archive.org text.",
+  "Caesars, Bally's: NJCCC decisions and In re Boardwalk Regency (90 N.J. 361) not opened: justia is behind a Cloudflare challenge, leagle, courtlistener and dspace.njstatelib.org blocked.",
+  "Trump Plaza and Taj: DGE 1987 report and 1992 Senate report not opened (archive.org PDF downloads failed); FinCEN penalties not opened.",
+  "Riviera (Fort Lee): no primary or contemporary source found; no mob claim verified. Harlem, Harrah's, Tropicana and Borgata checked on Wikipedia only.",
+  "Archive.org Kefauver parts 6-8 searched for Atlantic City with nothing relevant."
+ ]
+}
