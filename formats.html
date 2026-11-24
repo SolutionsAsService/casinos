@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Formats · Ledger of the House</title>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/site.css"></head>
+<body><div class="wrap page"><header><div><h1>Formats</h1><p class="sub">The same verified data, shown seventeen ways, each rebuilt in a different JavaScript framework. One at a time.</p></div></header>
+<div id="f" style="max-width:72ch;line-height:1.6;font-size:16px"></div>
+<script src="assets/common.js"></script>
+<script>
+var F=[["Map and timeline","Svelte 5","formats/01-map-svelte/"],["Threads (lineage)","SolidJS"],["Venue table","Preact"],["Source browser","Lit"],["Corrections log","Alpine.js"],["Name changes by year","Vue 3"],["Label chart","Mithril"],["State by state","React"],["Cards","Astro"],["Compare two venues","Inferno"],["Quote wall","Hyperapp"],["Print book","Eleventy"],["Search","Qwik"],["Heat by decade","Angular"],["Operator index","Riot.js"],["Directory (unassessed)","Stencil"],["Story mode","Ember"]];
+var m=document.getElementById("f"),ol=document.createElement("ol");
+F.forEach(function(r){var li=document.createElement("li");if(r[2]){var a=document.createElement("a");a.href=r[2];a.textContent=r[0];li.appendChild(a);li.appendChild(document.createTextNode(" — "+r[1]+" (built)"))}else li.textContent=r[0]+" — "+r[1]+" (planned)";ol.appendChild(li)});
+m.appendChild(ol);
+var p=document.createElement("p");p.textContent="Every edition imports the same data kernel (src/shared), so no edition can drift from the others. The plain HTML pages stay the baseline.";m.appendChild(p);
+</script></div></body></html>

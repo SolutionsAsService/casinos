@@ -35,3 +35,6 @@ A fresh critic (no access to the builder's view) graded the site C+ (design B-, 
 - Accessibility: skip link, main landmark, nav label, visible focus, Play pressed state, no per-tick live announcements, stance marker beside each citation.
 - A visible provisional notice on the map page.
 Not fixed: roving tabindex on the map and Threads, keyboard-sortable table headers, pattern or shape encoding in addition to colour, per-claim quotes inside the panel, a download of the data, wider coverage (Indiana and Missouri riverboats, most tribal venues).
+
+## Round: formats (2026-11-24)
+Added the shared data kernel (`src/shared`, 6 parity tests), an unassessed Wikidata directory layer (313 venues), shape-plus-colour symbols, a Formats hub (`formats.html`), `docs/FORMATS.md`, and format 1 (map and timeline, Svelte 5, `formats/01-map-svelte/`). DADA and an independent panel were not run this round; Shadw deployment not verified.

@@ -1,6 +1,6 @@
 (function(){
 "use strict";
-var NAV=[["index.html","Map"],["lineage.html","Threads"],["venues.html","Venues"],["sources.html","Sources"],["method.html","Method"]];
+var NAV=[["index.html","Map"],["lineage.html","Threads"],["venues.html","Venues"],["sources.html","Sources"],["method.html","Method"],["formats.html","Formats"]];
 var cur=location.pathname.split("/").pop()||"index.html";
 var base=document.currentScript.src.replace(/assets\/common\.js.*$/,"");
 window.LOTH={base:base,title:"Ledger of the House"};

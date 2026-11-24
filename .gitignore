@@ -1,2 +1,4 @@
 site-shot.png
 __pycache__/
+node_modules/
+*.log
